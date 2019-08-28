@@ -1,0 +1,47 @@
+$orange: #f29205;
+$black: #131516;
+
+.hero-search {
+  background-image: url("/assets/images/hero.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  text-align: center;
+}
+
+.ais-hits em {
+  color: $orange;
+}
+
+#hits a,
+#hits a:hover {
+  color: $black;
+  text-decoration: none;
+}
+
+.hit-content h3 {
+  margin-bottom: 0;
+}
+
+#pagination {
+  margin-top: 4rem;
+  text-align: center;
+}
+.ais-pagination {
+  display: inline-block;
+}
+
+.ais-pagination--item__active {
+  background: $orange !important;
+}
+
+.result-container {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+@media screen and (min-width: 990px) {
+  .result-container {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

@@ -1,0 +1,118 @@
+---
+layout: base
+---
+
+{% include page_header.html lang_selector="article" %}
+{% assign collection = site.collections | where: "label", page.collection | first %}
+
+<section class="article-content max-w-lg px-4 mx-auto my-8">
+    <a class="font-medium" href="{{ site.url }}">{{ site.language[page.lang].page-top-overview-text }}</a>
+    <h1>{{ page.title }}</h1>
+    <p class="text-grey mb-4">
+        {% for category in page.category %}
+            {{ category | upcase }}{% if forloop.last == false %}, {% endif %}
+        {% endfor %}
+    </p>
+
+    <p>{{ page.description }}</p>
+
+    <div>
+        <img src="{{ page.image }}" alt="image of this board">
+    </div>
+
+    <button class="py-3 px-4 menu-cta-button text-xl tracking-base">
+        <a class="no-underline" href="{{ site.language[page.lang].top-menu-cta-button-url }}">{{ site.language[page.lang].top-menu-cta-button-text }}</a>
+    </button>
+
+</section>
+
+<div class="article-overview">
+    <div class="py-8 max-w-lg px-4 mx-auto my-6">
+        <h2 style="color: rgba(0, 0, 0, .84);">Overview</h2>
+
+        <div class="flex flex-wrap my-4">
+            <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
+                <div class="px-4 py-4 bg-white h-full">
+                    <p class="text-grey-darker uppercase font-bold pb-4">Description</p>
+                    <ul class="m-0 pl-0 ml-4">
+                    {% for item in page.overview_description %}
+                        <li><span>{{ item }}</span></li>
+                    {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
+                <div class="px-4 py-4 bg-white h-full">
+                    <p class="text-grey-darker uppercase font-bold pb-4">Benefits</p>
+                    <ul class="m-0 pl-0 ml-4">
+                        {% for item in page.overview_benefits %}
+                        <li><span>{{ item }}</span></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 lg:pr-0 xl:pr-0 pr-2">
+                <div class="px-4 py-4 bg-white h-full">
+                    <p class="text-grey-darker uppercase font-bold  pb-4">Data Sources</p>
+                    <ul class="m-0 pl-0 ml-4">
+                        {% for item in page.overview_data_sources %}
+                        <li><span>{{ item }}</span></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="article-content max-w-lg px-4 mx-auto my-8">
+    {{ content }}
+</section>
+
+<div class="article-overview">
+    <div class="py-8 max-w-lg px-4 mx-auto mt-6">
+        <h2 style="color: rgba(0, 0, 0, .84);">Related Templates</h2>
+
+        <div class="flex flex-wrap my-4">
+            <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
+                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400">
+                    <a class="no-underline" href="#" data-lity>
+                        <img class="w-full lightbox-ignore" src="{{ page.image }}" alt="{{ page.title }}">
+                    </a>
+                    <a class="no-underline text-black" href="#" data-lity>
+                        <div class="text-black mb-2">{{ page.title | escape }}1</div>
+                    </a>
+                </div>
+            </div>
+            <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
+                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400">
+                    <a class="no-underline" href="#" data-lity>
+                        <img class="w-full lightbox-ignore" src="{{ page.image }}" alt="{{ page.title }}">
+                    </a>
+                    <a class="no-underline text-black" href="#" data-lity>
+                        <div class="text-black mb-2">{{ page.title | escape }}2</div>
+                    </a>
+                </div>
+            </div>
+            <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 lg:pr-0 xl:pr-0 pr-2">
+                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400">
+                    <a class="no-underline" href="#" data-lity>
+                        <img class="w-full lightbox-ignore" src="{{ page.image }}" alt="{{ page.title }}">
+                    </a>
+                    <a class="no-underline text-black" href="#" data-lity>
+                        <div class="text-black mb-2">{{ page.title | escape }}3</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% capture cta-setting-dark-background %}false{% endcapture %}
+{% capture cta-title %}{{ site.language[page.lang].cta-title }}{% endcapture %}
+{% capture cta-subtitle %}{{ site.language[page.lang].cta-subtitle }}{% endcapture %}
+{% capture cta-content %}{{ site.language[page.lang].cta-content }}{% endcapture %}
+{% capture cta-image %}{{ site.language[page.lang].cta-image }}{% endcapture %}
+{% capture cta-link %}{{ site.language[page.lang].cta-link }}{% endcapture %}
+{% capture cta-link-text %}{{ site.language[page.lang].cta-link-text }}{% endcapture %}
+{% include cta.html %}

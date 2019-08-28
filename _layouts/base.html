@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}" class="h-full no-js">
+<head>{% include head.html %}</head>
+
+
+<body class="font-sans flex flex-col min-h-full">
+    {% include gtm_body.html %}
+
+    <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+    <div class="flex-auto">
+        {{ content }}
+    </div>
+    {% include footer.html %}
+    <script src="{{ '/assets/app.js' | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
+    <script src="{{ '/assets/search/jquery-1.11.2.min.js' | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
+</body>
+
+</html>

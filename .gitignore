@@ -1,0 +1,11 @@
+_site
+.sass-cache
+.jekyll-metadata
+/node_modules
+.idea
+.vscode
+npm-debug.log
+.DS_Store
+_mdwriter.cson
+package-lock.json
+.idea/*

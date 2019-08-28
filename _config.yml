@@ -1,0 +1,146 @@
+title: "Peakboard Epic Boards"
+email:  support@peakboard.com
+description: "Epic Boards for Peakboard."
+url: "http://peakboard-epic-boards.github.io"
+twitter_username: pkbrd
+github_username:  Peakboard
+languages: ["en", "de"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: de
+languageNames:
+  de: Deutsch
+  en: English
+# Analytics
+gtm: ""
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-multiple-languages-plugin
+
+collections_dir: content
+collections:
+  templates:
+    output: true
+
+  scripting_examples:
+    output: true
+    position: 1
+
+# Portions of text found throughout common components (like the footer) can be configured here for each language
+language:
+  en:
+    homepage-top-section-title: "Peakboard Templates"
+    homepage-top-section-content: "Peakboard is highly customizable, here are some examples how you can use it. Get inspired and get started."
+    top-menu-cta-button-text: "Start for free"
+    top-menu-cta-button-url: ""
+    page-top-overview-text: "Template Overview"
+    footer-support: "Support"
+    footer-support-tel: "Tel:"
+    footer-support-email: "E-Mail:"
+    footer-contact: "Contact"
+    footer-contact-email: "E-Mail:"
+    footer-contact-website: "Website:"
+    footer-copyright: "All rights are reserved."
+    footer-github: "Github"
+    footer-github-text: "View this page in Github"
+    footer-github-url: ""
+    search-title: "Peakboard Search"
+    search-results: "Results"
+    search-no-results: "We didn't find any results for the search: "
+    search-bar-placeholder: "Search..."
+    cookie-alert-message: "This website uses cookies to ensure you get the best experience on our website."
+    cookie-alert-button: "OK"
+    cookie-alert-link-text: "Read more"
+    cookie-alert-link: "https://peakboard.com/en/privacy-policy/"
+    cta-title: "Try the Peakboard designer"
+    cta-subtitle: "Create your custom dashboard now"
+    cta-content: "With the Peakboard-Designer, you can quickly create a wide range of dashboards to display your relevant information at a glance and in real time. Whether with live tiles, voice commands or classic tables. For production, logistics, IT or distribution."
+    cta-link: "https://peakboard.com/en/peakboard-designer/?utm_source=help_center&utm_medium=get_started_button"
+    cta-link-text: "Download Peakboard designer for free"
+    cta-image: "/assets/images/templates/DeutscheBahnAbfahrt.png"
+  de:
+    homepage-top-section-title: "Peakboard Templates"
+    homepage-top-section-content: "Peakboard is highly customizable, here are some examples how you can use it. Get inspired and get started."
+    top-menu-cta-button-text: "Kostenlos starten"
+    top-menu-cta-button-url: ""
+    page-top-overview-text: "Template Overview"
+    footer-support: "Support"
+    footer-support-tel: "Tel:"
+    footer-support-email: "E-Mail:"
+    footer-contact: "Contact"
+    footer-contact-email: "E-Mail:"
+    footer-contact-website: "Website:"
+    footer-copyright: "All rights are reserved."
+    footer-github: "Github"
+    footer-github-text: "View this page in Github"
+    footer-github-url: ""
+    search-title: "Peakboard Suche"
+    search-results: "Ergebnisse"
+    search-no-results: "Wir haben leider nichts gefunden: "
+    search-bar-placeholder: "Suchen..."
+    cookie-alert-message: "Um sicherzustellen, dass Sie das beste Nutzungserlebnis auf unserer Webseite erfahren, werden Cookies verwendet."
+    cookie-alert-button: "OK"
+    cookie-alert-link-text: "Mehr erfahren"
+    cookie-alert-link: "https://peakboard.com/datenschutzerklaerung/"
+    cta-title: "Testen Sie den Peakboard-Designer"
+    cta-subtitle: "Erstellen Sie Ihre individuelle Visualisierung"
+    cta-content: "Mit dem Peakboard-Designer erstellen Sie in kürzester Zeit unterschiedlichste Dashboards, um alle für Sie relevanten Informationen auf einen Blick und in Echtzeit abzubilden. Ob Live Tiles, Voice Commands oder klassische Tabellen. Für Produktion, Logistik, IT oder Vertrieb."
+    cta-link: "https://peakboard.com/peakboard-designer/?utm_source=help_center&utm_medium=get_started_button"
+    cta-link-text: "Peakboard-Designer kostenlos herunterladen"
+    cta-image: "/assets/images/templates/DeutscheBahnAbfahrt.png"
+  cn:
+    homepage-top-section-title: "获取帮助"
+    homepage-top-section-content: "针对您的需求，帮助您快速、高效地充分利用Peakboard，详情请参考相关文章。"
+    top-menu-cta-button-text: "Start for free"
+    top-menu-cta-button-url: ""
+    page-top-overview-text: "Template Overview"
+    footer-support: "技术支持"
+    footer-support-tel: "电话："
+    footer-support-email: "邮箱："
+    footer-contact: "联系方式"
+    footer-contact-email: "电话："
+    footer-contact-website: "网站："
+    footer-copyright: "版权所有，保留所有权利"
+    footer-github: "Github"
+    footer-github-text: "View this page in Github"
+    footer-github-url: ""
+    search-title: "Peakboard搜索"
+    search-results: "搜索结果"
+    search-no-results: "未找到相关搜索结果： "
+    search-bar-placeholder: "搜索..."
+    cookie-alert-message: "This website uses cookies to ensure you get the best experience on our website."
+    cookie-alert-button: "OK"
+    cookie-alert-link-text: "Read more"
+    cookie-alert-link: "https://peakboard.com/en/privacy-policy/"
+    cta-title: "立即试用Peakboard-Designer!"
+    cta-subtitle: "下载Peakboard-Designer，在最短的时间内为每个部门定制仪表盘。"
+    cta-content: "使用Peakboard-Designer，无论是采用实时图块、语音命令还是经典图表，您都可以快速创建多种仪表潘，实时显示相关信息。方便快捷，一目了然。它可用于生产、仓储物流、IT或是分销部门。"
+    cta-link: "https://peakboard.com/zh-hans/peakboard-designer/?utm_source=help_center&utm_medium=get_started_button"
+    cta-link-text: "免费下载Peakboard Designer"
+    cta-image: "/assets/images/templates/DeutscheBahnAbfahrt.png"
+algolia:
+  application_id: 'XEVVIEZWKI'
+  index_name: PEAKBOARD_EPIC_BOARDS
+  settings:
+    attributesForFaceting: ['title','searchable(collection)', 'searchable(search-ignore)', 'searchable(lang)']
+    searchableAttributes: ['title','unordered(content)','collection','description','search-ignore', lang]
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - resources
+  - docs
+  - .idea
+  - .idea/*
+  - vendor

@@ -1,0 +1,98 @@
+@tailwind preflight;
+@tailwind utilities;
+
+svg {
+  fill: currentColor;
+}
+
+.page-header {
+  width: 100%;
+}
+
+.page-header-bg {
+  background: #212224;
+}
+
+html.stuck {
+  overflow: hidden;
+
+  .page-header {
+    z-index: 99;
+  }
+
+  body {
+    overflow: hidden;
+    padding-top: 6rem;
+  }
+
+  .page-header {
+    position: fixed;
+    top: 0;
+  }
+
+  .accordian-icon {
+    z-index: -1;
+  }
+
+  .video-container,
+  iframe {
+    z-index: -1;
+  }
+
+  .image-wrapper {
+    z-index: -1;
+  }
+}
+
+body.stuck {
+  overflow-x: hidden;
+  position: relative;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+}
+::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border: 0px none #ffffff;
+  border-radius: 0px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+::-webkit-scrollbar-thumb:active {
+  background: #787878;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border: 0px none #ffffff;
+  border-radius: 0px;
+}
+::-webkit-scrollbar-track:hover {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-track:active {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+  display: none;
+  height: 0px;
+  width: 0px;
+}
+
+@import "top_menu";
+@import "homepage";
+@import "article_content";
+@import "syntax_hightlighting";
+@import "lightbox";
+@import "navbar";
+@import "search";
+@import "typography";
