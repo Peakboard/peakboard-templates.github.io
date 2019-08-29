@@ -59,7 +59,7 @@ language:
     cta-content: "With the Peakboard-Designer, you can quickly create a wide range of dashboards to display your relevant information at a glance and in real time. Whether with live tiles, voice commands or classic tables. For production, logistics, IT or distribution."
     cta-link: "https://peakboard.com/en/peakboard-designer/?utm_source=help_center&utm_medium=get_started_button"
     cta-link-text: "Download Peakboard designer for free"
-    cta-image: "/assets/images/templates/DeutscheBahnAbfahrt.png"
+    cta-image: "/assets/images/templates/Welcome_Screen_Online-EN.png"
   de:
     homepage-top-section-title: "Peakboard Templates"
     homepage-top-section-content: "Peakboard is highly customizable, here are some examples how you can use it. Get inspired and get started."
@@ -89,7 +89,7 @@ language:
     cta-content: "Mit dem Peakboard-Designer erstellen Sie in kürzester Zeit unterschiedlichste Dashboards, um alle für Sie relevanten Informationen auf einen Blick und in Echtzeit abzubilden. Ob Live Tiles, Voice Commands oder klassische Tabellen. Für Produktion, Logistik, IT oder Vertrieb."
     cta-link: "https://peakboard.com/peakboard-designer/?utm_source=help_center&utm_medium=get_started_button"
     cta-link-text: "Peakboard-Designer kostenlos herunterladen"
-    cta-image: "/assets/images/templates/DeutscheBahnAbfahrt.png"
+    cta-image: "/assets/images/templates/Welcome_Screen_Online-EN.png"
   cn:
     homepage-top-section-title: "获取帮助"
     homepage-top-section-content: "针对您的需求，帮助您快速、高效地充分利用Peakboard，详情请参考相关文章。"
@@ -119,7 +119,7 @@ language:
     cta-content: "使用Peakboard-Designer，无论是采用实时图块、语音命令还是经典图表，您都可以快速创建多种仪表潘，实时显示相关信息。方便快捷，一目了然。它可用于生产、仓储物流、IT或是分销部门。"
     cta-link: "https://peakboard.com/zh-hans/peakboard-designer/?utm_source=help_center&utm_medium=get_started_button"
     cta-link-text: "免费下载Peakboard Designer"
-    cta-image: "/assets/images/templates/DeutscheBahnAbfahrt.png"
+    cta-image: "/assets/images/templates/Welcome_Screen_Online-EN.png"
 algolia:
   application_id: 'XEVVIEZWKI'
   index_name: PEAKBOARD_EPIC_BOARDS
