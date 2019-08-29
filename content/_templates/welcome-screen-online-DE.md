@@ -34,9 +34,3 @@ Peakboard bietet die Möglichkeit sehr flexibel unterschiedliche Anwendungen abz
 ## Image Credits
 
 These are a link to the images we used in the background for our boards. https://unsplash.com/ is a pretty interesting project which provides a lot of open source, free-to-use high quality images.
-
-https://unsplash.com/photos/ib7jwp7m0iA
-https://unsplash.com/photos/io7dX_1EFCg
-https://unsplash.com/photos/wSTCaQpiLtc
-https://unsplash.com/photos/OKjSh2rucAQ
-https://unsplash.com/photos/hsPFuudRg5I
