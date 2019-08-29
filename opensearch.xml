@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns:moz="http://www.mozilla.org/2006/browser/search/"
                        xmlns="http://a9.com/-/spec/opensearch/1.1/">
-    <ShortName>Peakboard Epic Boards</ShortName>
-    <Description>Search the Peakboard Epic Boards</Description>
+    <ShortName>Peakboard Templates</ShortName>
+    <Description>Search the Peakboard Templates</Description>
     <InputEncoding>UTF-8</InputEncoding>
-    <Url method="get" type="text/html" template="http://epicboards.peakboard.com/en/search.html?query={searchTerms}"/>
-    <SearchForm>http://epicboards.peakboard.com/</SearchForm>
+    <Url method="get" type="text/html" template="https://templates.peakboard.com//en/search.html?query={searchTerms}"/>
+    <SearchForm>https://templates.peakboard.com/</SearchForm>
 </OpenSearchDescription>

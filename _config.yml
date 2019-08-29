@@ -1,7 +1,7 @@
 title: "Peakboard Epic Boards"
 email:  support@peakboard.com
 description: "Epic Boards for Peakboard."
-url: "http://peakboard-epic-boards.github.io"
+url: "https://templates.peakboard.com/"
 twitter_username: pkbrd
 github_username:  Peakboard
 languages: ["en", "de"]
@@ -24,7 +24,6 @@ collections_dir: content
 collections:
   templates:
     output: true
-
   scripting_examples:
     output: true
     position: 1
