@@ -16,13 +16,9 @@ category:
 image: Production_Line_Metrics_EN.png
 download: Production_Line_Metrics_EN.pbmx
 overview_description:
-  - Left&#58; something on the left
-  - Mid-top&#58; something on the mid-top
+  - 
 overview_benefits:
-  - Instantly see problems
-  - So simple
+  - 
 overview_data_sources:
-  - Excel
-  - SQL
-  - SPS
+  - 
 ---

@@ -16,13 +16,9 @@ category:
 image: Production_Line_Metrics_DE.png
 download: Production_Line_Metrics_DE.pbmx
 overview_description:
-  - Links&#58; links was zu sehen
-  - Rechts&#58; auch was zu sehen
+  - 
 overview_benefits:
-  - Probleme sofort erkennen
-  - Super einfach
+  - 
 overview_data_sources:
-  - Excel
-  - SQL
-  - SPS
+  - 
 ---
