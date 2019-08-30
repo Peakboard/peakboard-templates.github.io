@@ -4,10 +4,9 @@ title: Einzelne Produktionsübersicht
 description: 
   - This is eine Übersicht über eine einzelne Produktionslinie ... This is eine Übersicht über eine einzelne Produktionslinie ... This is eine Übersicht über eine einzelne Produktionslinie.
 lang: de
-permalink: /de/production_line_metrics
-weight: 1000
+weight: 200
 draft: false
-ref: wso-1000
+ref: tem-200
 category:
   - Recommended
   - Production
@@ -16,9 +15,9 @@ category:
 image: Production_Line_Metrics_DE.png
 download: Production_Line_Metrics_DE.pbmx
 overview_description:
-  - 
+  - a
 overview_benefits:
-  - 
+  - b
 overview_data_sources:
-  - 
+  - c
 ---

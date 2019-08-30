@@ -4,10 +4,9 @@ title: Welcome Screen Online
 description: 
   - With this template you can easily get started with your welcome screen. Replace the Logo, add your background images and update the weather widget to make it yours. You can maintain the appointments via the web interface on port :40404.
 lang: en
-permalink: /en/welcome_screen_online
 weight: 100
 draft: false
-ref: wso-100
+ref: tem-100
 category:
   - Use Case
   - Welcome

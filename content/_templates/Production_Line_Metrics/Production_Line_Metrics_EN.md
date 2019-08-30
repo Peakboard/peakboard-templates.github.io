@@ -4,10 +4,9 @@ title: Production Line Metrics
 description: 
   - This is an overview of some key metrics about a single production lane. Including a OEE value. Replace the variables and the timer script to make it your own.
 lang: en
-permalink: /en/production_line_metrics
-weight: 1000
+weight: 200
 draft: false
-ref: wso-1000
+ref: tem-200
 category:
   - Recommended
   - Production
@@ -16,9 +15,9 @@ category:
 image: Production_Line_Metrics_EN.png
 download: Production_Line_Metrics_EN.pbmx
 overview_description:
-  - 
+  - a
 overview_benefits:
-  - 
+  - b
 overview_data_sources:
-  - 
+  - c
 ---
