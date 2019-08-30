@@ -1,5 +1,5 @@
 # Production Line Metrics
-More information can be found on our [template site](https://templates.peakboard.com/production_line_metrics_en.html).
+More information can be found on our [template site](https://templates.peakboard.com/en/production_line_metrics).
 
 # Images
 ![Production Line Metrics Screenshot](Production_Line_Metrics_EN.png)

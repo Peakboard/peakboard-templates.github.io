@@ -4,6 +4,7 @@ title: Einzelne Produktionsübersicht
 description: 
   - This is eine Übersicht über eine einzelne Produktionslinie ... This is eine Übersicht über eine einzelne Produktionslinie ... This is eine Übersicht über eine einzelne Produktionslinie.
 lang: de
+permalink: /de/production_line_metrics
 weight: 1000
 draft: false
 ref: wso-1000

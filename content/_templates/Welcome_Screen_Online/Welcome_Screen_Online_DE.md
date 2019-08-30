@@ -4,6 +4,7 @@ title: Willkommensbildschirm mit Internetanbindung
 description: 
   - Mit dieser Vorlage können Sie ganz einfach mit Ihrem Begrüßungsbildschirm beginnen. Ersetzen Sie das Logo, fügen Sie Ihre Hintergrundbilder hinzu und aktualisieren Sie das Wetter-Widget, um es zu Ihrem zu machen. Sie können die Termine über das Webinterface auf Port :40404 pflegen.
 lang: de
+permalink: /de/welcome_screen_online
 weight: 100
 draft: false
 ref: wso-100
