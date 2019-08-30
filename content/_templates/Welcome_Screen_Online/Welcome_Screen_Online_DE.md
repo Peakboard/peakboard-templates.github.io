@@ -13,7 +13,7 @@ category:
   - Welcome
   - Willkommen
   - Empfangsbildschirm
-image: welcome_screen_online/Welcome_Screen_Online_DE.png
+image: Welcome_Screen_Online_DE.png
 download: Welcome_Screen_Online_DE.pbmx
 overview_description:
   - Links&#58; eine Uhr und ein paar Wetterinformationen
