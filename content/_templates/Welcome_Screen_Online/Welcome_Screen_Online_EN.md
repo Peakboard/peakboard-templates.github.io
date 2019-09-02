@@ -10,8 +10,8 @@ ref: tem-100
 category:
   - Use Case
   - Welcome
-image: Welcome_Screen_Online_EN.png
-download: Welcome_Screen_Online_EN.pbmx
+image: https://github.com/Peakboard/CoolStuff/raw/master/Demonstrator/Designer%20Templates/Administration/Welcome%20Screen%20Online/Welcome_Screen_Online-EN.png.png
+download: https://github.com/Peakboard/CoolStuff/raw/master/Demonstrator/Designer%20Templates/Administration/Welcome%20Screen%20Online/Welcome_Screen_Online-EN.pbmx.pbmx
 overview_description:
   - Left&#58; something on the left
   - Mid-top&#58; something on the mid-top
