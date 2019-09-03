@@ -20,7 +20,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-multiple-languages-plugin
 
-collections_dir: content
+collections_dir: templates
 collections:
   templates:
     output: true  
