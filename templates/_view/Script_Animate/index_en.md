@@ -11,8 +11,8 @@ category:
   - Script
   - Scripting
   - Script example
-image: Animate_EN.png
-download: Animate_EN.pbmx
+image: Script_Animate_EN.png
+download: Script_Animate_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
