@@ -24,6 +24,8 @@ collections_dir: content
 collections:
   templates:
     output: true
+  view:
+    output: true
   scripting_examples:
     output: true
     position: 1
