@@ -22,14 +22,8 @@ plugins:
 
 collections_dir: templates
 collections:
-  templates:
-    output: true  
-  scripting_examples:
-    output: true
-    position: 1
   view:
     output: true
-    position: 3
 
 # Portions of text found throughout common components (like the footer) can be configured here for each language
 language:
