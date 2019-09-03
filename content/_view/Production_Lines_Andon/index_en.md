@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Übersicht Produktionslinie Andon
+title: Overview Andon Board
 description: 
   - This board provides a design template for an overview of production lines
 lang: en
@@ -15,9 +15,6 @@ category:
 image: Production_Lines_Andon_EN.png
 download: Production_Lines_Andon_EN.pbmx
 overview_description:
-  - a
 overview_benefits:
-  - b
 overview_data_sources:
-  - c
 ---
