@@ -14,10 +14,6 @@ category:
   - Overview
 image: Production_Line_Metrics_DE.png
 download: Production_Line_Metrics_DE.pbmx
-overview_description:
-  - a
-overview_benefits:
-  - b
-overview_data_sources:
-  - c
 ---
+
+{{page.path}}

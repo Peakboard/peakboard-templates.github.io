@@ -1,0 +1,4 @@
+{% capture folder_name_with_file_name %}{{ page.path | remove: "_templates/" }}{% endcapture %}
+{% assign folder_name_split = folder_name_with_file_name | split: '/' %}
+{% assign folder_name = folder_name[0] %}
+{{ site.language[page.lang].footer-github-url }}{{ folder_name | strip }}
