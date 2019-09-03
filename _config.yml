@@ -20,10 +20,10 @@ plugins:
   - jekyll-redirect-from
   - jekyll-multiple-languages-plugin
 
-collections_dir: templates
 collections:
-  view:
+  templates:
     output: true
+    permalink: /:path
 
 # Portions of text found throughout common components (like the footer) can be configured here for each language
 language:
