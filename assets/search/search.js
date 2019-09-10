@@ -18,8 +18,6 @@ var main = {
             searchParameters: {
                 filters: 'NOT search-ignore:true AND NOT draft:true AND lang:"' + document.querySelector('#language').innerHTML + '"'
             },
-            highlightPreTag: '<em class="search-highlight">',
-            highlightPostTag: '</em>',
             searchFunction(helper) {
                 if(getUrlVars()["fromHomepage"]) {
                     $('.ais-search-box--input').val(decodeURI(getUrlVars()["fromHomepage"]));
@@ -27,7 +25,8 @@ var main = {
                 } else {
                     helper.search();
                 }
-            }
+            },
+            hitsPerPage: 200
         });
 
         // initialize SearchBox
@@ -53,12 +52,6 @@ var main = {
                         imageUrl: item.url.substr(0, item.url.lastIndexOf("/")) + '/' + item.image,
                     }));
                 },
-            })
-        );
-
-        search.addWidget(
-            instantsearch.widgets.configure({
-                hitsPerPage: 200
             })
         );
 

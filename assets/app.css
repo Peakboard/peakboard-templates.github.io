@@ -5124,7 +5124,7 @@ body.stuck {
   background-color: #fcfcfc;
 }
 
-.article-overview {
+.dark-background {
   background: #f1f0f0;
 }
 
@@ -5300,6 +5300,10 @@ body {
 html {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+}
+
+.dark-background {
+  background: #f1f0f0;
 }
 
 .article-content {

@@ -4,8 +4,9 @@ layout: base
 
 {% include page_header.html lang_selector="article" %}
 {% assign collection = site.collections | where: "label", page.collection | first %}
+{% assign darkBackground = 'true' %}
 
-<section class="article-content max-w-xl px-4 mx-auto my-8">
+<section class="article-content max-w-xl px-4 mx-auto py-8">
     <a class="font-medium" href="{{ site.url }}">{{ site.language[page.lang].page-top-overview-text }}</a>
     <h1>{{ page.title }}</h1>
     <p class="text-grey mb-4">
@@ -32,8 +33,8 @@ layout: base
 
 {% if page.overview_description or page.overview_benefits or page.overview_data_sources %}
 
-<div class="article-overview">
-    <div class="py-8 max-w-lg px-4 mx-auto my-6">
+<div class="article-overview {% if darkBackground == 'true' %}dark-background{% endif %}">
+    <div class="py-8 max-w-xl px-4 mx-auto py-6">
         <h2 style="color: rgba(0, 0, 0, .84);">Overview</h2>
 
         <div class="flex flex-wrap my-4">
@@ -77,16 +78,19 @@ layout: base
     </div>
 </div>
 
+{% capture darkBackground %}{% if darkBackground == 'true' %}false{% else %}true{% endif %}{% endcapture %}
 {% endif %}
 
-{% if content %}
-<section class="article-content max-w-lg px-4 mx-auto my-8">
+{% assign content = page.content | strip_newlines %}
+{% if content and content != '' %}
+<section class="article-content max-w-xl px-4 mx-auto py-8 {% if darkBackground == 'true' %}dark-background{% endif %}">
     {{ content }}
 </section>
+{% capture darkBackground %}{% if darkBackground == 'true' %}false{% else %}true{% endif %}{% endcapture %}
 {% endif %}
 
-<div class="article-overview">
-    <div class="py-8 max-w-lg px-4 mx-auto mt-6">
+<div class="article-overview {% if darkBackground == 'true' %}dark-background{% endif %}">
+    <div class="py-8 max-w-xl px-4 mx-auto pt-6">
         <h2 style="color: rgba(0, 0, 0, .84);">Related Templates</h2>
 
         <div class="flex flex-wrap my-4">
@@ -123,8 +127,9 @@ layout: base
         </div>
     </div>
 </div>
+{% capture darkBackground %}{% if darkBackground == 'true' %}false{% else %}true{% endif %}{% endcapture %}
 
-{% capture cta-setting-dark-background %}false{% endcapture %}
+{% capture cta-setting-dark-background %}{{darkBackground}}{% endcapture %}
 {% capture cta-title %}{{ site.language[page.lang].cta-title }}{% endcapture %}
 {% capture cta-subtitle %}{{ site.language[page.lang].cta-subtitle }}{% endcapture %}
 {% capture cta-content %}{{ site.language[page.lang].cta-content }}{% endcapture %}
