@@ -68,7 +68,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(1);
-module.exports = __webpack_require__(6);
+module.exports = __webpack_require__(4);
 
 
 /***/ }),
@@ -78,10 +78,6 @@ module.exports = __webpack_require__(6);
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__js_lighbox_Lightbox__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__js_menu__ = __webpack_require__(4);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__js_accordian__ = __webpack_require__(5);
-
-
 
 
 if (document.querySelector(".article-content")) {
@@ -93,21 +89,9 @@ if (document.querySelector(".cta")) {
   document.querySelector("footer").classList.remove("mt-16");
 }
 
-__WEBPACK_IMPORTED_MODULE_1__js_menu__["a" /* default */].init();
-__WEBPACK_IMPORTED_MODULE_2__js_accordian__["a" /* default */].init();
-
 window.addEventListener("load", function () {
   document.querySelector("html").classList.remove("no-js");
 });
-
-document.getElementById("top-menu-search-button").onclick = function (e) {
-  if (this.type !== 'submit') {
-    this.setAttribute("type", "submit");
-    document.getElementById('top-menu-search-input').classList.toggle('show');
-    document.getElementById('top-menu-search-input-field').focus();
-    e.preventDefault();
-  }
-};
 
 /***/ }),
 /* 2 */
@@ -347,153 +331,6 @@ var Lightbox = function () {
 
 /***/ }),
 /* 4 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony default export */ __webpack_exports__["a"] = ({
-  els: {
-    trigger: document.querySelector(".menu-trigger"),
-    navbar: document.querySelector(".navbar"),
-    categories: [].slice.call(document.querySelectorAll(".nav-top-link")),
-    sub_categories: [].slice.call(document.querySelectorAll(".has-submenu")),
-    last_menu_item: document.querySelector(".top-menu-link:last-child"),
-    html: document.querySelector("html")
-  },
-
-  isNavbarOpen: function isNavbarOpen() {
-    return this.els.navbar.classList.contains("show");
-  },
-  openNavbar: function openNavbar() {
-    this.els.html.classList.add("stuck");
-    this.els.navbar.classList.add("show");
-  },
-  closeNavbar: function closeNavbar() {
-    this.closeAllMenus();
-    this.els.navbar.classList.remove("show");
-  },
-  toggleNavbar: function toggleNavbar() {
-    this.isNavbarOpen() ? this.closeNavbar() : this.openNavbar();
-  },
-  handleCategoryToggle: function handleCategoryToggle(category, ev) {
-    this.categoryMenuIsOpen(category) ? this.hideCategoryMenu(category) : this.showCategoryMenu(category);
-  },
-  categoryMenuIsOpen: function categoryMenuIsOpen(category) {
-    return category.classList.contains("exposed");
-  },
-  showCategoryMenu: function showCategoryMenu(category) {
-    this.closeAllMenus();
-    this.els.html.classList.add("stuck");
-    category.classList.add("exposed");
-  },
-  hideCategoryMenu: function hideCategoryMenu(category) {
-    this.closeAllMenus();
-    category.classList.remove("exposed");
-  },
-  closeAllMenus: function closeAllMenus() {
-    this.resetOuterMenu();
-    this.closeSubmenus();
-    this.els.html.classList.remove("stuck");
-  },
-  resetOuterMenu: function resetOuterMenu() {
-    this.els.categories.forEach(function (cat) {
-      return cat.classList.remove("exposed");
-    });
-  },
-  exposeSubmenu: function exposeSubmenu(submenu) {
-    submenu.classList.add("exposed");
-  },
-  closeSubmenus: function closeSubmenus() {
-    var open_subs = [].slice.call(document.querySelectorAll(".sub_level_list.exposed"));
-    open_subs.forEach(function (sub) {
-      return sub.classList.remove("exposed");
-    });
-  },
-  init: function init() {
-    var _this = this;
-
-    this.els.trigger.addEventListener("click", function () {
-      return _this.toggleNavbar();
-    });
-
-    this.els.categories.forEach(function (category) {
-      var category_menu = category.querySelector(".dropdown-list");
-
-      if (!category_menu) {
-        return;
-      }
-
-      var close_button = category_menu.querySelector(".inner-menu-close");
-      close_button.addEventListener("click", function (ev) {
-        ev.stopPropagation();
-        _this.resetOuterMenu();
-      });
-
-      category.addEventListener("click", function (ev) {
-        if (category.querySelector(".dropdown-list").contains(ev.target)) {
-          return;
-        }
-        _this.handleCategoryToggle(category);
-      });
-    });
-
-    this.els.sub_categories.forEach(function (sub_cat) {
-      sub_cat.addEventListener("click", function (ev) {
-        ev.stopPropagation();
-        _this.exposeSubmenu(sub_cat.querySelector(".sub_level_list"));
-      });
-    });
-
-    var close_sub_buttons = [].slice.call(document.querySelectorAll(".sub-level-list-close"));
-    close_sub_buttons.forEach(function (btn) {
-      return btn.addEventListener("click", function (ev) {
-        ev.stopPropagation();
-        _this.closeSubmenus();
-      });
-    });
-
-    document.body.addEventListener("click", function (ev) {
-      if (!_this.els.navbar.contains(ev.target)) {
-        _this.closeAllMenus();
-      }
-    });
-  }
-});
-
-/***/ }),
-/* 5 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony default export */ __webpack_exports__["a"] = ({
-  els: {
-    accordian: document.querySelector(".accordian-nav"),
-    accordian_triggers: [].slice.call(document.querySelectorAll(".accordian-trigger"))
-  },
-
-  closeCurrentlyOpenSections: function closeCurrentlyOpenSections(new_trigger) {
-    this.els.accordian_triggers.forEach(function (trigger) {
-      if (new_trigger !== trigger) {
-        trigger.checked = false;
-      }
-    });
-  },
-  init: function init() {
-    var _this = this;
-
-    if (!this.els.accordian) {
-      return;
-    }
-    this.els.accordian_triggers.forEach(function (accordian_trigger) {
-      accordian_trigger.addEventListener("change", function (_ref) {
-        var target = _ref.target;
-        return _this.closeCurrentlyOpenSections(target);
-      });
-    });
-  }
-});
-
-/***/ }),
-/* 6 */
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin

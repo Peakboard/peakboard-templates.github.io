@@ -5,3 +5,65 @@ layout: base
 {% include page_header.html lang_selector="home" %}
 
 {% include home_hero_banner.html %}
+<div class="max-w-3xl px-4 mx-auto my-12">
+    <div class="flex flex-wrap mb-4">
+        <div class="w-full lg:w-1/4 px-2">
+            <div id="search-box">
+                <!-- SearchBox -->
+            </div>
+            <div class="mt-6 mb-2 uppercase text-grey-dark">
+                Categories
+            </div>
+            <div id="categories">
+                <!-- Categories -->
+            </div>
+            <div class="mt-6 mb-2 uppercase text-grey-dark">
+                Data Sources
+            </div>
+            <div id="sources">
+                <!-- Categories -->
+            </div>
+        </div>
+        <div class="w-full lg:w-3/4 px-2">
+            <div class="flex mb-4">
+                <div id="hits" class="w-full">
+                    <!-- Hits -->
+                </div>
+            </div>
+            <div id="pagination">
+                <!-- Pagination  -->
+            </div>
+        </div>
+    </div>
+
+    <!-- TEMPLATES -->
+    {% raw %}
+    <script type="text/html" id="hit-template">
+        <div class="w-full">
+            <a href="{{ url }}?fromSearch=true">
+                <div>
+                    <img src="{{ imageUrl }}" alt="{{ title }}">
+                    <p class="">{{ title }}</p>
+                </div>
+            </a>
+        </div>
+    </script>
+
+    <script type="text/html" id="no-results-template">
+        <div id="no-results-message">
+            <p>{% endraw %}{{ site.language[page.lang].search-no-results }}{% raw %} <em>"{{ query }}"</em>.</p>
+        </div>
+    </script>
+    {% endraw %}
+    <!-- /TEMPLATES -->
+
+    <!-- LANGUAGE -->
+    <div id="search-box-text" class="invisible">{{ site.language[page.lang].search-bar-placeholder }}</div>
+    <div id="language" class="invisible">{{ page.lang }}</div>
+    <!-- /LANGUAGE -->
+
+    <script src="{{ '/assets/search/search.js' | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/algoliasearch@3.33.0/dist/algoliasearchLite.min.js" integrity="sha256-3Laj91VXexjTlFLgL8+vvIq27laXdRmFIcO2miulgEs=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@3.4.0/dist/instantsearch.production.min.js" integrity="sha256-pM0n88cBFRHpSn0N26ETsQdwpA7WAXJDvkHeCLh3ujI=" crossorigin="anonymous"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default,Array.prototype.find,Array.prototype.includes"></script>
+</div>

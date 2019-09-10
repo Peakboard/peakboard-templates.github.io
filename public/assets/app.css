@@ -6055,16 +6055,98 @@ pre[class*="language-"] {
   }
 }
 
-.hero-search {
-  background-image: url("/assets/images/hero.png");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  text-align: center;
+.ais-SearchBox-submitIcon path {
+  fill: #c4c8d8;
+}
+
+.ais-SearchBox-input {
+  border: 1.5px solid #c4c8d8;
+  border-radius: 3px;
+}
+
+.ais-Menu-list {
+          columns: 2;
+  -webkit-columns: 2;
+     -moz-columns: 2;
+}
+
+@media (min-width: 1024px) {
+  .ais-Menu-list {
+            columns: 1;
+    -webkit-columns: 1;
+       -moz-columns: 1;
+  }
+}
+
+.ais-Menu-link {
+  color: #373d3f;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.ais-Menu-link:before {
+  display: inline-block;
+  content: '';
+  padding-left: 7px;
+  border-left: solid 2px #f29205;
+  -webkit-transform: scaleY(0);
+          transform: scaleY(0);
+  -webkit-transition: -webkit-transform 1ms ease-in-out;
+  transition: -webkit-transform 1ms ease-in-out;
+  transition: transform 1ms ease-in-out;
+  transition: transform 1ms ease-in-out, -webkit-transform 1ms ease-in-out;
+  -webkit-transform-origin: 50% 100%;
+          transform-origin: 50% 100%;
+}
+
+.ais-Menu-link:hover:before {
+  -webkit-transform: scaleY(1);
+          transform: scaleY(1);
+  -webkit-transform-origin: 50% 0%;
+          transform-origin: 50% 0%;
+}
+
+.ais-Menu-link:hover {
+  font-weight: 700;
+  color: black;
+}
+
+.ais-Menu-link-active:before {
+  display: inline-block;
+  content: '';
+  padding-left: 7px;
+  border-left: solid 2px #f29205;
+  -webkit-transform: none;
+          transform: none;
+}
+
+.ais-Menu-link-active:hover:before {
+  -webkit-transform: none;
+          transform: none;
+}
+
+.ais-InfiniteHits-loadMore {
+  display: none;
 }
 
 .ais-hits em {
   color: #f29205;
+}
+
+.ais-InfiniteHits-item {
+  width: calc(100% - 1rem);
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border: 1.5px solid #c4c8d8;
+  font-weight: 700;
+}
+
+@media (min-width: 768px) {
+  .ais-InfiniteHits-item {
+    width: calc(33% - 1rem);
+  }
 }
 
 #hits a,

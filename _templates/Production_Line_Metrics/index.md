@@ -15,5 +15,3 @@ category:
 image: Production_Line_Metrics_DE.png
 download: Production_Line_Metrics_DE.pbmx
 ---
-
-{{page.path}}

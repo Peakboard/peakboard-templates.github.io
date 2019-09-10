@@ -11,7 +11,7 @@ languageNames:
   de: Deutsch
   en: English
 # Analytics
-gtm: ""
+# gtm: ""
 # Build settings
 markdown: kramdown
 theme: minima
@@ -46,7 +46,7 @@ language:
     search-title: "Peakboard Search"
     search-results: "Results"
     search-no-results: "We didn't find any results for the search: "
-    search-bar-placeholder: "Search..."
+    search-bar-placeholder: "Filter"
     cookie-alert-message: "This website uses cookies to ensure you get the best experience on our website."
     cookie-alert-button: "OK"
     cookie-alert-link-text: "Read more"
@@ -75,7 +75,7 @@ language:
     search-title: "Peakboard Suche"
     search-results: "Ergebnisse"
     search-no-results: "Wir haben leider nichts gefunden: "
-    search-bar-placeholder: "Suchen..."
+    search-bar-placeholder: "Filter"
     cookie-alert-message: "Um sicherzustellen, dass Sie das beste Nutzungserlebnis auf unserer Webseite erfahren, werden Cookies verwendet."
     cookie-alert-button: "OK"
     cookie-alert-link-text: "Mehr erfahren"
@@ -104,7 +104,7 @@ language:
     search-title: "Peakboard搜索"
     search-results: "搜索结果"
     search-no-results: "未找到相关搜索结果： "
-    search-bar-placeholder: "搜索..."
+    search-bar-placeholder: "搜索"
     cookie-alert-message: "This website uses cookies to ensure you get the best experience on our website."
     cookie-alert-button: "OK"
     cookie-alert-link-text: "Read more"
@@ -118,8 +118,8 @@ algolia:
   application_id: 'XEVVIEZWKI'
   index_name: PEAKBOARD_EPIC_BOARDS
   settings:
-    attributesForFaceting: ['title', 'searchable(search-ignore)', 'searchable(lang)', 'searchable(category)', 'searchable(draft)']
-    searchableAttributes: ['title','unordered(content)','description','search-ignore', 'lang', 'category', 'draft']
+    attributesForFaceting: ['title', 'searchable(search-ignore)', 'searchable(lang)', 'searchable(category)', 'searchable(draft)', 'searchable(overview_data_sources)']
+    searchableAttributes: ['title','unordered(content)','description','search-ignore', 'lang', 'category', 'draft', 'overview_data_sources']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
