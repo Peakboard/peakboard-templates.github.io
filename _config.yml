@@ -28,6 +28,7 @@ collections:
 # Portions of text found throughout common components (like the footer) can be configured here for each language
 language:
   en:
+    article-download-button-text: "Download now"
     homepage-top-section-title: "Peakboard Templates"
     homepage-top-section-content: "Peakboard is highly customizable, here are some examples how you can use it. Get inspired and get started."
     top-menu-cta-button-text: "Start for free"
@@ -57,6 +58,7 @@ language:
     cta-link: "https://peakboard.com/en/peakboard-designer/?utm_source=help_center&utm_medium=get_started_button"
     cta-link-text: "Download Peakboard designer for free"
   de:
+    article-download-button-text: "Download jetzt"
     homepage-top-section-title: "Peakboard Templates"
     homepage-top-section-content: "Peakboard is highly customizable, here are some examples how you can use it. Get inspired and get started."
     top-menu-cta-button-text: "Kostenlos starten"
@@ -86,6 +88,7 @@ language:
     cta-link: "https://peakboard.com/peakboard-designer/?utm_source=help_center&utm_medium=get_started_button"
     cta-link-text: "Peakboard-Designer kostenlos herunterladen"
   cn:
+    article-download-button-text: "Download now"
     homepage-top-section-title: "获取帮助"
     homepage-top-section-content: "针对您的需求，帮助您快速、高效地充分利用Peakboard，详情请参考相关文章。"
     top-menu-cta-button-text: "Start for free"

@@ -5,7 +5,7 @@ layout: base
 {% include page_header.html lang_selector="article" %}
 {% assign collection = site.collections | where: "label", page.collection | first %}
 
-<section class="article-content max-w-lg px-4 mx-auto my-8">
+<section class="article-content max-w-xl px-4 mx-auto my-8">
     <a class="font-medium" href="{{ site.url }}">{{ site.language[page.lang].page-top-overview-text }}</a>
     <h1>{{ page.title }}</h1>
     <p class="text-grey mb-4">
@@ -24,7 +24,7 @@ layout: base
 
     {% if page.download %}
     <button class="py-3 px-4 menu-cta-button text-xl tracking-base">
-        <a class="no-underline" href="{{ site.language[page.lang].top-menu-cta-button-url }}">{{ site.language[page.lang].top-menu-cta-button-text }}</a>
+        <a class="no-underline" href="{{ page.download }}">{{ site.language[page.lang].article-download-button-text }}</a>
     </button>
     {% endif %}
 

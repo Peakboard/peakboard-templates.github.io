@@ -488,4 +488,8 @@ html {
       color: #FFFFFF;
     }
   }
+
+  button > a {
+    border-bottom: 0;
+  }
 }

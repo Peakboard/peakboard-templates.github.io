@@ -5669,6 +5669,10 @@ html {
   color: #fff;
 }
 
+.article-content button > a {
+  border-bottom: 0;
+}
+
 code[class*="language-"],
 pre[class*="language-"] {
   color: #f8f8f2;
