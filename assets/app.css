@@ -5669,7 +5669,7 @@ html {
   color: #fff;
 }
 
-.article-content button > a {
+.article-content button > a:hover {
   border-bottom: 0;
 }
 
