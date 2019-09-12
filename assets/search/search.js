@@ -78,7 +78,7 @@ var main = {
         search.addWidget(
             instantsearch.widgets.menu({
                 container: '#sources',
-                attribute: 'sources',
+                attribute: 'overview_data_sources',
                 limit: 20,
                 sortBy: ['name:asc'],
                 templates: {

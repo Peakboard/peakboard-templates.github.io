@@ -20,4 +20,14 @@ overview_benefits:
   - b
 overview_data_sources:
   - c
+related:
+  - title: related 1
+    image: Production_Line_Metrics_EN.png
+    url: google.com
+  - title: related 2
+    image: Production_Line_Metrics_EN.png
+    url: google.com
+  - title: related 3
+    image: Production_Line_Metrics_EN.png
+    url: google.com
 ---
