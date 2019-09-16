@@ -3,7 +3,7 @@ layout: article
 title: Alarm Info Screen
 description: 
   - Shows an alarm screen with detailed information 
-lang: de
+lang: en
 weight: 100
 draft: false
 ref: tem-1200
