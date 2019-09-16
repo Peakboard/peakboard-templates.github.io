@@ -5024,7 +5024,7 @@ body.stuck {
   background-size: cover;
   position: relative;
   min-height: 400px;
-  background: url("/assets/images/homepage/hero.jpg") no-repeat top;
+  background: url("/assets/images/homepage/peakboard_templates_background.jpg") no-repeat center;
 }
 
 .action-link {
