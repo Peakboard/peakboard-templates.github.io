@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Airport Stuttgart API
+title: Flughafen Stuttgart API
 description: 
   - This board is used to visualize the Departures API of Stuttgart Airport.
 lang: de
