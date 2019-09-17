@@ -55,7 +55,7 @@ language:
     cta-title: "Try the Peakboard designer"
     cta-subtitle: "Create your custom dashboard now"
     cta-content: "With the Peakboard-Designer, you can quickly create a wide range of dashboards to display your relevant information at a glance and in real time. Whether with live tiles, voice commands or classic tables. For production, logistics, IT or distribution."
-    cta-link: "https://peakboard.com/en/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button"
+    cta-link: "https://peakboard.com/en/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
     cta-link-text: "Download Peakboard designer for free"
   de:
     article-download-button-text: "Herunterladen"
@@ -85,7 +85,7 @@ language:
     cta-title: "Testen Sie den Peakboard-Designer"
     cta-subtitle: "Erstellen Sie Ihre individuelle Visualisierung"
     cta-content: "Mit dem Peakboard-Designer erstellen Sie in kürzester Zeit unterschiedlichste Dashboards, um alle für Sie relevanten Informationen auf einen Blick und in Echtzeit abzubilden. Ob Live Tiles, Voice Commands oder klassische Tabellen. Für Produktion, Logistik, IT oder Vertrieb."
-    cta-link: "https://peakboard.com/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button"
+    cta-link: "https://peakboard.com/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
     cta-link-text: "Peakboard-Designer kostenlos herunterladen"
   cn:
     article-download-button-text: "Download"
@@ -115,7 +115,7 @@ language:
     cta-title: "立即试用Peakboard-Designer!"
     cta-subtitle: "下载Peakboard-Designer，在最短的时间内为每个部门定制仪表盘。"
     cta-content: "使用Peakboard-Designer，无论是采用实时图块、语音命令还是经典图表，您都可以快速创建多种仪表潘，实时显示相关信息。方便快捷，一目了然。它可用于生产、仓储物流、IT或是分销部门。"
-    cta-link: "https://peakboard.com/zh-hans/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button"
+    cta-link: "https://peakboard.com/zh-hans/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
     cta-link-text: "免费下载Peakboard Designer"
 algolia:
   application_id: 'XEVVIEZWKI'
