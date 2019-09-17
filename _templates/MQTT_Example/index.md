@@ -5,7 +5,7 @@ description:
   - Diese Board zeigt, wie Sie MQTT als Datenquelle verwenden können. Es werden mehrere Bildschirme verwendet, um zu zeigen, wie verschiedene Peakboard-Boxen und Visualisierungen zusammenarbeiten können. Es ist möglich, auf einem Bildschirm die Wartung in Anspruch zu nehmen und auf die Meldungen auf einem weiteren Bildschirm zu reagieren.
 lang: de
 weight: 600
-draft: false
+isDraft: false
 ref: MQTT_Example
 category:
   - MQTT
