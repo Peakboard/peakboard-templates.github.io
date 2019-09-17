@@ -6,7 +6,7 @@ description:
 lang: en
 weight: 100
 draft: false
-ref: tem-1200
+ref: warning_info_screen
 category:
   - Stocks
   - Price Overview

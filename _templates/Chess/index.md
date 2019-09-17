@@ -2,7 +2,7 @@
 layout: article
 title: Schach Beispiel
 description: 
-  - This template zeigt ein Beispiel wie man ein Schachspiel mit Peakboard realisieren kann.
+  - Dieses Template zeigt ein Beispiel wie man ein Schachspiel mit Peakboard realisieren kann.
 lang: de
 weight: 10
 draft: true
