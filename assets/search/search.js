@@ -29,6 +29,12 @@ var main = {
             hitsPerPage: 200
         });
 
+        search.addWidget(
+            instantsearch.widgets.configure({
+                hitsPerPage: 200
+            })
+        );
+
         // initialize SearchBox
         search.addWidget(
             instantsearch.widgets.searchBox({
