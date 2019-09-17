@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script-Example with animations
+title: Script example with animations
 description: 
   - This board shows a Scripting Example for animated controls
 lang: en
