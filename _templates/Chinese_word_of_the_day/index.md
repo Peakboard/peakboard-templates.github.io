@@ -7,7 +7,7 @@ Please take a closer look at the Refreshed event of the RSS source. It shows som
 lang: de
 weight: 10
 draft: true
-ref: tem-0011
+ref: Chinese_word_of_the_day
 category:
   - Random
   - Quotes

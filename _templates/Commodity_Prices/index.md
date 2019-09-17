@@ -6,7 +6,7 @@ description:
 lang: de
 weight: 100
 draft: false
-ref: tem-1800
+ref: Commodity_Prices
 category:
   - Stocks
   - Price Overview

@@ -6,7 +6,7 @@ description:
 lang: de
 weight: 10
 draft: true
-ref: tem-0010
+ref: Chess
 category:
   - Games
 image: Chess.png

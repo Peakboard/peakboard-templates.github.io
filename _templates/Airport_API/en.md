@@ -6,7 +6,7 @@ description:
 lang: en
 weight: 100
 draft: false
-ref: airport_api
+ref: Airport_API
 category:
   - Airport
   - Public Transport

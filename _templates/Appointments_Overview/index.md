@@ -6,7 +6,7 @@ description:
 lang: de
 weight: 500
 draft: false
-ref: tem-1400
+ref: Appointments_Overview
 category:
   - Willkommensbildschirm
   - Termine

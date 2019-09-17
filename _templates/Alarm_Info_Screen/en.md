@@ -6,7 +6,7 @@ description:
 lang: en
 weight: 100
 draft: false
-ref: warning_info_screen
+ref: Alarm_Info_Screen
 category:
   - Stocks
   - Price Overview

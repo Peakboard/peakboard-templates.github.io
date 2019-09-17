@@ -6,7 +6,7 @@ description:
 lang: de
 weight: 300
 draft: false
-ref: tem-300
+ref: Production_Lines_Andon
 category:
   - Recommended
   - Empfohlen
