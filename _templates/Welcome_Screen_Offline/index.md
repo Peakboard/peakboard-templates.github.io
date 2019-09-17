@@ -12,7 +12,6 @@ category:
   - Welcome
   - Willkommen
   - Empfangsbildschirm
-  - Recommended
 image: Welcome_Screen_Offline_EN.png
 download: Welcome_Screen_Offline_EN.pbmx
 overview_description:

@@ -4,7 +4,7 @@ title: Overview Andon Board
 description: 
   - This board provides a design template for an overview of production lines
 lang: en
-weight: 300
+weight: 3000
 isDraft: false
 ref: Production_Lines_Andon
 category:

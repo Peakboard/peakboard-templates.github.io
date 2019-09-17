@@ -4,7 +4,7 @@ title: Production Line Metrics
 description: 
   - This is an overview of some key metrics about a single production lane. Including a OEE value. Replace the variables and the timer script to make it your own.
 lang: en
-weight: 200
+weight: 2000
 isDraft: false
 ref: Production_Line_Metrics
 category:

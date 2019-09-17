@@ -10,7 +10,9 @@ ref: Appointments_Overview
 category:
   - Willkommensbildschirm
   - Termine
-  - Empfangsbildschirm  
+  - Empfangsbildschirm 
+  - Recommended
+  - Empfohlen
 image: Appointments_Overview_EN.png
 download: Appointments_Overview_EN.pbmx
 overview_description:

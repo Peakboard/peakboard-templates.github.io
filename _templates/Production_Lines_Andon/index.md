@@ -4,7 +4,7 @@ title: Übersicht Produktionslinie Andon
 description: 
   - Dieses Board kann so einiges und gibt eine Übersicht über eine komplette Produktionslinie mit Hilfe von Andon.
 lang: de
-weight: 300
+weight: 3000
 isDraft: false
 ref: Production_Lines_Andon
 category:

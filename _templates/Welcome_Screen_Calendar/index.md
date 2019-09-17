@@ -13,6 +13,7 @@ category:
   - Willkommen
   - Empfangsbildschirm
   - Recommended
+  - Empfohlen
 image: Welcome_Screen_Calendar_EN.png
 download: Welcome_Screen_Calendar_EN.pbmx
 overview_description:
