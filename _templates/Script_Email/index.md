@@ -16,5 +16,3 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# Remarks
-Runs on its own. If you want to take a look at the Script double click the Send button while you are in the designer 
