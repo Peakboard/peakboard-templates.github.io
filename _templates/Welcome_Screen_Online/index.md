@@ -5,7 +5,7 @@ description:
   - Mit dieser Vorlage können Sie ganz einfach mit Ihrem Begrüßungsbildschirm beginnen. Ersetzen Sie das Logo, fügen Sie Ihre Hintergrundbilder hinzu und aktualisieren Sie das Wetter-Widget, um es zu Ihrem zu machen. Sie können die Termine über das Webinterface auf Port :40404 pflegen.
 lang: de
 weight: 1000
-draft: false
+isDraft: false
 ref: Welcome_Screen_Online
 category:
   - Use Case

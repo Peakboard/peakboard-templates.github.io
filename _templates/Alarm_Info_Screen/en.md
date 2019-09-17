@@ -5,7 +5,7 @@ description:
   - Shows an alarm screen with detailed information 
 lang: en
 weight: 100
-draft: false
+isDraft: false
 ref: Alarm_Info_Screen
 category:
   - Stocks

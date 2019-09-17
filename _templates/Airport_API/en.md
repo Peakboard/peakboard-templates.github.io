@@ -5,7 +5,7 @@ description:
   - Dieses Template dient der Visualisierung der Abflug-API (Schnittstelle) des Flughafens Stuttgart.
 lang: en
 weight: 100
-draft: false
+isDraft: false
 ref: Airport_API
 category:
   - Airport

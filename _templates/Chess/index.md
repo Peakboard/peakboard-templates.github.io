@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt ein Beispiel wie man ein Schachspiel mit Peakboard realisieren kann.
 lang: de
 weight: 10
-draft: true
+isDraft: true
 ref: Chess
 category:
   - Games

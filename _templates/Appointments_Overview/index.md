@@ -5,7 +5,7 @@ description:
   - Mit dieser Vorlage können Sie sich ganz einfach einen Überblick über die heutigen Termine verschaffen. Ersetzen Sie das Logo und aktualisieren Sie das Wetter-Widget, um es zu Ihrem zu machen. Diese Visualisierung verwendet einen Microsoft 365-Kalender als Datenquelle, um Termine aus einem Kalender abzurufen. Überprüfen Sie Ihren Kalender, um ihn zum Laufen zu bringen.
 lang: de
 weight: 500
-draft: false
+isDraft: false
 ref: Appointments_Overview
 category:
   - Willkommensbildschirm

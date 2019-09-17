@@ -5,7 +5,7 @@ description:
   - With this template you can easily get an overview of Today's appointments. Replace the Logo and update the weather widget to make it yours. This visualization uses a Microsoft 365 Calendar as a data source to get appointments from a calendar. Verify your calendar to get it running.
 lang: en
 weight: 500
-draft: false
+isDraft: false
 ref: Appointments_Overview
 category:
   - Appointments

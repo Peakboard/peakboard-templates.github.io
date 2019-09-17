@@ -5,7 +5,7 @@ description:
   - Mit diesem Script-Beispiel können Sie lernen wie Sie in Peakboard Animationen verwenden können.
 lang: de
 weight: 50
-draft: false
+isDraft: false
 ref: Script_Animate
 category:
   - Script

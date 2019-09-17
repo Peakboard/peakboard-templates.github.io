@@ -5,7 +5,7 @@ description:
   - This board shows a Scripting Example for buttons
 lang: en
 weight: 50
-draft: false
+isDraft: false
 ref: Script_Button_Example
 category:
   - Script

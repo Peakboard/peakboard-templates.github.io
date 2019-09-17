@@ -16,7 +16,7 @@ var main = {
             indexName: 'PEAKBOARD_EPIC_BOARDS',
             routing: true,
             searchParameters: {
-                filters: 'NOT search-ignore:true AND NOT draft:true AND lang:"' + document.querySelector('#language').innerHTML + '"'
+                filters: 'NOT search-ignore:true AND NOT isDraft:true AND lang:"' + document.querySelector('#language').innerHTML + '"'
             },
             searchFunction(helper) {
                 if(getUrlVars()["fromHomepage"]) {

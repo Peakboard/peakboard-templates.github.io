@@ -5,7 +5,7 @@ description:
   - This board provides a design template for an overview of production lines
 lang: en
 weight: 300
-draft: false
+isDraft: false
 ref: Production_Lines_Andon
 category:
   - Recommended

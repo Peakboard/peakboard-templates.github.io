@@ -5,7 +5,7 @@ description:
   - This board shows a Scripting Example for animated controls
 lang: en
 weight: 50
-draft: false
+isDraft: false
 ref: Script_Animate
 category:
   - Script

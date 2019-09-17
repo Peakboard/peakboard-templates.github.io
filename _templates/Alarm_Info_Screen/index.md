@@ -5,7 +5,7 @@ description:
   - Zeigt eine Warnmeldung mit weiteren Information an.
 lang: de
 weight: 100
-draft: false
+isDraft: false
 ref: Alarm_Info_Screen
 category:
   - Stocks

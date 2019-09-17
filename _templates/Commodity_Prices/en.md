@@ -5,7 +5,7 @@ description:
   - This board shows the actual realtime commodity prices of various precious metals, e.g. Gold, Silver,... taken from the webspace
 lang: en
 weight: 100
-draft: false
+isDraft: false
 ref: Commodity_Prices
 category:
   - Stocks

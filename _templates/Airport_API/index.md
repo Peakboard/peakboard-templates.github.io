@@ -5,7 +5,7 @@ description:
   - This board is used to visualize the Departures API of Stuttgart Airport.
 lang: de
 weight: 100
-draft: false
+isDraft: false
 ref: Airport_API
 category:
   - Airport

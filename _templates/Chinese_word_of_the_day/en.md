@@ -6,7 +6,7 @@ description:
   - Please take a closer look at the Refreshed event of the RSS source. It shows some good samples for manipulating strings, especially extract information from HTML snippets. 
 lang: en
 weight: 10
-draft: true
+isDraft: true
 ref: Chinese_word_of_the_day
 category:
   - Random

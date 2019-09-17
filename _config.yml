@@ -121,8 +121,8 @@ algolia:
   application_id: 'XEVVIEZWKI'
   index_name: PEAKBOARD_EPIC_BOARDS
   settings:
-    attributesForFaceting: ['title', 'searchable(search-ignore)', 'searchable(lang)', 'searchable(category)', 'searchable(draft)', 'searchable(overview_data_sources)']
-    searchableAttributes: ['title','unordered(content)','description','search-ignore', 'lang', 'category', 'draft', 'overview_data_sources']
+    attributesForFaceting: ['title', 'searchable(search-ignore)', 'searchable(lang)', 'searchable(category)', 'searchable(isDraft)', 'searchable(overview_data_sources)']
+    searchableAttributes: ['title','unordered(content)','description','search-ignore', 'lang', 'category', 'isDraft', 'overview_data_sources']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

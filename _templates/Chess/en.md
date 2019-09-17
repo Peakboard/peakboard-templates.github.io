@@ -5,7 +5,7 @@ description:
   - This board shows a Scripting Example for a simple game of chess 
 lang: en
 weight: 10
-draft: true
+isDraft: true
 ref: Chess
 category:
   - Games

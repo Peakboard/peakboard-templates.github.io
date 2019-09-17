@@ -5,7 +5,7 @@ description:
   - This is eine Übersicht über eine einzelne Produktionslinie ... This is eine Übersicht über eine einzelne Produktionslinie ... This is eine Übersicht über eine einzelne Produktionslinie.
 lang: de
 weight: 200
-draft: false
+isDraft: false
 ref: Production_Line_Metrics
 category:
   - Recommended
