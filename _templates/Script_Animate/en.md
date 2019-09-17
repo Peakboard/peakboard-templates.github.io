@@ -6,7 +6,7 @@ description:
 lang: en
 weight: 50
 draft: false
-ref: tem-010
+ref: Script_Animate
 category:
   - Script
   - Scripting

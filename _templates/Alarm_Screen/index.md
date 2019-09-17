@@ -6,7 +6,7 @@ description:
 lang: de
 weight: 100
 draft: false
-ref: tem-1200
+ref: Alarm_Screen
 category:
   - Alarm
   - Error

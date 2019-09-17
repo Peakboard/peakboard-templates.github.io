@@ -6,7 +6,7 @@ description:
 lang: de
 weight: 100
 draft: false
-ref: tem-1300
+ref: Animated_Twitter_Board
 category:
   - Twitter
   - Social Media

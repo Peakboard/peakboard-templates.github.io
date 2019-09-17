@@ -6,7 +6,7 @@ description:
 lang: de
 weight: 1000
 draft: false
-ref: tem-1000
+ref: Welcome_Screen_Online
 category:
   - Use Case
   - Welcome

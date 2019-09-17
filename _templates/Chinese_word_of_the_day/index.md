@@ -7,7 +7,7 @@ description:
 lang: de
 weight: 10
 draft: true
-ref: tem-0011
+ref: Chinese_word_of_the_day
 category:
   - Random
   - Quotes
