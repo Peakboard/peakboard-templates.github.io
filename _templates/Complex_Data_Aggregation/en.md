@@ -4,7 +4,7 @@ title: Complex Data Aggregation
 description: 
   - This board shows a Scripting Example for Complex Data Aggregation
 lang: en
-weight: 600
+weight: 100
 isDraft: false
 ref: Complex_Data_Aggregation
 category:
