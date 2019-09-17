@@ -4,7 +4,7 @@ title: Script example with a button
 description: 
   - This board shows a Scripting Example for buttons
 lang: en
-weight: 100
+weight: 50
 draft: false
 ref: tem-011
 category:

@@ -4,7 +4,7 @@ title: Script-Example with animations
 description: 
   - This board shows a Scripting Example for animated controls
 lang: en
-weight: 100
+weight: 50
 draft: false
 ref: tem-010
 category:

@@ -4,7 +4,7 @@ title: Script-Beispiel mit Button
 description: 
   - Mit diesem Script-Beispiel können Sie lernen wie Sie in Peakboard mit einem Button arbeiten.
 lang: de
-weight: 100
+weight: 50
 draft: false
 ref: tem-011
 category:

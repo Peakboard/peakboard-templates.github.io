@@ -4,7 +4,7 @@ title: Script-Beispiel mit Animationen
 description: 
   - Mit diesem Script-Beispiel können Sie lernen wie Sie in Peakboard Animationen verwenden können.
 lang: de
-weight: 100
+weight: 50
 draft: false
 ref: tem-010
 category:
