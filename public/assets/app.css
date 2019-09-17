@@ -6157,6 +6157,10 @@ pre[class*="language-"] {
   }
 }
 
+.ais-InfiniteHits-item:hover {
+  border: 1.5px solid #f29205;
+}
+
 #hits a,
 #hits a:hover {
   color: #131516;

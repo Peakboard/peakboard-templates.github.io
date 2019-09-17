@@ -81,6 +81,10 @@ $gray-dark: #373d3f;
   @media (min-width: 768px) {
     width: calc(33% - 1rem);
   }
+
+  &:hover {
+    border: 1.5px solid $orange;
+  }
 }
 
 #hits a,
