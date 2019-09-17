@@ -4,7 +4,7 @@ title: Willkommensbildschirm ohne Internetverbindung
 description: 
   - Mit dieser Vorlage können Sie ganz einfach mit Ihrem Begrüßungsbildschirm beginnen. Ersetzen Sie das Logo und aktualisieren Sie die Hintergrundbilder. Sie können die Termine über das Webinterface auf Port 40404 pflegen.
 lang: de
-weight: 1000
+weight: 200
 isDraft: false
 ref: Welcome_Screen_Offline
 category:
