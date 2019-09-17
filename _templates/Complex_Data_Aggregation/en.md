@@ -3,7 +3,7 @@ layout: article
 title: Complex Data Aggregation
 description: 
   - This board shows a Scripting Example for Complex Data Aggregation
-lang: de
+lang: en
 weight: 600
 isDraft: false
 ref: Complex_Data_Aggregation
