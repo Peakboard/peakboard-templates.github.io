@@ -5,7 +5,7 @@ description:
   - This board shows a Scripting Example for Complex Data Aggregation
 lang: de
 weight: 600
-draft: false
+isDraft: false
 ref: Complex_Data_Aggregation
 category:
   - Data
