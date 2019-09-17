@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Universale Produktionslinienübersicht
+title: Generelle Produktionslinienübersicht
 description: 
   - Dieses Template zeigt alle relevanten Informationen einer einzelnen Produktionslinie an. Es beinhaltet MES Daten, Bestellinformationen, Mitarbeiter News und weitere Iformationen.
 lang: de
