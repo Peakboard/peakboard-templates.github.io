@@ -4,7 +4,7 @@ title: Productionslinie Status
 description: 
   - Dieses Template bietet eine Übersicht über eine gesamte Produktionsline. Es zeigt an wie der aktuelle Status von verschiedenen Stationen ist und zeigt eventuelle Fehler an.
 lang: de
-weight: 500
+weight: 2000
 isDraft: false
 ref: Production_Line_Status
 category:
