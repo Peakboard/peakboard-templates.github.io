@@ -88,12 +88,3 @@ Now you need to find out about the id of your Tesla (you have to use `id` instea
 Now you can jump into the Peakboard designer. There you have to set the two variables `token` and `vehicleId` to the token and id you received in the previous calls (use your id not vehicle_id for vehicleId).
 
 Sometimes it may take up to 20 seconds to finish this request. The reason for that is that the Tesla falls asleep when inactive for a few minutes and needs some time to wake up again.
-
-# Category
-Tesla
-
-# Title 
-Tesla status
-![](Tesla_Status-DE.png)
-[Download Template (German)](Tesla_Status-DE.pbmx?raw=true)
-[Download Template (English)](Tesla_Status-EN.pbmx?raw=true)
