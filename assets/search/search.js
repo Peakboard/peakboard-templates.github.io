@@ -4,7 +4,7 @@ layout: null
 
 var main = {
 
-    init: function () {
+    init: function init() {
         // general settings for instant search
         const search = instantsearch({
             searchClient: algoliasearch(
@@ -18,7 +18,7 @@ var main = {
             searchParameters: {
                 filters: 'NOT search-ignore:true AND NOT isDraft:true AND lang:"' + document.querySelector('#language').innerHTML + '"'
             },
-            searchFunction(helper) {
+            searchFunction: function searchFunction(helper) {
                 search.helper.once('result', function() {
                     var event = document.createEvent('Event');
                     event.initEvent('searchCompleted', true, true);
@@ -58,12 +58,13 @@ var main = {
                     item: document.querySelector('#hit-template').innerHTML,
                     empty: document.querySelector('#no-results-template').innerHTML
                 },
-                transformItems(items) {
-                    return items.map(item => ({
-                        ...item,
-                        imageUrl: item.url.substr(0, item.url.lastIndexOf("/")) + '/' + (item.image_thumbnail ? item.image_thumbnail : item.image),
-                    }));
-                },
+                transformItems: function transformItems(items) {
+                    return items.map(function (item) {
+                        return _objectSpread({}, item, {
+                            imageUrl: item.url.substr(0, item.url.lastIndexOf("/")) + '/' + (item.image_thumbnail ? item.image_thumbnail : item.image)
+                        });
+                    });
+                }
             })
         );
 
@@ -74,14 +75,13 @@ var main = {
                 limit: 20,
                 sortBy: ['name:asc'],
                 templates: {
-                    item(data) {
-                        const { label, url, cssClasses, isRefined } = data;
+                    item: function item(data) {
+                        var label = data.label,
+                            url = data.url,
+                            cssClasses = data.cssClasses,
+                            isRefined = data.isRefined;
 
-                        return `
-                            <a class="${cssClasses.link} ${isRefined ? 'ais-Menu-link-active' : ''}" href="${url}">
-                              <span class="${cssClasses.label}">${label}</span>
-                            </a>
-                          `;
+                        return "<a class='" + cssClasses.link + " " + (isRefined ? 'ais-Menu-link-active' : '') + "' href=" + url + "><span class='" + cssClasses.label + "'>" + label + "</span> </a>";
                     },
                 },
             })
@@ -94,14 +94,13 @@ var main = {
                 limit: 20,
                 sortBy: ['name:asc'],
                 templates: {
-                    item(data) {
-                        const { label, url, cssClasses, isRefined } = data;
+                    item: function item(data) {
+                        var label = data.label,
+                            url = data.url,
+                            cssClasses = data.cssClasses,
+                            isRefined = data.isRefined;
 
-                        return `
-                            <a class="${cssClasses.link} ${isRefined ? 'ais-Menu-link-active' : ''}" href="${url}">
-                              <span class="${cssClasses.label}">${label}</span>
-                            </a>
-                          `;
+                        return "<a class='" + cssClasses.link + " " + (isRefined ? 'ais-Menu-link-active' : '') + "' href=" + url + "><span class='" + cssClasses.label + "'>" + label + "</span> </a>";
                     },
                 },
             })
@@ -124,3 +123,7 @@ function getUrlVars() {
 }
 
 document.addEventListener('DOMContentLoaded', main.init);
+
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(source, true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(source).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
+function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }

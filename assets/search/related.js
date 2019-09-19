@@ -4,7 +4,7 @@ layout: null
 
 var main = {
 
-    init: function () {
+    init: function init() {
         // general settings for instant search
         const search = instantsearch({
             searchClient: algoliasearch(
@@ -29,11 +29,12 @@ var main = {
                     item: document.querySelector('#hit-template').innerHTML,
                     empty: document.querySelector('#no-results-template').innerHTML
                 },
-                transformItems(items) {
-                    return items.map(item => ({
-                        ...item,
-                        imageUrl: item.url.substr(0, item.url.lastIndexOf("/")) + '/' + item.image,
-                    }));
+                transformItems: function transformItems(items) {
+                    return items.map(function (item) {
+                        return { ...item,
+                            imageUrl: item.url.substr(0, item.url.lastIndexOf("/")) + '/' + (item.image_thumbnail ? item.image_thumbnail : item.image)
+                        };
+                    });
                 },
             })
         );
