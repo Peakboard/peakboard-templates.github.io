@@ -4,7 +4,7 @@ title: Audits Overview
 description: 
   - This template gives an overview about running Audits.
 lang: en
-weight: 500
+weight: 650
 isDraft: false
 ref: Audits_Overview
 category:
