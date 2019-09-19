@@ -20,7 +20,8 @@ overview_description:
   - Inhalt&#58; Visualisierung von Fehlern innerhalb einer Produktionslinie. Genaue Position ist mit Hilfe eines Bildes ersichtlich, verstrichene Zeit seit der Fehler aufgetaucht wird ebenfalls angezeigt.
   - Use Case&#58; Ein Fehler in der SPS kann gemeldet werden. Wenn ein Fehler behoben ist wechselt die Ansicht wieder zurück zur normalen Ansicht.
 overview_benefits:
-  - Probleme und Fehlerarten können sofort und gezielt erkannt werden. Dies führ zu einer schnelleren Reaktionszeit bei Problemen.
+  - Probleme und Fehlerarten können sofort und gezielt erkannt werden. 
+  - Dies führt zu einer schnelleren Reaktionszeit bei Problemen.
 overview_data_sources:
   - SPS Fehlercodes
 ---
