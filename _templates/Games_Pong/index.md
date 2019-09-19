@@ -4,7 +4,7 @@ title: Pong spielen mit Peakboard
 description: 
   - Das klassische Pong spielen mit Peakboard.
 lang: de
-weight: 500
+weight: 200
 isDraft: false
 ref: Games_Pong
 category:

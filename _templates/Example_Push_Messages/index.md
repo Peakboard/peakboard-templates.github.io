@@ -4,7 +4,7 @@ title: Beispiel mit Push Messages
 description: 
   - Dieses Template ist teil des Hilfe-Artikels&#58; https://help.peakboard.com/misc/en-push-messages.html und zeigt wie man http Meldungen an eine Peakboard Box senden kann.
 lang: de
-weight: 500
+weight: 200
 isDraft: false
 ref: Example_Push_Messages
 category:

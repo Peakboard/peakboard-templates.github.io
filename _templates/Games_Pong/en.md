@@ -4,7 +4,7 @@ title: Pong Game with Peakboard
 description: 
   - The classic game Pong implemented with Peakboard.
 lang: en
-weight: 500
+weight: 200
 isDraft: false
 ref: Games_Pong
 category:

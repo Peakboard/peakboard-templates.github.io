@@ -4,7 +4,7 @@ title: Example with Push Messages
 description: 
   - This board is part of our help article&#58; https://help.peakboard.com/misc/en-push-messages.html and lets you push information to your peakboard box via http mail message
 lang: en
-weight: 500
+weight: 200
 isDraft: false
 ref: Example_Push_Messages
 category:

@@ -4,7 +4,7 @@ title: Batches Quality Overview
 description: 
   - This design includes the current order status in production
 lang: en
-weight: 500
+weight: 650
 isDraft: false
 ref: Batches_Quality
 category:

@@ -4,7 +4,7 @@ title: Chargenqualität Übersicht
 description: 
   - Dieses Template zeigt die Qualität der aktuellen Charge an.
 lang: de
-weight: 500
+weight: 650
 isDraft: false
 ref: Batches_Quality
 category:

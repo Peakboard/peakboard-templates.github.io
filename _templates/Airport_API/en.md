@@ -2,9 +2,9 @@
 layout: article
 title: Airport Stuttgart API
 description: 
-  - Dieses Template dient der Visualisierung der Abflug-API (Schnittstelle) des Flughafens Stuttgart.
+  - This board is used to visualize the Departures API of Stuttgart Airport.
 lang: en
-weight: 100
+weight: 1000
 isDraft: false
 ref: Airport_API
 category:

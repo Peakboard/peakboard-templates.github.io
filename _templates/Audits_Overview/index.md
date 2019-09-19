@@ -4,7 +4,7 @@ title: Audits Übersicht
 description: 
   - Dieses Template gibt eine Übersicht über aktuelle Audits im Betrieb.
 lang: de
-weight: 500
+weight: 650
 isDraft: false
 ref: Audits_Overview
 category:
