@@ -9,9 +9,13 @@ isDraft: false
 ref: Production_Line_Metrics
 category:
   - Recommended
-  - Production
-  - Single Line
-  - Overview
+  - Empfohlen
+  - Produktion
+  - Massenproduktion
+  - Aktueller Produktionsstatus
+  - Einzelne Linie
+  - Übersicht
+  - Linienstatus
 image: Production_Line_Metrics_DE.png
 download: Production_Line_Metrics_DE.pbmx
 overview_description:
@@ -19,7 +23,7 @@ overview_description:
   - Mitte&#58; Anzahl der fertigen Teile im Verhältnis zur Auftragsmenge
   - Rechts&#58; OEE Wert, Zykluslänge
 overview_benefits:
-  - Monitor hängt in der Produktionshalle. Es kann mit einem Blick alle wichtigen Metriken zur Qualität, Zeit und Produktionsstand erkannt werden. Diese Informationen reduziert die Reaktionszeit. 
+  - Bildschirm hängt in der Produktionshalle. Es können mit einem Blick alle wichtigen Metriken zur Qualität, Zeit und Produktionsstand erkannt werden. Diese Informationen reduzieren die Reaktionszeit.
 overview_data_sources:
   - SPS
   - MES

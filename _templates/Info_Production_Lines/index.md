@@ -13,6 +13,9 @@ category:
   - Produktionslinien
   - Recommended
   - Empfohlen
+  - Massenproduktion
+  - Aktueller Produktionsstatus
+  - Linienstatus
 image: Info_Production_Lines_DE.png
 download: Info_Production_Lines_DE.pbmx
 overview_description: 

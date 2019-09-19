@@ -10,6 +10,9 @@ ref: Info_Production_Lines
 category:
   - Production
   - Recommended
+  - Mass production
+  - Current production status
+  - Line status
 image: Info_Production_Lines_EN.png
 download: Info_Production_Lines_EN.pbmx
 overview_description: 
