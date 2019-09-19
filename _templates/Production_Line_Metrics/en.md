@@ -15,11 +15,14 @@ category:
 image: Production_Line_Metrics_EN.png
 download: Production_Line_Metrics_EN.pbmx
 overview_description:
-  - a
+  - Left side&#58; Scrap rate and quality level
+  - Middle part&#58; Screen production overview​
+  - Right side&#58; OEE, Cycle time
 overview_benefits:
-  - b
+  - Dashboard is attached at the production line. Operator can see immediately, if quality, time, etc. is alright. The result is optimized response times.
 overview_data_sources:
-  - c
+  - SPS
+  - MES
 related:
   - title: related 1
     image: Production_Line_Metrics_EN.png

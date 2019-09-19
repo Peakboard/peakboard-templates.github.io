@@ -12,7 +12,11 @@ category:
   - Recommended
 image: Info_Production_Lines_EN.png
 download: Info_Production_Lines_EN.pbmx
-overview_description:
+overview_description: 
+  - Presentation of production lines; Line names; Product type; Current produced parts; Batch production status in %​
 overview_benefits:
+  - Dashboard is located in the production hall, operator can see all lines at a glance and gets a full overview. ​
 overview_data_sources:
+  - SPS
+  - MES
 ---
