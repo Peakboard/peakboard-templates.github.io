@@ -83,8 +83,10 @@ layout: base
 
 {% assign content = page.content | strip_newlines %}
 {% if content and content != '' %}
-<section class="article-content max-w-xl px-4 mx-auto py-8 {% if darkBackground == 'true' %}dark-background{% endif %}">
-    {{ content }}
+<section class="article-content content-center {% if darkBackground == 'true' %}dark-background{% endif %}">
+    <div class="max-w-xl px-4 mx-auto py-8 ">
+        {{ content }}
+    </div>
 </section>
 {% capture darkBackground %}{% if darkBackground == 'true' %}false{% else %}true{% endif %}{% endcapture %}
 {% endif %}
