@@ -13,6 +13,7 @@ category:
   - Single Line
   - Overview
 image: Production_Lines_Andon_EN.png
+image_thumbnail: Production_Lines_Andon_EN_thumbnail.png
 download: Production_Lines_Andon_EN.pbmx
 overview_description:
 overview_benefits:
