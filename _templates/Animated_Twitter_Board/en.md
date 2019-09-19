@@ -4,7 +4,7 @@ title: Animated Twitter Board
 description: 
   - This board shows the last six Twitter Posts, the last one is shown in the middle and the other five run through a Live Tile Box one after the other.
 lang: en
-weight: 300
+weight: 280
 isDraft: false
 ref: Animated_Twitter_Board
 category:

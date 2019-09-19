@@ -4,7 +4,7 @@ title: Email Shoutbox
 description: 
   - This board is used to engage other users. Everyone can send an email to a dedicated adress and the content of the subject is displayed in a text box.
 lang: en
-weight: 500
+weight: 210
 isDraft: false
 ref: Email_Shoutbox
 category:
