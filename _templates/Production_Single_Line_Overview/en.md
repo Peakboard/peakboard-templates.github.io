@@ -4,7 +4,7 @@ title: Production Single Line Overview
 description: 
   - This board gives an overview about the current is/target state of an order and displays the current OEE and a history how the OEE has developed. Replace the variables with your data sources and make it yours.
 lang: en
-weight: 500
+weight: 1000
 isDraft: false
 ref: Production_Single_Line_Overview
 category:

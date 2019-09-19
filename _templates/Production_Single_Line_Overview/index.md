@@ -4,7 +4,7 @@ title: Einzelne Produktionslinie Übersicht
 description: 
   - Dieses Board gibt eine Übersicht wie der aktuell soll/ist status einer Bestellung ist und zeigt den aktuellen OEE (GAE) Wert an und zeigt wie sich dieser entwickelt hat.
 lang: de
-weight: 500
+weight: 1000
 isDraft: false
 ref: Production_Single_Line_Overview
 category:

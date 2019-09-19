@@ -4,7 +4,7 @@ title: Single Seat Production Board
 description: 
   - This is a board for a single production seat. It works with a touchscreen and gives the possibility to report a problem and track the actual time for a single work step.
 lang: en
-weight: 500
+weight: 1000
 isDraft: false
 ref: Single_Seat_Production_Board
 category:
