@@ -2,7 +2,7 @@
 layout: article
 title: Welcome Screen Online Single
 description: 
-  - With this template you can easily get started with your welcome screen. Replace the Logo, add your background images and update the weather widget to make it yours. This visualization uses a Microsoft 365 Calendar as a data source to get appointments from a calendar. Verify your calendar to get it running.
+  - With this template you can easily get started with your welcome screen. Replace the Logo, add your background images and update the weather widget to make it yours.
 lang: en
 weight: 300
 isDraft: false
