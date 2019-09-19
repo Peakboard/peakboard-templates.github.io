@@ -19,6 +19,12 @@ var main = {
                 filters: 'NOT search-ignore:true AND NOT isDraft:true AND lang:"' + document.querySelector('#language').innerHTML + '"'
             },
             searchFunction(helper) {
+                search.helper.once('result', function() {
+                    var event = document.createEvent('Event');
+                    event.initEvent('searchCompleted', true, true);
+                    document.dispatchEvent(event);
+                });
+
                 if(getUrlVars()["fromHomepage"]) {
                     $('.ais-search-box--input').val(decodeURI(getUrlVars()["fromHomepage"]));
                     helper.setQuery(decodeURI(getUrlVars()["fromHomepage"])).search();
