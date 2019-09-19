@@ -55,7 +55,7 @@ var main = {
                 transformItems(items) {
                     return items.map(item => ({
                         ...item,
-                        imageUrl: item.url.substr(0, item.url.lastIndexOf("/")) + '/' + item.image_thumbnail,
+                        imageUrl: item.url.substr(0, item.url.lastIndexOf("/")) + '/' + (item.image_thumbnail ? item.image_thumbnail : item.image),
                     }));
                 },
             })
