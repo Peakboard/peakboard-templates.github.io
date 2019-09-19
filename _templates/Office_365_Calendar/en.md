@@ -4,7 +4,7 @@ title: Office 365 Calendar
 description: 
   - This board is used to display an Office 365 Calendar within a peakboard visualization. In this case it is our events Calendar that we update frequently.
 lang: en
-weight: 500
+weight: 300
 isDraft: false
 ref: Office_365_Calendar
 category:

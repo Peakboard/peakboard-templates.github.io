@@ -4,7 +4,7 @@ title: Warnung Info Screen
 description: 
   - Zeigt eine Warnmeldung mit weiteren Information an.
 lang: de
-weight: 100
+weight: 400
 isDraft: false
 ref: Alarm_Info_Screen
 category:

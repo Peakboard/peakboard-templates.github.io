@@ -4,7 +4,7 @@ title: Welcome Template using Excel file
 description: 
   - A nice Welcome Screen for a Reception or a Lobby. Maintained within a Excel file.
 lang: en
-weight: 500
+weight: 290
 isDraft: false
 ref: Welcome_Template_Excel
 category:

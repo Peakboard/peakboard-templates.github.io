@@ -4,7 +4,7 @@ title: Willkommensbildschirm mit Excel Anbindung
 description: 
   - Ein Willkommensbildschirm für den Empfangsbereich oder Lobby. Gepflegt mit Hilfe einer Excel Datei.
 lang: de
-weight: 500
+weight: 290
 isDraft: false
 ref: Welcome_Template_Excel
 category:
