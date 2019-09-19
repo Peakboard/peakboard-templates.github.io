@@ -4,7 +4,7 @@ title: LKW Info Bildschirm
 description: 
   - Diese Template gibt eine Übersicht welches Tor welchem LKW zur Verfügung steht.
 lang: de
-weight: 2000
+weight: 500
 isDraft: false
 ref: Truck_Info_Screen
 category:

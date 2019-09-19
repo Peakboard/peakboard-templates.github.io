@@ -4,7 +4,7 @@ title: Truck Info Screen
 description: 
   - This design screen is clearly arranged for a better process
 lang: en
-weight: 2000
+weight: 500
 isDraft: false
 ref: Truck_Info_Screen
 category:
