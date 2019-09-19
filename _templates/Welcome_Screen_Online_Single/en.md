@@ -154,7 +154,7 @@ If no other appointment exists today, the general welcome text from the text_lab
 
 ### Manage multiple appointments with a MS Office calendar
 
-To be able to use the [visualization with calendar attachment](https://templates.peakboard.com/Welcome_Screen_Calendar/en), you must contact us Register your private - or better yet a shared - calendar account into your Microsoft account and activate a share for the necessary information for Peakboard.
+To be able to use the [visualization with calendar attachment](https://templates.peakboard.com/Welcome_Screen_Calendar/en), you must register your private - or better yet a shared - calendar account into your Microsoft account and activate a share for the necessary information for Peakboard.
 
 Open the visualization file with the Peakboard Designer. Now you can open the calendar data source in the left sidebar (Visualization -> Data -> Calendar). Under the second item 'Authorization status', you must now set up a share for your calendar via the 'Authorize' button. To do this, follow the Windows logon steps and allow Peakboard to access the calendar. Once the authorization has been granted, you can close the dialog with OK, save the visualization. Now upload the current visualization to your Peakboard Box.
 
