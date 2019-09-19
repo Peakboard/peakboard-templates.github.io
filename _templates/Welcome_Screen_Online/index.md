@@ -12,8 +12,8 @@ category:
   - Welcome
   - Willkommen
   - Empfangsbildschirm
-image: Welcome_Screen_Online_DE.png
-download: Welcome_Screen_Online_DE.pbmx
+image: Welcome_Screen_Online_EN.png
+download: Welcome_Screen_Online_EN.pbmx
 overview_description:
   - Links&#58; eine Uhr und ein paar Wetterinformationen
   - Rechts&#58; Hier finden Sie die anstehenden Termine
