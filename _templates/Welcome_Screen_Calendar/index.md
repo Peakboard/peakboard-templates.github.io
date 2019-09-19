@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Willkommensbildschirm mit Kalendaranbindung
+title: Willkommensbildschirm mit Kalenderanbindung
 description: 
   - Mit dieser Vorlage können Sie ganz einfach mit Ihrem Begrüßungsbildschirm beginnen. Ersetzen Sie das Logo, fügen Sie Ihre Hintergrundbilder hinzu und aktualisieren Sie das Wetter-Widget. Diese Visualisierung verwendet einen Microsoft 365-Kalender als Datenquelle, um Termine aus einem Kalender abzurufen. Verbinden Sie Ihren Kalender, um das Template für Ihren Kalender zu nutzen.
 lang: de
