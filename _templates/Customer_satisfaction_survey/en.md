@@ -9,6 +9,9 @@ weight: 500
 isDraft: false
 ref: Customer_satisfaction_survey
 category:
+  - Interactive
+  - Touch
+  - Button
 image: Customer_satisfaction_survey_EN.png
 download: Customer_satisfaction_survey_EN.pbmx
 overview_description:

@@ -8,7 +8,6 @@ weight: 650
 isDraft: false
 ref: Audits_Overview
 category:
-  - Food
   - Lebensmittel
   - Produktion
   - Audit

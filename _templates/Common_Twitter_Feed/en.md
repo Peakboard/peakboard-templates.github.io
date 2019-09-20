@@ -8,6 +8,9 @@ weight: 500
 isDraft: false
 ref: Common_Twitter_Feed
 category:
+  - Twitter
+  - Social Media
+  - Feed
 image: Common_Twitter_Feed_EN.png
 download: Common_Twitter_Feed_EN.pbmx
 overview_description:

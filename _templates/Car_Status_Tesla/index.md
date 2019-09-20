@@ -8,11 +8,15 @@ weight: 500
 isDraft: false
 ref: Car_Status_Tesla
 category:
+  - Tesla
+  - Auto
+  - Schnittstelle
 image: Car_Status_Tesla_DE.png
 download: Car_Status_Tesla_DE.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
+  - Tesla Schnittstelle
 ---
 # Remarks
 

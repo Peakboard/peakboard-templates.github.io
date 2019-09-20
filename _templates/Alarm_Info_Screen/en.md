@@ -8,8 +8,10 @@ weight: 400
 isDraft: false
 ref: Alarm_Info_Screen
 category:
-  - Stocks
-  - Price Overview
+  - Alarm
+  - Warning
+  - Error
+  - Problem
 image: Alarm_Info_Screen_DE.png
 download: Alarm_Info_Screen_DE.pbmx
 overview_description:

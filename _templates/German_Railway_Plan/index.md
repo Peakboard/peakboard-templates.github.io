@@ -12,7 +12,7 @@ category:
   - Zug
   - Bahn
   - ÖPNV
-  - Öffentliche Verkehrsmittel
+  - Abfahrtsplan
 image: German_Railway_Plan_EN.png
 download: German_Railway_Plan_EN.pbmx
 overview_description:

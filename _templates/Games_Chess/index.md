@@ -1,16 +1,16 @@
 ---
 layout: article
-title: Schach Beispiel
+title: Schach spielen mit Peakboard
 description: 
   - Dieses Template zeigt ein Beispiel wie man ein Schachspiel mit Peakboard realisieren kann.
 lang: de
 weight: 10
 isDraft: true
-ref: Chess
+ref: Games_Chess
 category:
   - Games
-image: Chess.png
-download: Chess.pbmx
+image: Games_Chess.png
+download: Games_Chess.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

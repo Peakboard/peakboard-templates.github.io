@@ -11,7 +11,9 @@ category:
   - Logistik
   - LKW
   - Gabelstapler
-  - Torüberwachung
+  - Überwachung
+  - Touch
+  - Interaktiv
 image: Fork_Lift_Truck_Screen_DE.png
 download: Fork_Lift_Truck_Screen_DE.pbmx
 overview_description:

@@ -8,6 +8,9 @@ weight: 500
 isDraft: false
 ref: German_News_Tagesschau
 category:
+  - News
+  - Digital Signage
+  - Public
 image: German_News_Tagesschau_DE.png
 download: German_News_Tagesschau_DE.pbmx
 overview_description:

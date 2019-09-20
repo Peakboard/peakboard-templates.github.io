@@ -10,6 +10,7 @@ ref: Animated_Twitter_Board
 category:
   - Twitter
   - Social Media
+  - Soziale Netzwerke
 image: Animated_Twitter_Board_EN.png
 download: Animated_Twitter_Board_EN.pbmx
 overview_description:

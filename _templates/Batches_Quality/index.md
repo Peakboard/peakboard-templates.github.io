@@ -8,8 +8,9 @@ weight: 650
 isDraft: false
 ref: Batches_Quality
 category:
-  - Food
   - Lebensmittel
+  - Produktion
+  - Chargen
   - Produktion
 image: Batches_Quality_DE.png
 download: Batches_Quality_DE.pbmx

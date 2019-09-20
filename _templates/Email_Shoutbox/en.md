@@ -8,6 +8,9 @@ weight: 210
 isDraft: false
 ref: Email_Shoutbox
 category:
+  - Example
+  - Scripting
+  - Email
 image: Email_Shoutbox_EN.png
 download: Email_Shoutbox_EN.pbmx
 overview_description:

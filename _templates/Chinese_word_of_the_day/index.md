@@ -9,8 +9,9 @@ weight: 10
 isDraft: true
 ref: Chinese_word_of_the_day
 category:
-  - Random
-  - Quotes
+  - Zufällig
+  - Zitate
+  - Spaß
 image: Chinese_word_of_the_day_EN.png
 download: Chinese_word_of_the_day_EN.pbmx
 overview_description:

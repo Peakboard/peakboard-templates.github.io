@@ -11,6 +11,7 @@ ref: Chinese_word_of_the_day
 category:
   - Random
   - Quotes
+  - Fun
 image: Chinese_word_of_the_day_EN.png
 download: Chinese_word_of_the_day_EN.pbmx
 overview_description:

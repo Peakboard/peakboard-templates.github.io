@@ -9,7 +9,10 @@ isDraft: false
 ref: Commodity_Prices
 category:
   - Stocks
-  - Price Overview
+  - Aktien
+  - Rohstoffe
+  - Preise
+  - Handel
 image: Commodity_Prices_DE.png
 download: Commodity_Prices_DE.pbmx
 overview_description:

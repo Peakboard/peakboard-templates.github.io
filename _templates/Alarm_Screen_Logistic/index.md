@@ -9,9 +9,8 @@ isDraft: false
 ref: Alarm_Screen_Logistic
 category:
   - Alarm
-  - Error
-  - Warnung
   - Fehler
+  - Warnung
   - Logistik
   - Lager
 image: Alarm_Screen_Logistic_DE.png

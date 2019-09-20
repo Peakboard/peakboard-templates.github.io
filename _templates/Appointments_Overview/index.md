@@ -13,6 +13,7 @@ category:
   - Empfangsbildschirm 
   - Recommended
   - Empfohlen
+  - Administration
 image: Appointments_Overview_EN.png
 download: Appointments_Overview_EN.pbmx
 overview_description:

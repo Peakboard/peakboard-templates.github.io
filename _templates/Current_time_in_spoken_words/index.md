@@ -8,6 +8,7 @@ weight: 500
 isDraft: false
 ref: Current_time_in_spoken_words
 category:
+  - Spaß
 image: Current_time_in_spoken_words_DE.png
 download: Current_time_in_spoken_words_DE.pbmx
 overview_description:

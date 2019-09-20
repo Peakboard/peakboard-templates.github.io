@@ -10,6 +10,9 @@ ref: Complex_Data_Aggregation
 category:
   - Data
   - Aggregation
+  - Calculate
+  - Example
+  - Scripting
 image: Complex_Data_Aggregation_EN.png
 download: Complex_Data_Aggregation_EN.pbmx
 overview_description:

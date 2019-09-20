@@ -10,6 +10,8 @@ ref: Appointments_Overview
 category:
   - Appointments
   - Recommended
+  - Administration
+  - Welcome
 image: Appointments_Overview_EN.png
 download: Appointments_Overview_EN.pbmx
 overview_description:

@@ -6,11 +6,11 @@ description:
 lang: en
 weight: 10
 isDraft: true
-ref: Chess
+ref: Games_Chess
 category:
   - Games
-image: Chess.png
-download: Chess.pbmx
+image: Games_Chess.png
+download: Games_Chess.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

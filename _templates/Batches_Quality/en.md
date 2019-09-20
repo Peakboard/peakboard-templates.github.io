@@ -10,6 +10,8 @@ ref: Batches_Quality
 category:
   - Food
   - Production
+  - Batches
+  - Production
 image: Batches_Quality_EN.png
 download: Batches_Quality_EN.pbmx
 overview_description:
