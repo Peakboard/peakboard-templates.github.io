@@ -9,9 +9,16 @@ isDraft: false
 ref: Warehouse_Workload
 category:
   - Empfohlen
+  - Logistik
+  - Verkauf
 image: Warehouse_Workload_DE.png
 download: Warehouse_Workload_DE.pbmx
 overview_description:
+  - 4 verschiedene Lager mit den selben Displays
+  - ​Peakboard-Box berechnet das Delta zwischen dem geplanten und aktuellen Status
 overview_benefits:
+  - Schnell ersichtlich wo es mehr Personalbedarf benötigt und so kann eine gezielte Mitarbeitersteuerung erfolgen.
 overview_data_sources:
+  - ERP
+  - SAP
 ---
