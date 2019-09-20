@@ -14,14 +14,3 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# Slideshow 
-
-
-# Category
-Use Case
-
-# Title 
-Slideshow
-
-![](Slideshow-EN.png)
-[Download Template](Slideshow-EN.pbmx?raw=true)
