@@ -11,6 +11,7 @@ category:
   - Labor
   - Qualität
 image: Labor_Quality_Metrics_DE.png
+image_thumbnail: Labor_Quality_Metrics_DE_thumbnail.png
 download: Labor_Quality_Metrics_DE.pbmx
 overview_description:
 overview_benefits:

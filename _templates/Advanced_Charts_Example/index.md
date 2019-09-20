@@ -13,6 +13,7 @@ category:
   - Charts
   - Diagramm
 image: Advanced_Charts_Example_DE.png
+image_thumbnail: Advanced_Charts_Example_DE_thumbnail.png
 download: Advanced_Charts_Example_DE.pbmx
 overview_description:
 overview_benefits:
