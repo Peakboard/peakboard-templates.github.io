@@ -15,6 +15,7 @@ category:
   - Übersicht
   - Andon
 image: Production_Lines_Andon_DE.png
+image_thumbnail: Production_Lines_Andon_DE_thumbnail.png
 download: Production_Lines_Andon_DE.pbmx
 overview_description:
 overview_benefits:
