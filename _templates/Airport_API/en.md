@@ -12,6 +12,7 @@ category:
   - Public Transport
   - API
 image: Airport_API_EN.png
+image_thumbnail: Airport_API_EN_thumbnail.png
 download: Airport_API_EN.pbmx
 overview_description:
 overview_benefits:

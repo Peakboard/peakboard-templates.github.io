@@ -15,6 +15,7 @@ category:
   - Warning
   - Error report
 image: Production_Line_Status_EN.png
+image_thumbnail: Production_Line_Status_EN_thumbnail.png
 download: Production_Line_Status_EN.pbmx
 overview_description:
   - Content&#58; Visualization of production line​ Clear error identification, location and duration of error time; It has to show up a reaction activity e.g.&#58; Refill material

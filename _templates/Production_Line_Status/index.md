@@ -15,6 +15,7 @@ category:
   - Fehler
   - Fehlermeldung
 image: Production_Line_Status_DE.png
+image_thumbnail: Production_Line_Status_DE_thumbnail.png
 download: Production_Line_Status_DE.pbmx
 overview_description:
   - Inhalt&#58; Visualisierung von Fehlern innerhalb einer Produktionslinie. Genaue Position ist mit Hilfe eines Bildes ersichtlich, verstrichene Zeit seit der Fehler aufgetaucht wird ebenfalls angezeigt.
