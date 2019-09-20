@@ -9,7 +9,7 @@ isDraft: false
 ref: Car_Status_Tesla
 category:
   - Tesla
-  - Auto
+  - Automobil
   - Schnittstelle
 image: Car_Status_Tesla_DE.png
 download: Car_Status_Tesla_DE.pbmx

@@ -9,6 +9,8 @@ isDraft: false
 ref: Production_Single_Line_Overview
 category:
   - Production
+  - Automobil
+  - Massenproduktion
 image: Production_Single_Line_Overview_DE.png
 download: Production_Single_Line_Overview_DE.pbmx
 overview_description:
