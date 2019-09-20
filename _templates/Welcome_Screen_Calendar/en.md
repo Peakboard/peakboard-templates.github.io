@@ -12,6 +12,7 @@ category:
   - Welcome
   - Featured
 image: Welcome_Screen_Calendar_EN.png
+image_thumbnail: Welcome_Screen_Calendar_EN_thumbnail.png
 download: Welcome_Screen_Calendar_EN.pbmx
 overview_description:
   - Left&#58; Shows the current time and some information about the weather.

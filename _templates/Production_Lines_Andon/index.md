@@ -13,6 +13,7 @@ category:
   - Produktion
   - Einzelne Linie
   - Übersicht
+  - Andon
 image: Production_Lines_Andon_DE.png
 download: Production_Lines_Andon_DE.pbmx
 overview_description:

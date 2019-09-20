@@ -15,6 +15,7 @@ category:
   - Featured
   - Beliebt
 image: Welcome_Screen_Calendar_EN.png
+image_thumbnail: Welcome_Screen_Calendar_EN_thumbnail.png
 download: Welcome_Screen_Calendar_EN.pbmx
 overview_description:
   - Links&#58; eine Uhr und ein paar Wetterinformationen
