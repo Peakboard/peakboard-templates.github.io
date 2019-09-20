@@ -14,6 +14,7 @@ category:
   - Fehler
   - Problem
 image: Machine_Single_Status_DE.png
+image_thumbnail: Machine_Single_Status_DE_thumbnail.png
 download: Machine_Single_Status_DE.pbmx
 overview_description:
 overview_benefits:

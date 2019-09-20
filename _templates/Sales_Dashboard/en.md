@@ -11,6 +11,7 @@ category:
   - Sales
   - Administration
 image: Sales_Dashboard_EN.png
+image_thumbnail: Sales_Dashboard_EN_thumbnail.png
 download: Sales_Dashboard_EN.pbmx
 overview_description:
 overview_benefits:
