@@ -8,6 +8,9 @@ weight: 650
 isDraft: false
 ref: Production_Count
 category:
+  - Zähler
+  - Groß
+  - Lebensmittel
 image: Production_Count_DE.png
 download: Production_Count_DE.pbmx
 overview_description:

@@ -8,6 +8,9 @@ weight: 650
 isDraft: false
 ref: Production_Count
 category:
+  - Count
+  - Large
+  - Food
 image: Production_Count_EN.png
 download: Production_Count_EN.pbmx
 overview_description:

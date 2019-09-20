@@ -9,6 +9,8 @@ isDraft: false
 ref: OKR_Board
 category:
   - OKR
+  - Ziele
+  - Einhaltung
 image: OKR_Board_DE.png
 download: OKR_Board_DE.pbmx
 overview_description:

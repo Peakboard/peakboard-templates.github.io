@@ -8,6 +8,9 @@ weight: 500
 isDraft: false
 ref: OPC_UA_Punch
 category:
+  - OPC UA
+  - Stanze
+  - Leistung
 image: OPC_UA_Punch_EN.png
 download: OPC_UA_Punch_DE.pbmx
 overview_description:

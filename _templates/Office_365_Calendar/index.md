@@ -8,6 +8,10 @@ weight: 280
 isDraft: false
 ref: Office_365_Calendar
 category:
+ - Kalender
+ - Office
+ - Beispiel
+ - Scripting
 image: Office_365_Calendar_EN.png
 download: Office_365_Calendar_EN.pbmx
 overview_description:

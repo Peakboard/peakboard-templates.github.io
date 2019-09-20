@@ -9,6 +9,9 @@ isDraft: false
 ref: OKR_Board
 category:
   - OKR
+  - Goals
+  - Targets
+  - Objectives
 image: OKR_Board_EN.png
 download: OKR_Board_EN.pbmx
 overview_description:
