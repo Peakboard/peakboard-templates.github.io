@@ -12,6 +12,7 @@ category:
   - Automobil
   - Schnittstelle
 image: Car_Status_Tesla_DE.png
+image_thumbnail: Car_Status_Tesla_DE_thumbnail.png
 download: Car_Status_Tesla_DE.pbmx
 overview_description:
 overview_benefits:
