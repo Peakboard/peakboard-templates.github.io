@@ -13,9 +13,16 @@ category:
   - Warnung
   - Fehler
   - Logistik
+  - Lager
 image: Alarm_Screen_Logistic_DE.png
 download: Alarm_Screen_Logistic_DE.pbmx
 overview_description:
+  - Oben&#58;	Aktueller Fehlercode aus der Kontrolleinheit, Position des Fehlers und verstrichene Dauer seit der Fehler aufgetreten ist.
+  - Unten&#58;	Aus dem ERP-System wichtige Information, wie die Art des Frachtguts, handelt es sich um Gefahrgut etc.
 overview_benefits:
+  - Bisher mussten Mitarbeiter immer bis ans Ende eines Hochregallagers laufen um das Problem zu erkennen. Durch das Anbringen von mehreren Monitoren können diese Fehler einfacher erkannt und schneller behoben werden.
 overview_data_sources:
+  - ERP
+  - Kontrolleinheit
+  - Datenbank
 ---
