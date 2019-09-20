@@ -13,6 +13,7 @@ category:
   - Feed
   - Soziale Medien
 image: Common_Twitter_Feed_EN.png
+image_thumbnail: Common_Twitter_Feed_EN_thumbnail.png
 download: Common_Twitter_Feed_EN.pbmx
 overview_description:
 overview_benefits:

@@ -10,6 +10,7 @@ ref: Truck_Assignment
 category:
   - Logistik
 image: Truck_Assignment_DE.png
+image_thumbnail: Truck_Assignment_DE_thumbnail.png
 download: Truck_Assignment_DE.pbmx
 overview_description:
 overview_benefits:
