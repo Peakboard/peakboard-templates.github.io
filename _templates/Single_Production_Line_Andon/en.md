@@ -9,7 +9,7 @@ isDraft: false
 ref: Single_Production_Line_Andon
 category:
   - Andon
-  - Recommended
+  - Featured
 image: Single_Production_Line_Andon_EN.png
 download: Single_Production_Line_Andon_EN.pbmx
 overview_description:

@@ -11,8 +11,8 @@ category:
   - Willkommensbildschirm
   - Termine
   - Empfangsbildschirm 
-  - Recommended
-  - Empfohlen
+  - Featured
+  - Beliebt
   - Administration
 image: Appointments_Overview_EN.png
 download: Appointments_Overview_EN.pbmx

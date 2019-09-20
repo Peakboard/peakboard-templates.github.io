@@ -8,8 +8,8 @@ weight: 1000
 isDraft: false
 ref: Production_Line_Efficiency
 category:
-  - Empfohlen
-  - Recommended
+  - Beliebt
+  - Featured
   - Produktion
 image: Production_Line_Efficiency_EN.png
 download: Production_Line_Efficiency_EN.pbmx

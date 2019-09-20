@@ -8,7 +8,7 @@ weight: 1000
 isDraft: false
 ref: Server_Performance
 category:
-  - Recommended
+  - Featured
   - Server
   - Maintanance
   - Infrastructure

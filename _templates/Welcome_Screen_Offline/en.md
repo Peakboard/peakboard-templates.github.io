@@ -10,7 +10,7 @@ ref: Welcome_Screen_Offline
 category:
   - Use Case
   - Welcome
-  - Recommended
+  - Featured
 image: Welcome_Screen_Offline_EN.png
 download: Welcome_Screen_Offline_EN.pbmx
 overview_description:

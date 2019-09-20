@@ -8,7 +8,7 @@ weight: 2000
 isDraft: false
 ref: Production_Line_Metrics
 category:
-  - Recommended
+  - Featured
   - Production
   - Single Line
   - Overview

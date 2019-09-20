@@ -11,8 +11,7 @@ category:
   - Produktion
   - Übersicht
   - Produktionslinien
-  - Recommended
-  - Empfohlen
+  - Beliebt
   - Massenproduktion
   - Aktueller Produktionsstatus
   - Linienstatus

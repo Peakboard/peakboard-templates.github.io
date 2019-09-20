@@ -9,7 +9,7 @@ isDraft: false
 ref: Appointments_Overview
 category:
   - Appointments
-  - Recommended
+  - Featured
   - Administration
   - Welcome
 image: Appointments_Overview_EN.png

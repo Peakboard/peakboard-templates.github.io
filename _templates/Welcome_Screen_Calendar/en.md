@@ -10,7 +10,7 @@ ref: Welcome_Screen_Calendar
 category:
   - Use Case
   - Welcome
-  - Recommended
+  - Featured
 image: Welcome_Screen_Calendar_EN.png
 download: Welcome_Screen_Calendar_EN.pbmx
 overview_description:

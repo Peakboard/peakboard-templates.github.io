@@ -8,7 +8,7 @@ weight: 600
 isDraft: false
 ref: Warehouse_Workload
 category:
-  - Recommended
+  - Featured
   - Logistic
   - Retail
 image: Warehouse_Workload_EN.png

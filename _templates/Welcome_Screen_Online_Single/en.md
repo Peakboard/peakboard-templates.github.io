@@ -10,7 +10,7 @@ ref: Welcome_Screen_Online_Single
 category:
   - Use Case
   - Welcome
-  - Recommended
+  - Featured
 image: Welcome_Screen_Online_Single_EN.png
 download: Welcome_Screen_Online_Single_EN.pbmx
 overview_description:

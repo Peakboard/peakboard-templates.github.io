@@ -12,8 +12,8 @@ category:
   - Welcome
   - Willkommen
   - Empfangsbildschirm
-  - Recommended
-  - Empfohlen
+  - Featured
+  - Beliebt
 image: Welcome_Screen_Calendar_EN.png
 download: Welcome_Screen_Calendar_EN.pbmx
 overview_description:

@@ -8,7 +8,7 @@ weight: 1000
 isDraft: false
 ref: Production_Hall
 category:
-  - Recommended
+  - Featured
 image: Production_Hall_EN.png
 download: Production_Hall_EN.pbmx
 overview_description:

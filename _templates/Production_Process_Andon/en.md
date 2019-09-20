@@ -9,7 +9,7 @@ isDraft: false
 ref: Production_Process_Andon
 category:
   - Andon
-  - Recommended
+  - Featured
 image: Production_Process_Andon_EN.png
 download: Production_Process_Andon_EN.pbmx
 overview_description:

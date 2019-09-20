@@ -9,7 +9,7 @@ isDraft: false
 ref: Info_Production_Lines
 category:
   - Production
-  - Recommended
+  - Featured
   - Mass production
   - Current production status
   - Line status

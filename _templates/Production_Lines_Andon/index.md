@@ -8,8 +8,8 @@ weight: 3000
 isDraft: false
 ref: Production_Lines_Andon
 category:
-  - Recommended
-  - Empfohlen
+  - Featured
+  - Beliebt
   - Produktion
   - Einzelne Linie
   - Übersicht

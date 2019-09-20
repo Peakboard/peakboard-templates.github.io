@@ -8,8 +8,8 @@ weight: 2000
 isDraft: false
 ref: Production_Line_Metrics
 category:
-  - Recommended
-  - Empfohlen
+  - Featured
+  - Beliebt
   - Produktion
   - Massenproduktion
   - Aktueller Produktionsstatus
