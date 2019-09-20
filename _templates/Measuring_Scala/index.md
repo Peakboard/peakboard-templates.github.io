@@ -3,8 +3,8 @@ layout: article
 title: Hygiene Skala
 description: 
   - Dieses Template zeigt den aktuellen Stand der Hygiene innerhalb der Produktion an.
-lang: en
-weight: 500
+lang: de
+weight: 650
 isDraft: false
 ref: Measuring_Scala
 category:

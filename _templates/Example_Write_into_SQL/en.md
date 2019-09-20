@@ -4,7 +4,7 @@ title: Write into SQL Database Example
 description: 
   - This board is used to write into a SQL Server from your Peakboard Box
 lang: en
-weight: 500
+weight: 200
 isDraft: false
 ref: Example_Write_into_SQL
 category:

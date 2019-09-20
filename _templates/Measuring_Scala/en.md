@@ -4,7 +4,7 @@ title: Hygiene Measuring Scala
 description: 
   - This template shows the current hygiene status of the production.
 lang: en
-weight: 500
+weight: 650
 isDraft: false
 ref: Measuring_Scala
 category:

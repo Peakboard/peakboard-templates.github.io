@@ -4,7 +4,7 @@ title: Schreiben in eine SQL Datenbank
 description: 
   - Dieses Template veranschaulicht wie Sie Daten in einen SQL Server von Ihrem Peakboard aus schreiben können.
 lang: de
-weight: 500
+weight: 200
 isDraft: false
 ref: Example_Write_into_SQL
 category:
