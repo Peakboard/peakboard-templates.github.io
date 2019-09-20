@@ -10,7 +10,8 @@ ref: MQTT_Example
 category:
   - MQTT
   - Touch
-  - Buttons
+  - Interaktiv
+  - Button
 image: MQTT_Example_EN.png
 download: MQTT_Example_EN.pbmx
 overview_description:

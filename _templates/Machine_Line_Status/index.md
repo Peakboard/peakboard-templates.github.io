@@ -9,6 +9,9 @@ isDraft: false
 ref: Machine_Line_Status
 category:
   - Status
+  - Produktion
+  - Maschine
+  - Fehler
 image: Machine_Line_Status_DE.png
 download: Machine_Line_Status_DE.pbmx
 overview_description:

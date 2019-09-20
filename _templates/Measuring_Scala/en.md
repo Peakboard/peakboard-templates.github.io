@@ -9,6 +9,7 @@ isDraft: false
 ref: Measuring_Scala
 category:
   - Food
+  - Production
   - Hygiene
 image: Measuring_Scala_EN.png
 download: Measuring_Scala_EN.pbmx

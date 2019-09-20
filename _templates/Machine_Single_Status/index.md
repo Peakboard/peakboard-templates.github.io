@@ -10,6 +10,9 @@ ref: Machine_Single_Status
 category:
   - Status
   - Einzelmaschine
+  - Warnung
+  - Fehler
+  - Problem
 image: Machine_Single_Status_DE.png
 download: Machine_Single_Status_DE.pbmx
 overview_description:

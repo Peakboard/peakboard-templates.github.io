@@ -8,6 +8,10 @@ weight: 500
 isDraft: false
 ref: Input_Board
 category:
+  - Eingabe
+  - Interaktiv
+  - Button
+  - Touch
 image: Input_Board_EN.png
 download: Input_Board_EN.pbmx
 overview_description:
