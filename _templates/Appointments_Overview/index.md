@@ -17,12 +17,12 @@ category:
 image: Appointments_Overview_EN.png
 download: Appointments_Overview_EN.pbmx
 overview_description:
-  - Top&#58; Firmenlogo, aktuelle Zeit und Wetter Informationen.
+  - Top&#58; Firmenlogo, aktuelle Zeit und Wettervorhersage.
   - Bottom&#58; Zeigt die anstehenden Termine an. Wenn kein weiterer Termin mehr vorhanden ist wird ein genereller Begrüßungstext angezeigt.
 overview_benefits:
   - Persönliche Begrüßung von Besuchern
   - Orientierung für Besucher
-  - Wetter Information
+  - Wetterinformation mit Vorhersage
   - Einfach zu individualisieren
   - Einfaches Layout
 overview_data_sources:

@@ -20,7 +20,7 @@ overview_description:
   - Rechts&#58; Hier finden Sie die anstehenden Termine. Gibt es keine weiteren Termine wird ein Begrüßungstext angezeigt.
 overview_benefits:
   - Persönliche Begrüßung von Gästen
-  - Wetterinformationen
+  - Wetterinformation mit Vorhersage
   - Einfach zu individualisieren
   - Schönes Layout
   - Bilder im Hintergrund

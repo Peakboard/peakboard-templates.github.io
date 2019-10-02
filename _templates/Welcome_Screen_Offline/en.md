@@ -22,6 +22,7 @@ overview_benefits:
   - Easy to customize
   - Nice Layout
   - Images in Background
+  - Works without internet connection
 overview_data_sources:
   - Local Table
 ---
