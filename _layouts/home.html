@@ -25,7 +25,41 @@ layout: base
             </div>
         </div>
         <div class="w-full lg:w-3/4 px-2">
-            <div class="flex mb-4">
+            {% assign collections = site.collections | sort: 'position' %}
+
+            <div class="carousel-container">
+            {% assign amount_of_items = 0 %}
+            {% for collection in collections %}
+              {% if collection.label != "posts" %}
+                {% assign articles = site[collection.label] | where:"lang",page.lang | where:"featured","true" %}
+
+                {% for article in articles %}
+                    {% assign amount_of_items = amount_of_items | plus: 1 %}
+                    <div class="carousel h-64 mb-4 p-4">
+                        <div class="flex h-full">
+                            <div class="w-1/2">
+                                {% assign basePath = article.url | split: '/' %}
+                                <img src="/assets/images/blank.png" data-echo="/{{ basePath[1] }}/{{ article.image }}" alt="{{ article.title }}" class="max-h-full">
+                            </div>
+                            <div class="w-1/2 h-full relative pl-4">
+                                <div class="carousel-text pb-1">
+                                    <p class="text-left text-grey-dark">{{ article.title }}</p>
+                                    <p class="text-left my-2">{{ article.description }}</p>
+                                    <a href="{{ article.url }}" class="text-left action-link block"><span>Learn more<i class="right-arrow"></i></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+              {% endif %}
+            {% endfor %}
+            </div>
+            <div class="flex justify-center">
+                {% for num in (1..amount_of_items) %}
+                    <button class="carousel-button {% if forloop.first %}carousel-button--active{% endif %} mr-2" data-id="{{ forloop.index0 }}"></button>
+                {% endfor %}
+            </div>
+            <div class="flex mb-4 mt-8">
                 <div id="hits" class="w-full">
                     <!-- Hits -->
                 </div>
@@ -65,4 +99,31 @@ layout: base
     <script src="{{ '/assets/search/search.js' | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
     <script src="https://cdn.jsdelivr.net/npm/algoliasearch@3.33.0/dist/algoliasearchLite.min.js" integrity="sha256-3Laj91VXexjTlFLgL8+vvIq27laXdRmFIcO2miulgEs=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@3.4.0/dist/instantsearch.production.min.js" integrity="sha256-pM0n88cBFRHpSn0N26ETsQdwpA7WAXJDvkHeCLh3ujI=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/siema.min.js' | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
+    <script>
+        const carousel = new Siema({
+            selector: '.carousel-container',
+            duration: 200,
+            easing: 'ease-out',
+            perPage: 1,
+            startIndex: 0,
+            draggable: true,
+            multipleDrag: true,
+            threshold: 20,
+            loop: false,
+            rtl: false,
+            onInit: () => {},
+            onChange: () => {},
+        });
+
+        var carouselClassName = document.getElementsByClassName("carousel-button");
+
+        for (var i = 0; i < carouselClassName.length; i++) {
+            carouselClassName[i].addEventListener('click', function(){
+                document.getElementsByClassName("carousel-button--active")[0].classList.remove("carousel-button--active");
+                carousel.goTo(this.getAttribute("data-id"));
+                this.classList.add("carousel-button--active");
+            }, false);
+        }
+    </script>
 </div>

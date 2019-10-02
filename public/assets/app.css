@@ -5027,17 +5027,52 @@ body.stuck {
   background: url("/assets/images/homepage/peakboard_templates_background.jpg") repeat-x center;
 }
 
+.carousel {
+  border: 1.5px solid #c4c8d8;
+  margin-right: .6rem;
+}
+
+.carousel-text {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.carousel-button {
+  background: #fff;
+  color: #fff;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  display: inline-block;
+  border-radius: 50%;
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid #fff;
+  -webkit-box-shadow: 0 0 0 2px #c4c8d8;
+          box-shadow: 0 0 0 2px #c4c8d8;
+}
+
+.carousel-button--active {
+  background: #c4c8d8;
+}
+
+.carousel-button:focus {
+  outline: none !important;
+}
+
 .action-link {
   text-decoration: none;
   overflow-wrap: break-word;
   word-break: break-word;
   word-wrap: break-word;
-  text-align: center;
 }
 
 .action-link span {
   padding-bottom: 2px;
-  color: white;
+  color: #000;
   font-weight: 700;
   border-bottom: 2px solid #f29205;
 }
@@ -5065,7 +5100,7 @@ body.stuck {
 }
 
 .action-link i {
-  border: solid white;
+  border: solid #000;
   border-width: 0 2px 2px 0;
   display: inline-block;
   padding: 3px;
@@ -5145,40 +5180,6 @@ body.stuck {
 .brick-ready {
   -webkit-transition: top .7s ease, left .7s ease;
           transition: top .7s ease, left .7s ease;
-}
-
-.accordian-inner {
-  overflow: hidden;
-  max-height: 0;
-  -webkit-transition: all .25s ease;
-  transition: all .25s ease;
-}
-
-#sublevel {
-  text-transform: capitalize;
-}
-
-.accordian-trigger:checked ~ .accordian-inner {
-  max-height: 80rem;
-  -webkit-transition: text-indent .2s;
-          transition: text-indent .2s;
-}
-
-.accordian-trigger:checked + .accordian-label {
-  color: orange;
-}
-
-.accordian-icon {
-  -webkit-transition: .25s ease;
-  transition: .25s ease;
-  -webkit-transform: rotate(0deg);
-          transform: rotate(0deg);
-  padding-top: 4px;
-}
-
-.accordian-trigger:checked + .accordian-label .accordian-icon {
-  -webkit-transform: rotate(180deg);
-          transform: rotate(180deg);
 }
 
 .white {
