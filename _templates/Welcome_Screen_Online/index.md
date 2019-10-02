@@ -16,15 +16,17 @@ image: Welcome_Screen_Online_EN.png
 image_thumbnail: Welcome_Screen_Online_EN_thumbnail.png
 download: Welcome_Screen_Online_EN.pbmx
 overview_description:
-  - Links&#58; eine Uhr und ein paar Wetterinformationen
-  - Rechts&#58; Hier finden Sie die anstehenden Termine
+  - Links&#58; Firmenlogo, Zeitanzeige und Wetterinformationen
+  - Rechts&#58; Hier finden Sie die anstehenden Termine. Gibt es keine weiteren Termine wird ein Begrüßungstext angezeigt.
 overview_benefits:
+  - Persönliche Begrüßung von Gästen
+  - Wetterinformationen
+  - Einfach zu individualisieren
   - Schönes Layout
   - Bilder im Hintergrund
-  - Persönliche Begrüßung von Gästen
 overview_data_sources:
-  - Excel
-  - SQL
+  - Lokale Tabelle
+  - Wetter Widget
 ---
 
 # So funktioniert's

@@ -15,10 +15,17 @@ category:
 image: Appointments_Overview_EN.png
 download: Appointments_Overview_EN.pbmx
 overview_description:
+  - Top&#58; Company logo, current time and some weather information.
+  - Bottom&#58; Shows the next appointments. If there is no more appointment it shows a general welcome text.
 overview_benefits:
+  - Personal welcome for your visitors
+  - Orientation for visitors
+  - Weather information
+  - Easy to customize
+  - Simple Layout
 overview_data_sources:
-  - Office 365
-  - Calendar
+  - Office 365 Calendar
+  - Weather Widget
 ---
 
 # How it works

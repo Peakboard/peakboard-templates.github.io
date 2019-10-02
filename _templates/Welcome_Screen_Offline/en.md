@@ -15,14 +15,15 @@ image: Welcome_Screen_Offline_EN.png
 image_thumbnail: Welcome_Screen_Offline_EN_thumbnail.png
 download: Welcome_Screen_Offline_EN.pbmx
 overview_description:
-  - Left&#58; Shows the current time and some information about the weather.
-  - Right&#58; Shows the next appointments.
+  - Left&#58; Company logo and the current time.
+  - Right&#58; Shows the next appointments. If there is no more appointment it shows a general welcome text.
 overview_benefits:
+  - Personal welcome for your visitors
+  - Easy to customize
   - Nice Layout
   - Images in Background
-  - Personal greeting of visitors
 overview_data_sources:
-  - Variable List
+  - Local Table
 ---
 
 # How it works
