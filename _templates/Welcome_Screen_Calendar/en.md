@@ -7,6 +7,7 @@ lang: en
 weight: 1000
 isDraft: false
 ref: Welcome_Screen_Calendar
+featured: true
 category:
   - Use Case
   - Welcome
