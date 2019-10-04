@@ -7,6 +7,7 @@ lang: de
 weight: 500
 isDraft: false
 ref: Production_Process_Andon
+featured:
 category:
   - Andon
   - Featured

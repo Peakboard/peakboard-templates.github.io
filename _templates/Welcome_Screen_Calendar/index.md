@@ -7,12 +7,12 @@ lang: de
 weight: 1000
 isDraft: false
 ref: Welcome_Screen_Calendar
+featured: true
 category:
   - Use Case
   - Welcome
   - Willkommen
   - Empfangsbildschirm
-  - Featured
   - Beliebt
 image: Welcome_Screen_Calendar_EN.png
 image_thumbnail: Welcome_Screen_Calendar_EN_thumbnail.png

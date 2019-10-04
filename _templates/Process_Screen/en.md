@@ -7,6 +7,7 @@ lang: en
 weight: 1000
 isDraft: false
 ref: Process_Screen
+featured: true
 category:
   - Logistic
   - Process
@@ -23,5 +24,4 @@ overview_description:
 overview_benefits:
   - Forklift driver sees on the dashboard at each loading station, the current status, time and information about the goods -> efficient planning and loading. This gives an overview for the employee at the hub and additional control.​
 overview_data_sources:
-featured: true
 ---

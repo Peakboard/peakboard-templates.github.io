@@ -7,6 +7,7 @@ lang: en
 weight: 1000
 isDraft: false
 ref: Single_Production_Line_Andon
+featured: true
 category:
   - Andon
   - Featured

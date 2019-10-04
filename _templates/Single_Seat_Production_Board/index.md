@@ -7,6 +7,7 @@ lang: de
 weight: 1000
 isDraft: false
 ref: Single_Seat_Production_Board
+featured: true
 category:
   - Produktion
   - Einzelfertigung
