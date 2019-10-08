@@ -68,43 +68,162 @@ var main = {
             })
         );
 
-        search.addWidget(
-            instantsearch.widgets.menu({
-                container: '#categories',
+        const renderMenuCategory = instantsearch.connectors.connectMenu(
+            ({ items, refine, widgetParams }, isFirstRender) => {
+                // obtain list of items, split because they are separated by a comma, and sort alphabetically
+                var itemsSimpleArray = widgetParams.itemsList.split(',');
+                // make new array of objects
+                var itemsArray = [];
+                // obtain name for 'All' category, functioning as a reset
+                var allCategory = document.getElementById('all-category').innerHTML;
+                // push 'All' option, with empty value
+                itemsArray.push({ label: allCategory, value: ' ' });
+
+                // iterate through list of items, making them into an object
+                for (var i = 0; i < itemsSimpleArray.length; i++) {
+                    itemsArray.push({ label: itemsSimpleArray[i], value: itemsSimpleArray[i] });
+                }
+
+                // build a list of elements
+                var list = itemsArray.map(
+                    ({label: staticLabel, value}) => {
+                        const { isRefined } = items.find(
+                            ({label}) => label === staticLabel
+                        ) || {
+                            isRefined: false,
+                        };
+
+                        return "<a class='ais-Menu-link " + (isRefined ? 'ais-Menu-link-active' : '') + "' href='#category=" + staticLabel + "' data-value='" + value + "'><span class='ais-Menu-label'>" + staticLabel + "</span> </a>";
+                    }
+                );
+
+                // define the container contents, including the list with actual menu items
+                widgetParams.container.innerHTML = `
+                    <div class="ais-Menu">
+                      <ul class="ais-Menu-list">
+                        ${list.join('')}
+                      </ul>
+                    </div>
+                `;
+
+                // loop through all links and add a click event to each of them
+                [...widgetParams.container.querySelectorAll('a')].forEach(element => {
+                    element.addEventListener('click', event => {
+                        // clear any current refinement
+                        var clearButton = document.getElementById("clear");
+                        if(clearButton) clearButton.click();
+
+                        if(event.currentTarget.dataset.value === document.getElementById('featured-category').innerHTML) {
+                            removeClass(document.getElementById('carousel'), 'hidden');
+                            addClass(document.getElementById('hits-container'), 'mt-8');
+                        } else {
+                            addClass(document.getElementById('carousel'), 'hidden');
+                            removeClass(document.getElementById('hits-container'), 'mt-8');
+                        }
+
+                        event.preventDefault();
+                        refine(event.currentTarget.dataset.value);
+                    });
+                });
+            }
+        );
+
+        search.addWidgets([
+            renderMenuCategory({
                 attribute: 'category',
-                limit: 20,
-                sortBy: ['name:asc'],
-                templates: {
-                    item: function item(data) {
-                        var label = data.label,
-                            url = data.url,
-                            cssClasses = data.cssClasses,
-                            isRefined = data.isRefined;
-
-                        return "<a class='" + cssClasses.link + " " + (isRefined ? 'ais-Menu-link-active' : '') + "' href=" + url + "><span class='" + cssClasses.label + "'>" + label + "</span> </a>";
-                    },
-                },
+                container: document.getElementById('categories'),
+                itemsList: document.getElementById('visible-categories').innerHTML,
             })
+        ]);
+
+        const renderMenuSources = instantsearch.connectors.connectMenu(
+            ({ items, refine, widgetParams }, isFirstRender) => {
+
+                // obtain list of items, split because they are separated by a comma, and sort alphabetically
+                var itemsSimpleArray = widgetParams.itemsList.split(',');
+                // make new array of objects
+                var itemsArray = [];
+                // obtain name for 'All' category, functioning as a reset
+                var allCategory = document.getElementById('all-category').innerHTML;
+                // push 'All' option, with empty value
+                itemsArray.push({ label: allCategory, value: ' ' });
+
+                // iterate through list of items, making them into an object
+                for (var i = 0; i < itemsSimpleArray.length; i++) {
+                    itemsArray.push({ label: itemsSimpleArray[i], value: itemsSimpleArray[i] });
+                }
+
+                // build a list of elements
+                var list = itemsArray.map(
+                    ({label: staticLabel, value}) => {
+                        const { isRefined } = items.find(
+                            ({label}) => label === staticLabel
+                        ) || {
+                            isRefined: false,
+                        };
+
+                        return "<a class='ais-Menu-link " + (isRefined ? 'ais-Menu-link-active' : '') + "' href='#category=" + staticLabel + "' data-value='" + value + "'><span class='ais-Menu-label'>" + staticLabel + "</span> </a>";
+                    }
+                );
+
+                // define the container contents, including the list with actual menu items
+                widgetParams.container.innerHTML = `
+                    <div class="ais-Menu">
+                      <ul class="ais-Menu-list">
+                        ${list.join('')}
+                      </ul>
+                    </div>
+                `;
+
+                // loop through all links and add a click event to each of them
+                [...widgetParams.container.querySelectorAll('a')].forEach(element => {
+                    element.addEventListener('click', event => {
+                        // clear any current refinement
+                        var clearButton = document.getElementById("clear");
+                        if(clearButton) clearButton.click();
+
+                        event.preventDefault();
+                        refine(event.currentTarget.dataset.value);
+                    });
+                });
+            }
         );
 
-        search.addWidget(
-            instantsearch.widgets.menu({
-                container: '#sources',
+        search.addWidgets([
+            renderMenuSources({
                 attribute: 'overview_data_sources',
-                limit: 20,
-                sortBy: ['name:asc'],
-                templates: {
-                    item: function item(data) {
-                        var label = data.label,
-                            url = data.url,
-                            cssClasses = data.cssClasses,
-                            isRefined = data.isRefined;
-
-                        return "<a class='" + cssClasses.link + " " + (isRefined ? 'ais-Menu-link-active' : '') + "' href=" + url + "><span class='" + cssClasses.label + "'>" + label + "</span> </a>";
-                    },
-                },
+                container: document.getElementById('sources'),
+                itemsList: document.getElementById('visible-data-sources').innerHTML,
             })
+        ]);
+
+        const renderClearRefinements = (renderOptions, isFirstRender) => {
+            const { hasRefinements, refine, widgetParams } = renderOptions;
+
+            if (isFirstRender) {
+                const button = document.createElement('button');
+                button.id = 'clear';
+                button.textContent = 'Clear refinements';
+
+                button.addEventListener('click', () => {
+                    refine();
+                });
+
+                widgetParams.container.appendChild(button);
+            }
+
+            widgetParams.container.querySelector('button').disabled = !hasRefinements;
+        };
+
+        const customClearRefinements = instantsearch.connectors.connectClearRefinements(
+            renderClearRefinements
         );
+
+        search.addWidgets([
+            customClearRefinements({
+                container: document.querySelector('#clear-refinements'),
+            })
+        ]);
 
         search.start();
     }
@@ -120,6 +239,23 @@ function getUrlVars() {
         vars[hash[0]] = hash[1];
     }
     return vars;
+}
+
+function addClass(el, className) {
+    if (el.classList)
+        el.classList.add(className);
+    else if (!hasClass(el, className))
+        el.className += " " + className;
+}
+
+function removeClass(el, className) {
+    if (el.classList)
+        el.classList.remove(className);
+    else if (hasClass(el, className))
+    {
+        var reg = new RegExp('(\\s|^)' + className + '(\\s|$)');
+        el.className = el.className.replace(reg, ' ');
+    }
 }
 
 document.addEventListener('DOMContentLoaded', main.init);

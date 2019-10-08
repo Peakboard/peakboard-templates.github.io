@@ -21,45 +21,48 @@ layout: base
                 Data Sources
             </div>
             <div id="sources">
-                <!-- Categories -->
+                <!-- Data sources -->
             </div>
+            <div id="clear-refinements" class="hidden"></div>
         </div>
         <div class="w-full lg:w-3/4 px-2">
             {% assign collections = site.collections | sort: 'position' %}
 
-            <div class="carousel-container">
-            {% assign amount_of_items = 0 %}
-            {% for collection in collections %}
-              {% if collection.label != "posts" %}
-                {% assign articles = site[collection.label] | where:"lang",page.lang | where:"featured","true" %}
+            <div id="carousel">
+                <div class="carousel-container hidden lg:block">
+                {% assign amount_of_items = 0 %}
+                {% for collection in collections %}
+                  {% if collection.label != "posts" %}
+                    {% assign articles = site[collection.label] | where:"lang",page.lang | where:"carousel","true" %}
 
-                {% for article in articles %}
-                    {% assign amount_of_items = amount_of_items | plus: 1 %}
-                    <div class="carousel h-64 mb-4 p-4">
-                        <div class="flex h-full">
-                            <div class="w-1/2">
-                                {% assign basePath = article.url | split: '/' %}
-                                <img src="/assets/images/blank.png" data-echo="/{{ basePath[1] }}/{{ article.image }}" alt="{{ article.title }}" class="max-h-full">
-                            </div>
-                            <div class="w-1/2 h-full relative pl-4">
-                                <div class="carousel-text pb-1">
-                                    <p class="text-left text-grey-dark">{{ article.title }}</p>
-                                    <p class="text-left my-2">{{ article.description }}</p>
-                                    <a href="{{ article.url }}" class="text-left action-link block"><span>Learn more<i class="right-arrow"></i></span></a>
+                    {% for article in articles %}
+                        {% assign amount_of_items = amount_of_items | plus: 1 %}
+                        <div class="carousel lg:h-64 mb-4 p-4">
+                            <div class="flex h-full">
+                                <div class="w-full lg:w-1/2">
+                                    {% assign basePath = article.url | split: '/' %}
+                                    <a href="{{ article.url }}"><img src="/assets/images/blank.png" data-echo="/{{ basePath[1] }}/{{ article.image }}" alt="{{ article.title }}" class="max-h-full"></a>
+                                </div>
+                                <div class="w-full lg:w-1/2 h-full relative pl-4">
+                                    <div class="carousel-text pb-1">
+                                        <a href="{{ article.url }}" class="no-underline"><p class="text-left text-grey-dark">{{ article.title }}</p></a>
+                                        <p class="text-left my-2">{{ article.description }}</p>
+                                        <a href="{{ article.url }}" class="text-left action-link block"><span>Learn more<i class="right-arrow"></i></span></a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    {% endfor %}
+                  {% endif %}
                 {% endfor %}
-              {% endif %}
-            {% endfor %}
+                </div>
+                <div class="justify-center hidden lg:flex">
+                    {% for num in (1..amount_of_items) %}
+                        <button class="carousel-button {% if forloop.first %}carousel-button--active{% endif %} mr-2" data-id="{{ forloop.index0 }}"></button>
+                    {% endfor %}
+                </div>
             </div>
-            <div class="flex justify-center">
-                {% for num in (1..amount_of_items) %}
-                    <button class="carousel-button {% if forloop.first %}carousel-button--active{% endif %} mr-2" data-id="{{ forloop.index0 }}"></button>
-                {% endfor %}
-            </div>
-            <div class="flex mb-4 mt-8">
+            <div id="hits-container" class="flex mb-4 {% if amount_of_items != 0 %}mt-8{% endif %}">
                 <div id="hits" class="w-full">
                     <!-- Hits -->
                 </div>
@@ -94,6 +97,10 @@ layout: base
     <!-- LANGUAGE -->
     <div id="search-box-text" class="invisible">{{ site.language[page.lang].search-bar-placeholder }}</div>
     <div id="language" class="invisible">{{ page.lang }}</div>
+    <div id="visible-categories" class="invisible">{{ site.language[page.lang].homepage-visible-categories | join: "," }}</div>
+    <div id="visible-data-sources" class="invisible">{{ site.language[page.lang].homepage-visible-data-sources | join: "," }}</div>
+    <div id="all-category" class="invisible">{{ site.language[page.lang].homepage-all-category }}</div>
+    <div id="featured-category" class="invisible">{{ site.language[page.lang].homepage-featured-category }}</div>
     <!-- /LANGUAGE -->
 
     <script src="{{ '/assets/search/search.js' | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
@@ -103,18 +110,20 @@ layout: base
     <script>
         const carousel = new Siema({
             selector: '.carousel-container',
-            duration: 200,
+            duration: 400,
+            loop: true,
             easing: 'ease-out',
             perPage: 1,
             startIndex: 0,
-            draggable: true,
-            multipleDrag: true,
+            draggable: false,
+            multipleDrag: false,
             threshold: 20,
-            loop: false,
             rtl: false,
             onInit: () => {},
             onChange: () => {},
         });
+
+        setInterval(() => carousel.next(), 4000);
 
         var carouselClassName = document.getElementsByClassName("carousel-button");
 
