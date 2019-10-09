@@ -11,7 +11,7 @@ layout: base
     <h1>{{ page.title }}</h1>
     <p class="text-grey mb-4">
         {% for category in page.category %}
-            {{ category | upcase }}{% if forloop.last == false %}, {% endif %}
+        <a href="{{ site.url }}{% if page.lang == 'en' %}/en/{% endif %}{% if page.lang == 'cn' %}/cn/{% endif %}?menu%5Bcategory%5D={{ category }}" style="color: #b8c2cc;">{{ category | upcase }}</a>{% if forloop.last == false %}, {% endif %}
         {% endfor %}
     </p>
 

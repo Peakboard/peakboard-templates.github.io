@@ -77,7 +77,7 @@ layout: base
     {% raw %}
     <script type="text/html" id="hit-template">
         <div class="w-full">
-            <a href="{{ url }}?fromSearch=true">
+            <a href="{{ url }}">
                 <div>
                     <img src="/assets/images/blank.png" alt="{{ title }}" data-echo="{{ imageUrl }}">
                     <p class="mt-2">{{ title }}</p>
@@ -118,12 +118,12 @@ layout: base
             draggable: false,
             multipleDrag: false,
             threshold: 20,
-            rtl: false,
-            onInit: () => {},
-            onChange: () => {},
+            rtl: false
         });
 
-        setInterval(() => carousel.next(), 4000);
+        setInterval(function () {
+            return carousel.next();
+        }, 4000);
 
         var carouselClassName = document.getElementsByClassName("carousel-button");
 
