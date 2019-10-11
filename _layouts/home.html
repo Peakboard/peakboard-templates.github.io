@@ -12,14 +12,14 @@ layout: base
                 <!-- SearchBox -->
             </div>
             <div class="mt-6 mb-2 uppercase text-grey-dark">
-                Categories
+                {{ site.language[page.lang].homepage-menu-title-category }}
             </div>
             <div id="categories">
                 <!-- Categories -->
             </div>
             {% if site.language[page.lang].homepage-visible-data-sources and site.language[page.lang].homepage-visible-data-sources.size != 0 %}
                 <div class="mt-6 mb-2 uppercase text-grey-dark">
-                    Data Sources
+                    {{ site.language[page.lang].homepage-menu-title-data-sources }}
                 </div>
                 <div id="sources">
                     <!-- Data sources -->
