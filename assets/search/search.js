@@ -73,8 +73,11 @@ var main = {
             // obtain name for 'Featured' category, functioning as a reset
             var featuredCategory = document.getElementById('featured-category').innerHTML;
 
-            // if value of url param 'menu[category]' does not exist in itemsSimpleArray, add it.
-            if(getUrlVars()["menu%5Bcategory%5D"] !== undefined && itemsSimpleArray.indexOf(getUrlVars()["menu%5Bcategory%5D"]) === -1) {
+            // if value of url param 'menu[category]' does not exist in itemsSimpleArray, add it. (also check on Featured as it's added later too)
+            if(getUrlVars()["menu%5Bcategory%5D"] !== undefined
+                && itemsSimpleArray.indexOf(getUrlVars()["menu%5Bcategory%5D"]) === -1
+                && getUrlVars()["menu%5Bcategory%5D"] !== document.getElementById('featured-category').innerHTML) {
+
                 itemsSimpleArray.push(decodeURI(getUrlVars()["menu%5Bcategory%5D"]));
             }
 
