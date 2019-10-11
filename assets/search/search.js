@@ -140,7 +140,8 @@ var main = {
                 });
             });
 
-            if(isFirstRender) {
+            // if the first render is done AND there is no category already filtered, select Featured as default.
+            if(isFirstRender && getUrlVars()["menu%5Bcategory%5D"] === undefined) {
                 // default selection
                 refine(document.getElementById('featured-category').innerHTML);
             }
