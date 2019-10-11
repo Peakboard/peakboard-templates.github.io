@@ -196,11 +196,14 @@ var main = {
             });
         });
 
-        search.addWidgets([renderMenuSources({
-            attribute: 'overview_data_sources',
-            container: document.getElementById('sources'),
-            itemsList: document.getElementById('visible-data-sources').innerHTML
-        })]);
+        // don't add the widget if there are no data sources.
+        if(document.getElementById('visible-data-sources').innerHTML !== "") {
+            search.addWidgets([renderMenuSources({
+                attribute: 'overview_data_sources',
+                container: document.getElementById('sources'),
+                itemsList: document.getElementById('visible-data-sources').innerHTML
+            })]);
+        }
 
         var renderClearRefinements = function renderClearRefinements(renderOptions, isFirstRender) {
             var hasRefinements = renderOptions.hasRefinements,

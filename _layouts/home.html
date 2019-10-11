@@ -17,12 +17,14 @@ layout: base
             <div id="categories">
                 <!-- Categories -->
             </div>
-            <div class="mt-6 mb-2 uppercase text-grey-dark">
-                Data Sources
-            </div>
-            <div id="sources">
-                <!-- Data sources -->
-            </div>
+            {% if site.language[page.lang].homepage-visible-data-sources and site.language[page.lang].homepage-visible-data-sources.size != 0 %}
+                <div class="mt-6 mb-2 uppercase text-grey-dark">
+                    Data Sources
+                </div>
+                <div id="sources">
+                    <!-- Data sources -->
+                </div>
+            {% endif %}
             <div id="clear-refinements" class="hidden"></div>
         </div>
         <div class="w-full lg:w-3/4 px-2">
