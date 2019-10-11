@@ -13,6 +13,15 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 
 var main = {
     init: function init() {
+        // handle the carousel visibility on initial page load
+        if (document.getElementById('featured-category').innerHTML === getUrlVars()["menu%5Bcategory%5D"]) {
+            removeClass(document.getElementById('carousel'), 'hidden');
+            addClass(document.getElementById('hits-container'), 'mt-8');
+        } else {
+            addClass(document.getElementById('carousel'), 'hidden');
+            removeClass(document.getElementById('hits-container'), 'mt-8');
+        }
+
         // general settings for instant search
         var search = instantsearch({
             searchClient: algoliasearch('XEVVIEZWKI', 'a2863cd9e238db68f660bcd8137888df'),
