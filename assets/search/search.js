@@ -13,15 +13,6 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 
 var main = {
     init: function init() {
-        // handle the carousel visibility on initial page load
-        if (document.getElementById('featured-category').innerHTML === getUrlVars()["menu%5Bcategory%5D"]) {
-            removeClass(document.getElementById('carousel'), 'hidden');
-            addClass(document.getElementById('hits-container'), 'mt-8');
-        } else {
-            addClass(document.getElementById('carousel'), 'hidden');
-            removeClass(document.getElementById('hits-container'), 'mt-8');
-        }
-
         // general settings for instant search
         var search = instantsearch({
             searchClient: algoliasearch('XEVVIEZWKI', 'a2863cd9e238db68f660bcd8137888df'),
@@ -79,12 +70,8 @@ var main = {
             var itemsArray = [];
             // obtain name for 'All' category, functioning as a reset
             var allCategory = document.getElementById('all-category').innerHTML;
-
-            // push 'All' option, with empty value
-            itemsArray.push({
-                label: allCategory,
-                value: ' '
-            });
+            // obtain name for 'Featured' category, functioning as a reset
+            var featuredCategory = document.getElementById('featured-category').innerHTML;
 
             // if value of url param 'menu[category]' does not exist in itemsSimpleArray, add it.
             if(getUrlVars()["menu%5Bcategory%5D"] !== undefined && itemsSimpleArray.indexOf(getUrlVars()["menu%5Bcategory%5D"]) === -1) {
@@ -98,6 +85,21 @@ var main = {
                     value: itemsSimpleArray[i]
                 });
             }
+
+            // sort the itemsArray
+            itemsArray.sort((a,b) => (a.label > b.label) ? 1 : ((b.label > a.label) ? -1 : 0));
+
+            // push 'Featured' option, with empty value, at the 2nd position in the array.
+            itemsArray.splice(0, 0, {
+                label: featuredCategory,
+                value: featuredCategory
+            });
+
+            // push 'All' option, with empty value, at the 2nd position in the array.
+            itemsArray.splice(1, 0, {
+                label: allCategory,
+                value: ' '
+            });
 
             // build a list of elements
             var list = itemsArray.map(function (_ref2) {
@@ -137,6 +139,11 @@ var main = {
                     refine(event.currentTarget.dataset.value);
                 });
             });
+
+            if(isFirstRender) {
+                // default selection
+                refine(document.getElementById('featured-category').innerHTML);
+            }
         });
         search.addWidgets([renderMenuCategory({
             attribute: 'category',
