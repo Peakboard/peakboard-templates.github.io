@@ -247,6 +247,13 @@ var main = {
         search.addWidgets([customClearRefinements({
             container: document.querySelector('#clear-refinements')
         })]);
+
+        // handle carousel in case we're coming from an article
+        if(getUrlVars()["fromArticle"]) {
+            addClass(document.getElementById('carousel'), 'hidden');
+            removeClass(document.getElementById('hits-container'), 'mt-8');
+        }
+
         search.start();
     }
 };
