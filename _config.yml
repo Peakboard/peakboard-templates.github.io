@@ -34,7 +34,7 @@ language:
     homepage-featured-category: "Featured"
     homepage-all-category: "All"
     homepage-visible-categories: ["Featured","Administration","Andon","Food","Interactive","Logistic","Production","Scripting","Warning","Welcome"]
-    homepage-visible-data-sources: ["Excel","SAP","SQL"]
+    homepage-visible-data-sources: 
     top-menu-cta-button-text: "Start for free"
     top-menu-cta-button-url: "https://peakboard.com/en/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
     page-top-overview-text: "Template Overview"
@@ -68,7 +68,7 @@ language:
     homepage-featured-category: "Beliebt"
     homepage-all-category: "Alle"
     homepage-visible-categories: ["Beliebt","Andon","Administration","Produktion","Logistik","Scripting","Willkommensbildschirm","Lebensmittel","Warnung","Interaktiv"]
-    homepage-visible-data-sources: ["Excel","SAP","SQL"]
+    homepage-visible-data-sources:
     top-menu-cta-button-text: "Kostenlos starten"
     top-menu-cta-button-url: "https://peakboard.com/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
     page-top-overview-text: "Template Overview"
