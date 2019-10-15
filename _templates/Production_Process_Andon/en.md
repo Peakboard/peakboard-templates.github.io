@@ -7,7 +7,7 @@ lang: en
 weight: 500
 isDraft: false
 ref: Production_Process_Andon
-featured:
+carousel: 
 category:
   - Andon
   - Featured
@@ -16,5 +16,4 @@ download: Production_Process_Andon_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
-carousel: true
 ---

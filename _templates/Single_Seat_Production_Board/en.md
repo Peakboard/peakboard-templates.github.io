@@ -7,7 +7,7 @@ lang: en
 weight: 1000
 isDraft: false
 ref: Single_Seat_Production_Board
-featured: true
+carousel: true
 category:
   - Production
   - Small series
