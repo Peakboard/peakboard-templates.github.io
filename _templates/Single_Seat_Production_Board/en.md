@@ -12,7 +12,7 @@ category:
   - Production
   - Small series
   - Single stations
-  - Interactiv
+  - Interaction
   - Touchscreen
 image: Single_Seat_Production_Board_EN.png
 download: Single_Seat_Production_Board_EN.pbmx
