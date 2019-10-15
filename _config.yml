@@ -84,7 +84,7 @@ language:
     footer-contact-website: "Website:"
     footer-copyright: "Alle Rechte vorbehalten."
     footer-github: "Github"
-    footer-github-text: "Diese Seite in Github öffnen"
+    footer-github-text: "Seite in Github öffnen"
     footer-github-url: "https://github.com/Peakboard/peakboard-templates.github.io/tree/master/_templates/"
     search-title: "Peakboard Suche"
     search-results: "Ergebnisse"
