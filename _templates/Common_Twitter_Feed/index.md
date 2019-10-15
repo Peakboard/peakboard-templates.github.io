@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt eine Twitter Feed Visualisierung. Alle Tweets werden durch eine List-View angezeigt.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Common_Twitter_Feed
 category:
   - Twitter

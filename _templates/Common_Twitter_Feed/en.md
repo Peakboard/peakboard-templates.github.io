@@ -5,7 +5,7 @@ description:
   - This board is a simple ready-to-use Twitter feed visualiziation. A List View element is used to present the feed.
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Common_Twitter_Feed
 category:
   - Twitter
