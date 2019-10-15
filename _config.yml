@@ -35,7 +35,7 @@ language:
     homepage-all-category: "All"
     homepage-menu-title-category: "Categories"
     homepage-menu-title-data-sources: "Data Sources"
-    homepage-visible-categories: ["Administration","Andon","Food","Interactive","Logistic","Production","Scripting","Warning","Welcome"]
+    homepage-visible-categories: ["Administration","Andon","KPIs","Lean Management","Logistics","OEE","Production","Scripting","Welcome Board","Interaction"]
     homepage-visible-data-sources:
     top-menu-cta-button-text: "Start for free"
     top-menu-cta-button-url: "https://peakboard.com/en/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
@@ -71,7 +71,7 @@ language:
     homepage-all-category: "Alle"
     homepage-menu-title-category: "Kategorien"
     homepage-menu-title-data-sources: "Data Sources"
-    homepage-visible-categories: ["Andon","Administration","Produktion","Logistik","Scripting","Willkommensbildschirm","Lebensmittel","Warnung","Interaktiv"]
+    homepage-visible-categories: ["Administration","Andon","Empfang","KPIs","Lean Management","Logistik","OEE / GAE","Produktion","Scripting","Interaktion"]
     homepage-visible-data-sources:
     top-menu-cta-button-text: "Kostenlos starten"
     top-menu-cta-button-url: "https://peakboard.com/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
