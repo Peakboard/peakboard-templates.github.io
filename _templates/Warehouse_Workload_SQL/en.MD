@@ -10,7 +10,7 @@ ref: Warehouse_Workload_SQL
 category:
   - SQL
   - Database
-  - Logistic
+  - Logistics
   - Retail
 image: Warehouse_Workload_SQL_EN.png
 download: Warehouse_Workload_SQL_EN.pbmx

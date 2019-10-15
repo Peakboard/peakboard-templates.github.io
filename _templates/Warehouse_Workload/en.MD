@@ -9,7 +9,7 @@ isDraft: false
 ref: Warehouse_Workload
 category:
   - Featured
-  - Logistic
+  - Logistics
   - Retail
 image: Warehouse_Workload_EN.png
 download: Warehouse_Workload_EN.pbmx

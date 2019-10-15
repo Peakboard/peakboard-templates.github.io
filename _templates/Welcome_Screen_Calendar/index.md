@@ -9,10 +9,8 @@ isDraft: false
 ref: Welcome_Screen_Calendar
 carousel: true
 category:
-  - Use Case
-  - Welcome
-  - Willkommen
-  - Empfangsbildschirm
+  - Empfang
+  - Willkommensbildschirm
   - Beliebt
 image: Welcome_Screen_Calendar_EN.png
 image_thumbnail: Welcome_Screen_Calendar_EN_thumbnail.png

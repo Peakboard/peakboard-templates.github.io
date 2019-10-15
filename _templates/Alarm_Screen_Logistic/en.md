@@ -11,7 +11,7 @@ category:
   - Alarm
   - Error
   - Warning
-  - Logistic
+  - Logistics
 image: Alarm_Screen_Logistic_EN.png
 download: Alarm_Screen_Logistic_EN.pbmx
 overview_description:

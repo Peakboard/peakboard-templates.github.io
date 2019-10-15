@@ -8,7 +8,7 @@ weight: 1000
 isDraft: false
 ref: Process_Screen
 category:
-  - Logistic
+  - Logistics
   - Process
 image: Process_Screen_DE.png
 download: Process_Screen_DE.pbmx

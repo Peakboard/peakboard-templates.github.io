@@ -15,6 +15,7 @@ category:
   - Mass production
   - Current production status
   - Line status
+  - OEE
 image: Production_Line_Metrics_EN.png
 download: Production_Line_Metrics_EN.pbmx
 overview_description:

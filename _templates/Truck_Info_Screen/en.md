@@ -8,7 +8,7 @@ weight: 500
 isDraft: false
 ref: Truck_Info_Screen
 category:
-  - Logistic
+  - Logistics
   - Truck
 image: Truck_Info_Screen_EN.png
 download: Truck_Info_Screen_EN.pbmx

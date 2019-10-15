@@ -9,7 +9,7 @@ isDraft: false
 ref: Process_Screen
 featured: 
 category:
-  - Logistic
+  - Logistics
   - Process
   - Truck loading
   - Truck

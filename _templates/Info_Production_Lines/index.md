@@ -9,12 +9,10 @@ isDraft: false
 ref: Info_Production_Lines
 category:
   - Produktion
-  - Übersicht
-  - Produktionslinien
   - Beliebt
-  - Massenproduktion
-  - Aktueller Produktionsstatus
-  - Linienstatus
+  - Status
+  - KPIs
+  - Lean Management
 image: Info_Production_Lines_DE.png
 download: Info_Production_Lines_DE.pbmx
 overview_description: 

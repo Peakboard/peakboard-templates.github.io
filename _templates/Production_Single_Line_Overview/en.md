@@ -11,6 +11,7 @@ category:
   - Production
   - Car
   - Mass production
+  - OEE
 image: Production_Single_Line_Overview_EN.png
 download: Production_Single_Line_Overview_EN.pbmx
 overview_description:

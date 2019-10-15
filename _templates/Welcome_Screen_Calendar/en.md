@@ -10,7 +10,7 @@ ref: Welcome_Screen_Calendar
 carousel: true
 category:
   - Use Case
-  - Welcome
+  - Welcome Board
   - Featured
 image: Welcome_Screen_Calendar_EN.png
 image_thumbnail: Welcome_Screen_Calendar_EN_thumbnail.png
