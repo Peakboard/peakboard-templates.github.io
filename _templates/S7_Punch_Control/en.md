@@ -8,8 +8,8 @@ weight: 500
 isDraft: false
 ref: S7_Punch_Control
 category:
-image: S7_Punch_Control_DE.png
-download: S7_Punch_Control_DE.pbmx
+image: S7_Punch_Control_EN.png
+download: S7_Punch_Control_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
