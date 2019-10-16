@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Production Done Overview
+title: Production Overview Done Parts
 description: 
-  - This template shows the number of already produced parts and compares it with the target value.
+  - This template shows an overview of how many parts have already been produced and compares them to the quantity applied. In addition, the OEE value is displayed, a few metadata about the order and possibly the downtime.
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Production_Done_Overview
 category:
 image: Production_Done_Overview_DE.png

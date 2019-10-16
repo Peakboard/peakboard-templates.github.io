@@ -2,10 +2,10 @@
 layout: article
 title: Produktion Übersicht erledigter Teile
 description: 
-  - Dieses Template zeigt eine Übersicht wie viele Teile bereits produziert wurden und vergleicht Sie mit der Auftagsmenge.
+  - Dieses Template zeigt eine Übersicht wie viele Teile bereits produziert wurden und vergleicht Sie mit der Auftagsmenge. Zusätzlich wird der GAE Wert angezeigt, ein paar Metainformationen über den Auftrag und ggf. die Ausfallzeit.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Production_Done_Overview
 category:
 image: Production_Done_Overview_DE.png

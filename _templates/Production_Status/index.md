@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt die aktuelle Situation in der Produktion an.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Production_Status
 category:
   - Production

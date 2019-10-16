@@ -5,7 +5,7 @@ description:
   - Diese Template gibt eine Übersicht welches Tor welchem LKW zur Verfügung steht.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Truck_Info_Screen
 category:
   - Logistik

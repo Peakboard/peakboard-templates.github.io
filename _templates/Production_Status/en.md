@@ -5,7 +5,7 @@ description:
   - This design template shows the present situation in the production
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Production_Status
 category:
   - Production

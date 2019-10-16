@@ -5,7 +5,7 @@ description:
   - This design screen is clearly arranged for a better process
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Truck_Info_Screen
 category:
   - Logistics

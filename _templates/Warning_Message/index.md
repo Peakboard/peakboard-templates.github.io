@@ -5,7 +5,7 @@ description:
   - Mit diesem Template können Sie große Fehlermeldungen auf einem Bildschirm ausgeben. Wann immer ein Problem besteht, Sie bekommen es mit!
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Warning_Message
 category:
   - Warning

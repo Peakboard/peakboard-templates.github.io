@@ -5,7 +5,7 @@ description:
   - This board shows the Stocks of various big companys as well as the OHLC values
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Stock_Information
 category:
 image: Stock_Information_EN.png

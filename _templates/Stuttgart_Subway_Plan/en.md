@@ -5,7 +5,7 @@ description:
   - This board shows a departure board for the subway / Metro in Stuttgart (Germany). The API used in the board is only suitable for the Stuttgart subway.
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Stuttgart_Subway_Plan
 category:
 image: Stuttgart_Subway_Plan_DE.png

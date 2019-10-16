@@ -1,16 +1,16 @@
 ---
 layout: article
-title: Production Line Efficiency
+title: Current Status of a Production Line
 description: 
-  - Put your production data in the limelight&#58; Andon Board with pie and bar charts. Replace the variables with your data sources and update the script to create your personal board.
+  - Put your production data in the limelight. With the help of pie and bar charts, all important information of a production line can be quickly recognized.
 lang: en
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Production_Line_Efficiency
 category:
-  - Featured
   - Production
-  - Andon
+  - KPIs
+  - OEE
 image: Production_Line_Efficiency_EN.png
 download: Production_Line_Efficiency_EN.pbmx
 overview_description:

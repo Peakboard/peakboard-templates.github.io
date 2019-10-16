@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt den Aktuenkurs von verschiedenen großen Unternehmen an.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Stock_Information
 category:
 image: Stock_Information_EN.png

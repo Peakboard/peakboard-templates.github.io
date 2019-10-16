@@ -1,17 +1,16 @@
 ---
 layout: article
-title: Prodktionslinie Effizienz
+title: Aktueller Status einer Produktionslinie
 description: 
-  - Setzen Sie Ihre Produktionsdaten ins Rampenlicht. Ein Andon Board, Kuchendiagramm und Balkendiagramm helfen dabei, schnell die nötigen Informationen einer Produktionslinie zu erkennen.
+  - Setzen Sie Ihre Produktionsdaten ins Rampenlicht. Mit Hilfe von Kuchen- und Balkendiagrammen können schnell alle wichtigen Informationen einer Produktionslinie erkannt werden.
 lang: de
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Production_Line_Efficiency
 category:
-  - Beliebt
-  - Featured
   - Produktion
-  - Andon
+  - KPIs
+  - OEE / GAE
 image: Production_Line_Efficiency_EN.png
 download: Production_Line_Efficiency_EN.pbmx
 overview_description:

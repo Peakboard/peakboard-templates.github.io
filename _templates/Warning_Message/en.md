@@ -5,7 +5,7 @@ description:
   - This design template screen shows a warning message on the info screen
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Warning_Message
 category:
   - Warning

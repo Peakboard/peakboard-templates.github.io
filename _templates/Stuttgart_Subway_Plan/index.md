@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt einen Abfahrtsplan einer Haltestelle in Stuttgart. Die Schnittstelle die verwendet wird funktioniert nur für Stuttgart.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Stuttgart_Subway_Plan
 category:
 image: Stuttgart_Subway_Plan_DE.png

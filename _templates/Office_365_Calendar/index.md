@@ -5,7 +5,7 @@ description:
   - Dieses Template nutzt den Office 365 Calendar für eine Visualisierung von Terminen. In diesem Beispiel wird unser Event Kalender angezeigt.
 lang: de
 weight: 280
-isDraft: false
+isDraft: true
 ref: Office_365_Calendar
 category:
  - Kalender
