@@ -11,7 +11,7 @@ category:
   - OPC UA
   - Stanze
   - Leistung
-image: OPC_UA_Punch_EN.png
+image: OPC_UA_Punch_DE.png
 download: OPC_UA_Punch_DE.pbmx
 overview_description:
 overview_benefits:

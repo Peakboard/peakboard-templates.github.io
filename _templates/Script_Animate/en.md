@@ -8,9 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Animate
 category:
-  - Script
   - Scripting
-  - Script example
   - Animations
 image: Script_Animate_EN.png
 download: Script_Animate_EN.pbmx
