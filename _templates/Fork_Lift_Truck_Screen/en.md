@@ -8,7 +8,7 @@ weight: 1000
 isDraft: false
 ref: Fork_Lift_Truck_Screen
 category:
-  - Logistic
+  - Logistics
   - Truck
   - Gate
   - Fork-Lift

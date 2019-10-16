@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt wie Sie RSS basierte Meldungen mit Live-Tiles anzeigen können. Hier am Beispiel von Nachrichten der Tagesschau.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: German_News_Tagesschau
 category:
   - Nachrichten

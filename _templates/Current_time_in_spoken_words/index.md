@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt ein nettes Beispiel mit Lua Scripten. Es übersetzt die aktuelle Stunde und Minute in gesprochene Worte.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Current_time_in_spoken_words
 category:
   - Spaß

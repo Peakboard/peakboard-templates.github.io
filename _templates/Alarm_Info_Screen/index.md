@@ -5,7 +5,7 @@ description:
   - Zeigt eine Warnmeldung mit weiteren Information an.
 lang: de
 weight: 400
-isDraft: false
+isDraft: true
 ref: Alarm_Info_Screen
 category:
   - Alarm

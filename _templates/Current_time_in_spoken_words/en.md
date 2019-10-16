@@ -5,7 +5,7 @@ description:
   - This board shows a cool demo on Lua scripting. It translates the current hour and minute into spoken language. This board is avaliable in English and German.
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Current_time_in_spoken_words
 category:
   - Fun

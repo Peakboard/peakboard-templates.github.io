@@ -5,7 +5,7 @@ description:
   - This board shows a cool way to present a rss based news feed with live tiles
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: German_News_Tagesschau
 category:
   - News

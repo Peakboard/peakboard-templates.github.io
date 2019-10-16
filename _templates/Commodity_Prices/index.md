@@ -5,7 +5,7 @@ description:
   - Dieses Board zeigt Echtzeit-Rohstoffpreise verschiedener Edelmetalle an, z.b. Gold, Silber, etc.
 lang: de
 weight: 100
-isDraft: false
+isDraft: true
 ref: Commodity_Prices
 category:
   - Stocks

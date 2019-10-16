@@ -13,9 +13,9 @@ category:
   - Warning
   - Error
   - Problem
-image: Machine_Single_Status_DE.png
-image_thumbnail: Machine_Single_Status_DE_thumbnail.png
-download: Machine_Single_Status_DE.pbmx
+image: Machine_Single_Status_EN.png
+image_thumbnail: Machine_Single_Status_EN_thumbnail.png
+download: Machine_Single_Status_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

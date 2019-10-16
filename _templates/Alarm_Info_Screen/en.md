@@ -5,7 +5,7 @@ description:
   - Shows an alarm screen with detailed information 
 lang: en
 weight: 400
-isDraft: false
+isDraft: true
 ref: Alarm_Info_Screen
 category:
   - Alarm
