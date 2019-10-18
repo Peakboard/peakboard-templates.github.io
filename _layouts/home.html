@@ -125,7 +125,14 @@ layout: base
 
         var carouselTimerId = setInterval(function () {
             var currentActiveButton = document.getElementsByClassName("carousel-button--active")[0];
-            var newActiveButton = currentActiveButton.nextElementSibling;
+            var newActiveButton;
+
+            if(currentActiveButton.nextElementSibling) {
+                newActiveButton = currentActiveButton.nextElementSibling;
+            } else {
+                newActiveButton = currentActiveButton.parentNode.firstElementChild;
+            }
+
             currentActiveButton.classList.remove("carousel-button--active");
             newActiveButton.classList.add("carousel-button--active");
 
