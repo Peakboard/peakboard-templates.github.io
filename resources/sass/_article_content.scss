@@ -497,4 +497,8 @@ html {
   button > a:hover {
     border-bottom: 0;
   }
+
+  code {
+    word-break: break-all;
+  }
 }

@@ -68,11 +68,17 @@ var main = {
                     input.addEventListener('input', event => {
                         refine(event.target.value);
 
+                        // make sure All is highlighted
                         isAllCategory = true;
                         isAllDataSources = true;
 
+                        // reset filters
                         var reset = document.getElementById('clear');
                         reset.click();
+
+                        // add hidden to carousel class
+                        addClass(document.getElementById('carousel'), 'hidden');
+                        removeClass(document.getElementById('hits-container'), 'mt-8');
                     });
 
                     // set class and attributes for search input
