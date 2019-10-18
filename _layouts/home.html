@@ -43,7 +43,7 @@ layout: base
                             <div class="flex h-full">
                                 <div class="w-full lg:w-1/2">
                                     {% assign basePath = article.url | split: '/' %}
-                                    <a href="{{ article.url }}"><img src="/assets/images/blank.png" data-echo="/{{ basePath[1] }}/{{ article.image }}" alt="{{ article.title }}" class="max-h-full"></a>
+                                    <a href="{{ article.url }}"><img src="/{{ basePath[1] }}/{{ article.image }}" alt="{{ article.title }}" class="max-h-full"></a>
                                 </div>
                                 <div class="w-full lg:w-1/2 h-full relative pl-4">
                                     <div class="carousel-text pb-1">
@@ -124,6 +124,11 @@ layout: base
         });
 
         var carouselTimerId = setInterval(function () {
+            var currentActiveButton = document.getElementsByClassName("carousel-button--active")[0];
+            var newActiveButton = currentActiveButton.nextElementSibling;
+            currentActiveButton.classList.remove("carousel-button--active");
+            newActiveButton.classList.add("carousel-button--active");
+
             return carousel.next();
         }, 4000);
 
