@@ -107,7 +107,6 @@ layout: base
 
     <script src="{{ '/assets/search/search.js' | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
     <script src="https://cdn.jsdelivr.net/npm/algoliasearch@3.33.0/dist/algoliasearchLite.min.js" integrity="sha256-3Laj91VXexjTlFLgL8+vvIq27laXdRmFIcO2miulgEs=" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/algoliasearch.helper/2/algoliasearch.helper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@3.4.0/dist/instantsearch.production.min.js" integrity="sha256-pM0n88cBFRHpSn0N26ETsQdwpA7WAXJDvkHeCLh3ujI=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/siema.min.js' | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
     <script>
@@ -124,7 +123,7 @@ layout: base
             rtl: false
         });
 
-        setInterval(function () {
+        var carouselTimerId = setInterval(function () {
             return carousel.next();
         }, 4000);
 
@@ -135,6 +134,7 @@ layout: base
                 document.getElementsByClassName("carousel-button--active")[0].classList.remove("carousel-button--active");
                 carousel.goTo(this.getAttribute("data-id"));
                 this.classList.add("carousel-button--active");
+                clearInterval(carouselTimerId);
             }, false);
         }
     </script>

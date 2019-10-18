@@ -13,11 +13,9 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 
 var main = {
     init: function init() {
-        var client = algoliasearch('XEVVIEZWKI', 'a2863cd9e238db68f660bcd8137888df');
-
         // general settings for instant search
         var search = instantsearch({
-            searchClient: client,
+            searchClient: algoliasearch('XEVVIEZWKI', 'a2863cd9e238db68f660bcd8137888df'),
             appId: 'XEVVIEZWKI',
             apiKey: 'a2863cd9e238db68f660bcd8137888df',
             indexName: 'PEAKBOARD_EPIC_BOARDS',
