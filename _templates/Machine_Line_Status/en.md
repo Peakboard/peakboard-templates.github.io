@@ -5,7 +5,7 @@ description:
   - Designer template for a real-time machine status
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Machine_Line_Status
 category:
   - Status

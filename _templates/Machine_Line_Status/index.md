@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt in Echtzeit den aktuellen Maschinenstatus einer Linie.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Machine_Line_Status
 category:
   - Status

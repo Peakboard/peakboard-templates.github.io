@@ -5,7 +5,7 @@ description:
   - This board contains a variety of use cases for the Advanced Chart control 
 lang: en
 weight: 100
-isDraft: false
+isDraft: true
 ref: Advanced_Charts_Example
 category:
   - Demostration

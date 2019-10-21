@@ -5,7 +5,7 @@ description:
   - This template includes a line graph to indicate temperature changes.
 lang: en
 weight: 650
-isDraft: false
+isDraft: true
 ref: Temperature_Visualization
 category:
 image: Temperature_Visualization_EN.png

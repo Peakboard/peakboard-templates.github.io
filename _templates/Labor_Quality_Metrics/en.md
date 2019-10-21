@@ -5,7 +5,7 @@ description:
   - This Design Template provides key figures for an operative management
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Labor_Quality_Metrics
 category:
   - Labor

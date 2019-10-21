@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt den aktuellen Stand der Hygiene innerhalb der Produktion an.
 lang: de
 weight: 650
-isDraft: false
+isDraft: true
 ref: Measuring_Scala
 category:
   - Essen

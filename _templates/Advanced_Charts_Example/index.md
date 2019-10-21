@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt Ihnen verschiedene Möglichkeiten die Sie mit dem erweiterten Diagramm haben. 
 lang: de
 weight: 100
-isDraft: false
+isDraft: true
 ref: Advanced_Charts_Example
 category:
   - Demonstration

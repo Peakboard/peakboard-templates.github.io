@@ -5,7 +5,7 @@ description:
   - This template shows the current hygiene status of the production.
 lang: en
 weight: 650
-isDraft: false
+isDraft: true
 ref: Measuring_Scala
 category:
   - Food

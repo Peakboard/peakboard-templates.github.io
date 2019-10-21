@@ -5,7 +5,7 @@ description:
   - Dieses Template gibt eine Übersicht über aktuelle Audits im Betrieb.
 lang: de
 weight: 650
-isDraft: false
+isDraft: true
 ref: Audits_Overview
 category:
   - Lebensmittel

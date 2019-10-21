@@ -5,7 +5,7 @@ description:
   - This template indicates the current status of the production line 
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Line_Status_Andon
 category:
   - Food

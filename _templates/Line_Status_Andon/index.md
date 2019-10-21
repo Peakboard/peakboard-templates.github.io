@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt den Status an verschiedenen Stationen einer Produktion mit Hilfe von Farbfeldern an. Gibt es ein Problem wird die Fehlermeldung angezeigt.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Line_Status_Andon
 category:
   - Lebensmittel

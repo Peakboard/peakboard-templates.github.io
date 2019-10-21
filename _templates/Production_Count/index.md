@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt die aktuelle Anzahl produzierter Teile an. Ersetzen Sie die Variable mit Ihrer Datenquelle und entfernen Sie das Script um es direkt nutzen zu können.
 lang: de
 weight: 650
-isDraft: false
+isDraft: true
 ref: Production_Count
 category:
   - Zähler

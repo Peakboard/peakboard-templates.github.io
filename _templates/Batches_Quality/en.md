@@ -5,7 +5,7 @@ description:
   - This design includes the current order status in production
 lang: en
 weight: 650
-isDraft: false
+isDraft: true
 ref: Batches_Quality
 category:
   - Food

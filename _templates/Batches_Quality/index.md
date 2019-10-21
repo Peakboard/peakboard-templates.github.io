@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt die Qualität der aktuellen Charge an.
 lang: de
 weight: 650
-isDraft: false
+isDraft: true
 ref: Batches_Quality
 category:
   - Lebensmittel

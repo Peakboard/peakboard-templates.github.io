@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt die wichtigsten Qualitätskennzahlen in einem Labor.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Labor_Quality_Metrics
 category:
   - Labor

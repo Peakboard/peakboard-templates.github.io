@@ -5,7 +5,7 @@ description:
   - This template indicates the current number of produced products. Replace the variable with a data source and delete the script to get it working for your real use case.
 lang: en
 weight: 650
-isDraft: false
+isDraft: true
 ref: Production_Count
 category:
   - Count

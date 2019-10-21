@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt die Möglichkeit mit einem Kurvendiagramm die Entwicklung einer Temperatur anzuzeigen.
 lang: de
 weight: 650
-isDraft: false
+isDraft: true
 ref: Temperature_Visualization
 category:
 image: Temperature_Visualization_DE.png
