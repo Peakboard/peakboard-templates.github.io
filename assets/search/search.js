@@ -40,9 +40,12 @@ var main = {
         }));
 
         // render method for searchBox
-        const customSearchBox = instantsearch.connectors.connectSearchBox(
-            (renderOptions, isFirstRender) => {
-                const { query, refine, clear, widgetParams } = renderOptions;
+        var customSearchBox = instantsearch.connectors.connectSearchBox(
+            function (renderOptions, isFirstRender) {
+                var query = renderOptions.query,
+                    refine = renderOptions.refine,
+                    clear = renderOptions.clear,
+                    widgetParams = renderOptions.widgetParams;
 
                 if (isFirstRender) {
                     // create and set attributes on form container
@@ -65,7 +68,7 @@ var main = {
                     const input = document.createElement('input');
 
                     // add event listener for input
-                    input.addEventListener('input', event => {
+                    input.addEventListener('input', function(event) {
                         refine(event.target.value);
 
                         // make sure All is highlighted
@@ -101,7 +104,7 @@ var main = {
                     resetButton.setAttribute('type', 'reset');
                     resetButton.setAttribute('id', 'resetSearchBox');
 
-                    resetButton.addEventListener('click', () => {
+                    resetButton.addEventListener('click', function() {
                         clear();
                     });
 
@@ -172,7 +175,9 @@ var main = {
             }
 
             // sort the itemsArray
-            itemsArray.sort((a, b) => (a.label > b.label) ? 1 : ((b.label > a.label) ? -1 : 0));
+            itemsArray.sort(function (a, b) {
+                return a.label > b.label ? 1 : b.label > a.label ? -1 : 0;
+            });
 
             // push 'Featured' option, with empty value, at the 2nd position in the array.
             itemsArray.splice(0, 0, {
