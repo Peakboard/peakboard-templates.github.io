@@ -5,7 +5,7 @@ description:
   - Diese Vorlage gibt dem Stapelfahrer einen schnellen Überblick und warnt bei Problemen mit einem blinkenden Alarm. Fügen Sie Ihre Datenquellen hinzu und überarbeiten Sie das Skript, um es für Ihre Bedürfnisse nutzen zu können.
 lang: de
 weight: 400
-isDraft: true
+isDraft: false
 ref: Alarm_Screen_Logistic
 category:
   - Alarm

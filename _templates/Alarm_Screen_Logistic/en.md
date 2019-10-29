@@ -5,7 +5,7 @@ description:
   - This template gives the stack driver a quick overview and warns with a flashing alarm when problems occur. Add your data sources and adopt the script to get it running.
 lang: en
 weight: 400
-isDraft: true
+isDraft: false
 ref: Alarm_Screen_Logistic
 category:
   - Alarm
