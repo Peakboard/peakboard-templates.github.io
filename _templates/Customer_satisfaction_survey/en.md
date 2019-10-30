@@ -6,7 +6,7 @@ description:
 
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Customer_satisfaction_survey
 category:
   - Interactive
