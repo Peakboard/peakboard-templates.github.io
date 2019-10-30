@@ -5,7 +5,7 @@ description:
   - Dieses Template gibt die Möglichkeit mit Hilfe eines Touchscreens über die Kundenzufriedenheit abstimmen zu lassen. Man kann sich die Ergebnisse ansehen und per E-Mail schicken lassen.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Customer_satisfaction_survey
 category:
   - Interaktiv
