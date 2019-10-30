@@ -8,9 +8,9 @@ weight: 500
 isDraft: true
 ref: Operational_Logistics_Board
 category:
-image: Operational_Logistics_Board_en.png
+image: Operational_Logistics_Board_de.png
 image_thumbnail: 
-download: Operational_Logistics_Board_en.pbmx
+download: Operational_Logistics_Board_de.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
