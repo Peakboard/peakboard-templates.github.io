@@ -5,7 +5,7 @@ description:
   - Dieses template bietet einem Gabelstapler Fahrer eine schnelle Übersicht über wichtige Informationen und bietet einfache Interaktionsmöglichkeiten.
 lang: de
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Fork_Lift_Truck_Screen
 category:
   - Logistik

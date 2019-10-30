@@ -5,7 +5,7 @@ description:
   - This template gives the fork-lift driver a quick overview about tasks and todos.
 lang: en
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Fork_Lift_Truck_Screen
 category:
   - Logistics
