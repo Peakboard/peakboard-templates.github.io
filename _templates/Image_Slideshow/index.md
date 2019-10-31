@@ -5,7 +5,7 @@ description:
   - Dieses Template wechselt automatischen zwischen verschiedenen Bildern als Diashow.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Image_Slideshow
 category:
 image: Image_Slideshow_EN.png

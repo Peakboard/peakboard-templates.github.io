@@ -5,7 +5,7 @@ description:
   - This board automatically shuffles through a images as a slideshow.
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Image_Slideshow
 category:
 image: Image_Slideshow_EN.png
