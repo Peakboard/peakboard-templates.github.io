@@ -62,7 +62,8 @@ mix
       /lightbox/,
       /circlepath$/,
       /topline$/,
-      /bottomline$/
+      /bottomline$/,
+      /ais/
     ],
     fontFace: false
   });
