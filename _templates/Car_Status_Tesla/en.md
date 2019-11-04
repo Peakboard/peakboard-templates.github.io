@@ -5,7 +5,7 @@ description:
   - This visualization obtains and visualizes information directly from a Tesla. Please note that you need a Tesla with the corresponding access data in order to use this template.
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Car_Status_Tesla
 category:
   - Automobile

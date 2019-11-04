@@ -5,7 +5,7 @@ description:
   - Diese Visualisierung bezieht und visualisiert Informationen direkt von einem Tesla. Bitte beachten Sie, dass Sie einen Tesla mit den entsprechenden Zugangsdaten benötigen, um diese Vorlage verwenden zu können.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Car_Status_Tesla
 category:
   - Automobil

@@ -5,7 +5,7 @@ description:
   - This template enables you to send e-mails to a previously defined e-mail address and to display this information within a clear format. In the middle is the most recent e-mail, in the lower area of the visualization an overview of the last four e-mails with date, time, subject and the name of the sender.
 lang: en
 weight: 210
-isDraft: false
+isDraft: true
 ref: Email_Shoutbox
 category:
   - Scripting
