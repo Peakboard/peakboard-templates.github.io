@@ -1,18 +1,15 @@
 ---
 layout: article
-title: Zug Abfahrtstafel – Deutsche Bahn
+title: Abfahrtstafel der Deutschen Bahn für den Stuttgarter Hauptbahnhof
 description: 
-  - Dieses Template zeigt einen Abfahrtsplan der Deutschen Bahn inkl. Zugtyp, Verspätung, Route etc. Es wird der Stuttgart Hauptbahnhof als Basis verwendet.
+  - Dieses Template zeigt einen Abfahrtsplan der Deutschen Bahn für den Stuttgarter Hauptbahnhof. Es beinhaltet Abfahrtszeiten, Verspätungen, Zugtyp, sowie Route, Zielort und Gleis.
 lang: de
 weight: 500
 isDraft: false
 ref: German_Railway_Plan
 category:
-  - Mobilität
-  - Zug
-  - Bahn
-  - ÖPNV
-  - Abfahrtsplan
+  - Verkehr
+  - Sonstiges
 image: German_Railway_Plan_EN.png
 download: German_Railway_Plan_EN.pbmx
 overview_description:

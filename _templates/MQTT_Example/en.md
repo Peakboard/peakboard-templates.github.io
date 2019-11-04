@@ -1,17 +1,17 @@
 ---
 layout: article
-title: MQTT Example
+title: MQTT as Data Source
 description: 
-  - This board shows how to use MQTT as data source. It uses multiple screens to show how different Peakboard Boxes and visualizations could work together. It's possible to call for maintanance and supply on one screen and react to the calls on the second screen.
+  - This visualization shows how to use MQTT as a data source&#58; The monitors are located at different points in the production hall. For example, the worker has one of these monitors at his station and can request maintenance. The production manager can react to messages on another monitor. The response time is therefore much faster and shows how different Peakboard Boxes and visualizations can work together.
 lang: en
 weight: 600
 isDraft: false
 ref: MQTT_Example
 category:
-  - MQTT
-  - Touch
-  - Interactive
-  - Button
+  - Production
+  - Interaction
+  - Scripting
+  - Lean Management
 image: MQTT_Example_EN.png
 download: MQTT_Example_EN.pbmx
 overview_description:

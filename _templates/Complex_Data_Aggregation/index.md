@@ -1,18 +1,13 @@
 ---
 layout: article
-title: Complex Data Aggregation
+title: Darstellung einer komplexen Datenaggregation
 description: 
-  - This board shows a Scripting Example for Complex Data Aggregation
+  - Diese Visualisierung zeigt ein Scripting-Beispiel für eine komplexe Datenaggregation.
 lang: de
-weight: 100
+weight: 50
 isDraft: false
 ref: Complex_Data_Aggregation
 category:
-  - Data
-  - Aggregation
-  - Aggregieren
-  - Rechnen
-  - Beispiel
   - Scripting
 image: Complex_Data_Aggregation_EN.png
 download: Complex_Data_Aggregation_EN.pbmx

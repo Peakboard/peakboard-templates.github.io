@@ -1,17 +1,15 @@
 ---
 layout: article
-title: Input Board with Buttons
+title: Template for Manual Editing using Click Events
 description: 
-  - This board gives you the chance to change information by clicking on the + symbol. Have a look at the scripts to understand how Peakboard is handling click events.
+  - With Peakboard you can create so-called Click Events. In this template you can change different values by clicking on the right '+' button.
 lang: en
 weight: 500
 isDraft: false
 ref: Input_Board
 category:
- - Input
- - Interactive
- - Button
- - Touch
+ - Interaction
+ - Scripting
 image: Input_Board_EN.png
 download: Input_Board_EN.pbmx
 overview_description:

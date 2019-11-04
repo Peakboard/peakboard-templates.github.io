@@ -1,17 +1,15 @@
 ---
 layout: article
-title: Template mit Eingabemöglichkeit durch Button
+title: Vorlage für eine manuelle Eingabe mit Hilfe von Click Events
 description: 
-  - Dieses Template bietet die Möglichkeit die Werte durch einen Klick auf die Buttons zu verändern. Schauen Sie sich die Scripte an um zu verstehen wie es funktioniert.
+  - Mit Peakboard können Sie sogenannte Click Events erstellen. In diesem Template bietet es die Möglichkeit, unterschiedliche Werte durch einen Klick auf die rechte "+"-Schaltfläche zu verändern.
 lang: de
 weight: 500
 isDraft: false
 ref: Input_Board
 category:
-  - Eingabe
-  - Interaktiv
-  - Button
-  - Touch
+  - Interaktion
+  - Scripting
 image: Input_Board_EN.png
 download: Input_Board_EN.pbmx
 overview_description:

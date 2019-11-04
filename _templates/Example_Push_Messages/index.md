@@ -1,17 +1,15 @@
 ---
 layout: article
-title: Beispiel mit Push Messages
+title: Push-Nachrichten an eine Peakboard Box senden
 description: 
-  - Dieses Template ist teil des Hilfe-Artikels&#58; https://help.peakboard.com/misc/en-push-messages.html und zeigt wie man http Meldungen an eine Peakboard Box senden kann.
+  - Diese Vorlag ist ein Teil des Artikels "Push-Nachrichten auf das Peakboard senden", welchen Sie auf unserer Help Website finden können&#58; https://help.peakboard.com/misc/de-push-nachrichten.html
+  - Es zeigt beispielhaft auf, wie man http Meldungen an eine Peakboard Box senden kann.
 lang: de
 weight: 200
 isDraft: false
 ref: Example_Push_Messages
 category:
-    - Help
-    - Push
-    - Beispiel
-    - Hilfe
+    - Scripting
 image: Example_Push_Messages_EN.png
 download: Example_Push_Messages_EN.pbmx
 overview_description:

@@ -1,28 +1,21 @@
 ---
 layout: article
-title: Warnmeldung Logistik
+title: Warnmeldung in der Logistik
 description: 
-  - Diese Vorlage gibt dem Stapelfahrer einen schnellen Überblick und warnt bei Problemen mit einem blinkenden Alarm. Fügen Sie Ihre Datenquellen hinzu und überarbeiten Sie das Skript, um es für Ihre Bedürfnisse nutzen zu können.
+  - Diese Vorlage gibt dem Kommissionierer einen schnellen Überblick über die wichtigsten Ein- und Auslagerungen und warnt bei Problemen durch eine rot aufblinkende Anzeige. Indem Sie Ihre Datenquellen hinzufügen und das Skript anpassen, können Sie diese Vorlage für Ihre Bedürfnisse verwenden.
 lang: de
 weight: 400
 isDraft: false
 ref: Alarm_Screen_Logistic
 category:
-  - Alarm
-  - Fehler
-  - Warnung
   - Logistik
   - Lager
+  - Fehler
+  - Warnung
 image: Alarm_Screen_Logistic_DE.png
 image_thumbnail: Alarm_Screen_Logistic_DE_thumbnail.png
 download: Alarm_Screen_Logistic_DE.pbmx
 overview_description:
-  - Oben&#58;	Aktueller Fehlercode aus der Kontrolleinheit, Position des Fehlers und verstrichene Dauer seit der Fehler aufgetreten ist.
-  - Unten&#58;	Aus dem ERP-System wichtige Information, wie die Art des Frachtguts, handelt es sich um Gefahrgut etc.
 overview_benefits:
-  - Bisher mussten Mitarbeiter immer bis ans Ende eines Hochregallagers laufen um das Problem zu erkennen. Durch das Anbringen von mehreren Monitoren können diese Fehler einfacher erkannt und schneller behoben werden.
 overview_data_sources:
-  - ERP
-  - Kontrolleinheit
-  - Datenbank
 ---

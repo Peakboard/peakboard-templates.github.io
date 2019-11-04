@@ -1,23 +1,21 @@
 ---
 layout: article
-title: Car Status Tesla
+title: Status Overview of a Tesla Car
 description: 
-  - This board is used to retrieve status information from your Tesla and display it on your Peakboard Box.
+  - This visualization obtains and visualizes information directly from a Tesla. Please note that you need a Tesla with the corresponding access data in order to use this template.
 lang: en
 weight: 500
 isDraft: false
 ref: Car_Status_Tesla
 category:
-  - Tesla
-  - Cars
-  - API
+  - Automobile
+  - Mics
 image: Car_Status_Tesla_DE.png
 image_thumbnail: Car_Status_Tesla_DE_thumbnail.png
 download: Car_Status_Tesla_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
-  - Tesla API
 ---
 # Remarks
 

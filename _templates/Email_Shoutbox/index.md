@@ -2,15 +2,13 @@
 layout: article
 title: E-Mail Shoutbox
 description: 
-  - Dieses Template ermöglicht es E-Mails an eine vorgegebene Adresse zu versenden. Der Inhalt kann über einen Touchscreen eingegeben werden.
+  - Diese Vorlage ermöglicht es Ihnen, E-Mails an eine zuvor definierte E-Mail-Adresse zu versenden und diese Informationen übersichtlich darzustellen. In der Mitte steht die aktuellste E-Mail, im unteren Bereich der Visualisierung eine Übersicht der letzten vier E-Mails mit Datum, Uhrzeit, Betreff und wer die E-Mail verschickt hat.
 lang: de
 weight: 210
 isDraft: false
 ref: Email_Shoutbox
 category:
-  - Beispiel
   - Scripting
-  - E-Mail
 image: Email_Shoutbox_EN.png
 download: Email_Shoutbox_EN.pbmx
 overview_description:

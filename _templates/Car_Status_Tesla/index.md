@@ -1,16 +1,15 @@
 ---
 layout: article
-title: Status eines Tesla Automobils
+title: Statusübersicht eines Tesla Autos
 description: 
-  - Dieses Template zieht Informationen von einem Tesla Automobil und stellt die Informationen auf einem Bildschirm dar. Sie benötigen einen Tesla mit den nötigen Zugangsdaten der Schnittstelle um dieses Board verwenden zu können.
+  - Diese Visualisierung bezieht und visualisiert Informationen direkt von einem Tesla. Bitte beachten Sie, dass Sie einen Tesla mit den entsprechenden Zugangsdaten benötigen, um diese Vorlage verwenden zu können.
 lang: de
 weight: 500
 isDraft: false
 ref: Car_Status_Tesla
 category:
-  - Tesla
   - Automobil
-  - Schnittstelle
+  - Sonstiges
 image: Car_Status_Tesla_DE.png
 image_thumbnail: Car_Status_Tesla_DE_thumbnail.png
 download: Car_Status_Tesla_DE.pbmx

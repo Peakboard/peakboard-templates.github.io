@@ -1,17 +1,15 @@
 ---
 layout: article
-title: German Railway Plan – Deutsche Bahn
+title: Deutsche Bahn (German Railway) Departure Board for Stuttgart Main Station
 description: 
-  - This boards shows a departure board for German railway station (including train type, delay, route etc...). The sample uses Stuttgart Main Station.
+  - This template shows a departure map of the Deutsche Bahn for Stuttgart main station. It includes departure times, delays, train type, route, destination and platform.
 lang: en
 weight: 500
 isDraft: false
 ref: German_Railway_Plan
 category:
-  - Transportation
-  - Mobility
-  - Train
-  - Public Plan
+  - Traffic
+  - Misc
 image: German_Railway_Plan_EN.png
 download: German_Railway_Plan_EN.pbmx
 overview_description:

@@ -1,31 +1,21 @@
 ---
 layout: article
-title: Appointments Overview
+title: Room Occupancy and Appointment Overview at the Reception Desk
 description: 
-  - With this template you can easily get an overview of Today's appointments. Replace the Logo and update the weather widget to make it yours. This visualization uses a Microsoft 365 Calendar as a data source to get appointments from a calendar. Verify your calendar to get it running.
+  - This visualization provides an overview of current appointments and the corresponding room occupancy. Connect your Microsoft 365 calendar, change the logo and, if necessary, adjust the weather widget to adapt the visualization to your needs.
 lang: en
 weight: 1000
 isDraft: false
 ref: Appointments_Overview
 category:
-  - Appointments
   - Featured
   - Administration
-  - Welcome
+  - Reception
 image: Appointments_Overview_EN.png
 download: Appointments_Overview_EN.pbmx
 overview_description:
-  - Top&#58; Company logo, current time and some weather information.
-  - Bottom&#58; Shows the next appointments. If there is no more appointment it shows a general welcome text.
 overview_benefits:
-  - Personal welcome for your visitors
-  - Orientation for visitors
-  - Weather information
-  - Easy to customize
-  - Simple Layout
 overview_data_sources:
-  - Office 365 Calendar
-  - Weather Widget
 ---
 
 # How it works

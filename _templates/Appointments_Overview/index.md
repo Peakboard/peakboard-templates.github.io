@@ -1,33 +1,21 @@
 ---
 layout: article
-title: Terminübersicht
+title: Raumbelegung und Terminübersicht am Empfang
 description: 
-  - Mit dieser Vorlage können Sie sich ganz einfach einen Überblick über die heutigen Termine verschaffen. Ersetzen Sie das Logo und aktualisieren Sie das Wetter-Widget, um es zu Ihrem zu machen. Diese Visualisierung verwendet einen Microsoft 365-Kalender als Datenquelle, um Termine aus einem Kalender abzurufen. Überprüfen Sie Ihren Kalender, um ihn zum Laufen zu bringen.
+  - Diese Visualisierung dient dazu, einen Überblick über tagesaktuelle Termine und die entsprechende Raumbelegung zu erhalten. Verbinden Sie Ihren Microsoft 365 Kalender, tauschen Sie das Logo aus und passen Sie, falls nötig, das Wetter-Widget an, um die Visualisierung Ihren Bedürfnissen entsprechend anzupassen.
 lang: de
 weight: 1000
 isDraft: false
 ref: Appointments_Overview
 category:
-  - Willkommensbildschirm
-  - Termine
-  - Empfangsbildschirm 
-  - Featured
   - Beliebt
   - Administration
+  - Empfang
 image: Appointments_Overview_EN.png
 download: Appointments_Overview_EN.pbmx
 overview_description:
-  - Top&#58; Firmenlogo, aktuelle Zeit und Wettervorhersage.
-  - Bottom&#58; Zeigt die anstehenden Termine an. Wenn kein weiterer Termin mehr vorhanden ist wird ein genereller Begrüßungstext angezeigt.
 overview_benefits:
-  - Persönliche Begrüßung von Besuchern
-  - Orientierung für Besucher
-  - Wetterinformation mit Vorhersage
-  - Einfach zu individualisieren
-  - Einfaches Layout
 overview_data_sources:
-  - Office 365 Kalender
-  - Wetter Widget
 ---
 
 # So funktioniert's
