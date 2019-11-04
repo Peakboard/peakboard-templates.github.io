@@ -10,7 +10,7 @@ ref: Production_Process_Andon
 carousel: 
 category:
   - Andon
-  - Featured
+  - Recommended
 image: Production_Process_Andon_DE.png
 download: Production_Process_Andon_DE.pbmx
 overview_description:

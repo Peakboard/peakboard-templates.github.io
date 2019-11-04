@@ -9,7 +9,7 @@ isDraft: false
 ref: Universal_Manufacturing_Board
 category:
   - Produktion
-  - Beliebt
+  - Empfohlen
   - Massenproduktion
   - Übersicht
   - Aktueller Produktionsstatus

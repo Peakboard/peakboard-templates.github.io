@@ -11,7 +11,7 @@ carousel: true
 category:
   - Use Case
   - Welcome Board
-  - Featured
+  - Recommended
 image: Welcome_Screen_Calendar_EN.png
 image_thumbnail: Welcome_Screen_Calendar_EN_thumbnail.png
 download: Welcome_Screen_Calendar_EN.pbmx

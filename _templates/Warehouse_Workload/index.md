@@ -8,7 +8,7 @@ weight: 600
 isDraft: false
 ref: Warehouse_Workload
 category:
-  - Beliebt
+  - Empfohlen
   - Logistik
   - Verkauf
 image: Warehouse_Workload_DE.png

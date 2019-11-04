@@ -10,7 +10,7 @@ ref: Single_Production_Line_Andon
 carousel: true
 category:
   - Andon
-  - Featured
+  - Recommended
 image: Single_Production_Line_Andon_EN.png
 download: Single_Production_Line_Andon_EN.pbmx
 overview_description:

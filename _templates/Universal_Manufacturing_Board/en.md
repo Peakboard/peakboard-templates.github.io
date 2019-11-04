@@ -9,7 +9,7 @@ isDraft: false
 ref: Universal_Manufacturing_Board
 category:
   - Production
-  - Featured
+  - Recommended
   - Mass production
   - Overview several lines
   - Current production status

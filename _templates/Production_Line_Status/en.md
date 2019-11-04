@@ -9,7 +9,7 @@ isDraft: false
 ref: Production_Line_Status
 category:
   - Production
-  - Featured
+  - Recommended
   - Mass production
   - Error
   - Warning

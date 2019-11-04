@@ -8,7 +8,7 @@ weight: 2000
 isDraft: false
 ref: Info_Production_Lines
 category:
-  - Featured
+  - Recommended
   - Production
   - KPI
   - Lean Management

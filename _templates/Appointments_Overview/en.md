@@ -8,7 +8,7 @@ weight: 1000
 isDraft: false
 ref: Appointments_Overview
 category:
-  - Featured
+  - Recommended
   - Administration
   - Reception
 image: Appointments_Overview_EN.png
