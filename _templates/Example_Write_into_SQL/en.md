@@ -13,7 +13,6 @@ category:
     - Learn
     - Write Data
 image: Example_Write_into_SQL_EN.png
-image_thumbnail: Example_Write_into_SQL_EN_thumbnail.png
 download: Example_Write_into_SQL_EN.pbmx
 overview_description:
 overview_benefits:
