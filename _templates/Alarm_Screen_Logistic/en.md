@@ -1,3 +1,4 @@
+
 ---
 layout: article
 title: Alarm Screen Logistic
@@ -13,6 +14,7 @@ category:
   - Warning
   - Logistics
 image: Alarm_Screen_Logistic_EN.png
+image_thumbnail: Alarm_Screen_Logistic_EN_thumbnail.png
 download: Alarm_Screen_Logistic_EN.pbmx
 overview_description:
   - On top&#58;	Current error code out of the control unit from the high rack storage ​Type (storage canceled), location of error (SRM1) and duration of error time (42:06) is shown in red ​

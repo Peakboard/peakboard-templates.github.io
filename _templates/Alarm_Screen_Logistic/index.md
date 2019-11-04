@@ -14,6 +14,7 @@ category:
   - Logistik
   - Lager
 image: Alarm_Screen_Logistic_DE.png
+image_thumbnail: Alarm_Screen_Logistic_DE_thumbnail.png
 download: Alarm_Screen_Logistic_DE.pbmx
 overview_description:
   - Oben&#58;	Aktueller Fehlercode aus der Kontrolleinheit, Position des Fehlers und verstrichene Dauer seit der Fehler aufgetreten ist.
