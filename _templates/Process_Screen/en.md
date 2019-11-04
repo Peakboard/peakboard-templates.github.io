@@ -7,7 +7,6 @@ lang: en
 weight: 1000
 isDraft: false
 ref: Process_Screen
-featured: 
 category:
   - Logistics
   - Process
