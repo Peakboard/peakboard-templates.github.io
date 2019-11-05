@@ -359,7 +359,6 @@ var main = {
             addClass(document.getElementById('carousel'), 'hidden');
             removeClass(document.getElementById('hits-container'), 'mt-8');
         } else if (getUrlVars()["menu%5Bcategory%5D"] === undefined) {
-            console.log("Initial load triggered this.");
             removeClass(document.getElementById('carousel'), 'hidden');
             addClass(document.getElementById('hits-container'), 'mt-8');
         } else {
