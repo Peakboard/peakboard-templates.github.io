@@ -351,8 +351,18 @@ var main = {
             container: document.querySelector('#clear-refinements')
         })]);
 
-        // handle carousel in case we're coming from an article
-        if(getUrlVars()["fromArticle"]) {
+        // if the featured category is within the url, we should show the carousel, otherwise, we shouldn't.
+        if (window.location.href.indexOf(document.getElementById('featured-category').innerHTML) > -1) {
+            removeClass(document.getElementById('carousel'), 'hidden');
+            addClass(document.getElementById('hits-container'), 'mt-8');
+        } else if (getUrlVars()["fromArticle"]) {
+            addClass(document.getElementById('carousel'), 'hidden');
+            removeClass(document.getElementById('hits-container'), 'mt-8');
+        } else if (getUrlVars()["menu%5Bcategory%5D"] === undefined) {
+            console.log("Initial load triggered this.");
+            removeClass(document.getElementById('carousel'), 'hidden');
+            addClass(document.getElementById('hits-container'), 'mt-8');
+        } else {
             addClass(document.getElementById('carousel'), 'hidden');
             removeClass(document.getElementById('hits-container'), 'mt-8');
         }

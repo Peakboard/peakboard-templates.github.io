@@ -31,7 +31,7 @@ layout: base
             {% assign collections = site.collections | sort: 'position' %}
 
             <div id="carousel">
-                <div class="carousel-container hidden lg:block">
+                <div class="carousel-container lg:block">
                 {% assign amount_of_items = 0 %}
                 {% for collection in collections %}
                   {% if collection.label != "posts" %}
