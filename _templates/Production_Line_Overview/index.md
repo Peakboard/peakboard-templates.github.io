@@ -9,6 +9,7 @@ isDraft: false
 ref: Production_Line_Overview
 category:
 image: Production_Line_Overview_EN.png
+image_thumbnail: Production_Line_Overview_DE_thumbnail.png
 download: Production_Line_Overview_EN.pbmx
 overview_description:
 overview_benefits:

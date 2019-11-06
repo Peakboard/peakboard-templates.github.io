@@ -9,7 +9,7 @@ isDraft: true
 ref: Production_Line_Efficiency
 category:
   - Produktion
-  - KPIs
+  - KPI
   - OEE / GAE
 image: Production_Line_Efficiency_EN.png
 download: Production_Line_Efficiency_EN.pbmx
