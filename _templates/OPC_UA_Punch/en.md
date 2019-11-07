@@ -1,16 +1,16 @@
 ---
 layout: article
-title: OPC UA Punch
+title: Control of a Punch with OPC UA
 description: 
-  - This is a complete solution for a visualization of a punch with the data being received from a OPC UA Server (publicly available).
+  - This template shows how to set up the communication between Peakboard and a punch using OPC UA.
 lang: en
 weight: 500
 isDraft: false
 ref: OPC_UA_Punch
 category:
-  - OPC UA
-  - Punch
-  - Performance
+  - Production
+  - Control
+  - Process
 image: OPC_UA_Punch_EN.png
 download: OPC_UA_Punch_EN.pbmx
 overview_description:

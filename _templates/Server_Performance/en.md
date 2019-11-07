@@ -1,18 +1,16 @@
 ---
 layout: article
-title: Server Performance
+title: Monitoring Server Performance
 description: 
-  - Visualize all important IT infrastructure parameters on the wall at any time – in real-time. Template shows the recent performance and workload of a server, including circular gauges and dynamic text boxes. 
+  - Use this template to visualize all key metrics of your server performance and utilization in real time.
 lang: en
 weight: 1000
 isDraft: false
 ref: Server_Performance
 category:
   - Recommended
-  - Server
-  - Maintanance
-  - Infrastructure
   - Administration
+  - IT Data Center
 image: Server_Performance_EN.png
 download: Server_Performance_EN.pbmx
 overview_description:

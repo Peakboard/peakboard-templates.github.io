@@ -1,17 +1,18 @@
 ---
 layout: article
-title: Welcome Screen with Office365 Calendar
+title: Reception Screen with Microsoft Office 365 Calendar Connection
 description: 
-  - With this template you can easily get started with your welcome screen. Replace the Logo, add your background images and update the weather widget to make it yours. This visualization uses a Microsoft 365 Calendar as a data source to get appointments from a calendar. Verify your calendar to get it running.
+  - With this template you can easily and quickly visualize a reception screen with different appointments. For this a Microsoft 365 calendar is connected as data source. To be able to use this template for your purposes, simply replace the company logo, insert a different background image if necessary and connect your calendar. An explanation of how to connect your calendar can be found more detailed below.
 lang: en
 weight: 1000
 isDraft: false
 ref: Welcome_Screen_Calendar
 carousel: true
 category:
-  - Use Case
-  - Welcome Board
-  - Recommended
+  - Administration
+  - Reception
+  - Calendar
+  - Misc
 image: Welcome_Screen_Calendar_EN.png
 image_thumbnail: Welcome_Screen_Calendar_EN_thumbnail.png
 download: Welcome_Screen_Calendar_EN.pbmx

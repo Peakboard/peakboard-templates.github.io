@@ -1,16 +1,19 @@
 ---
 layout: article
-title: Production Process Andon
+title: Simple Andon Board for Monitoring 5 Production Steps
 description: 
-  - This board provides a Andon board with 5 different signal lights. There is a script running to manipulate the Machine Status and Production Count variable. Remove the script and add your data source to get it running for your use case.
+  - This template provides an overview of five different production steps for an order. By means of an Andon Board display (traffic light color scheme) the individual stations are color-coded. So you can see at a glance at which station of the line everything is running as planned or at which station a problem has occurred and since how long it exists. In addition, the order status is displayed in real time. Remove the existing timer script and add your data source to use this visualization for your purposes.
 lang: en
 weight: 500
 isDraft: false
 ref: Production_Process_Andon
 carousel: 
 category:
-  - Andon
   - Recommended
+  - Production
+  - Andon
+  - Alert
+  - Process
 image: Production_Process_Andon_EN.png
 download: Production_Process_Andon_EN.pbmx
 overview_description:

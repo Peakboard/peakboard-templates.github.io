@@ -1,16 +1,19 @@
 ---
 layout: article
-title: Produktionsprozess mit Andon
+title: Einfaches Andon Board zur Überwachung von 5 Produktionsschritten
 description: 
-  - Dieses Template bietet ein Andon Übersicht mit 5 verschiedenen Signalen. Es läuft ein Scriipt welches die Werte manipuliert. Entfernen Sie dieses Timer-Script und fügen Sie Ihre Datenquelle hinzu um es für Ihre Zwecke verwenden zu können.
+  - Bei dieser Vorlage handelt es sich um eine Übersicht von fünf verschiedenen Produktionsschritten zu einem Auftrag. Mittels einer Andon Board Anzeige (Ampelfarbschema) werden die einzelnen Stationen farblich gekennzeichnet. So wird auf einen Blick ersichtlich, an welcher Station der Linie alles planmäßig läuft oder an welcher ein Problem aufgetreten ist und seit welcher Zeit dieses besteht. Zusätzlich wird der Auftragsstatus in Echtzeit abgebildet. Entfernen Sie das hinterlegte Timer Script und fügen Sie Ihre Datenquelle hinzu, um diese Visualisierung für Ihre Zwecke verwenden zu können.
 lang: de
 weight: 500
 isDraft: false
 ref: Production_Process_Andon
 carousel: 
 category:
+  - Empfohlen
+  - Produktion
   - Andon
-  - Recommended
+  - Warnung
+  - Prozess
 image: Production_Process_Andon_DE.png
 download: Production_Process_Andon_DE.pbmx
 overview_description:

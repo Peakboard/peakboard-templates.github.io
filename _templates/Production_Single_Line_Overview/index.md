@@ -1,16 +1,15 @@
 ---
 layout: article
-title: Einzelne Produktionslinie Übersicht
+title: Übersicht über eine einzelne Produktionslinie
 description: 
-  - Dieses Board gibt eine Übersicht wie der aktuell soll/ist status einer Bestellung ist und zeigt den aktuellen OEE (GAE) Wert an und zeigt wie sich dieser entwickelt hat.
+  - In dieser Vorlage wird eine einzelne Produktionslinie mit klassischen Metriken, wie zum Beispiel Soll-Ist-Vergleich und Gesamtanlageneffektivität, visualisiert. Dadurch kann man schnell und übersichtlich den aktuellen Status der Bestellung sowie die Entwicklung der GAE überblicken.
 lang: de
 weight: 1000
 isDraft: false
 ref: Production_Single_Line_Overview
 category:
-  - Production
-  - Automobil
-  - Massenproduktion
+  - Empfohlen
+  - Produktion
   - OEE / GAE
 image: Production_Single_Line_Overview_DE.png
 download: Production_Single_Line_Overview_DE.pbmx

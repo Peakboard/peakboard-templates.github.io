@@ -1,17 +1,18 @@
 ---
 layout: article
-title: Willkommensbildschirm mit Kalenderanbindung
+title: Empfangsbildschirm mit Microsoft Office 365 Kalenderanbindung
 description: 
-  - Mit dieser Vorlage können Sie ganz einfach mit Ihrem Begrüßungsbildschirm beginnen. Ersetzen Sie das Logo, fügen Sie Ihre Hintergrundbilder hinzu und aktualisieren Sie das Wetter-Widget. Diese Visualisierung verwendet einen Microsoft 365-Kalender als Datenquelle, um Termine aus einem Kalender abzurufen. Verbinden Sie Ihren Kalender, um das Template für Ihren Kalender zu nutzen.
+  - Mit dieser Vorlage können Sie einfach und schnell einen Empfangsbildschirm mit unterschiedlichen Terminen visualisieren. Hierfür wird ein Microsoft 365 Kalender als Datenquelle verbunden. Um diese Vorlage für Ihre Zwecke nutzen zu können, ersetzen Sie einfach das Firmenlogo, fügen Sie gegebenenfalls ein anderes Hintergrundbild ein und verbinden Sie Ihren Kalender. Eine Erklärung zur Anbindung Ihres Kalenders finden Sie weiter unten auf dieser Seite.
 lang: de
 weight: 1000
 isDraft: false
 ref: Welcome_Screen_Calendar
 carousel: true
 category:
+  - Administration
   - Empfang
-  - Willkommensbildschirm
-  - Empfohlen
+  - Kalender
+  - Sonstiges
 image: Welcome_Screen_Calendar_EN.png
 image_thumbnail: Welcome_Screen_Calendar_EN_thumbnail.png
 download: Welcome_Screen_Calendar_EN.pbmx

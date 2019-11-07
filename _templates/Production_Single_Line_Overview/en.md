@@ -1,17 +1,18 @@
 ---
 layout: article
-title: Production Single Line Overview
+title: Overview of a Single Production Line
 description: 
-  - This board gives an overview about the current is/target state of an order and displays the current OEE and a history how the OEE has developed. Replace the variables with your data sources and make it yours.
+  - In this template, a single production line is visualized with classical metrics, such as target/actual comparison and overall equipment effectiveness. This allows a quick and clear overview of the current status of the order as well as the development of the OEE.
 lang: en
 weight: 1000
 isDraft: false
 ref: Production_Single_Line_Overview
 category:
   - Production
+  - Serial Production
   - Car
-  - Mass production
-  - OEE
+  - Warning
+  - Error
 image: Production_Single_Line_Overview_EN.png
 download: Production_Single_Line_Overview_EN.pbmx
 overview_description:

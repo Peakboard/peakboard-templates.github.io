@@ -9,9 +9,10 @@ isDraft: false
 ref: Production_Status_Alert
 category:
   - Produktion
+  - Serienfertigung
+  - Automobil
   - Warnung
-  - Meldung
-  - Status
+  - Fehlermeldung
 image: Production_Status_Alert_DE.png
 download: Production_Status_Alert_DE.pbmx
 overview_description:

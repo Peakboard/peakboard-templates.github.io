@@ -1,15 +1,16 @@
 ---
 layout: article
-title: Sales Dashboard
+title: Sales Performance Dashboard
 description: 
-  - This board shows a Dashboard for a Sales Team.
+  - With this template you can build your sales dashboard. Create more competition through visible metrics.
 lang: en
 weight: 500
 isDraft: false
 ref: Sales_Dashboard
 category:
-  - Sales
   - Administration
+  - KPI
+  - Misc
 image: Sales_Dashboard_EN.png
 image_thumbnail: Sales_Dashboard_EN_thumbnail.png
 download: Sales_Dashboard_EN.pbmx

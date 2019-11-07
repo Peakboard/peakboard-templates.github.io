@@ -1,13 +1,16 @@
 ---
 layout: article
-title: Willkommensbildschirm mit Excel Anbindung
+title: Empfangsbildschirm mit Excel-Anbindung
 description: 
-  - Ein Willkommensbildschirm für den Empfangsbereich oder Lobby. Gepflegt mit Hilfe einer Excel Datei.
+  - Bei dieser Vorlage handelt es sich um einen weiteren Willkommensbildschirm für den Empfangsbereich oder die Lobby. Hierfür werden die Termine über eine Excel-Datei gepflegt.
 lang: de
 weight: 290
 isDraft: false
 ref: Welcome_Template_Excel
 category:
+  - Administration
+  - Empfang
+  - Misc
 image: Welcome_Template_Excel_DE.png
 download: Welcome_Template_Excel_DE.pbmx
 overview_description:

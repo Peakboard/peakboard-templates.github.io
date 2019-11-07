@@ -1,17 +1,16 @@
 ---
 layout: article
-title: Warehouse Workload SQL
+title: Small Parts Picking with SQL Connection
 description: 
-  - This visualization gives an overview about the current workload in a warehouse. It works with a SQL data source. To get it running you need to have the Microsoft SQL Server Native Client installed: https://www.microsoft.com/en-us/download/details.aspx?id=50402
+  - This template is used to provide a better overview of the current utilization of a warehouse. A SQL data source is used for this purpose. To be able to use this template for your purposes, the Microsoft SQL Server Native Client must be installed. https://www.microsoft.com/en-us/download/details.aspx?id=50402
 lang: en
 weight: 800
 isDraft: false
 ref: Warehouse_Workload_SQL
 category:
-  - SQL
-  - Database
   - Logistics
-  - Retail
+  - Warehouse
+  - Lean Management
 image: Warehouse_Workload_SQL_EN.png
 download: Warehouse_Workload_SQL_EN.pbmx
 overview_description:

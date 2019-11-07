@@ -2,13 +2,15 @@
 layout: article
 title: LKW Zuweisung
 description: 
-  - 'This board gives the possibility to assign different trucks with their licence plate to a specific gate at a dedicated time. The trucks can be assigned with the help of the Peakboard webinterface. There you can store and maintain all data directly on the Peakboard Box. Upload the visualization to your box and open the webinterface: Home Tab -> Manage / Upload -> Select the box -> Webinterface Button at the top. Login and manage all trucks with the "gates" list.'
+  - Diese Vorlage bietet die Möglichkeit, einem bestimmten Tor zu einem bestimmten Zeitpunkt verschiedene LKWs zuzuweisen. Die Zuordnung der LKWs erfolgt über das Peakboard Webinterface. Dort können Sie alle Daten direkt auf der Peakboard Box speichern und pflegen. Laden Sie die Visualisierung auf Ihre Box hoch und öffnen Sie das Webinterface, um Ihre Tore und LKWs zu verwalten.
 lang: de
 weight: 1000
 isDraft: false
 ref: Truck_Assignment
 category:
   - Logistik
+  - LKW
+  - Verkehr
 image: Truck_Assignment_DE.png
 image_thumbnail: Truck_Assignment_DE_thumbnail.png
 download: Truck_Assignment_DE.pbmx

@@ -1,18 +1,16 @@
 ---
 layout: article
-title: Server Überwachung
+title: Überwachung der Serverleistung
 description: 
-  - Visualisieren Sie alle wichtigen IT Infrastrukturparameter in Echtzeit. Das Template zeigt die aktuelle Leistung und den Workload eines Servers an.
+  - Visualisieren Sie mit dieser Vorlage alle wichtigen Kennzahlen Ihrer Serverleistung und -auslastung in Echtzeit.
 lang: de
 weight: 1000
 isDraft: false
 ref: Server_Performance
 category:
   - Empfohlen
-  - Server
-  - Wartung
-  - Infrastruktur
   - Administration
+  - IT-Rechenzentrum
 image: Server_Performance_EN.png
 download: Server_Performance_EN.pbmx
 overview_description:
