@@ -8,10 +8,9 @@ weight: 300
 isDraft: true
 ref: Welcome_Screen_Online_Single
 category:
-  - Use Case
-  - Welcome
-  - Willkommen
-  - Empfangsbildschirm
+  - Administration
+  - Empfang
+  - Sonstiges
 image: Welcome_Screen_Online_Single_EN.png
 image_thumbnail: Welcome_Screen_Online_Single_EN_thumbnail.png
 download: Welcome_Screen_Online_Single_EN.pbmx

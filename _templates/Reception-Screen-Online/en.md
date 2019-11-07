@@ -8,9 +8,9 @@ weight: 300
 isDraft: true
 ref: Welcome_Screen_Online
 category:
-  - Use Case
-  - Welcome
-  - Recommended
+  - Administration
+  - Reception
+  - Misc
 image: Welcome_Screen_Online_EN.png
 image_thumbnail: Welcome_Screen_Online_EN_thumbnail.png
 download: Welcome_Screen_Online_EN.pbmx
