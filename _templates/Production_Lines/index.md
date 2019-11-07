@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Produktionslinien
+title: Produktionslinien Hallenübersicht
 description: 
-  - Dieses Template beinhaltet den Status von zwei Produktionslinien in einer Halle.
+  - Dieses Template beinhaltet den Status von zwei Produktionslinien in einer Halle. Es zeigt die bereits produzierte Stückzahl und wie viele Teile zur Soll-Menge noch fehlen. Zusätzlich werden die Qualität durch die Anzeige von Fehlproduktionen angezeigt.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Production_Lines
 category:
   - Production

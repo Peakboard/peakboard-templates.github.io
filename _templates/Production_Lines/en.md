@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Production Lines
+title: Production Lines Hall Overview
 description: 
-  - This designer template includes the current status about the production process
+  - This template contains the status of two production lines in one hall. It shows the number of pieces already produced and how many parts are missing for the target quantity. In addition, the quality is indicated by displaying the number of misproduction.
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Production_Lines
 category:
   - Production
