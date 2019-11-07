@@ -5,7 +5,7 @@ description:
   - With this template you can easily get started with your welcome screen. Replace the Logo, add your background images and update the weather widget to make it yours.
 lang: en
 weight: 300
-isDraft: false
+isDraft: true
 ref: Welcome_Screen_Online_Single
 category:
   - Use Case
@@ -15,17 +15,8 @@ image: Welcome_Screen_Online_Single_EN.png
 image_thumbnail: Welcome_Screen_Online_Single_EN_thumbnail.png
 download: Welcome_Screen_Online_Single_EN.pbmx
 overview_description:
-  - Left&#58; Company logo, current time and some weather information.
-  - Right&#58; Shows the next appointments. If there is no more appointment it shows a general welcome text.
 overview_benefits:
-  - Personal welcome for your visitors
-  - Weather information
-  - Easy to customize
-  - Nice Layout
-  - Images in Background
 overview_data_sources:
-  - Local Table
-  - Weather Widget
 ---
 
 # How it works
@@ -143,30 +134,6 @@ Under the list 'visitor' you can enter a name of a visitor under 'Name'. If this
 In the list 'visitor' you can give further information about the visitor. You can specify a room, a contact person, a time and the company name. If you leave a text field blank, nothing will be displayed at this point.
 
 ![image_live](/assets/images/templates/welcome/Webinterface_Appointment_Table_Single.png)
-
-### Manage multiple appointments with a table
-
-Visualization of [Multiple appointments with table management](https://templates.peakboard.com/Welcome_Screen_Online/en) gives you the option of one general greetings text or one to three appointments. The appointments that are displayed are managed via the Peakboard web interface. This web interface is a website that runs on the Peakboard Box and can be accessed via the following address: http: // Name YourBox: 40404. You must enter the name of your box followed by the port: 40404. Login requires the login data supplied with the box. Then you will see a screenshot of your currently running visualization (1) and on the right side (2) various variable lists which you can now change. Using the lists 'background', 'logo' and 'text_labels' you can influence the optics of the visualization, this is already described in the initial configuration.
-
-![image_live](/assets/images/templates/welcome/Webinterface_Overview.png)
-
-To manage the events displayed, open the list 'appointments'. In this table, you can now create different appointments. Always enter a date, a start and end time and a title of the subject. The options Body and Location are optional, so you can specify additional information such as contact person and room. Afterwards, the next three appointments of today are displayed in the visualization. To add more appointments press the '+' button (3) at the bottom of the table.
-
-![image_live](/assets/images/templates/welcome/Webinterface_Appointment_Table.png)
-
-If no other appointment exists today, the general welcome text from the text_labels list is used.
-
-### Manage multiple appointments with a MS Office calendar
-
-To be able to use the [visualization with calendar attachment](https://templates.peakboard.com/Welcome_Screen_Calendar/en), you must register your private - or better yet a shared - calendar account into your Microsoft account and activate a share for the necessary information for Peakboard.
-
-Open the visualization file with the Peakboard Designer. Now you can open the calendar data source in the left sidebar (Visualization -> Data -> Calendar). Under the second item 'Authorization status', you must now set up a share for your calendar via the 'Authorize' button. To do this, follow the Windows logon steps and allow Peakboard to access the calendar. Once the authorization has been granted, you can close the dialog with OK, save the visualization. Now upload the current visualization to your Peakboard Box.
-
-![image_live](/assets/images/templates/welcome/activate_office365-calendar.gif)
-
-Subsequently, all current appointments are automatically fetched from the specified Microsoft calendar and displayed up to three. This means that you can simply manage the appointments in your calendar as usual and Peakboard automatically fetches the relevant appointments and presents them. If there is no other appointment for today, the general welcome text from the list 'text_labels' is used.
-
-Peakboard currently supports Microsoft Office 365 accounts and modern on-premise Exchange servers supporting Microsoft Graph. It's best to ask your admin.
 
 ## Image credits
 

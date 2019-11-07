@@ -5,7 +5,7 @@ description:
   - With this template you can easily get started with your welcome screen. Replace the Logo, add your background images and update the weather widget to make it yours.
 lang: en
 weight: 300
-isDraft: false
+isDraft: true
 ref: Welcome_Screen_Offline
 category:
   - Use Case
@@ -15,16 +15,8 @@ image: Welcome_Screen_Offline_EN.png
 image_thumbnail: Welcome_Screen_Offline_EN_thumbnail.png
 download: Welcome_Screen_Offline_EN.pbmx
 overview_description:
-  - Left&#58; Company logo and the current time.
-  - Right&#58; Shows the next appointments. If there is no more appointment it shows a general welcome text.
 overview_benefits:
-  - Personal welcome for your visitors
-  - Easy to customize
-  - Nice Layout
-  - Images in Background
-  - Works without internet connection
 overview_data_sources:
-  - Local Table
 ---
 
 # How it works
@@ -74,28 +66,6 @@ If you want, you can also use your Peakboard Box without connecting to the Inter
 
 This setting defines from which data source the Peakboard Box obtains the current time. You can leave the default setting, this invokes the following service for the time: 'time.windows.com'. If you want to use your local time server of your network, you can change it by navigating to the 'Settings / Settings' -> 'Time server / Time server' tab in the top menu bar. Especially if the box has no Internet connection, it is important to deposit the local time server. Just ask your administrator for the address.
 
-### Set up Weather Widget
-
-If you do not want to use this weather widget, you can simply clear the element from the visualization in the Peakboard Designer. Select it with a right-click and choose 'Delete'.
-
-If you want to use the Weather Widget, you can create your own widget with your city at the following address: [https://weatherwidget.io/](https://weatherwidget.io/).
-
-You can then define parameters such as city, language, the texts to be displayed and the unit.
-On the other tabs there are many more ways to customize the weather widget to your needs.
-
-For our visualization we have used the font 'Arial' in the tab 'Options', the icon Set 'Climacons Animated', Forecast Days '3'.
-As theme, we used the theme 'Pure' under 'Flat'.
-
-If you are satisfied with your options, you can click on the 'Get Code' button. In the opened window you will now find the finished code for your personal widget. Copy this code by marking it or just click on the 'Copy to Clipboard' button.
-
-Now go back to the Peakboard Designer and select the control 'Web widget (Weather)' in the sidebar or click directly on the weather widget.
-
-![image_live](/assets/images/templates/welcome/select_weather_widget.gif)
-
-In the further sidebar on the right side you will find some parameters for this element. Click on the '...' button under 'HTML code' (2). In the opened window you can now replace the existing code with your created code (3). Insert your created widget there and click on the OK button.
-
-![image_live](/assets/images/templates/welcome/web_widget_code_appointments.png)
-
 ### Update logo 
 
 To replace the Peakboard logo with your desired company logo, you need an image file. Different formats are supported (PNG, JPG). Simply drag and drop the desired image file onto the left sidebar of the Peakboard Designer. Then you will find the image file in the sidebar under the item 'Resources'. Now drag this image file to the current logo, so you can overwrite it. Then you can make adjustments to optimize size and position.
@@ -132,17 +102,6 @@ Learn more about the web interface [here](https://peakboard.rocks/webinterface).
 
 Read the description for your selected template.
 
-### Manage one appointment with a table
-
-Visualization with just [one entry](https://templates.peakboard.com/Welcome_Screen_Online_Single/en) gives you the ability to to display a general welcome text or a special one for a person or company. The texts that are displayed are managed via the Peakboard web interface. This web interface is a website that runs on the Peakboard Box and can be accessed via the following address: http: // Name YourBox: 40404. You must enter the name of your box followed by the port: 40404. Login requires the login data supplied with the box. Then you will see a screenshot of your currently running visualization (1) and on the right side (2) various variable lists, which you can now change. Using the lists 'background', 'logo' and 'text_labels' you can influence the optics of the visualization, this is already described in the initial configuration.
-
-![image_live](/assets/images/templates/welcome/Webinterface_Overview_Single.png)
-
-Under the list 'visitor' you can enter a name of a visitor under 'Name'. If this entry is empty, the general welcome text from the list 'text_labels' is automatically used.
-In the list 'visitor' you can give further information about the visitor. You can specify a room, a contact person, a time and the company name. If you leave a text field blank, nothing will be displayed at this point.
-
-![image_live](/assets/images/templates/welcome/Webinterface_Appointment_Table_Single.png)
-
 ### Manage multiple appointments with a table
 
 Visualization of [Multiple appointments with table management](https://templates.peakboard.com/Welcome_Screen_Online/en) gives you the option of one general greetings text or one to three appointments. The appointments that are displayed are managed via the Peakboard web interface. This web interface is a website that runs on the Peakboard Box and can be accessed via the following address: http: // Name YourBox: 40404. You must enter the name of your box followed by the port: 40404. Login requires the login data supplied with the box. Then you will see a screenshot of your currently running visualization (1) and on the right side (2) various variable lists which you can now change. Using the lists 'background', 'logo' and 'text_labels' you can influence the optics of the visualization, this is already described in the initial configuration.
@@ -154,18 +113,6 @@ To manage the events displayed, open the list 'appointments'. In this table, you
 ![image_live](/assets/images/templates/welcome/Webinterface_Appointment_Table.png)
 
 If no other appointment exists today, the general welcome text from the text_labels list is used.
-
-### Manage multiple appointments with a MS Office calendar
-
-To be able to use the [visualization with calendar attachment](https://templates.peakboard.com/Welcome_Screen_Calendar/en), you must register your private - or better yet a shared - calendar account into your Microsoft account and activate a share for the necessary information for Peakboard.
-
-Open the visualization file with the Peakboard Designer. Now you can open the calendar data source in the left sidebar (Visualization -> Data -> Calendar). Under the second item 'Authorization status', you must now set up a share for your calendar via the 'Authorize' button. To do this, follow the Windows logon steps and allow Peakboard to access the calendar. Once the authorization has been granted, you can close the dialog with OK, save the visualization. Now upload the current visualization to your Peakboard Box.
-
-![image_live](/assets/images/templates/welcome/activate_office365-calendar.gif)
-
-Subsequently, all current appointments are automatically fetched from the specified Microsoft calendar and displayed up to three. This means that you can simply manage the appointments in your calendar as usual and Peakboard automatically fetches the relevant appointments and presents them. If there is no other appointment for today, the general welcome text from the list 'text_labels' is used.
-
-Peakboard currently supports Microsoft Office 365 accounts and modern on-premise Exchange servers supporting Microsoft Graph. It's best to ask your admin.
 
 ## Image credits
 
