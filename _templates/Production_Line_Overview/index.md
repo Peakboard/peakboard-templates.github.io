@@ -8,8 +8,9 @@ weight: 500
 isDraft: false
 ref: Production_Line_Overview
 category:
-image: Production_Line_Overview_EN.png
-download: Production_Line_Overview_EN.pbmx
+image: Production_Line_Overview_DE.png
+image_thumbnail: Production_Line_Overview_DE_thumbnail.png
+download: Production_Line_Overview_DE.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

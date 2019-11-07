@@ -5,7 +5,7 @@ description:
   - Mit dieser Vorlage können Sie ganz einfach mit Ihrem Begrüßungsbildschirm beginnen. Ersetzen Sie das Logo, fügen Sie Ihre Hintergrundbilder hinzu und aktualisieren Sie das Wetter-Widget, um es zu Ihrem zu machen. Sie können die Texte und Termine über das Webinterface auf Port :40404 pflegen.
 lang: de
 weight: 300
-isDraft: false
+isDraft: true
 ref: Welcome_Screen_Online_Single
 category:
   - Use Case
@@ -16,17 +16,8 @@ image: Welcome_Screen_Online_Single_EN.png
 image_thumbnail: Welcome_Screen_Online_Single_EN_thumbnail.png
 download: Welcome_Screen_Online_Single_EN.pbmx
 overview_description:
-  - Links&#58; Firmenlogo, Zeitanzeige und Wetterinformationen
-  - Rechts&#58; Hier finden Sie die anstehenden Termine. Gibt es keine weiteren Termine wird ein Begrüßungstext angezeigt.
 overview_benefits:
-  - Persönliche Begrüßung von Gästen
-  - Wetterinformation mit Vorhersage
-  - Einfach zu individualisieren
-  - Schönes Layout
-  - Bilder im Hintergrund
 overview_data_sources:
-  - Lokale Tabelle
-  - Wetter Widget
 ---
 
 # So funktioniert's
@@ -144,30 +135,6 @@ Unter der Liste 'visitor' können Sie unter 'Name' einen Namen eines Besuchers e
 In der Liste 'visitor' können Sie noch weitere Angaben zum Besucher machen. Sie können einen Raum angeben, einen Ansprechpartner, eine Uhrzeit und den Firmennamen. Lassen Sie ein Textfeld leer, wird an dieser Stelle einfach nichts angezeigt.
 
 ![image_live](/assets/images/templates/welcome/Webinterface_Appointment_Table_Single.png)
-
-### Mehrfache Termine mit Tabelle
-
-Die Visualisierung von [mehreren Terminen mit Tabellenverwaltung](https://templates.peakboard.com/Welcome_Screen_Online/), bietet Ihnen die Möglichkeit einen allgemeinen Begrüßungstext anzuzeigen oder ein bis drei Termine. Die Termine die angezeigt werden, werden über das Peakboard Webinterface verwaltet. Dieses Webinterface ist eine Webseite, welche auf der Peakboard Box läuft und über folgende Adresse aufgerufen werden kann: http://NameIhrerBox:40404. Sie müssen den Namen Ihrer Box eingeben, gefolgt vom Port :40404. Für den Login werden die mit der Box ausgelieferten Anmeldedaten benötigt. Anschließend sehen sie einen Screenshot Ihrer aktuell laufenden Visualisierung (1) und auf der rechten Seite (2) verschiedene Variablenlisten, welche Sie nun verändern können. Über die Listen 'background', 'logo' und 'text_labels' können sie die Optik der Visualisierung beeinflussen, dies wird in der initialen Konfiguration bereits beschrieben.
-
-![image_live](/assets/images/templates/welcome/Webinterface_Overview.png)
-
-Für das Verwalten der dargestellten Termine öffnen Sie die liste 'appointments'. In dieser Tabelle können Sie nun unterschiedliche Termine anlegen. Geben Sie dazu immer ein Datum, eine Start- und Endzeit an und jeweils einen Titel des Termins (Subject). Die Optionen Body und Location sind optional, damit können Sie noch weitere Informationen wie beispielsweise Ansprechpartner und Raum angeben. Es werden anschließend immer die drei nächsten Termine des heutigen Tages in der Visualisierung angezeigt. Um weitere Termine hinzuzufügen drücken Sie auf den '+' Button (3) am unteren Ende der Tabelle.
-
-![image_live](/assets/images/templates/welcome/Webinterface_Appointment_Table.png)
-
-Ist kein weiterer Termin für den heutigen Tag vorhanden, wird der allgemeine Begrüßungstext aus der Liste 'text_labels' verwendet.
-
-### Office Kalenderanbindung
-
-Um die [Visualisierung mit Kalenderanbindung](https://templates.peakboard.com/Welcome_Screen_Calendar/) nutzen zu können, müssen Sie sich mit Ihrem privaten – oder noch besser einem geteilten – Kalender Account in Ihrem Microsoft Konto anmelden und eine Freigabe für die nötigen Informationen für Peakboard freischalten.
-
-Öffnen Sie dazu die Visualisierungsdatei mit dem Peakboard Designer. Nun können Sie in der linken Sidebar die Kalenderdatenquelle öffnen (Visualisierung -> Daten -> Calendar). Unter dem zweiten Punkt 'Autorisierungsstatus' müssen Sie nun über den Button 'Autorisieren' eine Freigabe für Ihren Kalender einrichten. Führen Sie dazu die Schritte der Windowsanmeldung aus und erlauben Sie Peakboard Zugriff auf den Kalender. Ist die Autorisierung erteilt können Sie den Dialog mit OK schließen, die Visualisierung speichern. Nun laden Sie die aktuelle Visualisierung auf Ihre Peakboard Box hoch.
-
-![image_live](/assets/images/templates/welcome/activate_office365-calendar.gif)
-
-Anschließend werden immer automatisch alle aktuellen Termine aus dem angegebenen Microsoft Kalender geholt und bis zu drei angezeigt. Das bedeutet, Sie können einfach wie gewohnt die Termine in Ihrem Kalender verwalten und Peakboard holt sich automatisch die relevanten Termine und stellt sie dar. Wenn kein weiterer Termin für den heutigen Tag vorhanden ist, wird der allgemeine Begrüßungstext aus der Liste 'text_labels' verwendet.
-
-Aktuell unterstützt Peakboard Microsoft Office 365 Konten und moderne On-Premise-Exchange-Server die Microsoft Graph unterstützen. Fragen Sie am besten Ihren Admin.
 
 ## Bildnachweis
 
