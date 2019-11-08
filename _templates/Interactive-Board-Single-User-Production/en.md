@@ -14,6 +14,7 @@ category:
   - Interaction
   - Andon
 image: Single_Seat_Production_Board_EN.png
+thumbnail: Single_Seat_Production_Board_EN_thumbnail.png
 download: Single_Seat_Production_Board_EN.pbmx
 overview_description:
 overview_benefits:

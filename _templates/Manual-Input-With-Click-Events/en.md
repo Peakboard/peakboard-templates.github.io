@@ -11,6 +11,7 @@ category:
  - Interaction
  - Scripting
 image: Input_Board_EN.png
+thumbnail: Input_Board_EN_thumbnail.png
 download: Input_Board_EN.pbmx
 overview_description:
 overview_benefits:
