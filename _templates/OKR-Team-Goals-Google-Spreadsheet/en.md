@@ -12,6 +12,7 @@ category:
   - KPI
   - OKR
 image: OKR_Board_EN.png
+image_thumbnail: OKR_Board_EN_thumbnail.png
 download: OKR_Board_EN.pbmx
 overview_description:
 overview_benefits:

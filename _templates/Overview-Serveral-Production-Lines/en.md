@@ -13,6 +13,7 @@ category:
   - KPI
   - Lean Management
 image: Info_Production_Lines_EN.png
+image_thumbnail: Info_Production_Lines_EN_thumbnail.png
 download: Info_Production_Lines_EN.pbmx
 overview_description:
 overview_benefits:

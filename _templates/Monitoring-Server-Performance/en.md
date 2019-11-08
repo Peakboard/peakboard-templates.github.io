@@ -12,6 +12,7 @@ category:
   - Administration
   - IT Data Center
 image: Server_Performance_EN.png
+image_thumbnail: Server_Performance_EN_thumbnail.png
 download: Server_Performance_EN.pbmx
 overview_description:
 overview_benefits:

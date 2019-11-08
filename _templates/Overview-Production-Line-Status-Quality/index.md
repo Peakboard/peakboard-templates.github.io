@@ -13,6 +13,7 @@ category:
   - OEE / GAE
   - Lean Management
 image: Production_Line_Metrics_DE.png
+image_thumbnail: Production_Line_Metrics_DE_thumbnail.png
 download: Production_Line_Metrics_DE.pbmx
 overview_description:
 overview_benefits:

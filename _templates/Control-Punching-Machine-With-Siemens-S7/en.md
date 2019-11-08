@@ -12,7 +12,7 @@ category:
   - Control
   - Process
 image: S7_Punch_Control_EN.png
-thumbnail: S7_Punch_Control_EN_thumbnail.png
+image_thumbnail: S7_Punch_Control_EN_thumbnail.png
 download: S7_Punch_Control_EN.pbmx
 overview_description:
 overview_benefits:

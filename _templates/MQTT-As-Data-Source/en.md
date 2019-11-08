@@ -13,6 +13,7 @@ category:
   - Scripting
   - Lean Management
 image: MQTT_Example_EN.png
+image_thumbnail: MQTT_Example_EN_thumbnail.png
 download: MQTT_Example_EN.pbmx
 overview_description:
 overview_benefits:

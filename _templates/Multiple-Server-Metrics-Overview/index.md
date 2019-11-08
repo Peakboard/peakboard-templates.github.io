@@ -12,6 +12,7 @@ category:
   - Administration
   - IT-Rechenzentrum
 image: Server_Info_DE.png
+image_thumbnail: Server_Info_DE_thumbnail.png
 download: Server_Info_DE.pbmx
 overview_description:
 overview_benefits:

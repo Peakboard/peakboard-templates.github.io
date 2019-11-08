@@ -12,7 +12,7 @@ category:
   - Control
   - Process
 image: OPC_UA_Punch_EN.png
-thumbnail: OPC_UA_Punch_EN_thumbnail.png
+image_thumbnail: OPC_UA_Punch_EN_thumbnail.png
 download: OPC_UA_Punch_EN.pbmx
 overview_description:
 overview_benefits:
