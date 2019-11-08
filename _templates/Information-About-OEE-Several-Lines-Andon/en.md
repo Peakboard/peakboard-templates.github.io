@@ -1,6 +1,6 @@
 ---
 layout: article
-title: OEE Overview of Several Production Lines with Andon Part
+title: Information about OEE of Several Production Lines with Andon
 description: 
   - This template allows the visualization of three production lines. The current order of a customer, the overall equipment effectiveness (OEE) as well as the status of the individual stations of each line are displayed. With the help of the traffic light colour scheme (Andon), it is possible to see at a glance where a problem currently exists, so that action can be taken quickly and this can be remedied.
 lang: en

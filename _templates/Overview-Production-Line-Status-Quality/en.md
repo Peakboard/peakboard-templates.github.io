@@ -4,7 +4,7 @@ title: Overview of a Production Line Status and Quality
 description: 
   - This template allows you to easily map some important metrics of a single production line. These are, for instance, the quality level of the actual cycle, the cycle length or the overall equipment effectiveness. By replacing the timer script and variables, you can use this visualization for your own purposes.
 lang: en
-weight: 2000
+weight: 1000
 isDraft: false
 ref: Production_Line_Metrics
 category:
