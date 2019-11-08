@@ -7,6 +7,7 @@ lang: en
 weight: 1000
 isDraft: false
 ref: Appointments_Overview
+carousel: true
 category:
   - Recommended
   - Administration

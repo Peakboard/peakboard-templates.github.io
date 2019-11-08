@@ -7,6 +7,7 @@ lang: de
 weight: 1000
 isDraft: false
 ref: Appointments_Overview
+carousel: true
 category:
   - Beliebt
   - Administration
