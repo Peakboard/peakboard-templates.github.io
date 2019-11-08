@@ -10,7 +10,11 @@
                         <div class="mr-12 mt-12 md:mt-0">
                             <h4 class="mb-4 font-light border-b border-grey-light text-3xl text-white">{{ text.footer-github }}</h4>
                             <p class="mb-3 font-bold text-white">
-                                <a href="{% include github-link.html %}" class="text-white no-underline hover:underline font-light" target="_blank">{{ text.footer-github-text }}</a>
+                                    {% if page.layout == 'home' %}
+                                        <a href="https://github.com/Peakboard/peakboard-templates.github.io/tree/master/_templates" class="text-white no-underline hover:underline font-light" target="_blank">{{ text.footer-github-text }}</a>
+                                    {% else %}
+                                        <a href="{% include github-link.html %}" class="text-white no-underline hover:underline font-light" target="_blank">{{ text.footer-github-text }}</a>
+                                    {% endif %}
                             </p>
                         </div>
                     <div class="mr-12 mt-12 md:mt-0">
