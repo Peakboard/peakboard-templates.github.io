@@ -17,17 +17,8 @@ image: Welcome_Screen_Calendar_EN.png
 image_thumbnail: Welcome_Screen_Calendar_EN_thumbnail.png
 download: Welcome_Screen_Calendar_EN.pbmx
 overview_description:
-  - Left&#58; Company logo, current time and some weather information.
-  - Right&#58; Shows the next appointments. If there is no more appointment it shows a general welcome text.
 overview_benefits:
-  - Personal welcome for your visitors
-  - Weather information
-  - Easy to customize
-  - Nice Layout
-  - Images in Background
 overview_data_sources:
-  - Office 365 Calendar
-  - Weather Widget
 ---
 
 # How it works
