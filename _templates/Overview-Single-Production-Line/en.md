@@ -15,6 +15,7 @@ category:
   - Warning
   - Error
 image: Production_Single_Line_Overview_EN.png
+image_thumbnail: Production_Single_Line_Overview_EN_thumbnail.png
 download: Production_Single_Line_Overview_EN.pbmx
 overview_description:
 overview_benefits:

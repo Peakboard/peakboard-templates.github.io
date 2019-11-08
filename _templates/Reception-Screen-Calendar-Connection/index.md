@@ -17,17 +17,8 @@ image: Welcome_Screen_Calendar_EN.png
 image_thumbnail: Welcome_Screen_Calendar_EN_thumbnail.png
 download: Welcome_Screen_Calendar_EN.pbmx
 overview_description:
-  - Links&#58; Firmenlogo, Zeitanzeige und Wetterinformationen
-  - Rechts&#58; Hier finden Sie die anstehenden Termine. Gibt es keine weiteren Termine wird ein Begrüßungstext angezeigt.
 overview_benefits:
-  - Persönliche Begrüßung von Gästen
-  - Wetterinformation mit Vorhersage
-  - Einfach zu individualisieren
-  - Schönes Layout
-  - Bilder im Hintergrund
 overview_data_sources:
-  - Office 365 Calendar
-  - Wetter Widget
 ---
 
 # So funktioniert's
@@ -42,19 +33,19 @@ Folgende Templates werden in diesem Artikel erklärt.
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online_Single.jpg)
 
-Diese Visualisierung können Sie auf die Peakboard Box laden, die Box benötigt dabei nicht zwingend eine Internetverbindung. Ohne Internetverbindung können keine externen Quellen, wie zum Beispiel das Wetter Widget, hinzugefügt werden. Dieses Board bietet die Möglichkeit maximal einen Termin aus einer Tabellendatenquelle anzuzeigen. [Template Link](https://templates.peakboard.com/Welcome_Screen_Online_Single/)
+Diese Visualisierung können Sie auf die Peakboard Box laden, die Box benötigt dabei nicht zwingend eine Internetverbindung. Ohne Internetverbindung können keine externen Quellen, wie zum Beispiel das Wetter Widget, hinzugefügt werden. Dieses Board bietet die Möglichkeit maximal einen Termin aus einer Tabellendatenquelle anzuzeigen. [Template Link](https://templates.peakboard.com/Reception-Screen-Online-Single-Appointment/)
 
 ### Mehrere Termine aus einer Tabelle
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online.jpg)
 
-Diese Visualisierung können Sie auf die Peakboard Box laden, die Box benötigt dabei nicht zwingend eine Internetverbindung. Ohne Internetverbindung können keine externen Quellen, wie zum Beispiel das Wetter Widget, verwendet werden. Das Board kann bis zu drei Termine anzeigen. Die Termine werden in einer Tabelle direkt auf der Peakboard Box gespeichert und verwaltet. [Template Link](https://templates.peakboard.com/Welcome_Screen_Online/)
+Diese Visualisierung können Sie auf die Peakboard Box laden, die Box benötigt dabei nicht zwingend eine Internetverbindung. Ohne Internetverbindung können keine externen Quellen, wie zum Beispiel das Wetter Widget, verwendet werden. Das Board kann bis zu drei Termine anzeigen. Die Termine werden in einer Tabelle direkt auf der Peakboard Box gespeichert und verwaltet. [Template Link](https://templates.peakboard.com/Reception-Screen-Online/)
 
 ### Mehrere Termine mit MS Office Kalender als Datenquelle
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online.jpg)
 
-Optisch identisch zum vorherigen Board. Die Datenhaltung passiert allerdings nicht auf der Box, sondern funktioniert mit einem Microsoft Office Kalender. Unterstützt werden Microsoft Office 365 Konten und moderne (On-Premise) Exchange-Server die Microsoft Graph unterstützen. Zugriff auf den Kalender muss über Microsoft hergestellt werden, anschließend werden automatisch immer bis zu drei aktuelle Termine angezeigt. [Template Link](https://templates.peakboard.com/Welcome_Screen_Calendar/)
+Optisch identisch zum vorherigen Board. Die Datenhaltung passiert allerdings nicht auf der Box, sondern funktioniert mit einem Microsoft Office Kalender. Unterstützt werden Microsoft Office 365 Konten und moderne (On-Premise) Exchange-Server die Microsoft Graph unterstützen. Zugriff auf den Kalender muss über Microsoft hergestellt werden, anschließend werden automatisch immer bis zu drei aktuelle Termine angezeigt. [Template Link](https://templates.peakboard.com/Reception-Screen-Calendar-Connection/)
 
 ## Weiteres Template
 
@@ -64,14 +55,14 @@ Neben den beschriebenen Templates gibt es noch ein alternatives Willkommensbilds
 
 ![image_live](/assets/images/templates/welcome/Appointments_Overview.png)
 
-Diese Visualisierung bietet Platz für bis zu sechs Termine. Verwaltet werden die Termine über eine einfache Microsoft Office 365 Kalender Anbindung. Unterstützt werden Microsoft Office 365 Konten und moderne (On-Premise) Exchange-Server die Microsoft Graph unterstützen. [Template Link](https://templates.peakboard.com/Appointments_Overview/)
+Diese Visualisierung bietet Platz für bis zu sechs Termine. Verwaltet werden die Termine über eine einfache Microsoft Office 365 Kalender Anbindung. Unterstützt werden Microsoft Office 365 Konten und moderne (On-Premise) Exchange-Server die Microsoft Graph unterstützen. [Template Link](https://templates.peakboard.com/Appointment-Overview-Reception-Desk/)
 
 ## Initiale Konfiguration
 
 Die initiale Konfiguration ist ein einmaliger Vorgang und ist nötig, um die generelle Gestaltung wie Logo, Hintergrund und Wetter Widget auf Ihre Bedürfnisse anzupassen. Wenn die Visualisierung Ihren Vorstellungen entspricht, laden Sie diese einfach auf Ihre Peakboard Box und Sie können sich auf die Terminverwaltung konzentrieren.
 
 Die folgenden Schritte beschreiben, wie Sie diese Templates mit den vordefinierten Quellen nutzen können.
-Wenn Sie möchten, können Sie Ihre Peakboard Box auch ohne Verbindung zum Internet verwenden. Entfernen Sie einfach das Wetter Widget oder verwenden Sie das [Template ohne Internetverbindung](https://templates.peakboard.com/Welcome_Screen_Offline/), welches bereits ohne diese Option kommt.
+Wenn Sie möchten, können Sie Ihre Peakboard Box auch ohne Verbindung zum Internet verwenden. Entfernen Sie einfach das Wetter Widget oder verwenden Sie das [Template ohne Internetverbindung](https://templates.peakboard.com/Reception-Screen-Offline/), welches bereits ohne diese Option kommt.
 
 ### Zeitserver einstellen
 
@@ -137,7 +128,7 @@ Lesen Sie die Anleitung zu Ihrer verwendeten Template-Variante.
 
 ### Office Kalenderanbindung
 
-Um die [Visualisierung mit Kalenderanbindung](https://templates.peakboard.com/Welcome_Screen_Calendar/) nutzen zu können, müssen Sie sich mit Ihrem privaten – oder noch besser einem geteilten – Kalender Account in Ihrem Microsoft Konto anmelden und eine Freigabe für die nötigen Informationen für Peakboard freischalten.
+Um die [Visualisierung mit Kalenderanbindung](https://templates.peakboard.com/Reception-Screen-Calendar-Connection/) nutzen zu können, müssen Sie sich mit Ihrem privaten – oder noch besser einem geteilten – Kalender Account in Ihrem Microsoft Konto anmelden und eine Freigabe für die nötigen Informationen für Peakboard freischalten.
 
 Öffnen Sie dazu die Visualisierungsdatei mit dem Peakboard Designer. Nun können Sie in der linken Sidebar die Kalenderdatenquelle öffnen (Visualisierung -> Daten -> Calendar). Unter dem zweiten Punkt 'Autorisierungsstatus' müssen Sie nun über den Button 'Autorisieren' eine Freigabe für Ihren Kalender einrichten. Führen Sie dazu die Schritte der Windowsanmeldung aus und erlauben Sie Peakboard Zugriff auf den Kalender. Ist die Autorisierung erteilt können Sie den Dialog mit OK schließen, die Visualisierung speichern. Nun laden Sie die aktuelle Visualisierung auf Ihre Peakboard Box hoch.
 

@@ -31,19 +31,19 @@ Folgende Templates werden in diesem Artikel erklärt.
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online_Single.jpg)
 
-Diese Visualisierung können Sie auf die Peakboard Box laden, die Box benötigt dabei nicht zwingend eine Internetverbindung. Ohne Internetverbindung können keine externen Quellen, wie zum Beispiel das Wetter Widget, hinzugefügt werden. Dieses Board bietet die Möglichkeit maximal einen Termin aus einer Tabellendatenquelle anzuzeigen. [Template Link](https://templates.peakboard.com/Welcome_Screen_Online_Single/)
+Diese Visualisierung können Sie auf die Peakboard Box laden, die Box benötigt dabei nicht zwingend eine Internetverbindung. Ohne Internetverbindung können keine externen Quellen, wie zum Beispiel das Wetter Widget, hinzugefügt werden. Dieses Board bietet die Möglichkeit maximal einen Termin aus einer Tabellendatenquelle anzuzeigen. [Template Link](https://templates.peakboard.com/Reception-Screen-Online-Single-Appointment/)
 
 ### Mehrere Termine aus einer Tabelle
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online.jpg)
 
-Diese Visualisierung können Sie auf die Peakboard Box laden, die Box benötigt dabei nicht zwingend eine Internetverbindung. Ohne Internetverbindung können keine externen Quellen, wie zum Beispiel das Wetter Widget, verwendet werden. Das Board kann bis zu drei Termine anzeigen. Die Termine werden in einer Tabelle direkt auf der Peakboard Box gespeichert und verwaltet. [Template Link](https://templates.peakboard.com/Welcome_Screen_Online/)
+Diese Visualisierung können Sie auf die Peakboard Box laden, die Box benötigt dabei nicht zwingend eine Internetverbindung. Ohne Internetverbindung können keine externen Quellen, wie zum Beispiel das Wetter Widget, verwendet werden. Das Board kann bis zu drei Termine anzeigen. Die Termine werden in einer Tabelle direkt auf der Peakboard Box gespeichert und verwaltet. [Template Link](https://templates.peakboard.com/Reception-Screen-Online/)
 
 ### Mehrere Termine mit MS Office Kalender als Datenquelle
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online.jpg)
 
-Optisch identisch zum vorherigen Board. Die Datenhaltung passiert allerdings nicht auf der Box, sondern funktioniert mit einem Microsoft Office Kalender. Unterstützt werden Microsoft Office 365 Konten und moderne (On-Premise) Exchange-Server die Microsoft Graph unterstützen. Zugriff auf den Kalender muss über Microsoft hergestellt werden, anschließend werden automatisch immer bis zu drei aktuelle Termine angezeigt. [Template Link](https://templates.peakboard.com/Welcome_Screen_Calendar/)
+Optisch identisch zum vorherigen Board. Die Datenhaltung passiert allerdings nicht auf der Box, sondern funktioniert mit einem Microsoft Office Kalender. Unterstützt werden Microsoft Office 365 Konten und moderne (On-Premise) Exchange-Server die Microsoft Graph unterstützen. Zugriff auf den Kalender muss über Microsoft hergestellt werden, anschließend werden automatisch immer bis zu drei aktuelle Termine angezeigt. [Template Link](https://templates.peakboard.com/Reception-Screen-Calendar-Connection/)
 
 ## Weiteres Template
 
@@ -53,14 +53,14 @@ Neben den beschriebenen Templates gibt es noch ein alternatives Willkommensbilds
 
 ![image_live](/assets/images/templates/welcome/Appointments_Overview.png)
 
-Diese Visualisierung bietet Platz für bis zu sechs Termine. Verwaltet werden die Termine über eine einfache Microsoft Office 365 Kalender Anbindung. Unterstützt werden Microsoft Office 365 Konten und moderne (On-Premise) Exchange-Server die Microsoft Graph unterstützen. [Template Link](https://templates.peakboard.com/Appointments_Overview/)
+Diese Visualisierung bietet Platz für bis zu sechs Termine. Verwaltet werden die Termine über eine einfache Microsoft Office 365 Kalender Anbindung. Unterstützt werden Microsoft Office 365 Konten und moderne (On-Premise) Exchange-Server die Microsoft Graph unterstützen. [Template Link](https://templates.peakboard.com/Appointment-Overview-Reception-Desk/)
 
 ## Initiale Konfiguration
 
 Die initiale Konfiguration ist ein einmaliger Vorgang und ist nötig, um die generelle Gestaltung wie Logo, Hintergrund und Wetter Widget auf Ihre Bedürfnisse anzupassen. Wenn die Visualisierung Ihren Vorstellungen entspricht, laden Sie diese einfach auf Ihre Peakboard Box und Sie können sich auf die Terminverwaltung konzentrieren.
 
 Die folgenden Schritte beschreiben, wie Sie diese Templates mit den vordefinierten Quellen nutzen können.
-Wenn Sie möchten, können Sie Ihre Peakboard Box auch ohne Verbindung zum Internet verwenden. Entfernen Sie einfach das Wetter Widget oder verwenden Sie das [Template ohne Internetverbindung](https://templates.peakboard.com/Welcome_Screen_Offline/), welches bereits ohne diese Option kommt.
+Wenn Sie möchten, können Sie Ihre Peakboard Box auch ohne Verbindung zum Internet verwenden. Entfernen Sie einfach das Wetter Widget oder verwenden Sie das [Template ohne Internetverbindung](https://templates.peakboard.com/Reception-Screen-Offline/), welches bereits ohne diese Option kommt.
 
 ### Zeitserver einstellen
 
@@ -104,7 +104,7 @@ Lesen Sie die Anleitung zu Ihrer verwendeten Template-Variante.
 
 ### Mehrfache Termine mit Tabelle
 
-Die Visualisierung von [mehreren Terminen mit Tabellenverwaltung](https://templates.peakboard.com/Welcome_Screen_Online/), bietet Ihnen die Möglichkeit einen allgemeinen Begrüßungstext anzuzeigen oder ein bis drei Termine. Die Termine die angezeigt werden, werden über das Peakboard Webinterface verwaltet. Dieses Webinterface ist eine Webseite, welche auf der Peakboard Box läuft und über folgende Adresse aufgerufen werden kann: http://NameIhrerBox:40404. Sie müssen den Namen Ihrer Box eingeben, gefolgt vom Port :40404. Für den Login werden die mit der Box ausgelieferten Anmeldedaten benötigt. Anschließend sehen sie einen Screenshot Ihrer aktuell laufenden Visualisierung (1) und auf der rechten Seite (2) verschiedene Variablenlisten, welche Sie nun verändern können. Über die Listen 'background', 'logo' und 'text_labels' können sie die Optik der Visualisierung beeinflussen, dies wird in der initialen Konfiguration bereits beschrieben.
+Die Visualisierung von [mehreren Terminen mit Tabellenverwaltung](https://templates.peakboard.com/Reception-Screen-Online/), bietet Ihnen die Möglichkeit einen allgemeinen Begrüßungstext anzuzeigen oder ein bis drei Termine. Die Termine die angezeigt werden, werden über das Peakboard Webinterface verwaltet. Dieses Webinterface ist eine Webseite, welche auf der Peakboard Box läuft und über folgende Adresse aufgerufen werden kann: http://NameIhrerBox:40404. Sie müssen den Namen Ihrer Box eingeben, gefolgt vom Port :40404. Für den Login werden die mit der Box ausgelieferten Anmeldedaten benötigt. Anschließend sehen sie einen Screenshot Ihrer aktuell laufenden Visualisierung (1) und auf der rechten Seite (2) verschiedene Variablenlisten, welche Sie nun verändern können. Über die Listen 'background', 'logo' und 'text_labels' können sie die Optik der Visualisierung beeinflussen, dies wird in der initialen Konfiguration bereits beschrieben.
 
 ![image_live](/assets/images/templates/welcome/Webinterface_Overview.png)
 

@@ -13,6 +13,7 @@ category:
   - Produktion
   - OEE / GAE
 image: Production_Single_Line_Overview_DE.png
+image_thumbnail: Production_Single_Line_Overview_DE_thumbnail.png
 download: Production_Single_Line_Overview_DE.pbmx
 overview_description:
 overview_benefits:

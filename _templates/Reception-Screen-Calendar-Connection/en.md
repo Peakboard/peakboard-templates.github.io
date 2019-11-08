@@ -42,19 +42,19 @@ The following templates are explained in this article.
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online_Single.jpg)
 
-You can load this visualization on the Peakboard Box, the box does not necessarily need an internet connection. Without an internet connection, external sources such as the weather widget can not be added. This board offers the possibility to display a maximum of one appointment from a table data source. [Template Link](https://templates.peakboard.com/Welcome_Screen_Online_Single/en)
+You can load this visualization on the Peakboard Box, the box does not necessarily need an internet connection. Without an internet connection, external sources such as the weather widget can not be added. This board offers the possibility to display a maximum of one appointment from a table data source. [Template Link](https://templates.peakboard.com/Reception-Screen-Online-Single-Appointment/en)
 
 ### Multiple appointments managed with a table
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online.jpg)
 
-You can load this visualization on the Peakboard Box, the box does not necessarily need an internet connection. Without an internet connection, external sources such as the weather widget can not be used. The board can display up to three appointments. The appointments are stored and managed in a table directly on the Peakboard Box. [Template Link](https://templates.peakboard.com/Welcome_Screen_Online/en)
+You can load this visualization on the Peakboard Box, the box does not necessarily need an internet connection. Without an internet connection, external sources such as the weather widget can not be used. The board can display up to three appointments. The appointments are stored and managed in a table directly on the Peakboard Box. [Template Link](https://templates.peakboard.com/Reception-Screen-Online/en)
 
 ### Multiple appointments with a MS Office calendar as data source
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online.jpg)
 
-Optically identical to the previous board. The data management does not happen on the box, but works with a Microsoft Office calendar. It supports Microsoft Office 365 accounts and modern (on-premise) Exchange servers that support Microsoft Graph. Access to the calendar must be made via Microsoft, then automatically up to three current appointments are always displayed. [Template Link](https://templates.peakboard.com/Welcome_Screen_Calendar/)
+Optically identical to the previous board. The data management does not happen on the box, but works with a Microsoft Office calendar. It supports Microsoft Office 365 accounts and modern (on-premise) Exchange servers that support Microsoft Graph. Access to the calendar must be made via Microsoft, then automatically up to three current appointments are always displayed. [Template Link](https://templates.peakboard.com/Reception-Screen-Calendar-Connection/)
 
 ## Additional template
 
@@ -64,14 +64,14 @@ In addition to the templates described, there is also an alternative welcome scr
 
 ![image_live](/assets/images/templates/welcome/Appointments_Overview.png)
 
-This visualization can accommodate up to six appointments. The appointments are managed via a simple Microsoft Office 365 calendar connection. It supports Microsoft Office 365 accounts and modern (on-premise) Exchange servers that support Microsoft Graph. [Template Link](https://templates.peakboard.com/Appointments_Overview/)
+This visualization can accommodate up to six appointments. The appointments are managed via a simple Microsoft Office 365 calendar connection. It supports Microsoft Office 365 accounts and modern (on-premise) Exchange servers that support Microsoft Graph. [Template Link](https://templates.peakboard.com/Appointment-Overview-Reception-Desk/)
 
 ## Initial configuration
 
 The initial configuration is a one-time process and is necessary to adapt the general design such as logo, background and weather widget to your needs. If the visualization is right for you, just load it onto your Peakboard Box and you can focus on scheduling.
 
 The following steps describe how you can use these templates with the predefined sources.
-If you want, you can also use your Peakboard Box without connecting to the Internet. This template can also be used without an internet connection. Just remove the Weather Widget or use the [Template without internet connection](https://templates.peakboard.com/Welcome_Screen_Offline/) which already comes without this option.
+If you want, you can also use your Peakboard Box without connecting to the Internet. This template can also be used without an internet connection. Just remove the Weather Widget or use the [Template without internet connection](https://templates.peakboard.com/Reception-Screen-Offline/en) which already comes without this option.
 
 ### Set up Time Server
 
@@ -137,7 +137,7 @@ Read the description for your selected template.
 
 ### Manage multiple appointments with a MS Office calendar
 
-To be able to use the [visualization with calendar attachment](https://templates.peakboard.com/Welcome_Screen_Calendar/en), you must register your private - or better yet a shared - calendar account into your Microsoft account and activate a share for the necessary information for Peakboard.
+To be able to use the [visualization with calendar attachment](https://templates.peakboard.com/Reception-Screen-Calendar-Connection/en), you must register your private - or better yet a shared - calendar account into your Microsoft account and activate a share for the necessary information for Peakboard.
 
 Open the visualization file with the Peakboard Designer. Now you can open the calendar data source in the left sidebar (Visualization -> Data -> Calendar). Under the second item 'Authorization status', you must now set up a share for your calendar via the 'Authorize' button. To do this, follow the Windows logon steps and allow Peakboard to access the calendar. Once the authorization has been granted, you can close the dialog with OK, save the visualization. Now upload the current visualization to your Peakboard Box.
 

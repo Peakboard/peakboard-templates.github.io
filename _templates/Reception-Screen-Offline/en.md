@@ -31,19 +31,19 @@ The following templates are explained in this article.
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online_Single.jpg)
 
-You can load this visualization on the Peakboard Box, the box does not necessarily need an internet connection. Without an internet connection, external sources such as the weather widget can not be added. This board offers the possibility to display a maximum of one appointment from a table data source. [Template Link](https://templates.peakboard.com/Welcome_Screen_Online_Single/en)
+You can load this visualization on the Peakboard Box, the box does not necessarily need an internet connection. Without an internet connection, external sources such as the weather widget can not be added. This board offers the possibility to display a maximum of one appointment from a table data source. [Template Link](https://templates.peakboard.com/Reception-Screen-Online-Single-Appointment/en)
 
 ### Multiple appointments managed with a table
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online.jpg)
 
-You can load this visualization on the Peakboard Box, the box does not necessarily need an internet connection. Without an internet connection, external sources such as the weather widget can not be used. The board can display up to three appointments. The appointments are stored and managed in a table directly on the Peakboard Box. [Template Link](https://templates.peakboard.com/Welcome_Screen_Online/en)
+You can load this visualization on the Peakboard Box, the box does not necessarily need an internet connection. Without an internet connection, external sources such as the weather widget can not be used. The board can display up to three appointments. The appointments are stored and managed in a table directly on the Peakboard Box. [Template Link](https://templates.peakboard.com/Reception-Screen-Online/en)
 
 ### Multiple appointments with a MS Office calendar as data source
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online.jpg)
 
-Optically identical to the previous board. The data management does not happen on the box, but works with a Microsoft Office calendar. It supports Microsoft Office 365 accounts and modern (on-premise) Exchange servers that support Microsoft Graph. Access to the calendar must be made via Microsoft, then automatically up to three current appointments are always displayed. [Template Link](https://templates.peakboard.com/Welcome_Screen_Calendar/)
+Optically identical to the previous board. The data management does not happen on the box, but works with a Microsoft Office calendar. It supports Microsoft Office 365 accounts and modern (on-premise) Exchange servers that support Microsoft Graph. Access to the calendar must be made via Microsoft, then automatically up to three current appointments are always displayed. [Template Link](https://templates.peakboard.com/Reception-Screen-Calendar-Connection/)
 
 ## Additional template
 
@@ -53,14 +53,14 @@ In addition to the templates described, there is also an alternative welcome scr
 
 ![image_live](/assets/images/templates/welcome/Appointments_Overview.png)
 
-This visualization can accommodate up to six appointments. The appointments are managed via a simple Microsoft Office 365 calendar connection. It supports Microsoft Office 365 accounts and modern (on-premise) Exchange servers that support Microsoft Graph. [Template Link](https://templates.peakboard.com/Appointments_Overview/)
+This visualization can accommodate up to six appointments. The appointments are managed via a simple Microsoft Office 365 calendar connection. It supports Microsoft Office 365 accounts and modern (on-premise) Exchange servers that support Microsoft Graph. [Template Link](https://templates.peakboard.com/Appointment-Overview-Reception-Desk/)
 
 ## Initial configuration
 
 The initial configuration is a one-time process and is necessary to adapt the general design such as logo, background and weather widget to your needs. If the visualization is right for you, just load it onto your Peakboard Box and you can focus on scheduling.
 
 The following steps describe how you can use these templates with the predefined sources.
-If you want, you can also use your Peakboard Box without connecting to the Internet. This template can also be used without an internet connection. Just remove the Weather Widget or use the [Template without internet connection](https://templates.peakboard.com/Welcome_Screen_Offline/) which already comes without this option.
+If you want, you can also use your Peakboard Box without connecting to the Internet. This template can also be used without an internet connection. Just remove the Weather Widget or use the [Template without internet connection](https://templates.peakboard.com/Reception-Screen-Offline/en) which already comes without this option.
 
 ### Set up Time Server
 
@@ -104,7 +104,7 @@ Read the description for your selected template.
 
 ### Manage multiple appointments with a table
 
-Visualization of [Multiple appointments with table management](https://templates.peakboard.com/Welcome_Screen_Online/en) gives you the option of one general greetings text or one to three appointments. The appointments that are displayed are managed via the Peakboard web interface. This web interface is a website that runs on the Peakboard Box and can be accessed via the following address: http: // Name YourBox: 40404. You must enter the name of your box followed by the port: 40404. Login requires the login data supplied with the box. Then you will see a screenshot of your currently running visualization (1) and on the right side (2) various variable lists which you can now change. Using the lists 'background', 'logo' and 'text_labels' you can influence the optics of the visualization, this is already described in the initial configuration.
+Visualization of [Multiple appointments with table management](https://templates.peakboard.com/Reception-Screen-Online/en) gives you the option of one general greetings text or one to three appointments. The appointments that are displayed are managed via the Peakboard web interface. This web interface is a website that runs on the Peakboard Box and can be accessed via the following address: http: // Name YourBox: 40404. You must enter the name of your box followed by the port: 40404. Login requires the login data supplied with the box. Then you will see a screenshot of your currently running visualization (1) and on the right side (2) various variable lists which you can now change. Using the lists 'background', 'logo' and 'text_labels' you can influence the optics of the visualization, this is already described in the initial configuration.
 
 ![image_live](/assets/images/templates/welcome/Webinterface_Overview.png)
 
