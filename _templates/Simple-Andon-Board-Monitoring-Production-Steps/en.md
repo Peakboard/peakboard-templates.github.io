@@ -7,7 +7,7 @@ lang: en
 weight: 500
 isDraft: false
 ref: Production_Process_Andon
-carousel: 
+carousel: true
 category:
   - Recommended
   - Production
