@@ -12,6 +12,7 @@ category:
   - Steuerung
   - Prozess
 image: OPC_UA_Punch_DE.png
+thumbnail: OPC_UA_Punch_DE_thumbnail.png
 download: OPC_UA_Punch_DE.pbmx
 overview_description:
 overview_benefits:

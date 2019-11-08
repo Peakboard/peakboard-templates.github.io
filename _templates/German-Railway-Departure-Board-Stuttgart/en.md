@@ -11,6 +11,7 @@ category:
   - Traffic
   - Misc
 image: German_Railway_Plan_EN.png
+thumbnail: German_Railway_Plan_EN_thumbnail.png
 download: German_Railway_Plan_EN.pbmx
 overview_description:
 overview_benefits:

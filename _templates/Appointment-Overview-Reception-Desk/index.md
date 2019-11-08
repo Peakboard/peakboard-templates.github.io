@@ -12,6 +12,7 @@ category:
   - Administration
   - Empfang
 image: Appointments_Overview_EN.png
+thumbnail: Appointments_Overview_EN_thumbnail.png
 download: Appointments_Overview_EN.pbmx
 overview_description:
 overview_benefits:
