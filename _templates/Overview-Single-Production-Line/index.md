@@ -7,6 +7,7 @@ lang: de
 weight: 1000
 isDraft: false
 ref: Production_Single_Line_Overview
+carousel: true
 category:
   - Empfohlen
   - Produktion
