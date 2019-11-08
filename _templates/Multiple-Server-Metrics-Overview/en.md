@@ -7,6 +7,7 @@ lang: en
 weight: 500
 isDraft: false
 ref: Server_Info
+carousel: false
 category:
   - Administration
   - IT Data Center

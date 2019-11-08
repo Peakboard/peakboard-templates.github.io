@@ -7,6 +7,7 @@ lang: de
 weight: 500
 isDraft: false
 ref: Server_Info
+carousel: false
 category:
   - Administration
   - IT-Rechenzentrum

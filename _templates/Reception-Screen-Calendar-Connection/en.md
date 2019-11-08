@@ -7,7 +7,7 @@ lang: en
 weight: 1000
 isDraft: false
 ref: Welcome_Screen_Calendar
-carousel: true
+carousel: false
 category:
   - Administration
   - Reception
