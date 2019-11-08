@@ -13,6 +13,7 @@ category:
   - Prozess
   - Produktion
 image: Universal_Manufacturing_Board_EN.png
+thumbnail: Universal_Manufacturing_Board_EN_thumbnail.png
 download: Universal_Manufacturing_Board_EN.pbmx
 overview_description:
 overview_benefits:
