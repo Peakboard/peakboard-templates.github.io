@@ -157,3 +157,30 @@
   -o-transition:top .7s ease,left .7s ease;
   transition:top .7s ease,left .7s ease;
 }
+
+.truncate-overflow {
+  --max-lines: 5;
+  position: relative;
+  max-height: calc(1.5rem * var(--max-lines));
+  overflow: hidden;
+  padding-right: 1rem; /* space for ellipsis */
+}
+.truncate-overflow::before {
+  content: "";
+  text-align: right;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 70%;
+  height: 1.2em;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 50%);
+}
+
+.truncate-overflow::after {
+  content: "";
+  position: absolute;
+  inset-inline-end: 0; /* "right" */
+  width: 1rem;
+  height: 1rem;
+  background: white;
+}
