@@ -4,7 +4,7 @@ title: Operatives Logistik Dashboard
 description: 
   - Mit diesem Dashboard erhalten Mitarbeiter eine schnelle Übersicht über den aktuellen Stand einzelner Aufträge in der Warenausgangszone.
 lang: de
-weight: 500
+weight: 2000
 isDraft: false
 ref: Operational-Logistics-Board
 category:
