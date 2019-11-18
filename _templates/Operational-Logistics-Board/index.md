@@ -10,6 +10,7 @@ ref: Operational-Logistics-Board
 category:
   - Empfohlen
   - Logistik
+  - Lager
 image: Operational-Logistics-Board-de.png
 image_thumbnail: Operational-Logistics-Board-de_thumbnail.png
 download: Operational-Logistics-Board-de.pbmx

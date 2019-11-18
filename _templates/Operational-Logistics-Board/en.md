@@ -10,6 +10,7 @@ ref: Operational-Logistics-Board
 category:
   - Recommended
   - Logistics
+  - Warehouse
 image: Operational-Logistics-Board-en.png
 image_thumbnail: Operational-Logistics-Board-en_thumbnail.png
 download: Operational-Logistics-Board-en.pbmx
