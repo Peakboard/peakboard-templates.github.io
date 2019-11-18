@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Script-Example-Autoscroll-List
 category:
+  - Scripting
 image: Script-Example-Autoscroll-List-en.png
 image_thumbnail: 
 download: Script-Example-Autoscroll-List-en.pbmx
