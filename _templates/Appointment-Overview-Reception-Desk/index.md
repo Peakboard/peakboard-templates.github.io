@@ -6,15 +6,15 @@ description:
 lang: de
 weight: 1000
 isDraft: false
-ref: Appointments_Overview
+ref: Appointment-Overview-Reception-Desk
 carousel: true
 category:
   - Beliebt
   - Administration
   - Empfang
-image: Appointments_Overview_EN.png
-image_thumbnail: Appointments_Overview_EN_thumbnail.png
-download: Appointments_Overview_EN.pbmx
+image: Appointment-Overview-Reception-Desk-EN.png
+image_thumbnail: Appointment-Overview-Reception-Desk-EN_thumbnail.png
+download: Appointment-Overview-Reception-Desk-EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
