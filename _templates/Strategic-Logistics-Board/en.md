@@ -1,16 +1,20 @@
 ---
 layout: article
-title: Strategic Logistics Board
+title: Strategic Logistics Dashboard
 description: 
-  - This board shows the Stocks of various big companys as well as the OHLC values
+  - This template provides a complete overview of the most important key figures in warehouse logistics.Keep an eye on key figures such as delivery reliability, complaint rate, tonnage, or throughput. Due to the simple presentation, complaint reasons can be quickly identified.
 lang: en
-weight: 500
+weight: 2500
 isDraft: true
-ref: Strategic_Logistics_Board
+ref: Strategic-Logistics-Board
 category:
-image: Strategic_Logistics_Board_en.png
-image_thumbnail: 
-download: Strategic_Logistics_Board_en.pbmx
+  - Recommended
+  - Logistics
+  - Warehouse
+  - KPI
+image: Strategic-Logistics-Board-en.png
+image_thumbnail: Strategic-Logistics-Board-en_thumbnail.png
+download: Strategic-Logistics-Board-en.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
