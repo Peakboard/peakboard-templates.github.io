@@ -5,7 +5,7 @@ description:
   - This template provides a complete overview of the most important key figures in warehouse logistics.Keep an eye on key figures such as delivery reliability, complaint rate, tonnage, or throughput. Due to the simple presentation, complaint reasons can be quickly identified.
 lang: en
 weight: 2500
-isDraft: true
+isDraft: false
 ref: Strategic-Logistics-Board
 category:
   - Recommended
