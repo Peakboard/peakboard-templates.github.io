@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Skriptbeispiel Automatisches Scrollen einer Liste mit Hilfe eines Dataflows
+title: Skriptbeispiel für automatisches Scrollen einer Liste mit Hilfe eines Dataflows
 description: 
   - Skriptbeispiel zum Filtern einer Datenquelle alle 5 Sekunden mit einem Dataflow. Durch erhöhen des Index wird ein automatisches Durchlaufer einer Liste ermöglicht. Wurden alle Einträge angezeigt beginnt die Liste wieder von vorne.
 lang: de
