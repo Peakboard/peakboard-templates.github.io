@@ -2,15 +2,17 @@
 layout: article
 title: Operatives Logistik Dashboard
 description: 
-  - This board shows the Stocks of various big companys as well as the OHLC values
+  - Mit diesem Dashboard erhalten Mitarbeiter eine schnelle Übersicht über den aktuellen Stand einzelner Aufträge in der Warenausgangszone.
 lang: de
 weight: 500
-isDraft: true
-ref: Operational_Logistics_Board
+isDraft: false
+ref: Operational-Logistics-Board
 category:
-image: Operational_Logistics_Board_de.png
-image_thumbnail: 
-download: Operational_Logistics_Board_de.pbmx
+  - Empfohlen
+  - Logistik
+image: Operational-Logistics-Board-de.png
+image_thumbnail: Operational-Logistics-Board-de_thumbnail.png
+download: Operational-Logistics-Board-de.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

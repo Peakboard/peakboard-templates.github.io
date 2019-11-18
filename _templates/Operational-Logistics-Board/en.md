@@ -2,15 +2,17 @@
 layout: article
 title: Operational Logistics Board
 description: 
-  - This board shows the Stocks of various big companys as well as the OHLC values
+  - This dashboard provides employees with a quick overview of the current status of individual orders in the goods issue zone.
 lang: en
-weight: 500
-isDraft: true
-ref: Operational_Logistics_Board
+weight: 2000
+isDraft: false
+ref: Operational-Logistics-Board
 category:
-image: Operational_Logistics_Board_en.png
-image_thumbnail: 
-download: Operational_Logistics_Board_en.pbmx
+  - Recommended
+  - Logistics
+image: Operational-Logistics-Board-en.png
+image_thumbnail: Operational-Logistics-Board-en_thumbnail.png
+download: Operational-Logistics-Board-en.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
