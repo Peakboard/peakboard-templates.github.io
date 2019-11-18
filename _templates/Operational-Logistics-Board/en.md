@@ -4,7 +4,7 @@ title: Operational Logistics Board
 description: 
   - This dashboard provides employees with a quick overview of the current status of individual orders in the goods issue zone.
 lang: en
-weight: 2000
+weight: 2500
 isDraft: false
 ref: Operational-Logistics-Board
 category:
