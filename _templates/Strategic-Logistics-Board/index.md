@@ -2,7 +2,7 @@
 layout: article
 title: Strategisches Logistik Dashboard
 description: 
-  - Mit dieser Vorlage werden die wichtigsten Kennzahlen der Lagerlogistik stets überblickt. Behalten Sie Kennzahlen wie die Liefertreue, Reklamationsrate, die Tonnage oder den Durchsatz im Blick. Durch die einfache Darstellung werden Reklamationsgründe schnell ersichtlich und Probleme können erkannt werden.
+  - Mit dieser Vorlage werden die wichtigsten Kennzahlen der Lagerlogistik stets überblickt. Behalten Sie KPIs wie Liefertreue, Reklamationsrate, Tonnage oder Durchsatz im Blick. Durch die einfache Darstellung werden Reklamationsgründe schnell ersichtlich und Probleme können direkt angegangen werden.
 lang: de
 weight: 2500
 isDraft: false

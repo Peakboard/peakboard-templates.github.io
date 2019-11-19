@@ -2,7 +2,7 @@
 layout: article
 title: Operational Logistics Board
 description: 
-  - This dashboard provides employees with a quick overview of the current status of individual orders in the goods issue zone. The current status for the manual, small parts and high rack warehouse is displayed. Outstanding items of a single order are listed. In addition, open and fixed errors can be displayed on the right.
+  - This dashboard provides employees with a quick overview of the current status of individual orders in the goods issue zone. The current status for the manual, small parts and high-rack warehouse is displayed. Outstanding items of the single order are also listed. In addition, outstanding and already corrected errors can be displayed.
 lang: en
 weight: 2500
 isDraft: false
