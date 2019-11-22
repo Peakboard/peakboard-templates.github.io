@@ -6,15 +6,15 @@ description:
 lang: en
 weight: 2000
 isDraft: false
-ref: Universal_Manufacturing_Board
+ref: Detailed-Overview-Production-Line
 category:
   - KPI
   - Lean Management
   - Process
   - Production
-image: Universal_Manufacturing_Board_EN.png
-image_thumbnail: Universal_Manufacturing_Board_EN_thumbnail.png
-download: Universal_Manufacturing_Board_EN.pbmx
+image: Detailed-Overview-Production-Line.png
+image_thumbnail: Detailed-Overview-Production-Line_thumbnail.png
+download: Detailed-Overview-Production-Line.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
