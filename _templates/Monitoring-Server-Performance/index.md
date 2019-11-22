@@ -12,7 +12,7 @@ category:
   - Administration
   - IT-Rechenzentrum
 image: Monitoring-Server-Performance.png
-image_thumbnail: Monitoring-Server-Performance_thumbnail.png<
+image_thumbnail: Monitoring-Server-Performance_thumbnail.png
 download: Monitoring-Server-Performance.pbmx
 overview_description:
 overview_benefits:
