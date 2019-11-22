@@ -12,9 +12,9 @@ category:
   - Interaction
   - Scripting
   - Lean Management
-image: MQTT-Data-Source_EN.png
-image_thumbnail: MQTT-Data-Source_EN_thumbnail.png
-download: MQTT-Data-Source_EN.pbmx
+image: MQTT-Data-Source.png
+image_thumbnail: MQTT-Data-Source_thumbnail.png
+download: MQTT-Data-Source.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

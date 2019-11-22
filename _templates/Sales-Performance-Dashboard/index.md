@@ -11,9 +11,9 @@ category:
   - Administration
   - KPI
   - Sonstiges
-image: Sales-Performance-Dashboard_EN.png
-image_thumbnail: Sales-Performance-Dashboard_EN_thumbnail.png
-download: Sales-Performance-Dashboard_EN.pbmx
+image: Sales-Performance-Dashboard.png
+image_thumbnail: Sales-Performance-Dashboard_thumbnail.png
+download: Sales-Performance-Dashboard.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
