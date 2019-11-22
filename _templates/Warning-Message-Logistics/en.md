@@ -6,15 +6,15 @@ description:
 lang: en
 weight: 400
 isDraft: false
-ref: Alarm_Screen_Logistic
+ref: Warning-Message-In-Logistics
 category:
   - Logistics
   - Warehouse
   - Error
   - Alert
-image: Alarm_Screen_Logistic_EN.png
-image_thumbnail: Alarm_Screen_Logistic_EN_thumbnail.png
-download: Alarm_Screen_Logistic_EN.pbmx
+image: Warning-Message-In-Logistics.png
+image_thumbnail: Warning-Message-In-Logistics_thumbnail.png
+download: Warning-Message-In-Logistics.pbmx
 overview_description:
 overview_benefits:
  overview_data_sources:

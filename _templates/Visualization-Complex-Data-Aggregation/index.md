@@ -6,11 +6,11 @@ description:
 lang: de
 weight: 50
 isDraft: false
-ref: Complex_Data_Aggregation
+ref: Visualization-Complex-Data-Aggregation
 category:
   - Scripting
-image: Complex_Data_Aggregation_EN.png
-download: Complex_Data_Aggregation_EN.pbmx
+image: Visualization-Complex-Data-Aggregation.png
+download: Visualization-Complex-Data-Aggregation.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

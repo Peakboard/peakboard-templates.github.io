@@ -6,14 +6,14 @@ description:
 lang: en
 weight: 500
 isDraft: false
-ref: Server_Info
+ref: Multiple-Server-Metrics-Overview
 carousel: false
 category:
   - Administration
   - IT Data Center
-image: Server_Info_DE.png
-image_thumbnail: Server_Info_DE_thumbnail.png
-download: Server_Info_DE.pbmx
+image: Ueberwachung-Verteilter-Server.png
+image_thumbnail: Ueberwachung-Verteilter-Server_thumbnail.png
+download: Ueberwachung-Verteilter-Server.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

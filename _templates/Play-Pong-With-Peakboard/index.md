@@ -6,11 +6,11 @@ description:
 lang: de
 weight: 200
 isDraft: false
-ref: Games_Pong
+ref: Play-Pong-With-Peakboard
 category:
   - Sonstiges
-image: Games_Pong_EN.png
-download: Games_Pong_EN.pbmx
+image: Play-Pong-With-Peakboard.png
+download: Play-Pong-With-Peakboard.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

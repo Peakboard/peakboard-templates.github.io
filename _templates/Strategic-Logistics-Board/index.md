@@ -12,9 +12,9 @@ category:
   - Logistik
   - Lager
   - KPI
-image: Strategic-Logistics-Board-de.png
-image_thumbnail: Strategic-Logistics-Board-de_thumbnail.png
-download: Strategic-Logistics-Board-de.pbmx
+image: Strategisches-Logistik-Dashboard.png
+image_thumbnail: Strategisches-Logistik-Dashboard_thumbnail.png
+download: Strategisches-Logistik-Dashboard.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

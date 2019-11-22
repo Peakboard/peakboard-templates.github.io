@@ -6,13 +6,13 @@ description:
 lang: de
 weight: 500
 isDraft: false
-ref: German_Railway_Plan
+ref: German-Railway-Departure-Board-Stuttgart
 category:
   - Verkehr
   - Sonstiges
-image: German_Railway_Plan_EN.png
-image_thumbnail: German_Railway_Plan_EN_thumbnail.png
-download: German_Railway_Plan_EN.pbmx
+image: German-Railway-Departure-Board-Stuttgart.png
+image_thumbnail: German-Railway-Departure-Board-Stuttgart_thumbnail.png
+download: German-Railway-Departure-Board-Stuttgart.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

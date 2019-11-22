@@ -6,7 +6,7 @@ description:
 lang: de
 weight: 1000
 isDraft: false
-ref: Single_Production_Line_Andon
+ref: Production-Line-Overview-Andon
 carousel: true
 category:
   - Empfohlen
@@ -14,8 +14,9 @@ category:
   - Produktion
   - OEE / GAE
   - KPI
-image: Single_Production_Line_Andon_DE.png
-download: Single_Production_Line_Andon_DE.pbmx
+image: Produktionslinienueberblick-Mit-Andon-Anzeigen.png
+image_thumbnail: Produktionslinienueberblick-Mit-Andon-Anzeigen_thumbnail.png
+download: Produktionslinienueberblick-Mit-Andon-Anzeigen.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

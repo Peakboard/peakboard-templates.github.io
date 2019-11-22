@@ -6,7 +6,7 @@ description:
 lang: en
 weight: 1000
 isDraft: false
-ref: Production_Single_Line_Overview
+ref: Overview-Of-Single-Production-Line
 carousel: true
 category:
   - Production
@@ -14,9 +14,9 @@ category:
   - Car
   - Warning
   - Error
-image: Production_Single_Line_Overview_EN.png
-image_thumbnail: Production_Single_Line_Overview_EN_thumbnail.png
-download: Production_Single_Line_Overview_EN.pbmx
+image: Overview-Of-Single-Production-Line.png
+image_thumbnail: Overview-Of-Single-Production-Line_thumbnail.png
+download: Overview-Of-Single-Production-Line.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

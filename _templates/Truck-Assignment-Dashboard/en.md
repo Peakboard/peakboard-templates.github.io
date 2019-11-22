@@ -6,14 +6,14 @@ description:
 lang: en
 weight: 1000
 isDraft: false
-ref: Truck_Assignment
+ref: Truck-Assignment
 category:
   - Logistics
   - Truck
   - Traffic
-image: Truck_Assignment_EN.png
-image_thumbnail: Truck_Assignment_EN_thumbnail.png
-download: Truck_Assignment_EN.pbmx
+image: Truck-Assignment.png
+image_thumbnail: Truck-Assignment_thumbnail.png
+download: Truck-Assignment.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

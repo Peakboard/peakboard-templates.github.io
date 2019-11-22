@@ -6,14 +6,15 @@ description:
 lang: en
 weight: 600
 isDraft: false
-ref: Warehouse_Workload
+ref: Small-Parts-Picking
 category:
   - Recommended
   - Logistics
   - Lean Management
   - Warehouse
-image: Warehouse_Workload_EN.png
-download: Warehouse_Workload_EN.pbmx
+image: Small-Parts-Picking.png
+image_thumbnail: Small-Parts-Picking_thumbnail.png
+download: Small-Parts-Picking.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

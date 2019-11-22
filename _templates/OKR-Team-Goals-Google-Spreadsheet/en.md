@@ -6,14 +6,14 @@ description:
 lang: en
 weight: 1000
 isDraft: false
-ref: OKR_Board
+ref: OKR-Team-Goals-Google-Spreadsheet
 category:
   - Lean Management
   - KPI
   - OKR
-image: OKR_Board_EN.png
-image_thumbnail: OKR_Board_EN_thumbnail.png
-download: OKR_Board_EN.pbmx
+image: OKR-Team-Goals-Google-Spreadsheet.png
+image_thumbnail: OKR-Team-Goals-Google-Spreadsheet_thumbnail.png
+download: OKR-Team-Goals-Google-Spreadsheet.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

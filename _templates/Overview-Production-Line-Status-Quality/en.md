@@ -6,15 +6,15 @@ description:
 lang: en
 weight: 1000
 isDraft: false
-ref: Production_Line_Metrics
+ref: Overview-Production-Line-Status-And-Quality
 category:
   - Recommended
   - Serial Production
   - OEE
   - Lean Management
-image: Production_Line_Metrics_EN.png
-image_thumbnail: Production_Line_Metrics_EN_thumbnail.png
-download: Production_Line_Metrics_EN.pbmx
+image: Overview-Production-Line-Status-And-Quality.png
+image_thumbnail: Overview-Production-Line-Status-And-Quality_thumbnail.png
+download: Overview-Production-Line-Status-And-Quality.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

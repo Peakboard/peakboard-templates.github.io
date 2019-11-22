@@ -6,14 +6,14 @@ description:
 lang: de
 weight: 500
 isDraft: false
-ref: Sales_Dashboard
+ref: Sales-Performance-Dashboard
 category:
   - Administration
   - KPI
   - Sonstiges
-image: Sales_Dashboard_EN.png
-image_thumbnail: Sales_Dashboard_EN_thumbnail.png
-download: Sales_Dashboard_EN.pbmx
+image: Sales-Performance-Dashboard_EN.png
+image_thumbnail: Sales-Performance-Dashboard_EN_thumbnail.png
+download: Sales-Performance-Dashboard_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

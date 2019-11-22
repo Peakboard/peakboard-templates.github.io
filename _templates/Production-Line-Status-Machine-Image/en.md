@@ -6,16 +6,16 @@ description:
 lang: en
 weight: 2000
 isDraft: false
-ref: Production_Line_Status
+ref: Production-Line-Status-Machine-Image
 category:
   - Recommended
   - Production
   - Error
   - Serial Production
   - Process
-image: Production_Line_Status_EN.png
-image_thumbnail: Production_Line_Status_EN_thumbnail.png
-download: Production_Line_Status_EN.pbmx
+image: Production-Line-Status-Machine-Image.png
+image_thumbnail: Production-Line-Status-Machine-Image_thumbnail.png
+download: Production-Line-Status-Machine-Image.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

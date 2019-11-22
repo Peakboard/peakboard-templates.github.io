@@ -6,15 +6,15 @@ description:
 lang: de
 weight: 2000
 isDraft: false
-ref: Info_Production_Lines
+ref: Overview-Several-Production-Lines
 category:
   - Empfohlen
   - Produktion
   - KPI
   - Lean Management
-image: Info_Production_Lines_DE.png
-image_thumbnail: Info_Production_Lines_DE_thumbnail.png
-download: Info_Production_Lines_DE.pbmx
+image: Uebersicht-Mehrere-Produktionslinien.png
+image_thumbnail: Uebersicht-Mehrere-Produktionslinien_thumbnail.png
+download: Uebersicht-Mehrere-Produktionslinien.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

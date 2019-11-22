@@ -6,15 +6,15 @@ description:
 lang: de
 weight: 400
 isDraft: false
-ref: Alarm_Screen_Logistic
+ref: Warning-Message-In-Logistics
 category:
   - Logistik
   - Lager
   - Fehler
   - Warnung
-image: Alarm_Screen_Logistic_DE.png
-image_thumbnail: Alarm_Screen_Logistic_DE_thumbnail.png
-download: Alarm_Screen_Logistic_DE.pbmx
+image: Warnmeldung-In-Der-Logistik.png
+image_thumbnail: Warnmeldung-In-Der-Logistik_thumbnail.png
+download: Warnmeldung-In-Der-Logistik.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

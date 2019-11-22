@@ -6,13 +6,13 @@ description:
 lang: de
 weight: 800
 isDraft: false
-ref: Warehouse_Workload_SQL
+ref: Small-Parts-Picking-SQL-Connection
 category:
   - Logistik
   - Lager
   - Lean Management
-image: Warehouse_Workload_SQL_DE.png
-download: Warehouse_Workload_SQL_DE.pbmx
+image: Kleinteilekommissionierung-SQL.png
+download: Kleinteilekommissionierung-SQL.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

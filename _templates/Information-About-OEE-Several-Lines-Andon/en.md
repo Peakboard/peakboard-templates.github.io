@@ -6,16 +6,16 @@ description:
 lang: en
 weight: 3000
 isDraft: false
-ref: Production_Lines_Andon
+ref: Information-About-OEE-Several-Production-Lines-Andon
 category:
   - Recommended
   - Production
   - Andon
   - OEE
   - KPI
-image: Production_Lines_Andon_EN.png
-image_thumbnail: Production_Lines_Andon_EN_thumbnail.png
-download: Production_Lines_Andon_EN.pbmx
+image: Information-About-OEE-Several-Production-Lines-Andon.png
+image_thumbnail: Information-About-OEE-Several-Production-Lines-Andon_thumbnail.png
+download: Information-About-OEE-Several-Production-Lines-Andon.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

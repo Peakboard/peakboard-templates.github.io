@@ -6,14 +6,15 @@ description:
 lang: de
 weight: 1000
 isDraft: false
-ref: Process_Screen
+ref: Overview-Truck-Loading
 category:
   - Logistik
   - Lager
   - Prozess
   - LKW
-image: Process_Screen_DE.png
-download: Process_Screen_DE.pbmx
+image: Uebersicht-LKW-Brueckenbeladung.png
+image_thumbnail: Uebersicht-LKW-Brueckenbeladung_thumbnail.png
+download: Uebersicht-LKW-Brueckenbeladung.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

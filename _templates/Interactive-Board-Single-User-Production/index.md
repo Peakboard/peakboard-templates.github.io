@@ -6,16 +6,16 @@ description:
 lang: de
 weight: 1000
 isDraft: false
-ref: Single_Seat_Production_Board
+ref: Interactive-Board-For-Single-User-Production
 carousel: false
 category:
   - Produktion
   - Einzelfertigung
   - Interaktion
   - Andon
-image: Single_Seat_Production_Board_DE.png
-image_thumbnail: Single_Seat_Production_Board_DE_thumbnail.png
-download: Single_Seat_Production_Board_DE.pbmx
+image: Interaktives-Board-Einzelplatzfertigung.png
+image_thumbnail: Interaktives-Board-Einzelplatzfertigung_thumbnail.png
+download: Interaktives-Board-Einzelplatzfertigung.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

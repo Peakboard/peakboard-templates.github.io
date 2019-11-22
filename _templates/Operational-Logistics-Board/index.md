@@ -11,9 +11,9 @@ category:
   - Empfohlen
   - Logistik
   - Lager
-image: Operational-Logistics-Board-de.png
-image_thumbnail: Operational-Logistics-Board-de_thumbnail.png
-download: Operational-Logistics-Board-de.pbmx
+image: Operatives-Logistik-Dashboard.png
+image_thumbnail: Operatives-Logistik-Dashboard_thumbnail.png
+download: Operatives-Logistik-Dashboard.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

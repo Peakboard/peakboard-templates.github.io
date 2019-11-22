@@ -6,21 +6,16 @@ description:
 lang: en
 weight: 1000
 isDraft: false
-ref: Process_Screen
+ref: Overview-Truck-Loading
 category:
   - Logistics
   - Warehouse
   - Process
   - Truck
-image: Process_Screen_EN.png
-download: Process_Screen_EN.pbmx
+image: Overview-Truck-Loading.png
+image_thumbnail: Overview-Truck-Loading_thumbnail.png
+download: Overview-Truck-Loading.pbmx
 overview_description:
-  - Truck identification&#58; Company, Numberplate
-  - Current status of loading&#58; 23 palettes​
-  - Missing palettes to complete process&#58; 11 palettes
-  - Target amount of palettes&#58; 34 palettes, start and finish time is shown on the screen.​
-  - Right side&#58;	Important warning signs of the good​
 overview_benefits:
-  - Forklift driver sees on the dashboard at each loading station, the current status, time and information about the goods -> efficient planning and loading. This gives an overview for the employee at the hub and additional control.​
 overview_data_sources:
 ---

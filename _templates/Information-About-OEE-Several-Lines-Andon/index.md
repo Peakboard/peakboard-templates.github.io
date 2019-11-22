@@ -6,16 +6,16 @@ description:
 lang: de
 weight: 3000
 isDraft: false
-ref: Production_Lines_Andon
+ref: Information-About-OEE-Several-Production-Lines-Andon
 category:
   - Empfohlen
   - Produktion
   - Andon
   - OEE / GAE
   - KPI
-image: Production_Lines_Andon_DE.png
-image_thumbnail: Production_Lines_Andon_DE_thumbnail.png
-download: Production_Lines_Andon_DE.pbmx
+image: GAE-Werte-Mehrere-Produktionslinien-Andon.png
+image_thumbnail: GAE-Werte-Mehrere-Produktionslinien-Andon_thumbnail.png
+download: GAE-Werte-Mehrere-Produktionslinien-Andon.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

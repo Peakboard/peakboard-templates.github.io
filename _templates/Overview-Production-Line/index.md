@@ -6,15 +6,15 @@ description:
 lang: de
 weight: 500
 isDraft: false
-ref: Production_Line_Overview
+ref: Overview-Production-Line
 category:
   - Produktion
   - Lean Management
   - OEE / GAE
   - Serienfertigung
-image: Production_Line_Overview_DE.png
-image_thumbnail: Production_Line_Overview_DE_thumbnail.png
-download: Production_Line_Overview_DE.pbmx
+image: Uebersicht-Ueber-Fertigungslinie.png
+image_thumbnail: Uebersicht-Ueber-Fertigungslinie_thumbnail.png
+download: Uebersicht-Ueber-Fertigungslinie.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

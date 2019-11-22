@@ -6,15 +6,15 @@ description:
 lang: de
 weight: 1000
 isDraft: false
-ref: Production_Single_Line_Overview
+ref: Overview-Of-Single-Production-Line
 carousel: true
 category:
   - Empfohlen
   - Produktion
   - OEE / GAE
-image: Production_Single_Line_Overview_DE.png
-image_thumbnail: Production_Single_Line_Overview_DE_thumbnail.png
-download: Production_Single_Line_Overview_DE.pbmx
+image: Uebersicht-Ueber-Einzelne-Produktionslinie.png
+image_thumbnail: Uebersicht-Ueber-Einzelne-Produktionslinie_thumbnail.png
+download: Uebersicht-Ueber-Einzelne-Produktionslinie.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

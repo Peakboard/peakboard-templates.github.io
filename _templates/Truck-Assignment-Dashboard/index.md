@@ -6,14 +6,14 @@ description:
 lang: de
 weight: 1000
 isDraft: false
-ref: Truck_Assignment
+ref: Truck-Assignment
 category:
   - Logistik
   - LKW
   - Verkehr
-image: Truck_Assignment_DE.png
-image_thumbnail: Truck_Assignment_DE_thumbnail.png
-download: Truck_Assignment_DE.pbmx
+image: LKW-Zuweisung.png
+image_thumbnail: LKW-Zuweisung_thumbnail.png
+download: LKW-Zuweisung.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

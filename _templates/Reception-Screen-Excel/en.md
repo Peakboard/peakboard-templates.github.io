@@ -6,13 +6,14 @@ description:
 lang: en
 weight: 290
 isDraft: false
-ref: Welcome_Template_Excel
+ref: Reception-Screen-Excel
 category:
   - Administration
   - Reception
   - Misc
-image: Welcome_Template_Excel_DE.png
-download: Welcome_Template_Excel_DE.pbmx
+image: Empfangsbildschirm-Excel.png
+image_thumbnail: Empfangsbildschirm-Excel_thumbnail.png
+download: Empfangsbildschirm-Excel.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

@@ -6,7 +6,7 @@ description:
 lang: en
 weight: 500
 isDraft: false
-ref: Production_Process_Andon
+ref: Simple-Andon-Board-Monitoring-Production-Steps
 carousel: false
 category:
   - Recommended
@@ -14,8 +14,9 @@ category:
   - Andon
   - Alert
   - Process
-image: Production_Process_Andon_EN.png
-download: Production_Process_Andon_EN.pbmx
+image: Simple-Andon-Board-Monitoring-Production-Steps.png
+image_thumbnail: Simple-Andon-Board-Monitoring-Production-Steps_thumbnail.png
+download: Simple-Andon-Board-Monitoring-Production-Steps.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

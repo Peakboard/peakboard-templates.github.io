@@ -6,16 +6,16 @@ description:
 lang: de
 weight: 2000
 isDraft: false
-ref: Production_Line_Status
+ref: Production-Line-Status-Machine-Image
 category:
   - Empfohlen
   - Produktion
   - Fehlermeldung
   - Serienfertigung
   - Prozess
-image: Production_Line_Status_DE.png
-image_thumbnail: Production_Line_Status_DE_thumbnail.png
-download: Production_Line_Status_DE.pbmx
+image: Uebersicht-Produktionslinie-Mit-Hintergrundbild.png
+image_thumbnail: Uebersicht-Produktionslinie-Mit-Hintergrundbild_thumbnail.png
+download: Uebersicht-Produktionslinie-Mit-Hintergrundbild.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

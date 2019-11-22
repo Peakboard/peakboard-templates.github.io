@@ -6,15 +6,15 @@ description:
 lang: en
 weight: 500
 isDraft: false
-ref: Production_Line_Overview
+ref: Overview-Production-Line
 category:
   - Production
   - Lean Management
   - OEE
   - Serial Production
-image: Production_Line_Overview_EN.png
-image_thumbnail: Production_Line_Overview_EN_thumbnail.png
-download: Production_Line_Overview_EN.pbmx
+image: Overview-Production-Line.png
+image_thumbnail: Overview-Production-Line_thumbnail.png
+download: Overview-Production-Line.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

@@ -6,13 +6,13 @@ description:
 lang: en
 weight: 500
 isDraft: false
-ref: Production_Status_Alert
+ref: Production-Status-Alert
 category:
   - Production
   - Alert
   - Status
-image: Production_Status_Alert_EN.png
-download: Production_Status_Alert_EN.pbmx
+image: Production-Status-Alert.png
+download: Production-Status-Alert.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

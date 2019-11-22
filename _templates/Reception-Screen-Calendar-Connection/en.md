@@ -6,16 +6,16 @@ description:
 lang: en
 weight: 1000
 isDraft: false
-ref: Welcome_Screen_Calendar
+ref: Reception-Screen-Microsoft-Office-Calendar
 carousel: false
 category:
   - Administration
   - Reception
   - Calendar
   - Misc
-image: Welcome_Screen_Calendar_EN.png
-image_thumbnail: Welcome_Screen_Calendar_EN_thumbnail.png
-download: Welcome_Screen_Calendar_EN.pbmx
+image: Reception-Screen-Microsoft-Office-Calendar.png
+image_thumbnail: Reception-Screen-Microsoft-Office-Calendar_thumbnail.png
+download: Reception-Screen-Microsoft-Office-Calendar.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

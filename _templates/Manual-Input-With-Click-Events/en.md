@@ -6,13 +6,13 @@ description:
 lang: en
 weight: 500
 isDraft: false
-ref: Input_Board
+ref: Manual-Editing-Using-Click-Events
 category:
  - Interaction
  - Scripting
-image: Input_Board_EN.png
-image_thumbnail: Input_Board_EN_thumbnail.png
-download: Input_Board_EN.pbmx
+image: Manual-Editing-Using-Click-Events.png
+image_thumbnail: Manual-Editing-Using-Click-Events_thumbnail.png
+download: Manual-Editing-Using-Click-Events.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

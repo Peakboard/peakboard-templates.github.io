@@ -6,15 +6,15 @@ description:
 lang: de
 weight: 600
 isDraft: false
-ref: MQTT_Example
+ref: MQTT-Data-Source
 category:
   - Produktion
   - Interaktion
   - Scripting
   - Lean Management
-image: MQTT_Example_EN.png
-image_thumbnail: MQTT_Example_EN_thumbnail.png
-download: MQTT_Example_EN.pbmx
+image: MQTT-Data-Source_EN.png
+image_thumbnail: MQTT-Data-Source_EN_thumbnail.png
+download: MQTT-Data-Source_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

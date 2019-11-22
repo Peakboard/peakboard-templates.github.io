@@ -6,14 +6,14 @@ description:
 lang: en
 weight: 1000
 isDraft: false
-ref: Server_Performance
+ref: Monitoring-Server-Performance
 category:
   - Recommended
   - Administration
   - IT Data Center
-image: Server_Performance_EN.png
-image_thumbnail: Server_Performance_EN_thumbnail.png
-download: Server_Performance_EN.pbmx
+image: Monitoring-Server-Performance.png
+image_thumbnail: Monitoring-Server-Performance_thumbnail.png
+download: Monitoring-Server-Performance.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
