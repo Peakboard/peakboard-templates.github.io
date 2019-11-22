@@ -6,13 +6,13 @@ description:
 lang: en
 weight: 1000
 isDraft: false
-ref: Airport_API
+ref: Departure-Times-Airport
 category:
   - Traffic
   - Misc
-image: Airport_API_EN.png
-image_thumbnail: Airport_API_EN_thumbnail.png
-download: Airport_API_EN.pbmx
+image: Departure-Times-Airport.png
+image_thumbnail: Departure-Times-Airport_thumbnail.png
+download: Departure-Times-Airport.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

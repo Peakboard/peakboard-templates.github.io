@@ -6,14 +6,14 @@ description:
 lang: en
 weight: 500
 isDraft: false
-ref: OPC_UA_Punch
+ref: Control-Punch-OPCA-UA
 category:
   - Production
   - Control
   - Process
-image: OPC_UA_Punch_EN.png
-image_thumbnail: OPC_UA_Punch_EN_thumbnail.png
-download: OPC_UA_Punch_EN.pbmx
+image: Control-Punch-OPCA-UA.png
+image_thumbnail: Control-Punch-OPCA-UA_thumbnail.png
+download: Control-Punch-OPCA-UA.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

@@ -6,14 +6,14 @@ description:
 lang: de
 weight: 500
 isDraft: false
-ref: S7_Punch_Control
+ref: Control-Punching-Machine-Siemens-S7
 category:
   - Produktion
   - Steuerung
   - Prozess
-image: S7_Punch_Control_DE.png
-image_thumbnail: S7_Punch_Control_DE_thumbnail.png
-download: S7_Punch_Control_DE.pbmx
+image: Steuerung-Einer-Stanze-Siemens-S7.png
+image_thumbnail: Steuerung-Einer-Stanze-Siemens-S7_thumbnail.png
+download: Steuerung-Einer-Stanze-Siemens-S7.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

@@ -6,14 +6,14 @@ description:
 lang: de
 weight: 500
 isDraft: false
-ref: OPC_UA_Punch
+ref: Control-Punch-OPCA-UA
 category:
   - Produktion
   - Steuerung
   - Prozess
-image: OPC_UA_Punch_DE.png
-image_thumbnail: OPC_UA_Punch_DE_thumbnail.png
-download: OPC_UA_Punch_DE.pbmx
+image: Steuerung-Einer-Stanze-OPC-UA.png
+image_thumbnail: Steuerung-Einer-Stanze-OPC-UA_thumbnail.png
+download: Steuerung-Einer-Stanze-OPC-UA.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
