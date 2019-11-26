@@ -12,9 +12,9 @@ category:
   - Logistik
   - Lager
   - KPI
-image: Strategisches-Logistik-Dashboard.png
-image_thumbnail: Strategisches-Logistik-Dashboard_thumbnail.png
-download: Strategisches-Logistik-Dashboard.pbmx
+image: Predictive-Maintainance-Board.png
+image_thumbnail: Predictive-Maintainance-Board_thumbnail.png
+download: Predictive-Maintainance-Board.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
