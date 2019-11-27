@@ -13,7 +13,7 @@ category:
   - Warehouse
   - KPI
 image: Predictive-Maintainance-Board.png
-image_thumbnail: 
+image_thumbnail: Predictive-Maintainance-Board_thumbnail.png
 download: Predictive-Maintainance-Board.pbmx
 overview_description:
 overview_benefits:
