@@ -2,7 +2,7 @@
 layout: article
 title: Vorausschauende Wartung Board (Predictive Maintenance)
 description: 
-  - Mit dieser Vorlage werden die wichtigsten Kennzahlen einer Maschine im Blick behalten.
+  - Dieses Templates ist für die Instandhaltung. Es zeigt auf der linken Seite die Zeiten die eine Maschine ohne Fehler läuft und in welchen Zeitraum ein Fehler erwartet wird. Darunter befinden sich die aktuellen Sensordaten aus der jeweiligen Linie wie Temperatur oder Vibrationen. Auf der rechten Seite gibt es noch eine aktuelle Liste der heutigen Audits bzw. eine Liste mit zukünftigen Aufträgen.
 lang: de
 weight: 2000
 isDraft: true
