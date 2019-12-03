@@ -9,9 +9,8 @@ isDraft: true
 ref: Predictive-Maintenance-Board
 category:
   - Recommended
-  - Logistics
-  - Warehouse
-  - KPI
+  - Maintenance
+  - Production
 image: Predictive-Maintenance-Board.png
 image_thumbnail: Predictive-Maintenance-Board_thumbnail.png
 download: Predictive-Maintenance-Board.pbmx

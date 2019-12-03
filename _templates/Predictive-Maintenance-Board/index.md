@@ -9,12 +9,11 @@ isDraft: true
 ref: Predictive-Maintenance-Board
 category:
   - Empfohlen
-  - Logistik
-  - Lager
-  - KPI
-image: Predictive-Maintenance-Board.png
-image_thumbnail: Predictive-Maintenance-Board_thumbnail.png
-download: Predictive-Maintenance-Board.pbmx
+  - Instandhaltung
+  - Produktion
+image: Instandhaltung-Predictive-Maintenance.png
+image_thumbnail: Instandhaltung-Predictive-Maintenance_thumbnail.png
+download: Instandhaltung-Predictive-Maintenance.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
