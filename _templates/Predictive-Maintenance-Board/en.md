@@ -2,7 +2,7 @@
 layout: article
 title: Predictive Maintenance Board
 description: 
-  - This template is for maintenance. On the left side you find the times a machine is running without errors and in which period an error is expected. Below you can find current sensor data from the respective line, such as temperature or vibrations. On the right side there is a current list of today's audits or a list of upcoming checks.
+  - This template is used in Predictive Maintenance. It informs about machine running times as well as about when the next machine failure is expected. It also provides current sensor data, such as temperature or vibrations per line. Current and future audits are listed on the right-hand side.
 lang: en
 weight: 2000
 isDraft: true
