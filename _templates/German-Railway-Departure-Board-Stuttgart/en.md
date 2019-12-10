@@ -5,7 +5,7 @@ description:
   - This template shows a departure map of the Deutsche Bahn for Stuttgart main station. It includes departure times, delays, train type, route, destination and platform.
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: German-Railway-Departure-Board-Stuttgart
 category:
   - Traffic

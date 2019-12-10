@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt einen Abfahrtsplan der Deutschen Bahn für den Stuttgarter Hauptbahnhof. Es beinhaltet Abfahrtszeiten, Verspätungen, Zugtyp, sowie Route, Zielort und Gleis.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: German-Railway-Departure-Board-Stuttgart
 category:
   - Verkehr
