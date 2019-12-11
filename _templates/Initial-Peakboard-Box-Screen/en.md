@@ -2,7 +2,7 @@
 layout: article
 title: Initial Peakboard Box Screen
 description: 
-  -  This template will be installed on a new Peakboard Box. It contains the possibility to set up the Wifi for the box with a mouse or a touchscreen. It shows the first steps to do to connect the Peakboard Box with the Peakboard Designer.
+  -  This template is displayed with a new Peakboard Box. It leads through the first steps to connect the Peakboard Box with the Peakboard Designer. The WiFi for the box can be set up using a mouse or a touch screen.
 lang: en
 weight: 1000
 isDraft: true

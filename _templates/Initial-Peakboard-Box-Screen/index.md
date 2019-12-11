@@ -2,7 +2,7 @@
 layout: article
 title: Initiales Peakboard Box Template
 description: 
-  - Dieses Template wird bei einer neuen Peakboard Box aufgespielt. Es beinhaltet die Möglichkeit das Wifi für die Box mit Hilfe einer Maus oder einem Touchscreen einzurichten. Es zeigt die ersten Schritte die zu tun sind um die Peakboard Box mit dem Peakboard Designer zu verbinden.
+  - Dieses Template wird bei einer neuen Peakboard Box angezeigt. Es führt durch die ersten Schritte, um die Peakboard Box mit dem Peakboard-Designer zu verbinden. Dabei kann das WiFi für die Box mittels einer Maus oder eines Touchscreens eingerichtet werden.
 lang: de
 weight: 1000
 isDraft: true
