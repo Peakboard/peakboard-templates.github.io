@@ -457,23 +457,6 @@ html {
     background: #f7f7f7;
   }
 
-  .video-thumbnail {
-    position: relative;
-    float: left;
-    img {
-      display: block;
-    }
-    &:hover {
-      border-bottom: 0;
-      &:before {
-        background: rgba(black, 0.7);
-      }
-    }
-    &:focus {
-      border-bottom: 0;
-    }
-  }
-
   .card-highlight {
     &:hover {
       border: #f29205 2px solid;
