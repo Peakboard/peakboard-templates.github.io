@@ -20,47 +20,47 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# So funktioniert's
+## So funktioniert's
 
 Um einen möglichst einfachen Einstieg in die Erstellungen eines Willkommensbildschirms zu geben, bieten wir vorgefertigte Templates an. Dies ist eine Schritt für Schritt Anleitung, wie Sie Ihren persönlichen Willkommensbildschirm mit diesen Templates erstellen können. Eine generelle Einführung in Peakboard finden Sie in den [ersten Schritten](https://peakboard.rocks/erste-schritte). Wenn Sie wissen möchten, wie Sie eine Peakboard Box mit Ihrem Designer verbinden und eine Visualisierung übertragen, lesen Sie am besten folgenden [Artikel](https://peakboard.rocks/anschliessen). Zum Erstellen einer Visualisierung benötigen Sie den Peakboard Designer. Dieser kann kostenfrei [heruntergeladen](https://peakboard.rocks/designer-from-welcome) werden.
 
-## Terminübersicht mit Office 365 Kalender Anbindung
+### Terminübersicht mit Office 365 Kalender Anbindung
 
 ![image_live](/assets/images/templates/welcome/Appointments_Overview.png)
 
 Diese Visualisierung bietet Platz für bis zu sechs Termine. Verwaltet werden die Termine über eine einfache Microsoft Office 365 Kalender Anbindung. Unterstützt werden Microsoft Office 365 Konten und moderne (On-Premise) Exchange-Server die Microsoft Graph unterstützen.  [Template Link](https://templates.peakboard.com/Appointment-Overview-Reception-Desk/)
 
-## Weitere Templates für einen Willkommensbildschirm
+### Weitere Templates für einen Willkommensbildschirm
 
 Folgende Templates bieten eine Alternative zu der hier beschriebenen Terminübersicht. Eine detaillierte Beschreibung zu den Templates finden sie [hier](https://peakboard.rocks/willkommen).
 
-### Einfaches Board mit einem Termin
+#### Einfaches Board mit einem Termin
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online_Single.jpg)
 
 Diese Visualisierung können Sie auf die Peakboard Box laden, die Box benötigt dabei nicht zwingend eine Internetverbindung. Ohne Internetverbindung können keine externen Quellen, wie zum Beispiel das Wetter Widget, hinzugefügt werden. Dieses Board bietet die Möglichkeit maximal einen Termin aus einer Tabellendatenquelle anzuzeigen. [Template Link](https://templates.peakboard.com/Reception-Screen-Online-Single-Appointment/)
 
-### Mehrere Termine aus einer Tabelle
+#### Mehrere Termine aus einer Tabelle
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online.jpg)
 
 Diese Visualisierung können Sie auf die Peakboard Box laden, die Box benötigt dabei nicht zwingend eine Internetverbindung. Ohne Internetverbindung können keine externen Quellen, wie zum Beispiel das Wetter Widget, verwendet werden. Das Board kann bis zu drei Termine anzeigen. Die Termine werden in einer Tabelle direkt auf der Peakboard Box gespeichert und verwaltet. [Template Link](https://templates.peakboard.com/Reception-Screen-Online/)
 
-### Mehrere Termine mit MS Office 365 Kalender als Datenquelle
+#### Mehrere Termine mit MS Office 365 Kalender als Datenquelle
 
 ![image_live](/assets/images/templates/welcome/Welcome_Screen_Online.jpg)
 
 Optisch identisch zum vorherigen Board. Die Datenhaltung passiert allerdings nicht auf der Box, sondern funktioniert mit einem Microsoft Office Kalender. Unterstützt werden Microsoft Office 365 Konten und moderne (On-Premise) Exchange-Server die Microsoft Graph unterstützen. Zugriff auf den Kalender muss über Microsoft hergestellt werden, anschließend werden automatisch immer bis zu drei aktuelle Termine angezeigt. [Template Link](https://templates.peakboard.com/Reception-Screen-Calendar-Connection/)
 
-## Initiale Konfiguration
+### Initiale Konfiguration
 
 Die initiale Konfiguration ist ein einmaliger Vorgang und ist nötig, um die generelle Gestaltung wie Logo, Hintergrund und Wetter Widget auf Ihre Bedürfnisse anzupassen. Wenn die Visualisierung Ihren Vorstellungen entspricht, laden Sie diese einfach auf Ihre Peakboard Box und Sie können sich auf die Terminverwaltung konzentrieren.
 
-### Zeitserver einstellen
+#### Zeitserver einstellen
 
 Diese Einstellung definiert, aus welcher Datenquelle die Peakboard Box die aktuelle Uhrzeit bezieht. Sie können die default Einstellung belassen, diese ruft den folgenden Service für die Uhrzeit auf: 'time.windows.com'. Wenn Sie Ihren lokalen Zeitserver Ihres Netzwerks verwenden möchten, können Sie diesen ändern, indem Sie in der oberen Menuleiste auf den Tab 'Einstellungen/Settings' -> 'Zeitserver/Time Server' navigieren. Besonders wenn die Box keine Internetverbindung hat, ist es wichtig den lokalen Zeitserver zu hinterlegen. Fragen Sie am besten einfach Ihren Administrator nach der Adresse.
 
-### Wetter Widget aktualisieren
+#### Wetter Widget aktualisieren
 
 Wenn Sie dieses Wetter Widget nicht verwenden möchten, können Sie einfach im Peakboard Designer das Element aus der Visualisierung löschen. Wählen Sie es dafür mit einem Rechtsklick aus und wählen Sie 'Löschen'.
 
@@ -82,13 +82,13 @@ In der weiteren Sidebar auf der rechten Seite finden Sie nun einige Parameter zu
 
 ![image_live](/assets/images/templates/welcome/web_widget_code_appointments.png)
 
-### Logo aktualisieren
+#### Logo aktualisieren
 
 Um das Peakboard Logo durch Ihr gewünschtes Firmenlogo zu ersetzen, benötigen Sie eine Bilddatei. Es werden unterschiedliche Formate unterstützt (PNG, JPG). Ziehen Sie einfach die gewünschte Bilddatei per Drag&Drop auf die linke Sidebar des Peakboard Designers. Anschließend finden Sie die Bilddatei in der Sidebar unter dem Punkt 'Ressourcen'. Ziehen Sie nun diese Bilddatei auf das aktuelle Logo, so können Sie es überschreiben. Anschließend können Sie noch Anpassungen machen, um Größe und Position zu optimieren.
 
 ![image_live](/assets/images/templates/welcome/update_logo.gif)
 
-### Ausgangstexte definieren
+#### Ausgangstexte definieren
 
 Die Visualierung kommt mit vorgefertigten Texten für den Fall, dass kein Termine vorhanden sind.
 Diese Texte können Sie über die Variablenliste 'text_labels' anpassen. Diese Änderungen können Sie direkt im Peakboard Designer vornehmen, indem Sie mit Doppelklick die Liste öffnen und im anschließenden Dialog auf 'Bearbeiten' klicken. 
@@ -107,7 +107,7 @@ In der folgenden Tabelle können Sie nun Ihren gewünschten Text angeben und mit
 
 Das wars, Sie haben Ihre Visualisierung auf Ihre Bedürfnisse angepasst. Nun müssen Sie die Visualisierung noch auf Ihre Peakboard Box hochladen. Dazu gehen Sie im Menü oben unter dem Tab 'Startseite' auf den Punkt 'Verwalten / Hochladen'. Im anschließenden Dialog wählen Sie Ihre Box und klicken  auf 'Hochladen'. Nun wird die Visualisierung auf Ihre Box geladen, nach kurzer Zeit sollte die Visualisierung, auf dem an der Peakboard Box angeschlossenen Bildschirm, sichtbar werden. Wenn Sie mit dem Ergebnis zufrieden sind, können Sie sich anschließend auf die Terminverwaltung konzentrieren.  Falls Sie Ihre Peakboard Box noch nicht verbunden haben, lesen Sie am besten folgenden [Artikel](https://peakboard.rocks/anschliessen). 
 
-## Termine verwalten
+### Termine verwalten
 
 Um die [Visualisierung mit Kalenderanbindung](https://templates.peakboard.com/Reception-Screen-Calendar-Connection/) nutzen zu können, müssen Sie sich mit Ihrem privaten – oder noch besser einem geteilten – Kalender Account in Ihr Microsoft Konto anmelden und eine Freigabe für die nötigen Information für Peakboard freischalten.
 

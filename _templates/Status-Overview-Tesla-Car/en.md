@@ -17,11 +17,11 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# Remarks
+## Remarks
 
 > Please note that this approach uses the same api as the tesla mobile app. This is not an official api.
 
-## Request token
+### Request token
 
 In order to get this board running you need to request an api key via the Tesla api. 
 Just send a POST request with the following json body to `https://owner-api.teslamotors.com/oauth/token`:
@@ -59,7 +59,7 @@ The request will look like this:
 }
 ```
 
-## Find your vehicle_id
+### Find your vehicle_id
 
 Now you need to find out about the id of your Tesla (you have to use `id` instead of `vehicleId`) by requesting a list of vehicles from `https://owner-api.teslamotors.com/api/1/vehicles`. To access this endpoint you are required to add the header `Authorization: Bearer <your acces_token here>` to your request. The response will look like this:
 
@@ -87,7 +87,7 @@ Now you need to find out about the id of your Tesla (you have to use `id` instea
 }
 ```
 
-## Get vehicle status
+### Get vehicle status
 Now you can jump into the Peakboard designer. There you have to set the two variables `token` and `vehicleId` to the token and id you received in the previous calls (use your id not vehicle_id for vehicleId).
 
 Sometimes it may take up to 20 seconds to finish this request. The reason for that is that the Tesla falls asleep when inactive for a few minutes and needs some time to wake up again.
