@@ -148,7 +148,7 @@ var main = {
             }
         }));
 
-        var isAllCategory = false;
+        var isAllCategory = true;
         var renderMenuCategory = instantsearch.connectors.connectMenu(function (_ref, isFirstRender) {
             var items = _ref.items,
                 refine = _ref.refine,
@@ -166,11 +166,15 @@ var main = {
             var featuredCategory = document.getElementById('featured-category').innerHTML;
 
             // if value of url param 'menu[category]' does not exist in itemsSimpleArray, add it. (also check on Featured as it's added later too)
+            // this is to add a category in case it doesn't originally exist in the category list, but it clicked on from an article.
             if (getUrlVars()["menu%5Bcategory%5D"] !== undefined
                 && itemsSimpleArray.indexOf(decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"])) === -1
                 && decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]) !== document.getElementById('featured-category').innerHTML) {
 
                 itemsSimpleArray.push(decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]));
+
+                // in this case, isAllCategory should be changed to false too.
+                isAllCategory = false;
             }
 
             // iterate through list of items, making them into an object
@@ -186,13 +190,13 @@ var main = {
                 return a.label > b.label ? 1 : b.label > a.label ? -1 : 0;
             });
 
-            // push 'Featured' option, with empty value, at the 2nd position in the array.
+            // push 'Featured' option, at the 1st position in the array.
             itemsArray.splice(0, 0, {
                 label: featuredCategory,
                 value: featuredCategory
             });
 
-            // push 'All' option, with empty value, at the 2nd position in the array.
+            // push 'All' option, at the 2nd position in the array.
             itemsArray.splice(1, 0, {
                 label: allCategory,
                 value: allCategory
@@ -225,7 +229,7 @@ var main = {
                     // reset search if any
                     document.getElementById('resetSearchBox').click();
 
-                    if (event.currentTarget.dataset.value === document.getElementById('featured-category').innerHTML) {
+                    if (event.currentTarget.dataset.value === document.getElementById('all-category').innerHTML) {
                         removeClass(document.getElementById('carousel'), 'hidden');
                         addClass(document.getElementById('hits-container'), 'mt-8');
                     } else {
@@ -244,10 +248,10 @@ var main = {
             });
 
             // if the first render is done AND there is no category already filtered, select Featured as default.
-            if(isFirstRender && getUrlVars()["menu%5Bcategory%5D"] === undefined) {
-                // default selection
-                refine(document.getElementById('featured-category').innerHTML);
-            }
+            //if(isFirstRender && getUrlVars()["menu%5Bcategory%5D"] === undefined) {
+            //    // default selection
+            //    refine(document.getElementById('featured-category').innerHTML);
+            //}
         });
 
         search.addWidgets([renderMenuCategory({
@@ -359,7 +363,7 @@ var main = {
         })]);
 
         // if the featured category is within the url, we should show the carousel, otherwise, we shouldn't.
-        if (window.location.href.indexOf(document.getElementById('featured-category').innerHTML) > -1) {
+        if (window.location.href.indexOf(document.getElementById('all-category').innerHTML) > -1) {
             removeClass(document.getElementById('carousel'), 'hidden');
             addClass(document.getElementById('hits-container'), 'mt-8');
         } else if (getUrlVars()["fromArticle"]) {
