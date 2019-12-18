@@ -190,16 +190,16 @@ var main = {
                 return a.label > b.label ? 1 : b.label > a.label ? -1 : 0;
             });
 
-            // push 'Featured' option, at the 1st position in the array.
+            // push 'All' option, at the 1st position in the array.
             itemsArray.splice(0, 0, {
-                label: featuredCategory,
-                value: featuredCategory
-            });
-
-            // push 'All' option, at the 2nd position in the array.
-            itemsArray.splice(1, 0, {
                 label: allCategory,
                 value: allCategory
+            });
+
+            // push 'Featured' option, at the 2nd position in the array.
+            itemsArray.splice(1, 0, {
+                label: featuredCategory,
+                value: featuredCategory
             });
 
             // build a list of elements
