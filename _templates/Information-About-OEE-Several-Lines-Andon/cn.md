@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Information about the OEE of Several Production Lines with Andon
+title: 利用安东板展示数条生产线的总体设备效率
 description: 
-  - This template allows the visualization of three production lines. The current order of a customer, the overall equipment effectiveness (OEE) as well as the status of the individual stations of each line are displayed. With the help of the traffic light colour scheme (Andon), it is possible to see at a glance where a problem currently exists, so that action can be taken quickly and this can be remedied.
+  - 该模板对三条生产线的数据进行了可视化，包括当前的客户订单、总体设备效率（OEE）以及生产线上各个工作站的状态。利用交通信号灯的颜色使用规则（安东板），用户可以快速找出当前哪里出现故障，并迅速地采取行动进行补救。
 lang: cn
 weight: 3000
-isDraft: true
+isDraft: false
 ref: Information-About-OEE-Several-Production-Lines-Andon
 category:
   - Recommended
