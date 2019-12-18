@@ -276,6 +276,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-multiple-languages-plugin
   jekyll-redirect-from
+  jekyll-sitemap
   minima (~> 2.0)
   tzinfo-data
 
