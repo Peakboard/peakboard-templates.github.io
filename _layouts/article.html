@@ -35,13 +35,13 @@ layout: base
 
 <div class="article-overview {% if darkBackground == 'true' %}dark-background{% endif %}">
     <div class="py-8 max-w-xl px-4 mx-auto">
-        <h2 style="color: rgba(0, 0, 0, .84);">Overview</h2>
+        <h2 style="color: rgba(0, 0, 0, .84);">{{ site.language[page.lang].article-overview-title }}</h2>
 
         <div class="flex flex-wrap my-4">
             {% if page.overview_description %}
             <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
                 <div class="px-4 py-4 bg-white h-full">
-                    <p class="text-grey-darker uppercase font-bold pb-4">Description</p>
+                    <p class="text-grey-darker uppercase font-bold pb-4">{{ site.language[page.lang].article-overview-description-title }}</p>
                     <ul class="m-0 pl-0 ml-4">
                     {% for item in page.overview_description %}
                         <li><span>{{ item }}</span></li>
@@ -53,7 +53,7 @@ layout: base
             {% if page.overview_benefits %}
             <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
                 <div class="px-4 py-4 bg-white h-full">
-                    <p class="text-grey-darker uppercase font-bold pb-4">Benefits</p>
+                    <p class="text-grey-darker uppercase font-bold pb-4">{{ site.language[page.lang].article-overview-benefits-title }}</p>
                     <ul class="m-0 pl-0 ml-4">
                         {% for item in page.overview_benefits %}
                         <li><span>{{ item }}</span></li>
@@ -65,7 +65,7 @@ layout: base
             {% if page.overview_data_sources %}
             <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 lg:pr-0 xl:pr-0 pr-2">
                 <div class="px-4 py-4 bg-white h-full">
-                    <p class="text-grey-darker uppercase font-bold  pb-4">Data Sources</p>
+                    <p class="text-grey-darker uppercase font-bold  pb-4">{{ site.language[page.lang].article-overview-data-sources-title }}</p>
                     <ul class="m-0 pl-0 ml-4">
                         {% for item in page.overview_data_sources %}
                         <li><span>{{ item }}</span></li>
@@ -93,7 +93,7 @@ layout: base
 
 <div class="article-overview {% if darkBackground == 'true' %}dark-background{% endif %}">
     <div class="py-16 max-w-xl px-4 mx-auto">
-        <h2 style="color: rgba(0, 0, 0, .84);">Related Templates</h2>
+        <h2 style="color: rgba(0, 0, 0, .84);">{{ site.language[page.lang].article-related-templates-title }}</h2>
 
         <div class="flex flex-wrap my-4">
 

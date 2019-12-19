@@ -30,6 +30,11 @@ collections:
 language:
   en:
     article-download-button-text: "Download template"
+    article-overview-title: "Overview"
+    article-overview-description-title: "Description"
+    article-overview-benefits-title: "Benefits"
+    article-overview-data-sources-title: "Data Sources"
+    article-related-templates-title: "Related Templates"
     homepage-top-section-title: "Peakboard Templates"
     homepage-top-section-content: "Due to the flexibility of Peakboard there are numerous application possibilities in the most diverse areas. Here you will find some templates with a short description, which you can download directly and use for your purposes."
     homepage-carousel-button-text: "Learn more"
@@ -69,6 +74,11 @@ language:
     cta-link-text: "Download the Peakboard Designer for free"
   de:
     article-download-button-text: "Template herunterladen"
+    article-overview-title: "Overview"
+    article-overview-description-title: "Description"
+    article-overview-benefits-title: "Benefits"
+    article-overview-data-sources-title: "Data Sources"
+    article-related-templates-title: "Related Templates"
     homepage-top-section-title: "Peakboard Templates"
     homepage-top-section-content: "Durch die Flexibilität von Peakboard gibt es zahlreiche Anwendungsmöglichkeiten in den unterschiedlichsten Bereichen. Hier finden Sie einige Vorlagen mit einer kurzen Beschreibung, welche Sie direkt herunterladen und für Ihre Zwecke verwenden können."
     homepage-carousel-button-text: "Mehr erfahren"
@@ -108,6 +118,11 @@ language:
     cta-link-text: "Peakboard Designer kostenlos herunterladen"
   cn:
     article-download-button-text: "下载模板"
+    article-overview-title: "Overview"
+    article-overview-description-title: "Description"
+    article-overview-benefits-title: "Benefits"
+    article-overview-data-sources-title: "Data Sources"
+    article-related-templates-title: "Related Templates"
     homepage-top-section-title: "获取帮助"
     homepage-top-section-content: "针对您的需求，帮助您快速、高效地充分利用Peakboard，详情请参考相关文章。"
     homepage-carousel-button-text: "了解更多"
