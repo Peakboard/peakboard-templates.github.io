@@ -166,7 +166,7 @@ var main = {
             var featuredCategory = document.getElementById('featured-category').innerHTML;
 
             // all category never selected if url param 'menu[category]' exists.
-            if(getUrlVars()["menu%5Bcategory%5D"] !== undefined) {
+            if(getUrlVars()["menu%5Bcategory%5D"] !== undefined || decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]) !== allCategory) {
                 // isAllCategory should be changed to false.
                 isAllCategory = false;
             }
@@ -175,7 +175,7 @@ var main = {
             // this is to add a category in case it doesn't originally exist in the category list, but it clicked on from an article.
             if (getUrlVars()["menu%5Bcategory%5D"] !== undefined
                 && itemsSimpleArray.indexOf(decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"])) === -1
-                && decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]) !== document.getElementById('featured-category').innerHTML) {
+                && decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]) !== featuredCategory) {
 
                 itemsSimpleArray.push(decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]));
             }
