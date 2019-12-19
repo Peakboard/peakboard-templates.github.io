@@ -149,6 +149,9 @@ var main = {
         }));
 
         var isAllCategory = true;
+        if(getUrlVars()["fromArticle"] !== undefined) {
+            isAllCategory = false;
+        }
         var renderMenuCategory = instantsearch.connectors.connectMenu(function (_ref, isFirstRender) {
             var items = _ref.items,
                 refine = _ref.refine,
@@ -165,19 +168,16 @@ var main = {
             // obtain name for 'Featured' category, functioning as a reset
             var featuredCategory = document.getElementById('featured-category').innerHTML;
 
-            // all category never selected if url param 'menu[category]' exists.
-            if(getUrlVars()["menu%5Bcategory%5D"] !== undefined || decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]) !== allCategory) {
-                // isAllCategory should be changed to false.
-                isAllCategory = false;
-            }
-
             // if value of url param 'menu[category]' does not exist in itemsSimpleArray, add it. (also check on Featured as it's added later too)
             // this is to add a category in case it doesn't originally exist in the category list, but it clicked on from an article.
             if (getUrlVars()["menu%5Bcategory%5D"] !== undefined
                 && itemsSimpleArray.indexOf(decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"])) === -1
-                && decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]) !== featuredCategory) {
+                && decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]) !== document.getElementById('featured-category').innerHTML) {
 
                 itemsSimpleArray.push(decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]));
+
+                // in this case, isAllCategory should be changed to false too.
+                isAllCategory = false;
             }
 
             // iterate through list of items, making them into an object
