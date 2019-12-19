@@ -97,36 +97,247 @@ layout: base
         <h2 style="color: rgba(0, 0, 0, .84);">Related Templates</h2>
 
         <div class="flex flex-wrap my-4">
-            <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
-                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400 hover:border-orange">
-                    <a class="no-underline" href="{{ page.related[0].url }}" data-lity>
-                        <img class="w-full lightbox-ignore" src="{{ page.related[0].image }}" alt="{{ page.related[0].title }}">
-                    </a>
-                    <a class="no-underline text-black" href="{{ page.related[0].url }}" data-lity>
-                        <div class="text-black mb-2">{{ page.related[0].title | escape }}</div>
-                    </a>
-                </div>
-            </div>
-            <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
-                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400 hover:border-orange">
-                    <a class="no-underline" href="{{ page.related[1].url }}" data-lity>
-                        <img class="w-full lightbox-ignore" src="{{ page.related[1].image }}" alt="{{ page.related[1].title }}">
-                    </a>
-                    <a class="no-underline text-black" href="{{ page.related[1].url }}" data-lity>
-                        <div class="text-black mb-2">{{ page.related[1].title | escape }}</div>
-                    </a>
-                </div>
-            </div>
-            <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 lg:pr-0 xl:pr-0 pr-2">
-                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400 hover:border-orange">
-                    <a class="no-underline" href="{{ page.related[2].url }}" data-lity>
-                        <img class="w-full lightbox-ignore" src="{{ page.related[2].image }}" alt="{{ page.related[2].title }}">
-                    </a>
-                    <a class="no-underline text-black" href="{{ page.related[2].url }}" data-lity>
-                        <div class="text-black mb-2">{{ page.related[2].title | escape }}</div>
-                    </a>
-                </div>
-            </div>
+
+            {% assign maxRelated = 3 %}
+            {% assign minCommonCategories = 5 %}
+            {% assign maxRelatedCounter = 0 %}
+            {% assign existingRelated = "" %}
+            {% assign templatesSorted = site.templates | sort: "weight" %}
+
+            {% for singleTemplate in templatesSorted %}
+
+                {% assign sameCategoryCount = 0 %}
+                {% assign commonCategories = '' %}
+
+                {% for category in singleTemplate.category %}
+                    {% if singleTemplate.url != page.url %}
+                        {% if page.category contains category %}
+                            {% if singleTemplate.isDraft != true and singleTemplate.lang == page.lang %}
+                                {% assign sameCategoryCount = sameCategoryCount | plus: 1 %}
+                                {% capture categorymarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
+                                {% assign commonCategories = commonCategories | append: categorymarkup | append:", " %}
+                            {% endif %}
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+
+                {% if sameCategoryCount >= minCommonCategories %}
+                    {% assign arrayExistingRelated = existingRelated | split: "|" %}
+                    {% assign existingRelatedTitleCheck = singleTemplate.title | remove: " " %}
+                    {% unless arrayExistingRelated contains existingRelatedTitleCheck %}
+                        {% assign imageUrlPath = singleTemplate.url | split: '/' %}
+                        <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
+                            <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400 hover:border-orange">
+                                <a class="no-underline" href="{{ site.baseurl }}{{ singleTemplate.url }}" data-lity>
+                                    <img class="w-full lightbox-ignore" src="{{ site.baseurl }}/{{ imageUrlPath[1] }}/{{ singleTemplate.image }}" alt="{{ singleTemplate.title }}">
+                                </a>
+                                <a class="no-underline text-black" href="{{ site.baseurl }}{{ singleTemplate.url }}" data-lity>
+                                    <div class="text-black mb-2">{{ singleTemplate.title | escape }}</div>
+                                </a>
+                            </div>
+                        </div>
+
+                        {% assign existingRelated = existingRelated | append:singleTemplate.title | remove: " " | append:"|" %}
+                        {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+                        {% if maxRelatedCounter >= maxRelated %}
+                            {% break %}
+                        {% endif %}
+                    {% endunless %}
+                {% endif %}
+
+            {% endfor %}
+
+            {% assign minCommonCategories = 4 %}
+            {% if maxRelatedCounter < maxRelated %}
+                {% for singleTemplate in templatesSorted %}
+
+                    {% assign sameCategoryCount = 0 %}
+                    {% assign commonCategories = '' %}
+
+                    {% for category in singleTemplate.category %}
+                        {% if singleTemplate.url != page.url %}
+                            {% if page.category contains category %}
+                                {% if singleTemplate.isDraft != true and singleTemplate.lang == page.lang %}
+                                    {% assign sameCategoryCount = sameCategoryCount | plus: 1 %}
+                                    {% capture categorymarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
+                                    {% assign commonCategories = commonCategories | append: categorymarkup | append:", " %}
+                                {% endif %}
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+
+                    {% if sameCategoryCount >= minCommonCategories %}
+                        {% if maxRelatedCounter >= maxRelated %}
+                            {% break %}
+                        {% endif %}
+                        {% assign arrayExistingRelated = existingRelated | split: "|" %}
+                        {% assign existingRelatedTitleCheck = singleTemplate.title | remove: " " %}
+                        {% unless arrayExistingRelated contains existingRelatedTitleCheck %}
+                            {% assign imageUrlPath = singleTemplate.url | split: '/' %}
+                            <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
+                                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400 hover:border-orange">
+                                    <a class="no-underline" href="{{ site.baseurl }}{{ singleTemplate.url }}" data-lity>
+                                        <img class="w-full lightbox-ignore" src="{{ site.baseurl }}/{{ imageUrlPath[1] }}/{{ singleTemplate.image }}" alt="{{ singleTemplate.title }}">
+                                    </a>
+                                    <a class="no-underline text-black" href="{{ site.baseurl }}{{ singleTemplate.url }}" data-lity>
+                                        <div class="text-black mb-2">{{ singleTemplate.title | escape }}</div>
+                                    </a>
+                                </div>
+                            </div>
+                            {% assign existingRelated = existingRelated | append:singleTemplate.title | remove: " " | append:"|" %}
+                            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+                            {% if maxRelatedCounter >= maxRelated %}
+                                {% break %}
+                            {% endif %}
+                        {% endunless %}
+                    {% endif %}
+
+                {% endfor %}
+            {% endif %}
+
+            {% assign minCommonCategories = 3 %}
+            {% if maxRelatedCounter < maxRelated %}
+                {% for singleTemplate in templatesSorted %}
+
+                    {% assign sameCategoryCount = 0 %}
+                    {% assign commonCategories = '' %}
+
+                    {% for category in singleTemplate.category %}
+                        {% if singleTemplate.url != page.url %}
+                            {% if page.category contains category %}
+                                {% if singleTemplate.isDraft != true and singleTemplate.lang == page.lang %}
+                                    {% assign sameCategoryCount = sameCategoryCount | plus: 1 %}
+                                    {% capture categorymarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
+                                    {% assign commonCategories = commonCategories | append: categorymarkup | append:", " %}
+                                {% endif %}
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+
+                    {% if sameCategoryCount >= minCommonCategories %}
+                        {% if maxRelatedCounter >= maxRelated %}
+                            {% break %}
+                        {% endif %}
+                        {% assign arrayExistingRelated = existingRelated | split: "|" %}
+                        {% assign existingRelatedTitleCheck = singleTemplate.title | remove: " " %}
+                        {% unless arrayExistingRelated contains existingRelatedTitleCheck %}
+                            {% assign imageUrlPath = singleTemplate.url | split: '/' %}
+                            <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
+                                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400 hover:border-orange">
+                                    <a class="no-underline" href="{{ site.baseurl }}{{ singleTemplate.url }}" data-lity>
+                                        <img class="w-full lightbox-ignore" src="{{ site.baseurl }}/{{ imageUrlPath[1] }}/{{ singleTemplate.image }}" alt="{{ singleTemplate.title }}">
+                                    </a>
+                                    <a class="no-underline text-black" href="{{ site.baseurl }}{{ singleTemplate.url }}" data-lity>
+                                        <div class="text-black mb-2">{{ singleTemplate.title | escape }}</div>
+                                    </a>
+                                </div>
+                            </div>
+                            {% assign existingRelated = existingRelated | append:singleTemplate.title | remove: " " | append:"|" %}
+                            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+                            {% if maxRelatedCounter >= maxRelated %}
+                                {% break %}
+                            {% endif %}
+                        {% endunless %}
+                    {% endif %}
+
+                {% endfor %}
+            {% endif %}
+
+            {% assign minCommonCategories = 2 %}
+            {% if maxRelatedCounter < maxRelated %}
+                {% for singleTemplate in templatesSorted %}
+
+                    {% assign sameCategoryCount = 0 %}
+                    {% assign commonCategories = '' %}
+
+                    {% for category in singleTemplate.category %}
+                        {% if singleTemplate.url != page.url %}
+                            {% if page.category contains category %}
+                                {% if singleTemplate.isDraft != true and singleTemplate.lang == page.lang %}
+                                    {% assign sameCategoryCount = sameCategoryCount | plus: 1 %}
+                                    {% capture categorymarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
+                                    {% assign commonCategories = commonCategories | append: categorymarkup | append:", " %}
+                                {% endif %}
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+
+                    {% if sameCategoryCount >= minCommonCategories %}
+                        {% if maxRelatedCounter >= maxRelated %}
+                            {% break %}
+                        {% endif %}
+                        {% assign arrayExistingRelated = existingRelated | split: "|" %}
+                        {% assign existingRelatedTitleCheck = singleTemplate.title | remove: " " %}
+                        {% unless arrayExistingRelated contains existingRelatedTitleCheck %}
+                            {% assign imageUrlPath = singleTemplate.url | split: '/' %}
+                            <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
+                                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400 hover:border-orange">
+                                    <a class="no-underline" href="{{ site.baseurl }}{{ singleTemplate.url }}" data-lity>
+                                        <img class="w-full lightbox-ignore" src="{{ site.baseurl }}/{{ imageUrlPath[1] }}/{{ singleTemplate.image }}" alt="{{ singleTemplate.title }}">
+                                    </a>
+                                    <a class="no-underline text-black" href="{{ site.baseurl }}{{ singleTemplate.url }}" data-lity>
+                                        <div class="text-black mb-2">{{ singleTemplate.title | escape }}</div>
+                                    </a>
+                                </div>
+                            </div>
+                            {% assign existingRelated = existingRelated | append:singleTemplate.title | remove: " " | append:"|" %}
+                            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+                            {% if maxRelatedCounter >= maxRelated %}
+                                {% break %}
+                            {% endif %}
+                        {% endunless %}
+                    {% endif %}
+
+                {% endfor %}
+            {% endif %}
+
+            {% assign minCommonCategories = 1 %}
+            {% if maxRelatedCounter < maxRelated %}
+                {% for singleTemplate in templatesSorted %}
+
+                    {% assign sameCategoryCount = 0 %}
+                    {% assign commonCategories = '' %}
+
+                    {% for category in singleTemplate.category %}
+                        {% if singleTemplate.url != page.url %}
+                            {% if page.category contains category %}
+                                {% if singleTemplate.isDraft != true and singleTemplate.lang == page.lang %}
+                                    {% assign sameCategoryCount = sameCategoryCount | plus: 1 %}
+                                    {% capture categorymarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
+                                    {% assign commonCategories = commonCategories | append: categorymarkup | append:", " %}
+                                {% endif %}
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+
+                    {% if sameCategoryCount >= minCommonCategories %}
+                        {% if maxRelatedCounter >= maxRelated %}
+                            {% break %}
+                        {% endif %}
+                        {% assign arrayExistingRelated = existingRelated | split: "|" %}
+                        {% assign existingRelatedTitleCheck = singleTemplate.title | remove: " " %}
+                        {% unless arrayExistingRelated contains existingRelatedTitleCheck %}
+                            {% assign imageUrlPath = singleTemplate.url | split: '/' %}
+                            <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
+                                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400 hover:border-orange">
+                                    <a class="no-underline" href="{{ site.baseurl }}{{ singleTemplate.url }}" data-lity>
+                                        <img class="w-full lightbox-ignore" src="{{ site.baseurl }}/{{ imageUrlPath[1] }}/{{ singleTemplate.image }}" alt="{{ singleTemplate.title }}">
+                                    </a>
+                                    <a class="no-underline text-black" href="{{ site.baseurl }}{{ singleTemplate.url }}" data-lity>
+                                        <div class="text-black mb-2">{{ singleTemplate.title | escape }}</div>
+                                    </a>
+                                </div>
+                            </div>
+                            {% assign existingRelated = existingRelated | append:singleTemplate.title | remove: " " | append:"|" %}
+                            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+                            {% if maxRelatedCounter >= maxRelated %}
+                                {% break %}
+                            {% endif %}
+                        {% endunless %}
+                    {% endif %}
+
+                {% endfor %}
+            {% endif %}
         </div>
     </div>
 </div>

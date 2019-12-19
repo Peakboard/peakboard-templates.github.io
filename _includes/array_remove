@@ -1,0 +1,1 @@
+{% assign ret = "" %}{% assign removed = "false" %}{% for elem in include.array %}{% if elem == include.remove and removed != "true" %}{% assign removed = "true" %}{% continue %}{% endif %}{% assign ret = ret | append: "|" | append: {{elem}} %}{% endfor %}{{ ret | remove_first: "|" }}
