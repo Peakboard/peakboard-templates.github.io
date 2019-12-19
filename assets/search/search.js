@@ -149,6 +149,9 @@ var main = {
         }));
 
         var isAllCategory = true;
+        if(getUrlVars()["fromArticle"] !== undefined) {
+            isAllCategory = false;
+        }
         var renderMenuCategory = instantsearch.connectors.connectMenu(function (_ref, isFirstRender) {
             var items = _ref.items,
                 refine = _ref.refine,
