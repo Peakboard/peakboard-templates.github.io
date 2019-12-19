@@ -9,7 +9,7 @@ isDraft: false
 ref: Appointment-Overview-Reception-Desk
 carousel: true
 category:
-  - Beliebt
+  - Empfohlen
   - Administration
   - Empfang
 image: Appointment-Overview-Reception-Desk.png
