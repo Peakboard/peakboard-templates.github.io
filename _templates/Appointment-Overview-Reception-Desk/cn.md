@@ -20,17 +20,17 @@ overview_benefits:
 overview_data_sources:
 ---
 
-## How it works
+## 如何使用
 
 In order to get into the creation of a welcome screen as simple as possible, we offer ready-made templates. This is a step by step guide on how to create your personal welcome screen with these templates. For a general introduction to Peakboard, see the [first steps](https://peakboard.rocks/get-started). If you would like to know how to connect a peakboard box to your designer and transfer a visualization, please read the following [article](https://peakboard.rocks/connect). To create a visualization you need the Peakboard Designer. This can be downloaded [for free](https://peakboard.rocks/designer-from-welcome-en).
 
-### Appointment overview with Office 365 calendar as data source
+### 使用Office365日历作为数据源，创建预约情况概览
 
 ![image_live](/assets/images/templates/welcome/Appointments_Overview.png)
 
 This visualization can accommodate up to six appointments. The appointments are managed via a simple Microsoft Office 365 calendar connection. It supports Microsoft Office 365 accounts and modern (on-premise) Exchange servers that support Microsoft Graph. [Template Link](https://templates.peakboard.com/Appointment-Overview-Reception-Desk/en)
 
-### Additional templates for welcome screens
+### 其他相似模版
 
 The following templates offer an alternative to the schedule overview described here.
 
