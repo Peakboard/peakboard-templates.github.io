@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Room Occupancy and Appointment Overview at the Reception Desk
+title: 接待处展示的房间使用和预约情况概览
 description: 
-  - This visualization provides an overview of current appointments and the corresponding room occupancy. Connect your Microsoft 365 calendar, change the logo and, if necessary, adjust the weather widget to adapt the visualization to your needs.
+  - 该可视化提供了当前预约及对应的房间使用概览。您可以将其连上微软365日历并修改图标，若有必要，还可以调整天气插件，使其满足您的需求。
 lang: cn
 weight: 1000
 isDraft: false
