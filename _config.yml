@@ -4,12 +4,13 @@ description: "Templates for your Peakboard. Get more out of your Peakboard exper
 url: "https://templates.peakboard.com"
 twitter_username: pkbrd
 github_username:  Peakboard
-languages: ["en", "de"]
+languages: ["en", "de", "cn"]
 exclude_from_localizations: ["assets", "CNAME"]
 defaultLang: de
 languageNames:
   de: Deutsch
   en: English
+  cn: Chinese
 # Analytics
 gtm: "GTM-T2LNC7N"
 # Build settings
@@ -78,7 +79,7 @@ language:
     article-overview-description-title: "Description"
     article-overview-benefits-title: "Benefits"
     article-overview-data-sources-title: "Data Sources"
-    article-related-templates-title: "Related Templates"
+    article-related-templates-title: "Ähnliche Templates"
     homepage-top-section-title: "Peakboard Templates"
     homepage-top-section-content: "Durch die Flexibilität von Peakboard gibt es zahlreiche Anwendungsmöglichkeiten in den unterschiedlichsten Bereichen. Hier finden Sie einige Vorlagen mit einer kurzen Beschreibung, welche Sie direkt herunterladen und für Ihre Zwecke verwenden können."
     homepage-carousel-button-text: "Mehr erfahren"
@@ -133,7 +134,7 @@ language:
     homepage-visible-categories: []
     homepage-visible-data-sources: []
     top-menu-cta-button-text: "马上开始"
-    top-menu-cta-button-url: "https://peakboard.com/en/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
+    top-menu-cta-button-url: "https://peakboard.com/zh-hans/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
     page-top-overview-text: "模板概览"
     footer-support: "技术支持"
     footer-support-tel: "电话："
