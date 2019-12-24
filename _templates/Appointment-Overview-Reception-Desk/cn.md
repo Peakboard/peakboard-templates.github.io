@@ -14,7 +14,7 @@ category:
   - Reception
 image: Appointment-Overview-Reception-Desk.png
 image_thumbnail: Appointment-Overview-Reception-Desk_thumbnail.png
-download: Appointment-Overview-Reception-Desk.pbmx
+download: Appointment-Overview-Reception-Desk - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
@@ -94,7 +94,7 @@ overview_data_sources:
 
 ![image_live](/assets/images/templates/welcome/Manage_Dialog_Webinterface_Button_en.png)
 
-第三种方法，您也可以直接在浏览器中输入网址http://NameYourBox:40404调用该页面。在此必须输入Box名称，并使用40404端口。您需要使用随Box一同提供的登录信息进行登录。随后，就可以看到当前运行可视化的截图；右侧（2）则显示出各个变量列表，现在您就可以对它们进行修改。所有显示的源文本均可在变量列表text_labels中修改。
+第三种方法，您也可以直接在浏览器中输入网址http://NameYourBox:40404调用该页面。在此必须输入Box名称，并使用40404端口。您需要使用随Box一同提供的登录信息进行登录。随后，就可以看到当前运行可视化的截图；右侧（2）则显示出各个变量列表，您可以在此进行修改。所有显示的源文本均可在变量列表text_labels中修改。
 
 ![image_live](/assets/images/templates/welcome/Webinterface_Overview.png)
 

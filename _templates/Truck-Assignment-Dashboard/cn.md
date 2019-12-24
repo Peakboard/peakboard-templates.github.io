@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Truck Assignment
+title: 卡车分派
 description: 
-  - This template offers the possibility to assign different trucks to a certain gate at a certain time. The assignment of the trucks is done via the Peakboard web interface. There you can store and maintain all data directly on the Peakboard Box. If more than 7 gates are specified, the view automatically changes to the next page. Upload the visualization to your box and open the web interface to manage your gates and trucks.
+  - 模板能帮助您在特定时间，通过Peakboard Webinterface将各个卡车分派至特定装卸门口，您可以在Webinterface中储存并管理所有Peakboard Box中的数据。如果装卸门超过七个，界面将自动跳至下一页。马上将可视化上传至Box，并在Webinterface管理装卸门和卡车！
 lang: cn
 weight: 1000
 isDraft: false
@@ -13,7 +13,7 @@ category:
   - Traffic
 image: Truck-Assignment.png
 image_thumbnail: Truck-Assignment_thumbnail.png
-download: Truck-Assignment.pbmx
+download: Truck-Assignment - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
