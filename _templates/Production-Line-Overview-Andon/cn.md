@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Production Line Overview Andon
+title: 生产线概览安东板
 description: 
-  - This template gives an overview of a single production line with different stations. In addition, the performance of the different shifts, reports of the last activities as well as the OEE can be visualized. To use this template, you only need to replace the Timer Scripts with your data sources.
+  - 模板展示了拥有多个工作站的单一生产线概览。另外，它还提供不同班组表现、最近动态报告和设备总体效率（OEE）等信息。使用时，只需用您自己的数据源替代模板中的定时器脚本。
 lang: cn
 weight: 1000
 isDraft: false
@@ -14,9 +14,9 @@ category:
   - Production
   - OEE
   - KPI
-image: Production-Line-Overview-Andon.png
+image: Production-Line-Overview-Andon-CN.png
 image_thumbnail: Production-Line-Overview-Andon_thumbnail.png
-download: Production-Line-Overview-Andon.pbmx
+download: Production-Line-Overview-Andon - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

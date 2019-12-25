@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Overview of Departure Times for Stuttgart Airport
+title: 斯图加特机场航班离港时间概览
 description: 
-  - This template is used for the visualization of departure APIs (= interfaces) of Stuttgart Airport. Three terminals with the current flight times as well as an overview of further flights in the following two hours and delays are visualized.
+  - 模板主要用于可视化斯图加特机场的航班离港信息，它展示了三个航站楼当前航班时间、未来两小时航班一览以及延误航班。
 lang: cn
 weight: 1000
 isDraft: false
@@ -12,7 +12,7 @@ category:
   - Misc
 image: Departure-Times-Airport.png
 image_thumbnail: Departure-Times-Airport_thumbnail.png
-download: Departure-Times-Airport.pbmx
+download: Departure-Times-Airport - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Interactive Board for Single-User Production
+title: 单用户生产线中的交互式看板
 description: 
-  - This template is used as an interactive board for single-user production. By using a touch screen at the corresponding workplace, the respective employee can report problems, stop assembly times and at the same time see how many parts are still to be completed for a specific order. This information can be centrally monitored elsewhere to optimize production. In this way, production data acquisition can be implemented very easily.
+  - 模板主要在单用户生产线用作交互式看板。通过安装在对应工作站的触摸屏，操作员工可以上报故障、让组装线暂停工作、同时还可以了解到某一订单还有多少部件需要完成。这一看板可以放在其他地方的中心位置，以监测订单信息，优化生产。这样一来，获取生产数据就非常容易。
 lang: cn
 weight: 1000
 isDraft: false
@@ -15,7 +15,7 @@ category:
   - Andon
 image: Interactive-Board-For-Single-User-Production.png
 image_thumbnail: Interactive-Board-For-Single-User-Production_thumbnail.png
-download: Interactive-Board-For-Single-User-Production.pbmx
+download: Interactive-Board-For-Single-User-Production - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
