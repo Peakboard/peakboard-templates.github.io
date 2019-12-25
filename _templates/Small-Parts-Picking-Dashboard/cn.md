@@ -2,7 +2,7 @@
 layout: article
 title: Small Parts Picking
 description: 
-  - This visualization provides an overview of the current utilization of a warehouse. Variables are used as sample data and a script is executed to display an action. Replace the variables with your own data sources and remove the script to run it for your personal use case.
+  - 该可视化提供了仓库当前使用情况概览。其中，变量被用作样本数据，脚本用来演示其变化。实际使用时，请用您自己的数据源替换变量，并移除脚本。
 lang: cn
 weight: 600
 isDraft: false
@@ -14,7 +14,7 @@ category:
   - Warehouse
 image: Small-Parts-Picking.png
 image_thumbnail: Small-Parts-Picking_thumbnail.png
-download: Small-Parts-Picking.pbmx
+download: Small-Parts-Picking - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

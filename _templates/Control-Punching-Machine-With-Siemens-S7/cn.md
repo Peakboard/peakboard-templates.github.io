@@ -2,7 +2,7 @@
 layout: article
 title: Control of a punching machine with Siemens S7
 description: 
-  - This template shows how to set up the communication between Peakboard and a punch using a Siemens S7 controller.
+  - 利用Simens S7控制器，模板展示了如何在Peakboard与冲压机之间建立通信。
 lang: cn
 weight: 500
 isDraft: false
@@ -13,10 +13,10 @@ category:
   - Process
 image: Control-Punching-Machine-Siemens-S7.png
 image_thumbnail: Control-Punching-Machine-Siemens-S7_thumbnail.png
-download: Control-Punching-Machine-Siemens-S7.pbmx
+download: Control-Punching-Machine-Siemens-S7 - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# Remarks 
-This board can not run on your Peakboard unless you own a Siemens S7 control. It is just an example to see how the communication with a S7 control could work. If you want to see how the board works visit: https://youtu.be/w8jRp6st180?t=9m15s
+# 提示 
+除非您有Siemens S7控制器，否则该看板将无法在Peakboard上使用。这只是一个示例，演示Peakboard如何与S7控制器通讯。如果您想了解该看板如何工作，请访问https://youtu.be/w8jRp6st180?t=9m15s。
