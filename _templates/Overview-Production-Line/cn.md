@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Overview of a Production Line
+title: 单生产线概览
 description: 
-  - This visualization enables a holistic overview of a production line by means of a generic background graphic. Thus, different machine statuses, target/actual comparisons, OEE and much more can be displayed in real time. Replace the static variables with your data sources in order to map your production line holistically in just a few steps.
+  - 可视化看板利用一张常见的背景图，全面展现了生产线概览。各个机器的状态、目标/实际对比、设备总体效率（OEE）及其他信息因此得以实时显示。用公司的数据源替换其中的静态变量，只需几步，您就可以将生产线完整地复制到该模板。
 lang: cn
 weight: 500
 isDraft: false
@@ -14,7 +14,7 @@ category:
   - Serial Production
 image: Overview-Production-Line.png
 image_thumbnail: Overview-Production-Line_thumbnail.png
-download: Overview-Production-Line.pbmx
+download: Overview-Production-Line - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

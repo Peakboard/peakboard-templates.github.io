@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Control of a punching machine with Siemens S7
+title: 使用Simens S7控制冲压机
 description: 
   - 利用Simens S7控制器，模板展示了如何在Peakboard与冲压机之间建立通信。
 lang: cn

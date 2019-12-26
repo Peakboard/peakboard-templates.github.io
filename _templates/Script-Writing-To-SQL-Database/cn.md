@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Writing Data to a SQL Database
+title: 把数据写回SQL数据库
 description: 
-  - This template illustrates how to write data to an SQL Server from your Peakboard Box.
+  - 模板演示了如何从Peakboard Box中向SQL Server写数据。
 lang: cn
 weight: 200
 isDraft: false
@@ -10,10 +10,10 @@ ref: Example_Write_into_SQL
 category:
     - Scripting
 image: Example_Write_into_SQL_EN.png
-download: Example_Write_into_SQL_EN.pbmx
+download: Example_Write_into_SQL - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources: 
 ---
-# Remarks
-Nothing special to do to get it working. Remember that the Messages are Permanently saved in the SQL Server.
+# 提示
+使用该模板无任何特殊要求，仅需注意写入的信息将会永久地保存在SQL Server数据库。

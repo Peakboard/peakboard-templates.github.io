@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Production Status Alert
+title: 生产状况报警
 description: 
-  - This template displays the current status of the production and displays a clear warning message in case of errors. This allows errors to be detected and resolved quickly.
+  - 模板展示了当前生产状况，并且会在发生故障时清楚地显示警告信息，让您能够迅速地检测出故障并对其进行处理。
 lang: cn
 weight: 500
 isDraft: false
@@ -12,7 +12,7 @@ category:
   - Alert
   - Status
 image: Production-Status-Alert.png
-download: Production-Status-Alert.pbmx
+download: Production-Status-Alert - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

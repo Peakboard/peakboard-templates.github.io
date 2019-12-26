@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Script Example for Sending E-Mails
+title: 发送邮件的脚本示例
 description: 
-  - This template demonstrates how to send an e-mail to your e-mail address directly from the Peakboard Box. To do this, you must connect a keyboard to the Peakboard Box and, if necessary, a mouse.
+  - 模板演示了如何直接从Peakboard Box向您的电子邮箱发送邮件。为此，您必须将Peakboard Box与键盘相连；如果需要的话，还可以连一个鼠标。
 lang: cn
 weight: 50
 isDraft: false
@@ -11,10 +11,10 @@ category:
   - Script
   - Scripting
 image: Script_Email_EN.png
-download: Script_Email_EN.pbmx
+download: Script_Email - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# Remarks
-Runs on its own. If you want to take a look at the Script double click the Send button while you are in the designer 
+# 提示
+模板可自行工作。如果您想查看脚本，请双击Designer界面中的“发送”按钮。

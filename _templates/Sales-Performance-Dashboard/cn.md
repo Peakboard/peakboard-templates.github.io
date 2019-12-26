@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Sales Performance Dashboard
+title: 销售业绩板
 description: 
-  - With this template you can build your sales dashboard. Create more competition through visible metrics.
+  - 您可以用该模板创建自己的销售看板，用直观的指标帮助您营造竞争氛围。
 lang: cn
 weight: 500
 isDraft: false
@@ -13,7 +13,7 @@ category:
   - Misc
 image: Sales-Performance-Dashboard.png
 image_thumbnail: Sales-Performance-Dashboard_thumbnail.png
-download: Sales-Performance-Dashboard.pbmx
+download: Sales-Performance-Dashboard - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

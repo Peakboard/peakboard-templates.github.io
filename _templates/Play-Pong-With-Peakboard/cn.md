@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Play Pong with Peakboard
+title: 用Peakboard玩Pong游戏
 description: 
-  - The classic Pong game, which became the first worldwide popular video game, can also be realized with Peakboard. The left player uses the keys 'w' to move the racket upwards and 's' to move it downwards. The right player uses the arrow keys 'up' and 'down' accordingly.
+  - 作为游戏中的经典，Pong成为了第一款流行全世界的电子游戏，它也可以通过Peakboard实现。左侧玩家使用“w”键向上移动球拍，“s”键使其向下移动；而右侧玩家可用箭头按键“上”和“下”控制球拍。
 lang: cn
 weight: 200
 isDraft: false

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Small Parts Picking
+title: 零部件挑选
 description: 
   - 该可视化提供了仓库当前使用情况概览。其中，变量被用作样本数据，脚本用来演示其变化。实际使用时，请用您自己的数据源替换变量，并移除脚本。
 lang: cn
