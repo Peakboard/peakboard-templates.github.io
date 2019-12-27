@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Script Example for Dialogs and Messages
+title: 对话和消息脚本示例
 description: 
-  - With this script example you can create and use different dialogs and messages.
+  - 您可以使用该脚本创建并使用不同的对话和消息。
 lang: cn
 weight: 50
 isDraft: false
@@ -11,7 +11,7 @@ category:
   - Script
   - Scripting
 image: Script_Dialogs_and_Messages_EN.png
-download: Script_Dialogs_and_Messages_EN.pbmx
+download: Script_Dialogs_and_Messages - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

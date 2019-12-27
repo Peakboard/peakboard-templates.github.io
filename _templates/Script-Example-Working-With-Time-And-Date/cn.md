@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Script Example for Working with Time and Date
+title: 时间和日期脚本示例
 description: 
-  - This template shows you how to work with time objects. Learn how to add, manipulate, compare, or format a date.
+  - 模板向您展示应如何使用时间对象，了解如何添加、操纵和比较日期，或设定日期格式。
 lang: cn
 weight: 50
 isDraft: false
@@ -11,7 +11,7 @@ category:
   - Script
   - Scripting
 image: Script_Working_with_Dates_EN.png
-download: Script_Working_with_Dates_EN.pbmx
+download: Script_Working_with_Dates - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

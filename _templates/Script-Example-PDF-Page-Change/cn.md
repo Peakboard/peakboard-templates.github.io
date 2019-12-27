@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Script example for automatic PDF page change
+title: PDF自动翻页脚本示例
 description: 
-  - This board shows a Scripting Example for a PDF data source
+  - 模板展示了PDF数据源的脚本示例。
 lang: cn
 weight: 50
 isDraft: false
@@ -11,7 +11,7 @@ category:
   - Script
   - Scripting
 image: Script_PDF_Viewer_EN.png
-download: Script_PDF_Viewer_EN.pbmx
+download: Script_PDF_Viewer- CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

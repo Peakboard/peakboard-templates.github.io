@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Script Example for a Navigation Menu
+title: 切换菜单脚本示例
 description: 
-  - This script example shows how you can add a simple navigation bar to switch between different screens. 
+  - 脚本展示了应如何添加一个简单的切换栏，从而在不同的屏幕看板之间切换。
 lang: cn
 weight: 50
 isDraft: false
@@ -11,7 +11,7 @@ category:
   - Script
   - Scripting
 image: Script_Navigation_Menu_EN.png
-download: Script_Navigation_Menu_EN.pbmx
+download: Script_Navigation_Menu - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

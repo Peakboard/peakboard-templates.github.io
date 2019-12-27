@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Script Example for a Image Change
+title: 图片更改脚本示例
 description: 
-  - This template shows how you can interactively exchange images from local or web resources.
+  - 模板展示了如何利用其交互式功能，在本地图片或网页资源之间切换。
 lang: cn
 weight: 50
 isDraft: false
@@ -11,7 +11,7 @@ category:
   - Script
   - Scripting
 image: Script_Change_Image_EN.png
-download: Script_Change_Image_EN.pbmx
+download: Script_Change_Image - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
