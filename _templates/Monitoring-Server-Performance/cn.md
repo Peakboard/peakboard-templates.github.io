@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Monitoring Server Performance
+title: 服务器表现监控
 description: 
   - 使用该模板实时可视化服务器表现和使用情况的各项指标。
 lang: cn

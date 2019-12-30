@@ -23,7 +23,7 @@ overview_data_sources:
 
 ## 如何使用
 
-致了解，请访问[简介](https://peakboard.rocks/get-started)。如果您想知道如何将Peakboard Box连至Designer软件，并上传可视化看板，请查阅以下[文档](https://peakboard.rocks/connect)。如要创建可视化，您需要使用Peakboard Designer软件。该软件可在此免费[下载](https://peakboard.rocks/designer-from-welcome-en)。
+为了尽可能简化欢迎看板的制作过程，我们提供了成品模板。通过这一制作指南，我们帮助您一步步在这些模板的基础上创建自己的个性化欢迎看板。要想对Peakboard有一个大致了解，请访问[简介](https://peakboard.rocks/get-started)。如果您想知道如何将Peakboard Box连至Designer软件，并上传可视化看板，请查阅以下[文档](https://peakboard.rocks/connect)。如要创建可视化，您需要使用Peakboard Designer软件。该软件可在此免费[下载](https://peakboard.rocks/designer-from-welcome-en)。
 
 ### 同类模板
 
