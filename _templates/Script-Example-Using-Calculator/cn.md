@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Script Example Using a Simple Calculator
+title: 简易计算器使用脚本示例
 description: 
-  - This template shows how to create and use a simple calculator (addition and subtraction).
+  - 模板展示了如何创建并使用简易的计算器（加法和减法）。
 lang: cn
 weight: 50
 isDraft: false
@@ -12,7 +12,7 @@ category:
   - Scripting
   - Script-Example
 image: Script_Calculator_EN.png
-download: Script_Calculator_EN.pbmx
+download: Script_Calculator - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

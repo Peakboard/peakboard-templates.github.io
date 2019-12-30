@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Script Example for Working with a Time-Controlled Script
+title: 使用时间控制的脚本示例
 description: 
-  - In this template, you'll learn how to use a time-controlled script that displays different values depending on the time of day.
+  - 在此模板中，您可以了解到如何使用时间控制脚本。根据所在的当天时间段，脚本会显示不同的值。
 lang: cn
 weight: 50
 isDraft: false
@@ -11,7 +11,7 @@ category:
   - Script
   - Scripting
 image: Script_Timer_Text_EN.png
-download: Script_Timer_Text_EN.pbmx
+download: Script_Timer_Text - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

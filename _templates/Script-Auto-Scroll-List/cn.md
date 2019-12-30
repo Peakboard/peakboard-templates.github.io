@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Script example for automatic scrolling of a list using a dataflow
+title: 使用数据流自动下拉列表的脚本示例
 description: 
-  - This template shows a script example which is intended to filter a data source using a dataflow. Every 5 seconds it will be executed. As soon as all entries have been displayed, the list starts from the beginning.
+  - 模板展示了一个脚本示例，它通过使用数据流过滤数据源中的数据。每隔五秒钟，脚本就会执行一次。当显示完所有数据，列表又会从头开始。
 lang: cn
 weight: 50
 isDraft: false
@@ -11,7 +11,7 @@ category:
   - Scripting
 image: Script-Auto-Scroll-List-en.png
 image_thumbnail: 
-download: Script-Auto-Scroll-List-en.pbmx
+download: Script-Auto-Scroll-List - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

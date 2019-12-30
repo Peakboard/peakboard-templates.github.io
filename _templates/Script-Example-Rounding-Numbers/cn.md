@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Script example for rounding numbers
+title: “四舍五入”脚本示例
 description: 
-  - This example shows how to work with numbers, how to dound these, and how to display them in a table.
+  -示例展示了如何处理数字、如何“四舍五入”以及如何在表中展示结果。
 lang: cn
 weight: 50
 isDraft: false
@@ -11,7 +11,7 @@ category:
   - Script
   - Scripting
 image: Script_Round_Table_EN.png
-download: Script_Round_Table_EN.pbmx
+download: Script_Round_Table - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

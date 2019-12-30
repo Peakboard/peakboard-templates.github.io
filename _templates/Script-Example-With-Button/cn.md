@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Script Example with Button
+title: 按钮脚本示例
 description: 
-  - With this script example you can learn how to work with a button in Peakboard.
+  - 通过该脚本，您可以了解到如何在Peakboard中使用按钮。
 lang: cn
 weight: 50
 isDraft: false
@@ -13,7 +13,7 @@ category:
   - Script-Beispiel
   - Button
 image: Script_Button_Example_EN.png
-download: Script_Button_Example_EN.pbmx
+download: Script_Button_Example - CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
