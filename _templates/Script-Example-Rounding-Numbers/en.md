@@ -2,7 +2,7 @@
 layout: article
 title: Script example for rounding numbers
 description: 
-  - This example shows how to work with numbers, how to dound these, and how to display them in a table.
+  - This example shows how to work with numbers, how to do these, and how to display them in a table.
 lang: en
 weight: 50
 isDraft: false
