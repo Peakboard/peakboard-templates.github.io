@@ -1,16 +1,20 @@
 ---
 layout: article
-title: Digital Black Board
+title: Digital Bulletin Board
 description: 
-  - 
+  - This board shows some information about a company and helps to inform employees about news.
 lang: en
-weight: 100
+weight: 2000
 isDraft: true
-ref: Digital_Black_Board
+ref: Digital-Bulletin-Board
 category:
-  - Black Board
-image: Digital_Black_Board_EN.png
-download: Digital_Black_Board_EN.pbmx
+  - KPI
+  - Lean Management
+  - Process
+  - Production
+image: Digital-Bulletin-Board.png
+image_thumbnail: 
+download: Digital-Bulletin-Board.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
