@@ -11,8 +11,8 @@ category:
   - Reception
   - Interaction
   - Misc
-image: Rating-Terminal-For-Hotels.png
-download: Rating-Terminal-For-Hotels.pbmx
+image: Rating-Terminal-For-Hotel.png
+download: Rating-Terminal-For-Hotel.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
