@@ -11,8 +11,8 @@ category:
   - Empfang
   - Interaktion
   - Sonstiges
-image: Bewertungsterminal-Fuer-Hotel.png
-download: Bewertungsterminal-Fuer-Hotel.pbmx
+image: Bewertungsterminal-Fuer-Hotels.png
+download: Bewertungsterminal-Fuer-Hotels.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
