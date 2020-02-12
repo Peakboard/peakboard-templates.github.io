@@ -9,9 +9,9 @@ isDraft: false
 ref: Initial-Peakboard-Box-Screen
 category:
   - Misc
-image: Initial-Peakboard-Box-Screen.png
-image_thumbnail: Initial-Peakboard-Box-Screen_thumbnail.png
-download: Initial-Peakboard-Box-Screen - CN.pbmx
+image: Initial-Peakboard-Box-Screen-CN.png
+image_thumbnail: Initial-Peakboard-Box-Screen-CN_thumbnail.png
+download: Initial-Peakboard-Box-Screen.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

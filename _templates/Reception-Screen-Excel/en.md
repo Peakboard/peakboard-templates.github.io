@@ -13,7 +13,7 @@ category:
   - Misc
 image: Empfangsbildschirm-Excel.png
 image_thumbnail: Empfangsbildschirm-Excel_thumbnail.png
-download: Empfangsbildschirm-Excel.pbmx
+download: Reception-Screen-Excel.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
