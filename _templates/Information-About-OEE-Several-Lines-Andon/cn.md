@@ -13,9 +13,9 @@ category:
   - Andon
   - OEE
   - KPI
-image: Information-About-OEE-Several-Production-Lines-Andon-CN.png
-image_thumbnail: Information-About-OEE-Several-Production-Lines-Andon-CN_thumbnail.png
-download: Information-About-OEE-Several-Production-Lines-Andon-CN.pbmx
+image: Information-About-OEE-Several-Production-Lines-Andon_CN.png
+image_thumbnail: Information-About-OEE-Several-Production-Lines-Andon_CN_thumbnail.png
+download: Information-About-OEE-Several-Production-Lines-Andon_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
