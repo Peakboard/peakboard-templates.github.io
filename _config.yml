@@ -4,7 +4,7 @@ description: "Templates for your Peakboard. Get more out of your Peakboard exper
 url: "https://templates.peakboard.com"
 twitter_username: pkbrd
 github_username:  Peakboard
-languages: ["en", "de"]
+languages: ["en", "de", "cn"]
 exclude_from_localizations: ["assets", "CNAME"]
 defaultLang: de
 languageNames:
