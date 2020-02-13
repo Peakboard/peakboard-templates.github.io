@@ -10,7 +10,7 @@ ref: Example_Write_into_SQL
 category:
     - Scripting
 image: Example_Write_into_SQL_EN.png
-download: Example_Write_into_SQL - CN.pbmx
+download: Example_Write_into_SQL_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources: 

@@ -12,7 +12,7 @@ category:
   - Scripting
   - Script-Example
 image: Script_Calculator_EN.png
-download: Script_Calculator - CN.pbmx
+download: Script_Calculator_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

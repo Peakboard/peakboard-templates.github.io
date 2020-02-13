@@ -10,7 +10,7 @@ ref: Example_Push_Messages
 category:
     - Scripting
 image: Example_Push_Messages_EN.png
-download: Example_Push_Messages - CN.pbmx
+download: Example_Push_Messages_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

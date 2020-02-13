@@ -11,8 +11,9 @@ category:
   - Production
   - Alert
   - Status
-image: Production-Status-Alert.png
-download: Production-Status-Alert - CN.pbmx
+image: Production-Status-Alert_CN.png
+image_thumbnail: Production-Status-Alert_CN_thumbnail.png
+download: Production-Status-Alert_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

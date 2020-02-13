@@ -11,9 +11,9 @@ category:
   - Administration
   - Reception
   - Misc
-image: Empfangsbildschirm-Excel.png
-image_thumbnail: Empfangsbildschirm-Excel_thumbnail.png
-download: Reception-Screen-Excel - CN.pbmx
+image: Reception-Screen-Excel_CN.png
+image_thumbnail: Reception-Screen-Excel_CN_thumbnail.png
+download: Reception-Screen-Excel_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

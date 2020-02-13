@@ -9,8 +9,8 @@ isDraft: true
 ref: Production_Lines
 category:
   - Production
-image: Production_Lines_EN.png
-download: Production_Lines_EN.pbmx
+image: Production_Lines_CN.png
+download: Production_Lines_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

@@ -11,7 +11,7 @@ category:
   - Script
   - Scripting
 image: Script_Write_to_Excel_EN.png
-download: Script_Write_to_Excel - CN.pbmx
+download: Script_Write_to_Excel_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

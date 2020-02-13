@@ -12,9 +12,9 @@ category:
   - Warehouse
   - Error
   - Alert
-image: Warning-Message-In-Logistics.png
-image_thumbnail: Warning-Message-In-Logistics_thumbnail.png
-download: Warning-Message-In-Logistics - CN.pbmx
+image: Warning-Message-In-Logistics_CN.png
+image_thumbnail: Warning-Message-In-Logistics_CN_thumbnail.png
+download: Warning-Message-In-Logistics_CN.pbmx
 overview_description:
 overview_benefits:
  overview_data_sources:

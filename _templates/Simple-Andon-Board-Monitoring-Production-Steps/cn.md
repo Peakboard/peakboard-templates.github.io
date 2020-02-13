@@ -14,9 +14,9 @@ category:
   - Andon
   - Alert
   - Process
-image: Simple-Andon-Board-Monitoring-Production-Steps.png
-image_thumbnail: Simple-Andon-Board-Monitoring-Production-Steps_thumbnail.png
-download: Simple-Andon-Board-Monitoring-Production-Steps - CN.pbmx
+image: Simple-Andon-Board-Monitoring-Production-Steps_CN.png
+image_thumbnail: Simple-Andon-Board-Monitoring-Production-Steps_CN_thumbnail.png
+download: Simple-Andon-Board-Monitoring-Production-Steps_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

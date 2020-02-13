@@ -11,7 +11,7 @@ category:
   - Script
   - Scripting
 image: Script_Working_with_Dates_EN.png
-download: Script_Working_with_Dates - CN.pbmx
+download: Script_Working_with_Dates_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

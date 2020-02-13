@@ -11,9 +11,9 @@ category:
   - Logistics
   - Truck
   - Traffic
-image: Truck-Assignment.png
-image_thumbnail: Truck-Assignment_thumbnail.png
-download: Truck-Assignment - CN.pbmx
+image: Truck-Assignment_CN.png
+image_thumbnail: Truck-Assignment_CN_thumbnail.png
+download: Truck-Assignment_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
