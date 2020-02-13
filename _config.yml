@@ -127,7 +127,7 @@ language:
     homepage-top-section-title: "获取帮助"
     homepage-top-section-content: "针对您的需求，帮助您快速、高效地充分利用Peakboard，详情请参考相关文章。"
     homepage-carousel-button-text: "了解更多"
-    homepage-featured-category: ""
+    homepage-featured-category: "Recommended"
     homepage-all-category: "全部"
     homepage-menu-title-category: "类别"
     homepage-menu-title-data-sources: "数据源"
