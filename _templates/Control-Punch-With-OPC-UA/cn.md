@@ -11,9 +11,9 @@ category:
   - Production
   - Control
   - Process
-image: Control-Punch-OPCA-UA.png
-image_thumbnail: Control-Punch-OPCA-UA_thumbnail.png
-download: Control-Punch-OPCA-UA - CN.pbmx
+image: Control-Punch-OPCA-UA_CN.png
+image_thumbnail: Control-Punch-OPCA-UA_CN_thumbnail.png
+download: Control-Punch-OPCA-UA_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

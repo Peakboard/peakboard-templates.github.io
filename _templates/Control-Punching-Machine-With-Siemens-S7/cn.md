@@ -11,9 +11,9 @@ category:
   - Production
   - Control
   - Process
-image: Control-Punching-Machine-Siemens-S7.png
-image_thumbnail: Control-Punching-Machine-Siemens-S7_thumbnail.png
-download: Control-Punching-Machine-Siemens-S7 - CN.pbmx
+image: Control-Punching-Machine-Siemens-S7_CN.png
+image_thumbnail: Control-Punching-Machine-Siemens-S7_CN_thumbnail.png
+download: Control-Punching-Machine-Siemens-S7_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
