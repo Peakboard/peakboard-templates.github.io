@@ -11,7 +11,7 @@ category:
   - Scripting
 image: Script-Auto-Scroll-List-en.png
 image_thumbnail: 
-download: Script-Auto-Scroll-List.pbmx
+download: Script-Auto-Scroll-List-en.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
