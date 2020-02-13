@@ -11,9 +11,9 @@ category:
   - Recommended
   - Administration
   - IT Data Center
-image: Monitoring-Server-Performance.png
-image_thumbnail: Monitoring-Server-Performance_thumbnail.png
-download: Monitoring-Server-Performance - CN.pbmx
+image: Monitoring-Server-Performance_CN.png
+image_thumbnail: Monitoring-Server-Performance_CN_thumbnail.png
+download: Monitoring-Server-Performance_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

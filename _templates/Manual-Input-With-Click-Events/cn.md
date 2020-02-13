@@ -10,9 +10,9 @@ ref: Manual-Editing-Using-Click-Events
 category:
  - Interaction
  - Scripting
-image: Manual-Editing-Using-Click-Events.png
-image_thumbnail: Manual-Editing-Using-Click-Events_thumbnail.png
-download: Manual-Editing-Using-Click-Events - CN.pbmx
+image: Manual-Editing-Using-Click-Events_CN.png
+image_thumbnail: Manual-Editing-Using-Click-Events_CN_thumbnail.png
+download: Manual-Editing-Using-Click-Events_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
