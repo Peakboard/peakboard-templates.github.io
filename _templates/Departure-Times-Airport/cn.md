@@ -10,9 +10,9 @@ ref: Departure-Times-Airport
 category:
   - Traffic
   - Misc
-image: Departure-Times-Airport.png
-image_thumbnail: Departure-Times-Airport_thumbnail.png
-download: Departure-Times-Airport - CN.pbmx
+image: Departure-Times-Airport_CN.png
+image_thumbnail: Departure-Times-Airport_CN_thumbnail.png
+download: Departure-Times-Airport_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
