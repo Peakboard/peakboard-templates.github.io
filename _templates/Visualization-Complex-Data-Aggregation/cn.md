@@ -10,7 +10,7 @@ ref: Visualization-Complex-Data-Aggregation
 category:
   - Scripting
 image: Visualization-Complex-Data-Aggregation.png
-download: Visualization-Complex-Data-Aggregation - CN.pbmx
+download: Visualization-Complex-Data-Aggregation.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
