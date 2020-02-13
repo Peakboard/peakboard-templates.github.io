@@ -13,9 +13,9 @@ category:
   - Error
   - Serial Production
   - Process
-image: Production-Line-Status-Machine-Image.png
-image_thumbnail: Production-Line-Status-Machine-Image_thumbnail.png
-download: Production-Line-Status-Machine-Image - CN.pbmx
+image: Production-Line-Status-Machine-Image_CN.png
+image_thumbnail: Production-Line-Status-Machine-Image_CN_thumbnail.png
+download: Production-Line-Status-Machine-Image_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

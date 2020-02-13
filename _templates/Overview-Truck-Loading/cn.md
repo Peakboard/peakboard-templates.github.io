@@ -12,9 +12,9 @@ category:
   - Warehouse
   - Process
   - Truck
-image: Overview-Truck-Loading-CN.png
-image_thumbnail: Overview-Truck-Loading_thumbnail.png
-download: Overview-Truck-Loading - CN.pbmx
+image: Overview-Truck-Loading_CN.png
+image_thumbnail: Overview-Truck-Loading_CN_thumbnail.png
+download: Overview-Truck-Loading_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

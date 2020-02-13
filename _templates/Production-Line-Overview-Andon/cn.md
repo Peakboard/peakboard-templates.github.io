@@ -14,9 +14,9 @@ category:
   - Production
   - OEE
   - KPI
-image: Production-Line-Overview-Andon-CN.png
-image_thumbnail: Production-Line-Overview-Andon_thumbnail.png
-download: Production-Line-Overview-Andon - CN.pbmx
+image: Production-Line-Overview-Andon_CN.png
+image_thumbnail: Production-Line-Overview-Andon_CN_thumbnail.png
+download: Production-Line-Overview-Andon_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

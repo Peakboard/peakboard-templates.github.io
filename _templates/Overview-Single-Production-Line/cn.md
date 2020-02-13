@@ -14,9 +14,9 @@ category:
   - Car
   - Warning
   - Error
-image: Overview-Of-Single-Production-Line-CN.png
-image_thumbnail: Overview-Of-Single-Production-Line_thumbnail.png
-download: Overview-Of-Single-Production-Line - CN.pbmx
+image: Overview-Of-Single-Production-Line_CN.png
+image_thumbnail: Overview-Of-Single-Production-Line_CN_thumbnail.png
+download: Overview-Of-Single-Production-Line_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

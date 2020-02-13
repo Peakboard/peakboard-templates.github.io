@@ -12,9 +12,9 @@ category:
   - Production
   - KPI
   - Lean Management
-image: Overview-Several-Production-Lines-CN.png
-image_thumbnail: Overview-Several-Production-Lines_thumbnail.png
-download: Overview-Several-Production-Lines - CN.pbmx
+image: Overview-Several-Production-Lines_CN.png
+image_thumbnail: Overview-Several-Production-Lines_CN_thumbnail.png
+download: Overview-Several-Production-Lines_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

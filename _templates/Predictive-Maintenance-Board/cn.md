@@ -11,9 +11,9 @@ category:
   - Recommended
   - Maintenance
   - Production
-image: Predictive-Maintenance-Board.png
-image_thumbnail: Predictive-Maintenance-Board_thumbnail.png
-download: Predictive-Maintenance-Board - CN.pbmx
+image: Predictive-Maintenance-Board_CN.png
+image_thumbnail: Predictive-Maintenance-Board_CN_thumbnail.png
+download: Predictive-Maintenance-Board_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
