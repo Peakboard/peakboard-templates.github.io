@@ -12,9 +12,9 @@ category:
   - Lean Management
   - OEE
   - Serial Production
-image: Overview-Production-Line.png
-image_thumbnail: Overview-Production-Line_thumbnail.png
-download: Overview-Production-Line - CN.pbmx
+image: Overview-Production-Line_CN.png
+image_thumbnail: Overview-Production-Line_CN_thumbnail.png
+download: Overview-Production-Line_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
