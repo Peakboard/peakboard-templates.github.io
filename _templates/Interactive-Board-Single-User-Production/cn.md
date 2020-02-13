@@ -13,9 +13,9 @@ category:
   - Individual Production
   - Interaction
   - Andon
-image: Interactive-Board-For-Single-User-Production.png
-image_thumbnail: Interactive-Board-For-Single-User-Production_thumbnail.png
-download: Interactive-Board-For-Single-User-Production - CN.pbmx
+image: Interactive-Board-For-Single-User-Production_CN.png
+image_thumbnail: Interactive-Board-For-Single-User-Production_CN_thumbnail.png
+download: Interactive-Board-For-Single-User-Production_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
