@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Bewertungsterminal für ein Hotel mit Ausgabemail
+title: Bewertungsterminal in einem Hotel mit E-Mail-Benachrichtigung
 description: 
-  - Nutzen Sie Peakboard um Ihren Kunden oder Besuchern die Möglichkeit zu geben Sie zu bewerten. Diese Bewertungen können Sie sich schnell und einfach direkt per Email zusenden lassen.
+  - Mit Peakboard können Ihre Kunden oder Besucher Sie bewerten. Diese Bewertungen können Sie sich schnell und einfach direkt per E-Mail zusenden lassen.
 lang: de
 weight: 1000
 isDraft: true
