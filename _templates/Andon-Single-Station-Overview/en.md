@@ -12,7 +12,7 @@ category:
   - Production
   - Logistics
 image: Andon-Single-Station-Overview.png
-image_thumbnail: Andon-Single-Station-Overview_thumbnail.pbmx
+image_thumbnail: Andon-Single-Station-Overview_thumbnail.png
 download: Andon-Single-Station-Overview.pbmx
 overview_description:
 overview_benefits:

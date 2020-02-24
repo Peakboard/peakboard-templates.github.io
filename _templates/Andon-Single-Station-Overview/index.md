@@ -12,7 +12,7 @@ category:
   - Produktion
   - Logistik
 image: Uebersicht-einzelne-Arbeitsstationen-mit-Andon.png
-image_thumbnail: Uebersicht-einzelne-Arbeitsstationen-mit-Andon_thumbnail.pbmx
+image_thumbnail: Uebersicht-einzelne-Arbeitsstationen-mit-Andon_thumbnail.png
 download: Uebersicht-einzelne-Arbeitsstationen-mit-Andon.pbmx
 overview_description:
 overview_benefits:
