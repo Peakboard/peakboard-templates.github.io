@@ -37,3 +37,4 @@ screens['Finishing'].Audit.text = '(' .. os.date('%b %Y', date.addday(data.Datum
 --	data.Screen2_List2[0].Soll = diagramGood
 --	data.Screen2_List2[1].Soll = diagramOk
 --	data.Screen2_List2[2].Soll = diagramBad	
+

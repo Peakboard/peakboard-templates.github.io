@@ -11,8 +11,8 @@ then
 control.toggle(screens[runtime.currentscreenindex].icon_start)
 end
 
-if data.ProdOrder[0].ActualQty >= data.ProdOrder[0].TargetQty then
-	data.ProdOrder[0].ActualQty = 0
-else
-	data.ProdOrder[0].ActualQty = data.ProdOrder[0].ActualQty + 1
-end
+-- if data.ProdOrder[0].ActualQty >= data.ProdOrder[0].TargetQty then
+-- 	data.ProdOrder[0].ActualQty = 0
+-- else
+-- 	data.ProdOrder[0].ActualQty = data.ProdOrder[0].ActualQty + 1
+-- end 

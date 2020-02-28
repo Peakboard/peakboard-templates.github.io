@@ -74,11 +74,11 @@ else
 	data.Zaeler = data.Zaeler + 1
 end
 
--- Skript Screen Gate 4
-if data.flash == true then 
-	screens['Putaway'].SC4text1.visibility = visibility.collapsed
-	data.flash = false 
-else
-	screens['Putaway'].SC4text1.visibility = visibility.visible
-	data.flash = true
-end
+-- -- Skript Screen Gate 4
+-- if data.flash == true then 
+-- 	screens['Putaway'].SC4text1.visibility = visibility.collapsed
+-- 	data.flash = false 
+-- else
+-- 	screens['Putaway'].SC4text1.visibility = visibility.visible
+-- 	data.flash = true
+-- end
