@@ -12,7 +12,7 @@ category:
   - Interaktion
   - Sonstiges
 image: Bewertungsterminal-Fuer-Hotels.png
-image_thumbnail:  Bewertungsterminal-Fuer-Hotels_thumbnail.png
+image_thumbnail: Bewertungsterminal-Fuer-Hotels_thumbnail.png
 download: Bewertungsterminal-Fuer-Hotels.pbmx
 overview_description:
 overview_benefits:

@@ -12,7 +12,7 @@ category:
   - Interaction
   - Misc
 image: Rating-Terminal-For-Hotel.png
-image_thumbnail:  Rating-Terminal-For-Hotel_thumbnail.png
+image_thumbnail: Rating-Terminal-For-Hotel_thumbnail.png
 download: Rating-Terminal-For-Hotel.pbmx
 overview_description:
 overview_benefits:
