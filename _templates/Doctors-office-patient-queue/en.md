@@ -10,9 +10,9 @@ ref: Doctors-office-patient-queue
 category:
   - Administration
   - Reception
-image: Doctors-office-patient-queue_EN.png
-image_thumbnail: Doctors-office-patient-queue_EN_thumbnail.png
-download: Doctors-office-patient-queue_EN.pbmx
+image: Doctors-office-patient-queue.png
+image_thumbnail: Doctors-office-patient-queue_thumbnail.png
+download: Doctors-office-patient-queue.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
