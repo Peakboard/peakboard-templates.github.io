@@ -11,6 +11,7 @@ isDraft: false
 ref: doctors-office-patient-queue
 category:
   - Covid-19
+  - Produktion
 image: doctors-office-patient-queue.png
 image_thumbnail: doctors-office-patient-queue_thumbnail.png
 download: Doctors-office-patient-queue.pbmx
