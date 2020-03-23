@@ -2,7 +2,7 @@
 layout: article
 title: Patientenorganisation in Arztpraxis
 description: 
-  - Dieses Board ist im Rahmen des WirVsVirus-Hackathons im März 2020 entstanden (wirvsvirushackathon.org). Es wurde ein Prozess entwickelt, mit dem Arztpraxen ihre Wartezimmer ins Freie verlegen können und so die Wartenden maximalen Abstand halten.
+  - Dieses Dashboard entstand im Rahmen des von der Bundesregierung Deutschland und sieben sozialen Initiativen organisierten WirVsVirus-Hackathons im März 2020 (wirvsvirushackathon.org). Dabei wurde ein Prozess entwickelt, mit dem Wartezeiten für Patienten nicht nur besser organisiert sondern auch die gegenseitige Ansteckung weitestgehend vermieden wird, indem die Wartezimmer sozusagen ins Freie verlagert werden.
 lang: de
 weight: 2000
 isDraft: false
@@ -18,6 +18,5 @@ overview_benefits:
 overview_data_sources:
 ---
 # Die Idee
-Die Idee ist, eine Peakboard-Box mit einem großen, handelsüblichen Monitor ins Freie zu hängen. Die Patienten melden ihren Bedarf telefonisch bei der Rezeption an. Mit Hilfe des Monitors werden die Patienten von weitem visuell gerufen und erfahren, in welches Behandlungszimmer sie direkt gehen sollen. Die Patienten, die bereits in der virtuellen Queue stehen, aber noch kein zugewiesenes Bahandlungszimmer haben, sehen ihren Status anhand der Ampel und können sich darauf einstellen, dass sie bald gerufen werden.
-
-Die Erfassung erfolg über ein Webinterface. Es ist keine Intenetverbindung nötig und auch sonst ist nur minimale Infrastuktur zur Verfügung zu stellen. Für das Netzwerk reicht ein Wlan, zur Not über ein mobiles Telefon. Die Installation kann problemlos auch durch nicht-IT-Personal erledigt werden.
+Die Idee dahinter ist, eine Peakboard-Box mit einem großen, handelsüblichen Monitor außerhalb der Arztpraxis ins Freie zu hängen. Bevor die Patienten die Praxis betreten, melden sie sich telefonisch in der Praxis an. Der Patient/die Patientin wird in die digitale Warteliste eingetragen und erfährt über den Monitor, wann er/sie an der Reihe ist und welches Behandlungszimmer für ihn/sie vorgesehen ist. Alternativ zum jeweiligen Namen, könnten hier auch Nummern gelistet werden, die den jeweiligen Patienten entsprechend zugeordnet werden. Die Patienten, die bereits in der virtuellen Schlange stehen, aber noch kein zugewiesenes Behandlungszimmer haben, sehen ihren Status anhand der Ampel um sich entsprechend auf den Zeitpunkt der Behandlung einzustellen.
+Die Erfassung erfolgt über ein Webinterface. Es ist keine Internetverbindung und nur minimale Infrastruktur nötig. Für das Netzwerk ist ein WLAN ausreichend, ggf. auch über ein mobiles Telefon. Für die Installation sind keine besonderen IT-Kenntnisse erforderlich.
