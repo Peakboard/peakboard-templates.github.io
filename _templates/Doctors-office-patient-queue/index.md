@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Patientenorganisation in Arztpraxis
+title: Patientenorganisation in der Arztpraxis
 description: 
   - Dieses Dashboard entstand im Rahmen des von der Bundesregierung Deutschland und sieben sozialen Initiativen organisierten WirVsVirus-Hackathons im März 2020 (wirvsvirushackathon.org). Dabei wurde ein Prozess entwickelt, mit dem Wartezeiten für Patienten nicht nur besser organisiert sondern auch die gegenseitige Ansteckung weitestgehend vermieden wird, indem die Wartezimmer sozusagen ins Freie verlagert werden.
 lang: de

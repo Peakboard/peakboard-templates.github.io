@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Patient organization in doctor's office
+title: Patient organization in the medical practice
 description: 
   - This dashboard was created in the context of the "WirVsVirus"(UsVsVirus)-Hackathon in March 2020 (wirvsvirushackathon.org) organized by the German government and seven social initiatives. A process was developed to not only better organize waiting times for patients, but also best possibly avoid mutual infection by moving the waiting rooms outside.
 lang: en
