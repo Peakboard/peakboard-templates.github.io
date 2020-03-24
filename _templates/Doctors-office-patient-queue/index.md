@@ -22,6 +22,6 @@ Die Idee dahinter ist, eine Peakboard-Box mit einem großen, handelsüblichen Mo
 
 Die Erfassung erfolgt über ein Webinterface. Es ist keine Internetverbindung und nur minimale Infrastruktur nötig. Für das Netzwerk ist ein WLAN ausreichend, ggf. auch über ein mobiles Telefon. Für die Installation sind keine besonderen IT-Kenntnisse erforderlich.
 
-# Video
-Hier finden Sie unsere Einreichung als Video bei YouTube.
+# Das Video
+Hier finden Sie unsere Einreichung als Video bei YouTube. Im Video finden Sie noch die Vorgängerversion des Templates, wir haben das Design in einer weiteren Iteration noch optimiert. 
 {% include video.html image='Patientenorganisation-in-Arztpraxen-YouTube.jpg' video_id='9mFwJaglQBU' %}
