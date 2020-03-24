@@ -21,3 +21,7 @@ overview_data_sources:
 Die Idee dahinter ist, eine Peakboard-Box mit einem großen, handelsüblichen Monitor außerhalb der Arztpraxis ins Freie zu hängen. Bevor die Patienten die Praxis betreten, melden sie sich telefonisch in der Praxis an. Der Patient/die Patientin wird in die digitale Warteliste eingetragen und erfährt über den Monitor, wann er/sie an der Reihe ist und welches Behandlungszimmer für ihn/sie vorgesehen ist. Alternativ zum jeweiligen Namen, könnten hier auch Nummern gelistet werden, die den jeweiligen Patienten entsprechend zugeordnet werden. 
 
 Die Erfassung erfolgt über ein Webinterface. Es ist keine Internetverbindung und nur minimale Infrastruktur nötig. Für das Netzwerk ist ein WLAN ausreichend, ggf. auch über ein mobiles Telefon. Für die Installation sind keine besonderen IT-Kenntnisse erforderlich.
+
+# Video
+Hier finden Sie unsere Einreichung als Video bei YouTube.
+{% include video.html image='Patientenorganisation-in-Arztpraxen-YouTube.jpg' video_id='9mFwJaglQBU' %}
