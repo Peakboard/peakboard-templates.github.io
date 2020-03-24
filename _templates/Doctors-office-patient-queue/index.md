@@ -10,9 +10,9 @@ ref: Doctors-office-patient-queue
 category:
   - Administration
   - Empfang
-image: Patientenorganisation-in-Arztpraxis.png
-image_thumbnail: Patientenorganisation-in-Arztpraxis_thumbnail.png
-download: Patientenorganisation-in-Arztpraxis.pbmx
+image: Patientenorganisation-in-der-Arztpraxis.png
+image_thumbnail: Patientenorganisation-in-der-Arztpraxis_thumbnail.png
+download: Patientenorganisation-in-der-Arztpraxis.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
