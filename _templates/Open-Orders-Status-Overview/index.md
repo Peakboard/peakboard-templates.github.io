@@ -9,6 +9,7 @@ isDraft: false
 ref: Open-Orders-Status-Overview
 category:
   - Produktion
+  - Interaktion
   - Scripting
   - Lean Management
 image: Statusanzeige-offener-Auftraege.png
