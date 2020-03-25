@@ -4,8 +4,8 @@ title: Open Orders Status Overview
 description: 
   - This template visualizes all open production orders. Each order passes three steps&#58; bonding, sawing and welding. A signal block indicates whether the work step for the respective order has been started, is currently in progress or has already been completed. The production orders can be filtered via touch screen. The data is stored in a variable list, but can also be linked to an ERP system such as the transfer orders from SAP (table LTAK).
 lang: en
-weight: 800
-isDraft: true
+weight: 1200
+isDraft: false
 ref: Open-Orders-Status-Overview
 category:
   - Production
