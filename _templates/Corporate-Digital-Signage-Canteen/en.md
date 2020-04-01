@@ -19,36 +19,20 @@ overview_benefits:
 overview_data_sources:
 ---
 ## How it works
-In order to get an easy start into the creation of your digital signage application, we offer ready-made templates. This is a step-by-step guide on how to create your personal digital signage application with this template. A general introduction to the Peakboard Designer can be found in 'Get Started' in our Help Center. If you want to know how to connect a Peakboard Box to your designer and how to transfer a visualization, please read the following article. To create a visualization you need the Peakboard Designer. It can be downloaded free of charge.
+This is a step by step guide on how to create your personal digital signage application with this template. For a general introduction to Peakboard, see the [first steps](https://peakboard.rocks/get-started). If you would like to know how to connect a Peakboard box to your designer and transfer a visualization, please read the following [article](https://peakboard.rocks/connect). To create a visualization you need the Peakboard Designer. This can be downloaded [for free](https://peakboard.rocks/designer-from-welcome-en).
 
 ### Digital Signage with individual images
-This visualization offers space for any number of images. For each image, it is possible to define individually in a table, in which time periods they should be displayed. The following formats are supported: PNG, JPG.
+Create as many images as you like and define in a table for each image individually when it should be displayed. 
+To replace the images in the template with the images you want to use, you need your own image files (PNG, JPG) in the format 1920x1080 (Only aspect ratio important, images will scale). Simply drag and drop the desired image files onto the left sidebar of the Peakboard Designer. Afterwards you will find the image files in the sidebar under 'Resources'. You can simply delete images that you do not need.
 
-### Configuration
-The template is designed in such a way that you can quickly implement your first digital signage application with little configuration effort. All you have to do is load your own images into the template, set the times and load the visualization onto your Peakboard Box.
+### Setting the variables(-list)
+After you have loaded the images into the Peakboard Designer, you can specify which image should be set as the default image, at what time which images should be displayed and for how long they are displayed.
 
-### Upload the images
-To replace the images in the template with the images you want to use, you need your own image files (PNG, JPG) in 1920x1080 format. Simply drag and drop the desired image files onto the left sidebar of the Peakboard Designer. Afterwards you will find the image files in the sidebar under 'Resources'. If you do not need the existing images of the template, you can delete them from the template.
+To set a default image, open the string variable 'defaultImage' in the left sidebar of the Peakboard Designer under Variables. In the pop-up, enter the exact name of your default image (including file extension). This default image is activated each time no other image fits in the current timebox.
 
-### Setting the variable(-list)
-After you uploaded the images into the Peakboard Designer, you can specify which image should be set as the default image, at what time which images should be displayed and for how long they should be displayed.
+Furthermore, the display periods for the images can now be defined in the variable list 'screenList'. Enter the exact image name under 'Image (String)' (incl. file extension) and then set the start time under 'visible_from (String)' and the end time under 'visible_until (String)'.
 
-To set a default image, open the string variable 'defaultImage' under Variables in the left sidebar of the Peakboard Designer. In the pop-up, enter the exact name of your default image. This default image is activated each time no other images are to be displayed.
+If you want to change the default runtime of the images (10s) with the variable 'screenDurationInSeconds (Number)'. Click on the variable and set the number of seconds under 'Value'.
 
-GIF
-
-Furthermore, the display periods for the screens can now be defined in the variable list 'screenList'. To do this, enter the exact name of the image under Image (String) and then specify the start time under visible_from (String) and the end time under visible_until (String).
-
-If you want to change the default runtime of the images (10s), you can do this with the variable ‘screenDurationInSeconds (Number)'. Click on the variable and set the number of seconds under 'Value’.
-
-### Administration via the Web Interface
-You can start the web interface directly in your browser with the URL: http://NameIhrerBox:40404 directly in your browser. You have to enter the name of your box, followed by the port :40404. The login requires the login data delivered with the box. Afterwards you will see a screenshot of your currently running visualization (1) and on the right side (2) different variable lists. Here you can now edit the texts in the variable list 'text_labels'. With the refresh button you can load a new screenshot of your visualization (3).
-
-Insert images from web interface
-
-### Setting the time format
-If you want to use a different time format than the one used in the template, double-click on 'Time (Time)' in the left sidebar of the Peakboard Designer under 'Data'. Now you can select a new format in the pop-up window under 'Format'. You can also give the time data source a new name or change the time zone if necessary.
-
-GIF 
-
-That's it, you have adapted your visualization to your needs. Now you have to upload the visualization to your Peakboard Box. To do this, go to the menu above under the tab 'Home' and select 'Manage / Upload'. In the following dialog, select your box and click on 'Upload'. Now the visualization will be uploaded to your box. After a short time the visualization should be visible on the screen connected to the Peakboard Box. If you have not yet connected your Peakboard Box, please read the following article.
+### Administration via the web interface
+Alternatively, you can also manage the runtimes via the web interface, **if you already have a box**. This web interface is a web page that you can access by clicking on 'Manage / Upload' in the 'Home' tab of the Peakboard Designer. In the dialog, select the desired box (you must have already loaded the visualization onto a box). Now click on the button 'Web Interface'. You can learn more about the web interface [here](https://help.peakboard.com/misc/de-web.html). For the login, the login data delivered with the box are required. You will then see a screenshot of your currently running visualization and the variables on the right side. Click on the desired variable and adjust the value.
