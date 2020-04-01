@@ -18,20 +18,20 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# So funktioniert’s
+## So funktioniert’s
 Um einen möglichst einfachen Einstieg in die Erstellung ihrer Digital Signage Anwendung zu bekommen, bieten wir vorgefertigte Templates an. Dies ist eine Schritt für Schritt Anleitung, wie Sie Ihre persönliche Digital Signage Anwendung mit diesem Template erstellen können. Eine generelle Einführung in den Peakboard Designer finden Sie in den ersten Schritten in unserem Help Center. Wenn Sie wissen möchten, wie Sie eine Peakboard Box mit Ihrem Designer verbinden und eine Visualisierung übertragen, lesen Sie am besten folgenden Artikel. Zum Erstellen einer Visualisierung benötigen Sie den Peakboard Designer. Dieser kann kostenfrei heruntergeladen werden.
 
-## Digital Signage mit individuellen Bildern
+### Digital Signage mit individuellen Bildern
 Diese Visualisierung bietet Platz für beliebig viele Bilder. Für jedes Bild kann in einer Tabelle individuell festgelegt werden, in welchen Zeiträumen diese angezeigt werden sollen. Unterstützt werden folgende Formate: PNG, JPG.
 
-## Konfiguration
+### Konfiguration
 Das Template ist so gestaltet, dass Sie mit einem geringen Konfigurationsaufwand Ihre erste Digital Signage Anwendung schnell umsetzen können. Sie müssen hierzu nur Ihre eigenen Bilder in die Vorlage laden, die Uhrzeiten festlegen und die Visualisierung auf Ihre Peakboard Box laden.
 
-## Hochladen der Bilder
+### Hochladen der Bilder
 Um die Bilder in der Vorlage mit denen von Ihnen gewünschten Bildern zu ersetzen, benötigen Sie eigene Bilddateien (PNG, JPG) im Format 1920x1080. Ziehen Sie einfach die gewünschten Bilddateien per Drag&Drop auf die linke Sidebar des Peakboard Designers. Anschließend finden Sie die Bilddateien in der Sidebar unter dem Punkt ‘Ressourcen’. 
 Wenn Sie die bereits vorhandenen Bilder der Vorlage nicht benötigen, können Sie diese aus der Vorlage löschen.
 
-## Einstellen der Variablen(-liste)
+### Einstellen der Variablen(-liste)
 Nachdem Sie die Bilder in den Peakboard Designer geladen haben, können Sie festlegen, welches Bild als Default-Bild eingestellt werden soll, zu welcher Uhrzeit welche Bilder angezeigt werden sollen und für wie lange diese angezeigt werden.
 
 Für das Einstellen eines Default-Bildes öffnen Sie in der linken Sidebar des Peakboard Designers unter Variables die String-Variable ‘defaultImage’. Im Pop-Up geben Sie den genauen Namen ihres Default-Bildes an. Dieses Default-Bild wird jedes mal aktiviert, wenn gerade keine anderen Bilder angezeigt werden sollen.
@@ -42,13 +42,13 @@ Weiter können nun in der Variablenliste ‘screenList’ die Anzeige-Zeiträume
 
 Sollten Sie noch die voreingestellte Laufzeit der Bilder (10s) verändern wollen, so können Sie dies mit der Variable ‘screenDurationInSeconds (Number)’ einstellen. Klicken Sie hierzu auf die Variable und legen unter ‘Value’ die Sekundenzahl fest.
 
-## Verwaltung über das Web-Interface
+### Verwaltung über das Web-Interface
 Sie können das Webinterface direkt in Ihrem Browser mit der URL: http://NameIhrerBox:40404 aufrufen. Sie müssen den Namen Ihrer Box eingeben, gefolgt vom Port :40404. Für den Login werden die mit der Box ausgelieferten Anmeldedaten benötigt. Anschließend sehen sie einen Screenshot Ihrer aktuell laufenden Visualisierung (1) und auf der rechten Seite (2) verschiedene Variablenlisten. Hier können Sie nun in der Variablenliste ‘text_labels’ die Texte bearbeiten. Mit dem Refresh-Button können Sie einen neuen Screenshot Ihrer Visualisierung laden (3).
 
 Bilder aus Web-Interface einfügen
 
 
-## Einstellen des Zeit-Formats
+### Einstellen des Zeit-Formats
 Sollten Sie ein anderes Zeitformat, als das aus der Vorlage, verwenden wollen, dann klicken Sie auf der linken Sidebar des Peakboard Designers unter ‘Data’ mit einem Doppelklick auf ‘Time (Time)’. Nun können Sie im Pop-Up-Fenster unter ‘Format’ ein neues Format auswählen. Darüber hinaus können Sie hier der Zeitdatenquelle einen neuen Namen geben oder gegebenenfalls auch die Zeitzone ändern.
 
 GIF 
