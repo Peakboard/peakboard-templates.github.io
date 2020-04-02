@@ -23,7 +23,9 @@ This is a step by step guide on how to create your personal digital signage appl
 
 ### Digital Signage with individual images
 Create as many images as you like and define in a table for each image individually when it should be displayed. 
-To replace the images in the template with the images you want to use, you need your own image files (PNG, JPG) in the format 1920x1080 (Only aspect ratio important, images will scale). Simply drag and drop the desired image files onto the left sidebar of the Peakboard Designer. Afterwards you will find the image files in the sidebar under 'Resources'. You can simply delete images that you do not need.
+To replace the images in the template with the images you want to use, you need your own image files (PNG, JPG). Simply drag and drop the desired image files onto the left sidebar of the Peakboard Designer. Afterwards you will find the image files in the sidebar under 'Resources'. You can simply delete images that you do not need.
+
+![image_live](assets/screenshot_variables_resources.png)
 
 ### Setting the variables(-list)
 After you have loaded the images into the Peakboard Designer, you can specify which image should be set as the default image, at what time which images should be displayed and for how long they are displayed.
@@ -36,3 +38,6 @@ If you want to change the default runtime of the images (10s) with the variable 
 
 ### Administration via the web interface
 Alternatively, you can also manage the runtimes via the web interface, **if you already have a box**. This web interface is a web page that you can access by clicking on 'Manage / Upload' in the 'Home' tab of the Peakboard Designer. In the dialog, select the desired box (you must have already loaded the visualization onto a box). Now click on the button 'Web Interface'. You can learn more about the web interface [here](https://help.peakboard.com/misc/de-web.html). For the login, the login data delivered with the box are required. You will then see a screenshot of your currently running visualization and the variables on the right side. Click on the desired variable and adjust the value.
+
+### Image credits
+These are the links to the images used for the background of the visualization. https://unsplash.com/ is a very interesting project which offers a lot of free usable pictures in high quality. /photos/ykThMylLsbY, /photos/H5Hj8QV2Tx4, /photos/uVPV_nV17Tw, /photos/MqT0asuoIcU, /photos/5KS7T3Gs3CA, /photos/9J7sHieVFi0, /photos/8Nc_oQsc2qQ.

@@ -23,7 +23,9 @@ Dies ist eine Schritt für Schritt Anleitung, wie Sie Ihre persönliche Digital 
 
 ### Digital Signage mit individuellen Bildern
 Erstellen Sie beliebig viele Bilder und legen Sie in einer Tabelle für jedes Bild individuell fest, wann es angezeigt werden soll. 
-Um die Bilder in der Vorlage mit denen von Ihnen gewünschten Bildern zu ersetzen, benötigen Sie eigene Bilddateien (PNG, JPG) im Format 1920x1080 (Nur Seitenverhältnis wichtig, Bilder werden skaliert). Ziehen Sie einfach die gewünschten Bilddateien per Drag&Drop auf die linke Sidebar des Peakboard Designers. Anschließend finden Sie die Bilddateien in der Sidebar unter dem Punkt ‘Ressourcen’. Bilder die Sie nicht benötigen, können Sie einfach löschen.
+Um die Bilder in der Vorlage mit denen von Ihnen gewünschten Bildern zu ersetzen, benötigen Sie eigene Bilddateien (PNG, JPG). Ziehen Sie einfach die gewünschten Bilddateien per Drag&Drop auf die linke Sidebar des Peakboard Designers. Anschließend finden Sie die Bilddateien in der Sidebar unter dem Punkt ‘Ressourcen’. Bilder die Sie nicht benötigen, können Sie einfach löschen.
+
+![image_live](assets/screenshot_variables_resources.png)
 
 ### Einstellen der Variablen(-liste)
 Nachdem Sie die Bilder in den Peakboard Designer geladen haben, können Sie festlegen, welches Bild als Default-Bild eingestellt werden soll, zu welcher Uhrzeit welche Bilder angezeigt werden sollen und für wie lange diese angezeigt werden.
@@ -36,3 +38,6 @@ Sollten Sie noch die voreingestellte Laufzeit der Bilder (10s) verändern wollen
 
 ### Verwaltung über das Web-Interface
 Alternativ können Sie die Laufzeiten auch über das Webinterface verwalten, **wenn Sie bereits eine Box besitzen**. Dieses Webinterface ist eine Webseite, welche Sie aufrufen können, indem Sie im Peakboard Designer im 'Startseite' Tab auf 'Verwalten / Hochladen' klicken. Im Dialog wählen Sie die gewünschte Box aus (Sie müssen die Visualisierung bereits auf eine Box geladen haben). Klicken Sie nun auf den Button 'Webinterface'. Mehr über das Webinterface können Sie [hier](https://peakboard.rocks/webinterface) erfahren. Für den Login werden die mit der Box ausgelieferten Anmeldedaten benötigt. Anschließend sehen sie einen Screenshot Ihrer aktuell laufenden Visualisierung und auf der rechten Seite die Variablen. Klicken Sie die gewünschte Variable an und passen sie den Wert an.
+
+### Bildnachweis
+Dies sind die Links zu den Bildern welche für den Hintergrund der Visualisierung verwendet wurden. https://unsplash.com/ ist ein sehr interessantes Projekt, welches eine Vielzahl frei verwendbarer Bilder in hoher Qualität bietet. /photos/ykThMylLsbY, /photos/H5Hj8QV2Tx4, /photos/uVPV_nV17Tw, /photos/MqT0asuoIcU, /photos/5KS7T3Gs3CA, /photos/9J7sHieVFi0, /photos/8Nc_oQsc2qQ.
