@@ -31,7 +31,7 @@ collections:
 language:
   en:
     article-download-button-text: "Download template"
-    article-download-explanation: "Open this file with the Peakboard Designer"
+    article-download-explanation: "Open file with Peakboard Designer"
     article-overview-title: "Overview"
     article-overview-description-title: "Description"
     article-overview-benefits-title: "Benefits"
@@ -76,7 +76,7 @@ language:
     cta-link-text: "Download the Peakboard Designer for free"
   de:
     article-download-button-text: "Template herunterladen"
-    article-download-explanation: "Datei kann mit dem Peakboard Designer geöffnet werden"
+    article-download-explanation: "Datei mit Peakboard Designer öffnen"
     article-overview-title: "Overview"
     article-overview-description-title: "Description"
     article-overview-benefits-title: "Benefits"
@@ -121,7 +121,7 @@ language:
     cta-link-text: "Peakboard Designer kostenlos herunterladen"
   cn:
     article-download-button-text: "下载模板"
-    article-download-explanation: "Open this file with the Peakboard Designer"
+    article-download-explanation: "Open file with Peakboard Designer"
     article-overview-title: "Overview"
     article-overview-description-title: "Description"
     article-overview-benefits-title: "Benefits"
