@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Corporate Digital Signage for the canteen or the gastronomy
+title: Corporate Digital Signage for your canteen or gastronomy
 description: 
-  - This template is an example how you can create a digital signage application with images. For the example, images like weekly schedules, offers and menus from the gastronomy sector were used. You only have to load your digitalized menus into our template and then you can define in a table at which times which image should be displayed. You can also control the administration, modification and insertion of images and times via the web interface (API) or the app. So you can make adjustments to your visualization at any time.
+  - This template is an example of how you can create a digital signage application using your individual images in order to create weekly schedules, offers or menus from the gastronomy sector. Simply load your digitalized menus into our template and define which image will be displayed at which times. Your images and display times can be easily modified via the web interface (API) or the Peakboard App.
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Corporate-Digital-Signage-Canteen
 category:
   - Administration
@@ -18,23 +18,23 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-## How it works
-This is a step by step guide on how to create your personal digital signage application with this template. For a general introduction to Peakboard, see the [first steps](https://peakboard.rocks/get-started). If you would like to know how to connect a Peakboard box to your designer and transfer a visualization, please read the following [article](https://peakboard.rocks/connect). To create a visualization you need the Peakboard Designer. This can be downloaded [for free](https://peakboard.com/en/peakboard-designer/?utm_source=templates_overview&utm_medium=description_link&utm_campaign=templates).
+## How it's done
+This is a step by step guide on how to create your personal digital signage application using this template. For a general introduction to Peakboard, see the [first steps](https://peakboard.rocks/get-started). If you would like to know how to connect a Peakboard Box to your Peakboard Designer and transfer a visualization, please read the following [article](https://peakboard.rocks/connect). To create a visualization you will need the Peakboard Designer, which can be downloaded [for free](https://peakboard.com/en/peakboard-designer/?utm_source=templates_overview&utm_medium=description_link&utm_campaign=templates).
 
 ### Digital Signage with individual images
-To replace the images in the template with the images you want to use, you need your own image files (PNG, JPG). Simply drag and drop the desired image files onto the left sidebar of the Peakboard Designer. Afterwards you will find the image files in the sidebar under 'Resources'. You can simply delete images that you do not need.
+In order to replace the predefined images in the template with your own images, simply drag your file of choice (PNG, JPG) onto the left sidebar of the Peakboard Designer. Your image files will be saved under 'Resources'. You can simply delete any images that you do not need.
 
 ![image_live](assets/screenshot_variables_resources.png)
 
 ### Setting the variables
-You can manage the visualization using the variables in the left sidebar of the Peakboard Designer. In the variable list 'screenList' you can define the display periods for each image. Enter the exact image name (incl. file extension) under 'Image (String)' and then define the start time under 'visible_from (String)' and the end time under 'visible_until (String)'.
+You can manage the visualization using the variables in the left sidebar of the Peakboard Designer. In the variable list 'screenList' you can define the display periods for each image. Enter the exact file name (incl. file extension) under 'Image (String)' and then define the start time under 'visible_from (String)' and the end time under 'visible_until (String)'.
 
-Use the string variable 'defaultImage' to set a default image. This image is displayed if no other image is defined in the 'screenList' for the current time. Enter the exact name of your default image in the pop-up (including file extension).
+Use the string variable 'defaultImage' and enter the exact name of your default image in the pop-up (including file extension). This image is displayed if no other image is defined in the 'screenList' for the current time.
 
-If you want to change the default runtime of the images (10s), you can do so with the variable 'screenDurationInSeconds (Number)'. Click on the variable and set the number of seconds under 'Value'.
+Click on the variable 'screenDurationInSeconds (Number)' and set the number of seconds under 'Value' to change the default runtime of your images. 
 
 ### Administration via the web interface
-Alternatively, you can also manage the runtimes via the web interface, **if you already have a box**. This web interface is a web page that you can access by clicking on 'Manage / Upload' in the 'Home' tab of the Peakboard Designer. In the dialog, select the desired box (you must have already loaded the visualization onto a box). Now click on the button 'Web Interface'. You can learn more about the web interface [here](https://help.peakboard.com/misc/de-web.html). For the login, the login data delivered with the box are required. You will then see a screenshot of your currently running visualization and the variables on the right side. Click on the desired variable and adjust the value.
+If you already own a Peakboard Box, you can also manage the runtime via the web interface, which you can acces by clicking on 'Manage / Upload' in the 'Home' tab of the Peakboard Designer. In the dialog, select the desired box (you must have already loaded the visualization onto a Peakboard Box). Now click on the button 'Web Interface'. Learn more about the web interface [here](https://help.peakboard.com/misc/de-web.html). In order to login, the data delivered with the Peakboard Box are required. After log in, you will see your visualization and the variables on the right side. Simply click on the desired variable and adjust the value as desired.
 
 ### Image credits
-These are the links to the images used for the background of the visualization. https://unsplash.com/ is a very interesting project which offers a lot of free usable pictures in high quality. /photos/ykThMylLsbY, /photos/H5Hj8QV2Tx4, /photos/uVPV_nV17Tw, /photos/MqT0asuoIcU, /photos/5KS7T3Gs3CA, /photos/9J7sHieVFi0, /photos/8Nc_oQsc2qQ.
+Download a variety of high quality stockphotos on https://unsplash.com/. Images used: /photos/ykThMylLsbY, /photos/H5Hj8QV2Tx4, /photos/uVPV_nV17Tw, /photos/MqT0asuoIcU, /photos/5KS7T3Gs3CA, /photos/9J7sHieVFi0, /photos/8Nc_oQsc2qQ.
