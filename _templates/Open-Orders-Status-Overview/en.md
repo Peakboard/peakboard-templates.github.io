@@ -10,7 +10,6 @@ ref: Open-Orders-Status-Overview
 category:
   - Production
   - Interaction
-  - Scripting
   - Lean Management
 image: Open-Orders-Status-Overview.png
 image_thumbnail: Open-Orders-Status-Overview_thumbnail.png

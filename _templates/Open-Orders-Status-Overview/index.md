@@ -10,7 +10,6 @@ ref: Open-Orders-Status-Overview
 category:
   - Produktion
   - Interaktion
-  - Scripting
   - Lean Management
 image: Statusanzeige-offener-Auftraege.png
 image_thumbnail: Statusanzeige-offener-Auftraege_thumbnail.png
