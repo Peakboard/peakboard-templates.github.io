@@ -12,8 +12,8 @@ category:
   - Lean Management
   - Prozess
   - Produktion
-image: Detailed-Overview-Production-Line.png
-image_thumbnail: Detailed-Overview-Production-Line_thumbnail.png
+image: Detaillierte-Uebersicht-Produktionslinie.png
+image_thumbnail: Detaillierte-Uebersicht-Produktionslinie_thumbnail.png
 download: Detaillierte-Uebersicht-Produktionslinie.pbmx
 overview_description:
 overview_benefits:
