@@ -12,7 +12,6 @@ category:
   - Production
   - Andon
   - OEE
-  - KPI
 image: Forcam-Andon-Board.png
 image_thumbnail: Forcam-Andon-Board.png
 download: Forcam-Andon-Board.pbmx
