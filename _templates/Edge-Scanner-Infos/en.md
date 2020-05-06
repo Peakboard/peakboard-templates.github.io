@@ -10,9 +10,9 @@ ref: Edge-Scanner-Info
 category:
   - Edge
   - Interaction
-image: Strategic-Logistics-Board.png
-image_thumbnail: Strategic-Logistics-Board_thumbnail.png
-download: Strategic-Logistics-Board.pbmx
+image: Edge-Scanner-Infos.png
+image_thumbnail: Edge-Scanner-Infos_thumbnail.png
+download: Edge-Scanner-Infos.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

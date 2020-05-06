@@ -10,9 +10,9 @@ ref: Edge-Scanner-Info
 category:
   - Edge
   - Interaktion
-image: Strategisches-Logistik-Dashboard.png
-image_thumbnail: Strategisches-Logistik-Dashboard_thumbnail.png
-download: Strategisches-Logistik-Dashboard.pbmx
+image: Edge-Scanner-Infos.png
+image_thumbnail: Edge-Scanner-Infos_thumbnail.png
+download: Edge-Scanner-Infos.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
