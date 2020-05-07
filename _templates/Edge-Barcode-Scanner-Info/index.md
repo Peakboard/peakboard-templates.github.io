@@ -10,9 +10,9 @@ ref: Edge-Barcode-Scanner-Info
 category:
   - Interaktion
   - Edge
-image: Edge-Barcode-Scanner-Info.png
-image_thumbnail: Edge-Barcode-Scanner-Info_thumbnail.png
-download: Edge-Barcode-Scanner-Info.pbmx
+image: Edge-Strichcode-Scanner-Metainformationen.png
+image_thumbnail: Edge-Strichcode-Scanner-Metainformationen_thumbnail.png
+download: Edge-Strichcode-Scanner-Metainformationen.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
