@@ -19,4 +19,4 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-Dieses Template können Sie auch ohn Peakboard Edge verwenden. Folgen Sie einfach diesem Link zum [Template](https://templates.peakboard.com/Truck-Assignment-Dashboard/index).
+Dieses Template können Sie auch ohne Peakboard Edge verwenden. Folgen Sie einfach diesem Link zum [Template](https://templates.peakboard.com/Truck-Assignment-Dashboard/index).
