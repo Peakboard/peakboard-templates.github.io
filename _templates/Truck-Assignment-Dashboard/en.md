@@ -18,3 +18,4 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+You can find the same template with usage of Peakboard Edge [here](https://templates.peakboard.com/Truck-Assignment-Dashboard-with-Edge/en).
