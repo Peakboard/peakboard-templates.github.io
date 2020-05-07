@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Edge Status Overview
+title: Overview of the status of workstations with Peakboard Edge
 description: 
-  - This shopfloor ...
+  - Overview of the status of up to 18 workstations. Each workstation can report its status using Peakboard Edge. Green means everything is ok, blue means scheduled break and red means there is a problem at this workstation.
 lang: en
 weight: 2000
 isDraft: true
