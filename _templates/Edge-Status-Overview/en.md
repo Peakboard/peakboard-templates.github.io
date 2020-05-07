@@ -10,9 +10,9 @@ ref: Edge-Status-Overview
 category:
   - Edge
   - Interaction
-image: Strategic-Logistics-Board.png
-image_thumbnail: Strategic-Logistics-Board_thumbnail.png
-download: Strategic-Logistics-Board.pbmx
+image: Edge-Status-Overview.png
+image_thumbnail: Edge-Status-Overview_thumbnail.png
+download: Edge-Status-Overview.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
