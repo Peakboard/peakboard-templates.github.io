@@ -21,7 +21,7 @@ overview_data_sources:
 ---
 # So funktionierts
 
-![image_live](Wedge-use-case-logistics.gif)
+![image_live](edge-use-case-logistics.gif)
 
 
 Dieses Template können Sie auch ohne Peakboard Edge verwenden. Folgen Sie einfach diesem Link zum [Template](https://templates.peakboard.com/Truck-Assignment-Dashboard/index).
