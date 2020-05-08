@@ -19,7 +19,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# So funktionierts
+# So funktioniert’s
 
 ![image_live](edge-use-case-logistics.gif)
 
