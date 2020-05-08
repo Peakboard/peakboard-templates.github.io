@@ -5,7 +5,7 @@ description:
   - Übersicht über den Status von bis zu 18 Arbeitsplätzen. Jeder Arbeitsplatz kann seinen Status mit Hilfe von Peakboard Edge melden. Grün bedeutet alles ist in Ordnung, Blau bedeutet geplante Pause und Rot bedeutet es gibt an diesem Arbeitsplatz ein Problem.
 lang: de
 weight: 2000
-isDraft: false
+isDraft: true
 ref: Edge-Status-Overview
 category:
   - Edge
