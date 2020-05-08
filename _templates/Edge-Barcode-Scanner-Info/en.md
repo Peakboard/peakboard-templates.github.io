@@ -17,3 +17,6 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# How it works
+
+![image_live](edge-use-case-scanner-logistics.gif)
