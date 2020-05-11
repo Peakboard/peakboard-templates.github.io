@@ -11,8 +11,8 @@ category:
   - Andon
   - Production
   - Logistics
-image: Andon-Single-Station-Overview.png
-image_thumbnail: Andon-Single-Station-Overview_thumbnail.png
+image: Andon-Single-Station-Overview_CN.png
+image_thumbnail: Andon-Single-Station-Overview_CN_thumbnail.png
 download: Andon-Single-Station-Overview_CN.pbmx
 overview_description:
 overview_benefits:
