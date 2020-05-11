@@ -6,7 +6,7 @@ description:
 lang: de
 weight: 2000
 isDraft: true
-ref: Shopfloor-Cross
+ref: Shopfloor-Information-Safety-Cross
 category:
   - Shopfloor
 image: Strategisches-Logistik-Dashboard.png

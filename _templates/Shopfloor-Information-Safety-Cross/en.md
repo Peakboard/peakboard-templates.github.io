@@ -1,12 +1,12 @@
 ---
 layout: article
-title: Shopfloor Cross
+title: Shopfloor Information with Safety Cross
 description: 
   - This shopfloor ...
 lang: en
 weight: 2000
 isDraft: true
-ref: Shopfloor-Cross
+ref: Shopfloor-Information-Safety-Cross
 category:
   - Shopfloor
 image: Strategic-Logistics-Board.png
