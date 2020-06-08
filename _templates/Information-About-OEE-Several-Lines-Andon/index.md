@@ -2,7 +2,7 @@
 layout: article
 title: Informationen über GAE Werte zu mehreren Produktionslinien mit Andon
 description: 
-  - Diese Vorlage ermöglicht die Visualisierung von drei Produktionslinien. Dargestellt werden der aktuelle Auftrag eines Kunden, die Gesamtanlageneffektivität (GAE), sowie die Status der einzelnen Stationen einer jeden Linie. Mit Hilfe des Ampelfarbschemas (Andon) wird auf einen Blick erkennbar, wo aktuell ein Problem besteht, sodass schnell eingegriffen und dieses behoben werden kann.
+  - Diese Vorlage ermöglicht die Visualisierung von drei Produktionslinien. Dargestellt werden der aktuelle Auftrag eines Kunden, die Gesamtanlageneffektivität (GAE), sowie der Status der einzelnen Stationen einer jeden Linie. Mit Hilfe des Ampelfarbschemas (Andon) wird auf einen Blick erkennbar, wo aktuell ein Problem besteht, sodass schnell eingegriffen und dieses behoben werden kann.
 lang: de
 weight: 3000
 isDraft: false
