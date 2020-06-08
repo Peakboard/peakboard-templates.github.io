@@ -5,13 +5,13 @@ description:
   - 多达18个工作站的状态总览。每一工作站都可以使用Peakboard Edge设备报告其状态。绿色代表“工作正常”，蓝色为“按计划下线”，而红色则意味着该工作站出现问题。
 lang: cn
 weight: 2000
-isDraft: true
+isDraft: false
 ref: Edge-Status-Overview
 category:
   - Edge
   - Interaction
-image: Edge-Status-Overview.png
-image_thumbnail: Edge-Status-Overview_thumbnail.png
+image: Edge-Status-Overview_CN.png
+image_thumbnail: Edge-Status-Overview_CN_thumbnail.png
 download: Edge-Status-Overview_CN.pbmx
 overview_description:
 overview_benefits:
