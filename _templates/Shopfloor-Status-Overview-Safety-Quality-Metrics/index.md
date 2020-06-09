@@ -11,9 +11,9 @@ category:
   - Shopfloor
   - Lean Management
   - Produktion
-image: Shopfloor-Information-Safety-Cross.png
-image_thumbnail: Shopfloor-Information-Safety-Cross_thumbnail.png
-download: Shopfloor-Information-Safety-Cross.pbmx
+image: Shopfloor-Status-Overview-Safety-Quality-Metrics.png
+image_thumbnail: Shopfloor-Status-Overview-Safety-Quality-Metrics_thumbnail.png
+download: Shopfloor-Status-Overview-Safety-Quality-Metrics.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
