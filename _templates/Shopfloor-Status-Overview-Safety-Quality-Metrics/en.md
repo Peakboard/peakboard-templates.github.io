@@ -18,3 +18,11 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# Alternative States
+
+Everthing fine:
+![image_live](Shopfloor-Status-Overview-Safety-Quality-Metrics-OK.png)
+
+
+Error occured:
+![image_live](Shopfloor-Status-Overview-Safety-Quality-Metrics-Error.png)

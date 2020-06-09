@@ -18,3 +18,11 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# Weitere Zustände
+
+Alles funktionert, kein Problem in der Produktionslinie:
+![image_live](Shopfloor-Status-Overview-Safety-Quality-Metrics-OK.png)
+
+
+Ein Fehler ist aufgetreten:
+![image_live](Shopfloor-Status-Overview-Safety-Quality-Metrics-Error.png)
