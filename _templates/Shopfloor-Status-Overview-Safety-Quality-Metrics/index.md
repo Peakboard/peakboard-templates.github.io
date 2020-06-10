@@ -2,9 +2,9 @@
 layout: article
 title: Statusübersicht einer Produktionslinie auf dem Shopfloor mit Sicherheits- und Qualitätskennzahlen
 description: 
-  - Dieses Template zeigt den Gesamtstatus einer Produktionslinie aus der Vogelperspektive, gleichzeitig können Informationen über den aktuellen Auftragsstatus erkannt werden. Auch die größten aktuellen Probleme und Aufgaben können  überblickt werden. Ergänzend gibt es noch weitere nützliche Informationen über das erreichte Qualitätsniveau des aktuellen Monats und Kennzahlen zur Sicherheit innerhalb einer Sicherheitskreuz. Die Kombination all dieser Informationen bietet auf dem Shopfloor eine einfache Übersicht der wichtigsten Informationen.
+  - Dieses Template zeigt den Gesamtstatus einer Produktionslinie aus der Vogelperspektive, sowie Informationen über den aktuellen Auftragsstatus. Auch aktuelle Probleme und zu erledigende Aufgaben können direkt abgelesen werden. Ergänzend finden sich hier nützliche Informationen über das erreichte Qualitätsniveau des aktuellen Monats und Kennzahlen zur Sicherheit, dargestellt als Sicherheitskreuz. Die Kombination dieser Elemente bietet auf dem Shopfloor eine einfache Übersicht über relevante Informationen.
 lang: de
-weight: 2000
+weight: 2500
 isDraft: true
 ref: Shopfloor-Status-Overview-Safety-Quality-Metrics
 category:
@@ -20,7 +20,7 @@ overview_data_sources:
 ---
 # Weitere Zustände
 
-Alles funktionert, kein Problem in der Produktionslinie:
+Reibungslose Produktion, keine Fehlermeldung in der Produktionslinie:
 ![image_live](Shopfloor-Status-Overview-Safety-Quality-Metrics-OK.png)
 
 

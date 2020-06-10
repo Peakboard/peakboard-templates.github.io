@@ -1,10 +1,10 @@
 ---
 layout: article
-title: Shopfloor Status Overview with Safety and Quality Metrics
+title: Shopfloor Status Overview including Safety and Quality Metrics
 description: 
-  - This template shows the overall status of a production line from a bird's eye view, and at the same time information about the current order status can be recognized. Even the biggest current problems and tasks can be viewed. In addition, there is further useful information about the achieved quality level of the current month and key figures about safety within a safety cross. The combination of all this information provides a simple overview of the most important information on the shop floor.
+  - This template gives an overview of the status of a production line from a bird's eye view. Additionally, information about the current order status, as well as occurring problems and open tasks can be seen. Furthermore, key figures regarding safety and useful information about the achieved level of quality are displayed in the shape of a cross and a Q. The combination of different types of relevant information on this template, offers an effective overview of the shop floor.
 lang: en
-weight: 2000
+weight: 2500
 isDraft: true
 ref: Shopfloor-Status-Overview-Safety-Quality-Metrics
 category:
@@ -20,9 +20,9 @@ overview_data_sources:
 ---
 # Alternative States
 
-Everthing fine:
+Shop floor operating smoothly:
 ![image_live](Shopfloor-Status-Overview-Safety-Quality-Metrics-OK.png)
 
 
-Error occured:
+Error occurred:
 ![image_live](Shopfloor-Status-Overview-Safety-Quality-Metrics-Error.png)
