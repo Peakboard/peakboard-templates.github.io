@@ -12,6 +12,7 @@ category:
   - Lean Management
   - OEE
   - Serial Production
+  - Shopfloor
 image: Overview-Production-Line.png
 image_thumbnail: Overview-Production-Line_thumbnail.png
 download: Overview-Production-Line.pbmx

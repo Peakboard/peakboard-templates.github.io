@@ -14,6 +14,7 @@ category:
   - Car
   - Warning
   - Error
+  - Shopfloor
 image: Overview-Of-Single-Production-Line.png
 image_thumbnail: Overview-Of-Single-Production-Line_thumbnail.png
 download: Overview-Of-Single-Production-Line.pbmx

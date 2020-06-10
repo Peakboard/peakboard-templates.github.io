@@ -14,6 +14,7 @@ category:
   - Produktion
   - OEE / GAE
   - KPI
+  - Shopfloor
 image: Produktionslinienueberblick-Mit-Andon-Anzeigen.png
 image_thumbnail: Produktionslinienueberblick-Mit-Andon-Anzeigen_thumbnail.png
 download: Produktionslinienueberblick-Mit-Andon-Anzeigen.pbmx

@@ -12,6 +12,7 @@ category:
   - Serial Production
   - OEE
   - Lean Management
+  - Shopfloor
 image: Overview-Production-Line-Status-And-Quality.png
 image_thumbnail: Overview-Production-Line-Status-And-Quality_thumbnail.png
 download: Overview-Production-Line-Status-And-Quality.pbmx

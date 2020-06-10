@@ -12,6 +12,7 @@ category:
   - Serienfertigung
   - OEE / GAE
   - Lean Management
+  - Shopfloor
 image: Uebersicht-Produktionslinie-Status-Qualitaet.png
 image_thumbnail: Uebersicht-Produktionslinie-Status-Qualitaet_thumbnail.png
 download: Uebersicht-Produktionslinie-Status-Qualitaet.pbmx

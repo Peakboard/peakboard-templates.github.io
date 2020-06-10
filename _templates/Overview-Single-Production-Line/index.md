@@ -12,6 +12,7 @@ category:
   - Empfohlen
   - Produktion
   - OEE / GAE
+  - Shopfloor
 image: Uebersicht-Ueber-Einzelne-Produktionslinie.png
 image_thumbnail: Uebersicht-Ueber-Einzelne-Produktionslinie_thumbnail.png
 download: Uebersicht-Ueber-Einzelne-Produktionslinie.pbmx

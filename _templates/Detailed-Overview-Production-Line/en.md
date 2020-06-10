@@ -12,6 +12,7 @@ category:
   - Lean Management
   - Process
   - Production
+  - Shopfloor
 image: Detailed-Overview-Production-Line.png
 image_thumbnail: Detailed-Overview-Production-Line_thumbnail.png
 download: Detailed-Overview-Production-Line.pbmx

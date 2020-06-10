@@ -12,6 +12,7 @@ category:
   - Lean Management
   - OEE / GAE
   - Serienfertigung
+  - Shopfloor
 image: Uebersicht-Ueber-Fertigungslinie.png
 image_thumbnail: Uebersicht-Ueber-Fertigungslinie_thumbnail.png
 download: Uebersicht-Ueber-Fertigungslinie.pbmx
