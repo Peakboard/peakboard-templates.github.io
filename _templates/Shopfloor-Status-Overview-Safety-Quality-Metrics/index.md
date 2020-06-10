@@ -21,7 +21,7 @@ overview_data_sources:
 # Weitere Zustände
 
 Ein Problem ist aufgetreten, es wird eine Warnung angezeigt:
-![image_live](Shopfloor-Statusuebersicht-Sicherheit-Qualitaet-Warnung)
+![image_live](Shopfloor-Statusuebersicht-Sicherheit-Qualitaet-Warnung.png)
 
 
 Ein Fehler ist aufgetreten:
