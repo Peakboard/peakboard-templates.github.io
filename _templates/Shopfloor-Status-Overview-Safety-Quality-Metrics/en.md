@@ -20,7 +20,7 @@ overview_data_sources:
 ---
 # Alternative States
 
-A warning occurred:
+A problem occurred, warning is displayed:
 ![image_live](Shopfloor-Status-Overview-Safety-Quality-Metrics-Warning.png)
 
 
