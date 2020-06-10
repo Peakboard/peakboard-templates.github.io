@@ -20,8 +20,8 @@ overview_data_sources:
 ---
 # Alternative States
 
-Shop floor operating smoothly:
-![image_live](Shopfloor-Status-Overview-Safety-Quality-Metrics-OK.png)
+A warning occurred:
+![image_live](Shopfloor-Status-Overview-Safety-Quality-Metrics-Warning.png)
 
 
 Error occurred:

@@ -20,8 +20,8 @@ overview_data_sources:
 ---
 # Weitere Zustände
 
-Reibungslose Produktion, keine Fehlermeldung in der Produktionslinie:
-![image_live](Shopfloor-Statusuebersicht-Sicherheit-Qualitaet-OK.png)
+Ein Problem ist aufgetreten, es wird eine Warnung angezeigt:
+![image_live](Shopfloor-Statusuebersicht-Sicherheit-Qualitaet-Warnung)
 
 
 Ein Fehler ist aufgetreten:
