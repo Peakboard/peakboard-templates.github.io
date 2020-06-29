@@ -17,5 +17,5 @@ image_thumbnail: Warning-Message-In-Logistics_CN_thumbnail.png
 download: Warning-Message-In-Logistics_CN.pbmx
 overview_description:
 overview_benefits:
- overview_data_sources:
+overview_data_sources:
 ---
