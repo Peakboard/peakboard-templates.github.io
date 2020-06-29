@@ -1,16 +1,18 @@
 ---
 layout: article
-title: Production Lines Hall Overview
+title: Overview of two production lines in a hall
 description: 
   - This template contains the status of two production lines in one hall. It shows the number of pieces already produced and how many parts are missing for the target quantity. In addition, the quality is indicated by displaying the number of misproduction.
-lang: cn
-weight: 500
+lang: en
+weight: 1000
 isDraft: true
-ref: Production_Lines
+ref: Production-Lines-Status-Quality
 category:
   - Production
-image: Production_Lines_CN.png
-download: Production_Lines_CN.pbmx
+  - Shopfloor
+image: Production-Lines-Status-Quality.png
+image_thumbnail: Production-Lines-Status-Quality_thumbnail.png
+download: Production-Lines-Status-Quality.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
