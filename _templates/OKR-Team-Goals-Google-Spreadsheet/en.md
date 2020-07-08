@@ -18,3 +18,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# To Use With Google Spreadsheet
+
+If you want to use Google Spreadsheet as a datasource you just have to update the 'OKR_Spreadsheet' data source within the explorer and authorize your account. You'll need a Spreadsheet with the same structure as the variable list 'OKR_Values'. Finally you have to select the Tile View on the canvas and change the data source from the dataflow 'Dataflow_OKRs' to 'Dataflow_OKRs_w_Spreadsheet':
+![image_live](img/use-spreadsheet-en.png)

@@ -18,3 +18,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# Mit Google Spreadsheet verwenden
+
+Wenn Sie Google Spreadsheet als Datenquelle verwenden möchten, müssen Sie nur die Datenquelle 'OKR_Spreadsheet' im Explorer aktualisieren und mit Ihrem Google Konto autorisieren. Sie benötigen ein Spreadsheet mit der gleichen Struktur wie die Variablenliste 'OKR_Values'. Zuletzt müssen Sie die Tiile View auf dem Canvas auswählen und die Datenquelle vom Dataflow 'Dataflow_OKRs' in 'Dataflow_OKRs_w_Spreadsheet' ändern:
+![image_live](img/use-spreadsheet-de.png)
