@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Instant Overview about the Process Status with SQL Database Connection
+title: Simple status display of several production lines with SQL database connection
 description: 
-  - Keep track of your production lines with this template. This cockpit dashboard is based on a SQL-database and gives the responsible shift supervisor an overview of all production lines. You can see instantly in which phase every single line is.
+  - This cockpit dashboard is based on an SQL database and provides a practical overview of several production lines. It also shows the individual work steps of each production line, as well as the progress of the individual work steps.
 lang: en
 weight: 1000
 isDraft: true
