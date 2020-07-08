@@ -9,6 +9,7 @@ isDraft: false
 ref: Simple-Status-Display-Several-Lines-SQL
 category:
   - Production
+  - Lean Management
 image: Simple-Status-Display-Several-Lines-SQL.png
 image_thumbnail: Simple-Status-Display-Several-Lines-SQL_thumbnail.png
 download: Simple-Status-Display-Several-Lines-SQL.pbmx
