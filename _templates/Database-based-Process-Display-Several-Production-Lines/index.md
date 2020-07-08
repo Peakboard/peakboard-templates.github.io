@@ -6,7 +6,7 @@ description:
 lang: de
 weight: 1900
 isDraft: false
-ref: Database-based-Process-Display-Several-Production-Lines
+ref: Simple-Status-Display-Several-Lines-SQL
 category:
   - Produktion
 image: Uebersichtliche-Statusanzeige-mit-SQL.png

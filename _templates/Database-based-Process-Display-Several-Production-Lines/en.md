@@ -6,12 +6,12 @@ description:
 lang: en
 weight: 1900
 isDraft: false
-ref: Database-based-Process-Display-Several-Production-Lines
+ref: Simple-Status-Display-Several-Lines-SQL
 category:
   - Production
-image: Database-based-Process-Display-Several-Production-Lines.png
-image_thumbnail: Database-based-Process-Display-Several-Production-Lines_thumbnail.png
-download: Database-based-Process-Display-Several-Production-Lines.pbmx
+image: Simple-Status-Display-Several-Lines-SQL.png
+image_thumbnail: Simple-Status-Display-Several-Lines-SQL_thumbnail.png
+download: Simple-Status-Display-Several-Lines-SQL.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
