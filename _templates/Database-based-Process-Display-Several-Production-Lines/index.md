@@ -9,9 +9,9 @@ isDraft: true
 ref: Database-based-Process-Display-Several-Production-Lines
 category:
   - Produktion
-image: Database-based-Process-Display-Several-Production-Lines.png
-image_thumbnail: Database-based-Process-Display-Several-Production-Lines_thumbnail.png
-download: Database-based-Process-Display-Several-Production-Lines.pbmx
+image: Uebersichtliche-Statusanzeige-mit-SQL.png
+image_thumbnail: Uebersichtliche-Statusanzeige-mit-SQL_thumbnail.png
+download: Uebersichtliche-Statusanzeige-mit-SQL.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
