@@ -2,14 +2,18 @@
 layout: article
 title: Production Overview Done Parts
 description: 
-  - This template shows an overview of how many parts have already been produced and compares them to the quantity applied. In addition, the OEE value is displayed, a few metadata about the order and possibly the downtime.
+  - This template offers an overview of how many parts have already been produced and compares them with the order quantity. In addition, the OEE value is displayed, some meta information about the order and possibly downtime.
 lang: cn
-weight: 500
+weight: 1000
 isDraft: true
-ref: Production_Done_Overview
+ref: Production-Overview-Done-Parts_CN
 category:
-image: Production_Done_Overview_DE.png
-download: Production_Done_Overview_DE.pbmx
+  - Production
+  - Lean Management
+  - OEE
+image: Production-Overview-Done-Parts_CN.png
+image_thumbnail: Production-Overview-Done-Parts_CN_thumbnail.png
+download: Production-Overview-Done-Parts_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
