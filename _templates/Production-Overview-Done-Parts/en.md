@@ -6,14 +6,14 @@ description:
 lang: en
 weight: 1000
 isDraft: true
-ref: Production-Overview-Done-Parts
+ref: Production-Overview-Completed-Parts
 category:
   - Production
   - Lean Management
   - OEE
-image: Production-Overview-Done-Parts.png
-image_thumbnail: Production-Overview-Done-Parts_thumbnail.png
-download: Production-Overview-Done-Parts.pbmx
+image: Production-Overview-Completed-Parts.png
+image_thumbnail: Production-Overview-Completed-Parts_thumbnail.png
+download: Production-Overview-Completed-Parts.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
