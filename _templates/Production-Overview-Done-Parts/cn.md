@@ -6,7 +6,7 @@ description:
 lang: cn
 weight: 1000
 isDraft: true
-ref: Production-Overview-Done-Parts_CN
+ref: Production-Overview-Done-Parts
 category:
   - Production
   - Lean Management
