@@ -5,7 +5,7 @@ description:
   - This template contains the status of two production lines in one hall. It shows the number of pieces already produced and how many parts are missing for the target quantity. In addition, the quality is indicated by displaying the number of misproduction.
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Production-Lines-Status-Quality
 category:
   - Production

@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt die wichtigsten Kennzahlen mehrerer Produktionshallen auf einen Blick. Es beinhaltet Informationen, wie den Status der einzelnen Linien sowie Metainformationen zu den aktuellen Aufträgen.
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Overview-Multiple-Halls
 category:
   - Produktion

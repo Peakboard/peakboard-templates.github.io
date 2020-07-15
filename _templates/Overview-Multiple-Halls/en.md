@@ -5,7 +5,7 @@ description:
   - This template offers an overview of the most important key figures of several production halls. This includes information such as the status of the individual lines and meta information on the current orders.
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Overview-Multiple-Halls
 category:
   - Production
