@@ -2,7 +2,7 @@
 layout: article
 title: Produktion: Übersicht über fertiggestellte Teile
 description: 
-  - Dieses Template liefert in der Produktion eine Übersicht darüber wie viele Teile bereits fertiggestellt wurden und vergleicht sie mit der Auftragsmenge. Zusätzlich wird der GAE Wert, ein paar Metainformationen über den Auftrag und die Ausfallzeit angezeigt.
+  - Dieses Template liefert in der Produktion eine Übersicht über die Menge bereits fertiggestellter Teile und vergleicht sie mit der Auftragsmenge. Zusätzlich wird der GAE Wert, ein paar Metainformationen über den Auftrag und die Ausfallzeit angezeigt.
 lang: de
 weight: 1000
 isDraft: true
