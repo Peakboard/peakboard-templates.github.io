@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Production: Overview of completed parts
+title: Production&#58; Overview of completed parts
 description: 
   - This template provides an overview of the quantity of parts already completed and compares it with the target order quantity. Additionally, the GAE value, some meta information about the order and downtime is displayed.
 lang: en
