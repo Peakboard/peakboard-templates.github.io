@@ -13,9 +13,9 @@ category:
   - Empfang
   - Kalender
   - Sonstiges
-image: Reception-Screen-Microsoft-Office-Calendar.png
-image_thumbnail: Reception-Screen-Microsoft-Office-Calendar_thumbnail.png
-download: Reception-Screen-Microsoft-Office-Calendar.pbmx
+image: Empfangsbildschirm-Microsoft-Office-Kalender.png
+image_thumbnail: Empfangsbildschirm-Microsoft-Office-Kalender_thumbnail.png
+download: Empfangsbildschirm-Microsoft-Office-Kalender.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
