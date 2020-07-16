@@ -10,9 +10,9 @@ ref: Departure-Times-Airport
 category:
   - Verkehr
   - Sonstiges
-image: Departure-Times-Airport.png
-image_thumbnail: Departure-Times-Airport_thumbnail.png
-download: Departure-Times-Airport.pbmx
+image: Abflugzeiten-Flughafen.png
+image_thumbnail: Abflugzeiten-Flughafen_thumbnail.png
+download: Abflugzeiten-Flughafen.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
