@@ -11,9 +11,9 @@ category:
   - Empfohlen
   - Administration
   - IT-Rechenzentrum
-image: Monitoring-Server-Performance.png
-image_thumbnail: Monitoring-Server-Performance_thumbnail.png
-download: Monitoring-Server-Performance.pbmx
+image: Ueberwachung-der-Serverleistung.png
+image_thumbnail: Ueberwachung-der-Serverleistung_thumbnail.png
+download: Ueberwachung-der-Serverleistung.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
