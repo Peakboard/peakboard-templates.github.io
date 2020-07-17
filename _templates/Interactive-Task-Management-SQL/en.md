@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Interactive template to tick off tasks with SQL database connection
+title: Interactive template with tick off option for worksteps – based on SQL data
 description: 
   - This template is based on a SQL database and shows the current status of a machine. The progress on the machine can be tracked and employees have the possibility to give feedback via a touch screen as soon as a work step is completed.
 lang: en
