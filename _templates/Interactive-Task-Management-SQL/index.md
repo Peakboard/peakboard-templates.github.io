@@ -5,7 +5,7 @@ description:
   - Dieses Template basiert auf einer SQL Datenbank und zeigt den aktuellen Status einer Maschine. Dadurch können Mitarbeiter ihren Fortschritt nachverfolgen und haben die Möglichkeit mithilfe eines Touchscreens abgeschlossene Arbeitsschritte als erledigt zu markieren. Über ein Script schreibt das Template beim Bedienen des Touchscreens zurück in die SQL Datenbank und meldet so den Abschluss eines Arbeitsschrittes.
 lang: de
 weight: 1500
-isDraft: true
+isDraft: false
 ref: Interactive-Task-Management-SQL
 category:
   - Production
