@@ -6,7 +6,7 @@ description:
   und zeigt zwei Diagramme, auf denen zu erkennen ist, wie groß die Kosten-und Zeitersparnis eines Unternehmens mit Hilfe der Peakboard-Lösung sind.
 lang: de
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Peakboard-Website-Dashboard
 carousel: true
 category:
