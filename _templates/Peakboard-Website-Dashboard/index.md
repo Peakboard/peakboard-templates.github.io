@@ -8,7 +8,6 @@ lang: de
 weight: 1000
 isDraft: true
 ref: Peakboard-Website-Dashboard
-carousel: true
 category:
 image: Peakboard-Website-Dashboard_DE.png
 image_thumbnail: Peakboard-Website-Dashboard_DE_thumbnail.png
