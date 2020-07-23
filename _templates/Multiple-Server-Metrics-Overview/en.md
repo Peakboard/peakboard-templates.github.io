@@ -11,9 +11,9 @@ carousel: false
 category:
   - Administration
   - IT Data Center
-image: Ueberwachung-Verteilter-Server.png
-image_thumbnail: Ueberwachung-Verteilter-Server_thumbnail.png
-download: Ueberwachung-Verteilter-Server.pbmx
+image: Multiple-Server-Metrics-Overview.png
+image_thumbnail: Multiple-Server-Metrics-Overview_thumbnail.png
+download: Multiple-Server-Metrics-Overview.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
