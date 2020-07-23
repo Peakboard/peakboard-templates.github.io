@@ -1,8 +1,8 @@
 ---
 layout: article
-title: 连接SQL数据库的交互式模板——勾选已完成的任务
+title: Interactive template to tick off tasks with SQL database connection
 description: 
-  - 该模板以SQL数据库为基础，展示了机器的当前状态。它可以跟踪机器目前的进展；当完成一个工作步骤时，员工也可以通过触摸屏发送反馈。
+  - This template is based on a SQL database and shows the current status of a machine. The progress on the machine can be tracked and employees have the possibility to give feedback via a touch screen as soon as a work step is completed.
 lang: cn
 weight: 1500
 isDraft: true
@@ -13,7 +13,7 @@ category:
   - Interaction
 image: Interactive-Task-Management-SQL.png
 image_thumbnail: Interactive-Task-Management-SQL_thumbnail.png
-download: Interactive-Task-Management-SQL_CN.pbmx
+download: Interactive-Task-Management-SQL.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
