@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Instant Overview about the Process Status with SQL Database Connection
+title: 连接SQL数据库的进程状态即时概览
 description: 
-  - Keep track of your production lines with this template. This cockpit dashboard is based on a SQL-database and gives the responsible shift supervisor an overview of all production lines. You can see instantly in which phase every single line is.
+  - 使用该模板实时跟踪监测多条生产线。这一总控看板以SQL数据库为基础创建，能为班组负责人提供所有生产线的概览。在此，您可以快速地了解到每个生产线所处的阶段。
 lang: cn
 weight: 1900
 isDraft: true
