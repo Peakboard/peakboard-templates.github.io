@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Multiple Server Metrics Overview
+title: Central monitoring of multiple servers
 description: 
-  - Keep track of current information about your servers. Up to three servers are displayed with the most important metrics such as CPU, memory, RAM and network utilization. Also the runtime, the last restart and the last backup are displayed. The data could be read from server logs or read out directly via an existing API.
+  - With this template you can easily keep an overview of your servers. It displays information from up to three servers with the most important key figures such as CPU, disk space, RAM and network utilization. In addition, the dashboard also includes the runtime, the last reboot and the last backup. The data can be read from server logs or directly via an existing API.
 lang: en
 weight: 1100
 isDraft: false
