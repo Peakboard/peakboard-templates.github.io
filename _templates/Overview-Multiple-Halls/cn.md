@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Overview of multiple production halls
+title: 多个生产车间概览
 description: 
-  - This template offers an overview of the most important key figures of several production halls. This includes information such as the status of the individual lines and meta information on the current orders.
+  - 模板提供多个生产车间最重要的关键数据概览，例如单个产线的状态和当前订单的原始信息。
 lang: cn
 weight: 1100
 isDraft: true

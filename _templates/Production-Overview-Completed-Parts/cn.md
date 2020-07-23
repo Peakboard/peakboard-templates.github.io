@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Production Overview Done Parts
+title: 已完成零件生产概览
 description: 
-  - This template offers an overview of how many parts have already been produced and compares them with the order quantity. In addition, the OEE value is displayed, some meta information about the order and possibly downtime.
+  - 模板以概览的方式展示已完成的零件，并将其与订单数量对比。另外，它也显示出OEE（设备整体效率）值、订单原始信息以及下线时间。
 lang: cn
 weight: 1000
 isDraft: true
