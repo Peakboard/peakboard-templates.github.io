@@ -15,7 +15,7 @@ category:
   - OEE
   - KPI
   - Shopfloor
-  - Series Manufacturing
+  - Series Production
 image: Production-Line-Overview-Andon.png
 image_thumbnail: Production-Line-Overview-Andon_thumbnail.png
 download: Production-Line-Overview-Andon.pbmx

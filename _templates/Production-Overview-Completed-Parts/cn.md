@@ -11,7 +11,7 @@ category:
   - Production
   - Lean Management
   - OEE
-  - Series Manufacturing
+  - Series Production
 image: Production-Overview-Done-Parts_CN.png
 image_thumbnail: Production-Overview-Done-Parts_CN_thumbnail.png
 download: Production-Overview-Done-Parts_CN.pbmx

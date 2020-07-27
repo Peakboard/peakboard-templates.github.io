@@ -12,7 +12,7 @@ category:
   - Production
   - KPI
   - Lean Management
-  - Series Manufacturing
+  - Series Production
 image: Overview-Several-Production-Lines_CN.png
 image_thumbnail: Overview-Several-Production-Lines_CN_thumbnail.png
 download: Overview-Several-Production-Lines_CN(new).pbmx

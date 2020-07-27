@@ -11,7 +11,7 @@ category:
   - Recommended
   - Maintenance
   - Production
-  - Series Manufacturing
+  - Series Production
 image: Predictive-Maintenance-Board.png
 image_thumbnail: Predictive-Maintenance-Board_thumbnail.png
 download: Predictive-Maintenance-Board.pbmx

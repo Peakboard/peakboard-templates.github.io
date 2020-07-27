@@ -10,7 +10,7 @@ ref: Production-Lines-Status-Quality
 category:
   - Production
   - Shopfloor
-  - Series Manufacturing
+  - Series Production
 image: Production-Lines-Status-Quality.png
 image_thumbnail: Production-Lines-Status-Quality_thumbnail.png
 download: Production-Lines-Status-Quality.pbmx
