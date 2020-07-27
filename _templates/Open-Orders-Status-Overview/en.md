@@ -12,6 +12,7 @@ category:
   - Interaction
   - Lean Management
   - Shopfloor
+  - Job Production
 image: Open-Orders-Status-Overview.png
 image_thumbnail: Open-Orders-Status-Overview_thumbnail.png
 download: Open-Orders-Status-Overview.pbmx

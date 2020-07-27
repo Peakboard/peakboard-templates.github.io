@@ -11,6 +11,7 @@ category:
   - Production
   - Interaction
   - Lean Management
+  - Job Production
 image: Open-Orders-Status-Overview_CN.png
 image_thumbnail: Open-Orders-Status-Overview_CN_thumbnail.png
 download: Open-Orders-Status-Overview_CN.pbmx

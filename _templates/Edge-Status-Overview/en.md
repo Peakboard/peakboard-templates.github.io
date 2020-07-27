@@ -10,6 +10,7 @@ ref: Edge-Status-Overview
 category:
   - Edge
   - Interaction
+  - Job Production
 image: Edge-Status-Overview.png
 image_thumbnail: Edge-Status-Overview_thumbnail.png
 download: Edge-Status-Overview.pbmx

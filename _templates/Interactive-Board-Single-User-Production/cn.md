@@ -13,6 +13,7 @@ category:
   - Individual Production
   - Interaction
   - Andon
+  - Job Production
 image: Interactive-Board-For-Single-User-Production_CN.png
 image_thumbnail: Interactive-Board-For-Single-User-Production_CN_thumbnail.png
 download: Interactive-Board-For-Single-User-Production_CN.pbmx

@@ -11,6 +11,7 @@ category:
   - Andon
   - Production
   - Logistics
+  - Job Production
 image: Andon-Single-Station-Overview.png
 image_thumbnail: Andon-Single-Station-Overview_thumbnail.png
 download: Andon-Single-Station-Overview.pbmx

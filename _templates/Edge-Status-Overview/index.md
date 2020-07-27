@@ -10,6 +10,7 @@ ref: Edge-Status-Overview
 category:
   - Edge
   - Interaktion
+  - Einzelfertigung
 image: Edge-Status-Uebersicht.png
 image_thumbnail: Edge-Status-Uebersicht_thumbnail.png
 download: Edge-Status-Uebersicht.pbmx

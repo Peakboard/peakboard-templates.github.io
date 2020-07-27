@@ -11,6 +11,7 @@ category:
   - Production
   - Lean Management
   - Interaction
+  - Einzelfertigung
 image: Interaktiv-Aufgaben-Abhaken-SQL-Datenbank.png
 image_thumbnail: Interaktiv-Aufgaben-Abhaken-SQL-Datenbank_thumbnail.png
 download: Interaktiv-Aufgaben-Abhaken-SQL-Datenbank.pbmx

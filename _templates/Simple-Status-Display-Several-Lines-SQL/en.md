@@ -10,6 +10,7 @@ ref: Simple-Status-Display-Several-Lines-SQL
 category:
   - Production
   - Lean Management
+  - Job Production
 image: Simple-Status-Display-Several-Lines-SQL.png
 image_thumbnail: Simple-Status-Display-Several-Lines-SQL_thumbnail.png
 download: Simple-Status-Display-Several-Lines-SQL.pbmx

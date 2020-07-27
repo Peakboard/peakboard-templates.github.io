@@ -12,6 +12,7 @@ category:
   - Interaktion
   - Lean Management
   - Shopfloor
+  - Einzelfertigung
 image: Statusanzeige-offener-Auftraege.png
 image_thumbnail: Statusanzeige-offener-Auftraege_thumbnail.png
 download: Statusanzeige-offener-Auftraege.pbmx
