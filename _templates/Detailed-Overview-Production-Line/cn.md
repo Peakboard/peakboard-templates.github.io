@@ -12,6 +12,7 @@ category:
   - Lean Management
   - Process
   - Production
+  - Series Manufacturing
 image: Detailed-Overview-Production-Line_CN.png
 image_thumbnail: Detailed-Overview-Production-Line_CN_thumbnail.png
 download: Detailed-Overview-Production-Line_CN.pbmx

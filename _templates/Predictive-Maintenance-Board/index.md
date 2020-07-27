@@ -11,6 +11,7 @@ category:
   - Empfohlen
   - Instandhaltung
   - Produktion
+  - Serienfertigung
 image: Instandhaltung-Predictive-Maintenance.png
 image_thumbnail: Instandhaltung-Predictive-Maintenance_thumbnail.png
 download: Instandhaltung-Predictive-Maintenance.pbmx

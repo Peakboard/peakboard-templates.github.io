@@ -13,6 +13,7 @@ category:
   - Prozess
   - Produktion
   - Shopfloor
+  - Serienfertigung
 image: Detaillierte-Uebersicht-Produktionslinie.png
 image_thumbnail: Detaillierte-Uebersicht-Produktionslinie_thumbnail.png
 download: Detaillierte-Uebersicht-Produktionslinie.pbmx

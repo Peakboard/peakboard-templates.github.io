@@ -13,6 +13,7 @@ category:
   - Andon
   - OEE / GAE
   - KPI
+  - Serienfertigung
 image: GAE-Werte-Mehrere-Produktionslinien-Andon.png
 image_thumbnail: GAE-Werte-Mehrere-Produktionslinien-Andon_thumbnail.png
 download: GAE-Werte-Mehrere-Produktionslinien-Andon.pbmx

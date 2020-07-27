@@ -11,6 +11,7 @@ category:
   - Produktion
   - Lean Management
   - OEE / GAE
+  - Serienfertigung
 image: Produktion-Uebersicht-Erledigter-Teile.png
 image_thumbnail: Produktion-Uebersicht-Erledigter-Teile_thumbnail.png
 download: Produktion-Uebersicht-Erledigter-Teile.pbmx

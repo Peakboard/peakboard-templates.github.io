@@ -13,6 +13,7 @@ category:
   - Process
   - Production
   - Shopfloor
+  - Series Manufacturing
 image: Detailed-Overview-Production-Line.png
 image_thumbnail: Detailed-Overview-Production-Line_thumbnail.png
 download: Detailed-Overview-Production-Line.pbmx

@@ -13,6 +13,7 @@ category:
   - Error
   - Serial Production
   - Process
+  - Series Manufacturing
 image: Production-Line-Status-Machine-Image_CN.png
 image_thumbnail: Production-Line-Status-Machine-Image_CN_thumbnail.png
 download: Production-Line-Status-Machine-Image_CN.pbmx

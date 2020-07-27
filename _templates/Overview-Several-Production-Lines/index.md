@@ -13,6 +13,7 @@ category:
   - KPI
   - Lean Management
   - Shopfloor
+  - Serienfertigung
 image: Uebersicht-Mehrere-Produktionslinien.png
 image_thumbnail: Uebersicht-Mehrere-Produktionslinien_thumbnail.png
 download: Uebersicht-Mehrere-Produktionslinien.pbmx

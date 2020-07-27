@@ -13,6 +13,7 @@ category:
   - KPI
   - Lean Management
   - Shopfloor
+  - Series Manufacturing
 image: Overview-Several-Production-Lines.png
 image_thumbnail: Overview-Several-Production-Lines_thumbnail.png
 download: Overview-Several-Production-Lines.pbmx
