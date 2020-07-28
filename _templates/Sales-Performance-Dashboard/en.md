@@ -2,7 +2,7 @@
 layout: article
 title: Sales Performance Dashboard
 description: 
-  - With this template you can build your sales dashboard. Create more competition through visible metrics.
+  - With this template you can build your sales dashboard. Create more competition through visible metrics. Simply connect the data source of your choice (e.g. Excel) and get started!
 lang: en
 weight: 500
 isDraft: false
