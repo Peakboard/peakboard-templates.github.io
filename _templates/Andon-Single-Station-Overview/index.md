@@ -10,7 +10,6 @@ ref: Andon-Single-Station-Overview
 category:
   - Andon
   - Produktion
-  - Logistik
   - Einzelfertigung
 image: Uebersicht-einzelne-Arbeitsstationen-mit-Andon.png
 image_thumbnail: Uebersicht-einzelne-Arbeitsstationen-mit-Andon_thumbnail.png

@@ -10,7 +10,6 @@ ref: Andon-Single-Station-Overview
 category:
   - Andon
   - Production
-  - Logistics
   - Job Production
 image: Andon-Single-Station-Overview_CN.png
 image_thumbnail: Andon-Single-Station-Overview_CN_thumbnail.png
