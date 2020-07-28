@@ -2,7 +2,7 @@
 layout: article
 title: Übersicht über den Status mehrerer Produktionshallen eines Standortes
 description: 
-  - Dieses Template zeigt die wichtigsten Kennzahlen mehrerer Produktionshallen auf einen Blick. Es beinhaltet Informationen, wie den Status der einzelnen Linien sowie Metainformationen zu den aktuellen Aufträgen.
+  - Dieses Template zeigt die wichtigsten Kennzahlen mehrerer Produktionshallen auf einen Blick. Es beinhaltet Informationen, wie den Status der einzelnen Linien sowie Metainformationen zu den aktuellen Aufträgen. Verwendet werden zum Beispiel OPC UA Daten.
 lang: de
 weight: 1100
 isDraft: false
