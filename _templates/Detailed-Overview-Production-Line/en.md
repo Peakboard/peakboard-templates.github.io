@@ -2,7 +2,7 @@
 layout: article
 title: Detailed Overview of a Production Line
 description: 
-  - This template displays all relevant information of a single production line. It contains MES data, order information and employee news amongst others. In addition, the status of the other lines is shown in simplified form. 
+  - This template displays all relevant information of a single production line. It contains MES data, order information and employee news amongst others. In addition, the status of the other lines is shown in simplified form. Simply connect your data source of choice, for example SAP data.
 lang: en
 weight: 2000
 isDraft: false
