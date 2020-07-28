@@ -2,7 +2,7 @@
 layout: article
 title: Overview of Several Production Lines
 description: 
-  - This template provides an overview of five production lines in one production hall. A variable list is used as the data source, you can replace the list with your personal data source. With the help of the function 'Conditional Formatting' the elements react to the current status of each line and apply the colors accordingly.
+  - This template provides an overview of five production lines in one production hall. A variable list is used as the data source, you can replace the list with your personal data source, for example OPC UA. With the help of the function 'Conditional Formatting' the elements react to the current status of each line and apply the colors accordingly.
 lang: en
 weight: 2300
 isDraft: false
