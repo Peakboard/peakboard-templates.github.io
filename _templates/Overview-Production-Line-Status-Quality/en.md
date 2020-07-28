@@ -9,7 +9,7 @@ isDraft: false
 ref: Overview-Production-Line-Status-And-Quality
 category:
   - Recommended
-  - Serial Production
+  - Series Production
   - OEE
   - Lean Management
   - Shopfloor

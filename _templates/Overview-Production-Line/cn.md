@@ -11,7 +11,7 @@ category:
   - Production
   - Lean Management
   - OEE
-  - Serial Production
+  - Series Production
 image: Overview-Production-Line_CN.png
 image_thumbnail: Overview-Production-Line_CN_thumbnail.png
 download: Overview-Production-Line_CN.pbmx

@@ -11,6 +11,7 @@ category:
   - Production
   - Alert
   - Status
+  - Series Production
 image: Production-Status-Alert_CN.png
 image_thumbnail: Production-Status-Alert_CN_thumbnail.png
 download: Production-Status-Alert_CN.pbmx
