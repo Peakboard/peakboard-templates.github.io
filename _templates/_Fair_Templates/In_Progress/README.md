@@ -1,7 +1,7 @@
 # Fair Templates Updated File
 This board contains a variety of use cases that we want show on our upcoming fairs.
 
-[Download Template](2020_07_Completely_New.pbmx?raw=true)
+[Download Peakboard File](2020_07_Completely_New.pbmx?raw=true)
 
 
 # Screenshots
