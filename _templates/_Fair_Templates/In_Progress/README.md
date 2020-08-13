@@ -1,9 +1,10 @@
 # Fair Templates Updated File
 This board contains a variety of use cases that we want show on our upcoming fairs.
 
-# Screenshots
 [Download Template](2020_07_Completely_New.pbmx?raw=true)
 
+
+# Screenshots
 ![image_live](A.png)
 
 ![image_live](B.png)
