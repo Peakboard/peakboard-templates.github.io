@@ -5,7 +5,7 @@ description:
   - 模板提供多个生产车间最重要的关键数据概览，例如单个产线的状态和当前订单的原始信息。
 lang: cn
 weight: 1100
-isDraft: true
+isDraft: false
 ref: Overview-Multiple-Halls
 category:
   - Production
