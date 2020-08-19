@@ -5,15 +5,15 @@ description:
   - 该模板以SQL数据库为基础，展示了机器的当前状态。它可以跟踪机器目前的进展；当完成一个工作步骤时，员工也可以通过触摸屏发送反馈。
 lang: cn
 weight: 1500
-isDraft: true
+isDraft: false
 ref: Interactive-Task-Management-SQL
 category:
   - Production
   - Lean Management
   - Interaction
   - Job Production
-image: Interactive-Task-Management-SQL.png
-image_thumbnail: Interactive-Task-Management-SQL_thumbnail.png
+image: Interactive-Task-Management-SQL_CN.png
+image_thumbnail: Interactive-Task-Management-SQL_CN_thumbnail.png
 download: Interactive-Task-Management-SQL_CN.pbmx
 overview_description:
 overview_benefits:
