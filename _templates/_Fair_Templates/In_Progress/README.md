@@ -11,9 +11,15 @@ This board contains a variety of use cases that we want show on our upcoming fai
 
 ![image_live](C.png)
 
+![image_live](C2.png)
+
+![image_live](C3.png)
+
 ![image_live](D.png)
 
 ![image_live](E.png)
+
+![image_live](E2.png)
 
 ![image_live](F.png)
 
