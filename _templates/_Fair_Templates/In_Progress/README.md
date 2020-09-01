@@ -23,6 +23,8 @@ This board contains a variety of use cases that we want show on our upcoming fai
 
 ![image_live](I.png)
 
+![image_live](I2.png)
+
 ![image_live](J.png)
 
 ![image_live](ScreenManager.png)
