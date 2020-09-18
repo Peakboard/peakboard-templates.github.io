@@ -10,9 +10,9 @@ ref: Shopfloor-Interactive-Safety-Cross-Quality-Q
 category:
   - Shopfloor
   - Interaction
-image: Strategic-Logistics-Board.png
-image_thumbnail: Strategic-Logistics-Board_thumbnail.png
-download: Strategic-Logistics-Board.pbmx
+image: Shopfloor-Interactive-Safety-Cross-Quality-Q.png
+image_thumbnail: Shopfloor-Interactive-Safety-Cross-Quality-Q_thumbnail.png
+download: Shopfloor-Interactive-Safety-Cross-Quality-Q.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
