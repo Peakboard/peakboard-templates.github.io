@@ -3,7 +3,7 @@ layout: article
 title: Forcam Operation Cost Overview
 description: 
   - This template ...
-lang: DE
+lang: de
 weight: 2000
 isDraft: true
 ref: Forcam-Costs-Overview
