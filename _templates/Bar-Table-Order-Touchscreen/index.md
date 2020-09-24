@@ -11,7 +11,7 @@ category:
   - Interaction
   - Misc
 image: Bar-Table-Order-Touchscreen.png
-image_thumbnail: : Bar-Table-Order-Touchscreen_thumbnail.png
+image_thumbnail: Bar-Table-Order-Touchscreen_thumbnail.png
 download: Bar-Table-Order-Touchscreen.pbmx
 overview_description:
 overview_benefits:
