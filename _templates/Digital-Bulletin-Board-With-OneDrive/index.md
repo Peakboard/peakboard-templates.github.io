@@ -11,9 +11,9 @@ category:
   - Administration
   - Empfang
   - Schwarzes Brett
-image: Digital-Bulletin-Board-With-OneDrive.png
-image_thumbnail: Digital-Bulletin-Board-With-OneDrive_thumbnail.png
-download: Digital-Bulletin-Board-With-OneDrive.pbmx
+image: Digitales-Schwarzes-Brett-mit-OneDrive.png
+image_thumbnail: Digitales-Schwarzes-Brett-mit-OneDrive_thumbnail.png
+download: Digitales-Schwarzes-Brett-mit-OneDrive.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
