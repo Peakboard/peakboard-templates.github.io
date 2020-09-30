@@ -39,7 +39,7 @@ Nachdem du die Dateien in deinem gewünschten Ordner abgelegt und angepasst hast
 
 ![image_live](img/Excel-Data-Source-Selection.png)
 
-Nachdem du diesen Dialog geschlossen hast und alle benötigten Datenquellen aktualisiert sind, solltest du deine Daten nach Drücken des 'Vorschau'-Buttons sehen können.
+Nachdem du diesen Dialog geschlossen hast und alle benötigten Datenquellen und Ressourcen aktualisiert sind, solltest du deine Daten nach Drücken des 'Vorschau'-Buttons sehen können.
 
 ## wetter widget aktualisieren
 

@@ -39,7 +39,7 @@ After you have placed the files in your desired folder and customized them, you 
 
 ![image_live](img/Excel-Data-Source-Selection.png)
 
-After you have closed this dialog and all required data sources are updated, you should be able to see your data after pressing the 'Preview' button.
+After you have closed this dialog and all required data sources and resources are updated, you should be able to see your data after pressing the 'Preview' button.
 
 ## update weather widget
 
