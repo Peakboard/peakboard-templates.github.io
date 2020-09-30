@@ -21,24 +21,7 @@ overview_data_sources:
 
 # Mögliche Datenquellen
 
-Dieses Template wurde mit Bilder und einer Excel Datei erstellt, welche in einem OneDrive Verzeichnis liegen. Dies ist aber nur ein möglicher Weg und dient lediglich als Beispiel. Sie können dieses Template beispielsweise auch mit folgenden Datenquellen verwenden:
-- Google Spreadsheet
-- RSS-Feed
-- JSON
-- XML
-- CSV
-- OData
-- Web Services
-- REST-API
-- Microsoft Excel
-- Google Docs
-- MS SharePoint Lists
-- Dropbox
-- Microsoft OneDrive
-- Google Drive
-- Microsoft SharePoint Document Libraries
-- Microsoft Teams Files
-- Lokaler Dateiserver
+Dieses Template wurde mit Bilder und einer Excel Datei erstellt, welche in einem OneDrive Verzeichnis liegen. Dies ist aber nur ein möglicher Weg und dient lediglich als Beispiel. Sie können dieses Template beispielsweise auch mit folgenden Datenquellen verwenden: Google Spreadsheet, RSS-Feed, JSON, XML, CSV, OData, Web Services, REST-API, Microsoft Excel, Google Docs, MS SharePoint Lists, Dropbox, Microsoft OneDrive, Google Drive, Microsoft,SharePoint Document Libraries, Microsoft Teams Files oder mit einem lokalen Dateiserver.
 
 # So funktioniert's
 
