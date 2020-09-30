@@ -2,7 +2,7 @@
 layout: article
 title: Digitales Schwarzes Brett mit OneDrive Anbindung
 description: 
-  - Dieses Board zeigt einige Unternehmensinformationen an und hilft, Mitarbeiter über Neuigkeiten zu informieren. Alle News, Bilder und das PDF können über einen einzelnen OneDrive Order verwaltet werden.
+  - Dieses Board zeigt einige Unternehmensinformationen an und hilft, Mitarbeiter über Neuigkeiten zu informieren. Alle News, Bilder und das PDF können über einen einzelnen OneDrive Order verwaltet werden. Mit diesem Template kannst du deine eigene Digital Signage Anwendung erstellen.
 lang: de
 weight: 2000
 isDraft: true

@@ -2,7 +2,7 @@
 layout: article
 title: Digital Bulletin Board With OneDrive
 description: 
-  - This board shows some information about a company and helps to inform employees about news. All news, images and the PDF can be maintained within a single folder in OneDrive.
+  - This board displays some company information and helps to inform employees about news. All news, images and the PDF can be managed through a single OneDrive Order. With this template you can create your own digital signage application.
 lang: en
 weight: 2000
 isDraft: true
