@@ -19,13 +19,9 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# Possible Data Sources
-
-This template was created with some Image and a single Excel file in OneDrive. This was just an example you could also use a different setup. You could also use for example: Google Spreadsheet, RSS-Feed, JSON, XML, CSV, OData, Web Services, REST-API, Microsoft Excel, Google Docs, MS SharePoint Lists, Dropbox, Microsoft OneDrive, Google Drive, Microsoft,SharePoint Document Libraries, Microsoft Teams Files or a local file server.
-
 # possible data sources
 
-This template was created with images and an Excel file, which are stored in a OneDrive directory. But this is only one possible way and serves only as an example. You can also use this template with the following data sources: Google Spreadsheet, RSS Feed, JSON, XML, CSV, OData, Web Services, REST API, Microsoft Excel, Google Docs, MS SharePoint Lists, Dropbox, Microsoft OneDrive, Google Drive, Microsoft,SharePoint Document Libraries, Microsoft Teams Files or with a local file server.
+This template was created with images and an Excel file, which are stored in a OneDrive directory. But this is only one possible way and serves only as an example. You could also use this template with the following data sources: Google Spreadsheet, RSS Feed, JSON, XML, CSV, OData, Web Services, REST API, Microsoft Excel, Google Docs, MS SharePoint Lists, Dropbox, Microsoft OneDrive, Google Drive, Microsoft,SharePoint Document Libraries, Microsoft Teams Files or with a local file server.
 
 # how it works
 
