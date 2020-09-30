@@ -25,7 +25,9 @@ This template was created with images and an Excel file, which are stored in a O
 
 # how it works
 
-To update the content you can download the files from this [Github folder](https://github.com/Peakboard/peakboard-templates.github.io/tree/master/_templates/Digital-Bulletin-Board-With-OneDrive/data-files). Then you have to drop the files in the desired destination. Choose from one of the many cloud services or add them directly to the visualization or use one of them as files in your network, everything is possible. The easiest way is to use one of the cloud services.
+For a general introduction to Peakboard, see the [first steps](https://peakboard.rocks/get-started). If you would like to know how to connect a Peakboard box to your designer and transfer a visualization, please read the following [article](https://peakboard.rocks/connect). To create a visualization you need the Peakboard Designer. This can be downloaded [for free](https://peakboard.com/en/peakboard-designer/?utm_campaign=templates&utm_medium=description_link&utm_source=templates_overview).
+
+To update the content of this template you can download the files from this [Github folder](https://github.com/Peakboard/peakboard-templates.github.io/tree/master/_templates/Digital-Bulletin-Board-With-OneDrive/data-files). Then you have to drop the files in the desired destination. Choose from one of the many cloud services or add them directly to the visualization or use one of them as files in your network, everything is possible. The easiest way is to use one of the cloud services.
 
 If you want to change an image or the displayed PDF file, all you have to do is upload a file with the same name, then the content of the new file will be displayed. This is how our OneDrive folder is off:
 
