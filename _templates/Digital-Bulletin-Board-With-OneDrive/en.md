@@ -61,7 +61,7 @@ In the further sidebar on the right side you will now find some parameters for t
 
 ![image_live](img/web_widget_code.png)
 
-# Picture credits
+# picture credits
 
 The used images and graphics are from [Freepik](http://freepik.com/) and [Unsplash](https://unsplash.com/). 
 

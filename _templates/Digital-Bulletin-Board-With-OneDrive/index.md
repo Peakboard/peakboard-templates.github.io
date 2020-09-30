@@ -61,7 +61,7 @@ In der weiteren Sidebar auf der rechten Seite findest du nun einige Parameter zu
 
 ![image_live](img/web_widget_code.png)
 
-# Bildnachweis
+# bildnachweis
 
 Die verwendeten Bilder stammen von [Freepik](http://freepik.com/) und [Unsplash](https://unsplash.com/). 
 
