@@ -45,23 +45,19 @@ Nachdem du diesen Dialog geschlossen hast und alle benötigten Datenquellen und 
 
 ## wetter widget aktualisieren
 
-Wenn Sie dieses Wetter Widget nicht verwenden möchten, können Sie einfach im Peakboard Designer das Element aus der Visualisierung löschen. Wählen Sie es dafür mit einem Rechtsklick aus und wählen Sie 'Löschen'.
+Wenn du dieses Wetter Widget nicht verwenden möchtest, kannst du es einfach im Peakboard Designer das Element aus der Visualisierung löschen. Wählen es dafür mit einem Rechtsklick aus und klicke auf 'Löschen'.
 
-Wenn Sie das Wetter Widget verwenden möchten, können Sie sich Ihr eigenes Widget mit Ihrer Stadt unter folgender Adresse erstellen: [https://weatherwidget.io/](https://weatherwidget.io/).
+Wenn du das Wetter Widget verwenden möchtest, kannst du dir ein eigenes Widget mit deiner Stadt unter folgender Adresse erstellen: [https://weatherwidget.io/](https://weatherwidget.io/).
 
-Sie noch Parameter wie Stadt, Sprache, die anzuzeigenden Texte und die Einheit definieren.
-Auf den weiteren Tabs gibt es noch viele weitere Möglichkeiten, das Wetter Widget auf Ihre Bedürfnisse anzupassen.
+Gib die Parameter wie Stadt, Sprache und die Einheit an.
 
-Für unsere Visualisierung haben wir im Tab 'Options' den Font 'Arial' verwendet, das Icon Set 'Climacons Animated', Forecast Days '3'.
-Als Theme haben wir das Theme 'Pure' unter 'Flat' verwendet.
+Wenn du mit den Optionen zufrieden bist, kannst du auf den Button 'Get Code' klicken. Im geöffneten Fenster findest du nun den fertigen Code für dein persönliches Widget. Kopiere diesen Code indem du einfach auf den Button 'Copy to Clipboard' klickst.
 
-Wenn Sie mit Ihren Optionen zufrieden sind, können Sie auf den Button 'Get Code' klicken. Im geöffneten Fenster finden Sie nun den fertigen Code für Ihr persönliches Widget. Kopieren Sie diesen Code indem Sie ihn markieren und mit Rechtsklick den Code kopieren oder klicken Sie einfach auf den Button 'Copy to Clipboard'.
-
-Gehen Sie nun zurück in den Peakboard Designer und wählen sie das Control 'Web widget (Weather)' in der Sidebar aus oder klicken Sie direkt auf das Wetter Widget. 
+Gehe nun zurück in den Peakboard Designer und wähle das Control 'Web widget' in der Sidebar aus oder klicke direkt auf das Wetter Widget. 
 
 ![image_live](img/select_weather_widget.gif)
 
-In der weiteren Sidebar auf der rechten Seite finden Sie nun einige Parameter zu diesem Element. Klicken Sie auf den '...' Button im Punkt 'HTML-Code' (2). In dem geöffneten Fenster können sie nun den bestehenden Code durch Ihren erstellten Code ersetzen (3). Fügen Sie dort Ihr erstelltes Widget ein und klicken Sie auf den OK-Button.
+In der weiteren Sidebar auf der rechten Seite findest du nun einige Parameter zu diesem Element. Klicke auf den '...' Button im Punkt 'HTML-Code' (2). In dem geöffneten Fenster kannst du nun den bestehenden Code durch deinen erstellten Code ersetzen (3). 
 
 ![image_live](img/web_widget_code.png)
 

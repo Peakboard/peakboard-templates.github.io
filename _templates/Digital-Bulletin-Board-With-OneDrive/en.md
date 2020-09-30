@@ -49,19 +49,15 @@ If you do not want to use this weather widget, you can simply delete the element
 
 If you want to use the weather widget, you can create your own widget with your city at the following address [https://weatherwidget.io/](https://weatherwidget.io/).
 
-You have to define parameters like city, language, the texts to be displayed and the unit.
-On the other tabs there are many more possibilities to customize the weather widget to your needs.
+You have to define parameters like city, language and the unit.
 
-For our visualization we used the font 'Arial' in the tab 'Options', the icon set 'Climacons Animated', Forecast Days '3'.
-As theme we used the theme 'Pure' under 'Flat'.
+If you are satisfied with your options, you can click on the button 'Get Code'. In the opened window you will now find the finished code for your personal widget. Copy this code by simply click on the button 'Copy to Clipboard'.
 
-If you are satisfied with your options, you can click on the button 'Get Code'. In the opened window you will now find the finished code for your personal widget. Copy this code by selecting it and right-clicking on it or simply click on the button 'Copy to Clipboard'.
-
-Now go back to the Peakboard Designer and select the control 'Web widget (Weather)' in the sidebar or click directly on the weather widget. 
+Now go back to the Peakboard Designer and select the control 'Web widget' in the sidebar or click directly on the weather widget.
 
 ![image_live](img/select_weather_widget.gif)
 
-In the further sidebar on the right side you will now find some parameters for this element. Click on the '...'. button in the item 'HTML-Code' (2). In the opened window you can now replace the existing code with your own code (3). Insert your created widget and click on the OK button.
+In the further sidebar on the right side you will now find some parameters for this element. Click on the '...' button in the item 'HTML-Code' (2). In the opened window you can now replace the existing code with your own code (3).
 
 ![image_live](img/web_widget_code.png)
 
