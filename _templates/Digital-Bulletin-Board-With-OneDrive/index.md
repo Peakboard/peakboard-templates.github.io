@@ -33,7 +33,7 @@ Wenn du ein Bild oder die angezeigte PDF-Datei ändern willst, müsst du nur ein
 
 ![image_live](img/OneDrive-Data-Overview.png)
 
-Wenn du die Datei company_data.xlsx öffnest, siehst du zwei Datenblätter. Das erste Blatt dient zur Pflege der Daten für die Mittagsmenüs. Du kannst die Zeilene einfach aktualisieren und jeweils das Datum, die Namen für die Mahlzeiten und einen Preis hinzufügen. Es werden immer die Mahlzeiten aus der Zeilte mit dem heutigen Datum angezeigt. Das zweite Blatt ermöglicht es, die Nachrichten zu aktualisieren. Es werden immer die letzten fünf Zeilen für die Visualisierung verwendet. So sieht die Excel Datei aus:
+Wenn du die Datei board-inhalte.xlsx öffnest, siehst du zwei Datenblätter. Das erste Blatt dient zur Pflege der Daten für die Mittagsmenüs. Du kannst die Zeilene einfach aktualisieren und jeweils das Datum, die Namen für die Mahlzeiten und einen Preis hinzufügen. Es werden immer die Mahlzeiten aus der Zeilte mit dem heutigen Datum angezeigt. Das zweite Blatt ermöglicht es, die Nachrichten zu aktualisieren. Es werden immer die letzten fünf Zeilen für die Visualisierung verwendet. So sieht die Excel Datei aus:
 
 ![image_live](img/Excel-Data-Structure.png)
 
