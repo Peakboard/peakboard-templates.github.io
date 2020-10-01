@@ -2,7 +2,7 @@
 layout: article
 title: IT-Server-Rack-Overview
 description: 
-  - Check all your racks in at you server room with this beautiful overview of all your servers and racks. 
+  - This template offers the possibility to keep an overview of your server room with the help of a clear representation of all server racks. This increases the availability, because you can react earlier if there is a problem. A simple monitoring of all used servers. Sensors can display the temperature, it would also be possible to integrate an alarm system to provide even more protection. With this monitoring tool the server utilization is displayed in real time.
 lang: en
 weight: 1000
 isDraft: true

@@ -2,7 +2,7 @@
 layout: article
 title: gastronomy ordering system - order drinks and snacks directly at the table with a touchscreen
 description: 
-  - This template makes it possible to provide a touchscreen on every table within a bar or restaurant and let customers order with a simple touch. All orders will then be sent to a given e-mail address.
+  - This template offers the possibility to order a table at each table with the help of a touch screen. Quasi a digital menu. This offers an uncomplicated possibility to establish an ordering system and further services could be connected. Currently the entered order is simply sent to an e-mail address, very simple. Simply adjust drinks, food and prices, set up the monitor and off you go.
 lang: en
 weight: 800
 isDraft: true
@@ -29,3 +29,6 @@ Adjust the variable 'MailReceiver' under Variables and enter your e-mail. Every 
 ![](img/change-email-variable.png)
 
 With multiple screens, it makes all the more sense to store and manage drinks and food in a cloud service using a central data source, such as Excel.
+
+
+Background image [designed by Mrsiraphol / Freepik](http://www.freepik.com)

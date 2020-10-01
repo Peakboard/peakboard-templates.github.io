@@ -1,8 +1,8 @@
 ---
 layout: article
-title: gastronomie bestellsystem – bestelle getränke und snacks direkt am tisch mit einem touchscreen
+title: Gastronomie Bestellsystem – Bestellung von Getränken und Snacks direkt am Tisch mit einem Touchscreen
 description: 
-  - This template makes it possible to provide a touchscreen on every table within a bar or restaurant and let customers order with a simple touch. All orders will then be sent to a given e-mail address.
+  - Dieses Template bieten die Möglichkeit an jedem Tisch einen Tisch mit Hilfe eines Touchscreens zu bestellen. Quasi eine digitale Speisekarte. Dies bietet eine unkomplizierte Möglichkeit ein Bestellsystem zu etablieren und weitere Services könnten angebunden werden. Aktuell wird die eingegebe Bestellung einfach an eine E-Mail Adresse versand, ganz einfach. Getränke, Speisen und Preise einfach anpassen, Monitor aufstellen und schon kann es los gehen.
 lang: de
 weight: 800
 isDraft: true
@@ -29,3 +29,7 @@ Passe die Variable 'MailReceiver' unter Variables an und trage deine E-Mail ein.
 ![](img/change-email-variable.png)
 
 Bei mehreren Bildschirmen macht es natürlich umso mehr Sinn die Getränke und Speisen über eine zentrale Datenquelle, zum Beispiel einer Excel in einem Cloud-Dienst abzulegen und zu verwalten.
+
+
+
+Hintergrundbild [designed by Mrsiraphol / Freepik](http://www.freepik.com)

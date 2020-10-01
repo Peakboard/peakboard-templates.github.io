@@ -1,8 +1,8 @@
 ---
 layout: article
-title: IT-Server-Rack-Overview
+title: IT Serverübersicht – Behalte deine Server-Racks im Blick
 description: 
-  - Check all your racks in at you server room with this beautiful overview of all your servers and racks. 
+  - Dieses Template bietet die Möglichkeit mit Hilfe einer übersichtlichen Darstellung aller Serverschränke deinen Serverraum im Blick zu behalten. Dies steigert die Verfügbarkeit, denn man kann früher reagieren wenn ein Problem besteht. Eine einfache Überwachung aller genutzten Server. Sensoren können die Temperatur anzeigen, es wäre auch möglich ein Alarmsystem zu integrieren und so noch mehr Schutz zu bieten. Mit diesem Monitoring-Tool wird die Serverauslastung in Echtzeit dargestellt.
 lang: de
 weight: 1000
 isDraft: true
