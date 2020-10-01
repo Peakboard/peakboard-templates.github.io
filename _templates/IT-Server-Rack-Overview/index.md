@@ -17,3 +17,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+# mögliche datenquellen
+
+Dieses Template verwendet einfache Peakboard Variablenlisten als Datenquelle. Du würdest natürlich direkt deine Systeme anzapfen damit auch die richtigen Daten ankommen. Dafür könntest du z.B. dieses Systeme und Formate verwenden: JSON, XML, CSV, REST-API, ODBC, MS SQL Server, MS Access, Azure, Oracle, MySQL, PostgreSQL, MongoDB und [vieles mehr](https://peakboard.com/datenanbindungen/).
