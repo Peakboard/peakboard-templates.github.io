@@ -20,7 +20,7 @@ overview_data_sources:
 
 # possible data sources
 
-This template uses simple variable lists as data source. Variable lists is the possibility to store simple parameters directly on the box. You could also create this visualization in many other ways and use other data sources that are easier to manage. For example: JSON, XML, CSV, ODBC, Microsoft SQL Server, MS Access, MySQL, Microsoft Excel, Google Docs / Spreadsheet, Microsoft SharePoint lists and much more.
+This template uses simple variable lists as data source. Variable lists is the possibility to store simple parameters directly on the box. You could also create this visualization in many other ways and use other data sources that are easier to manage. For example: JSON, XML, CSV, ODBC, Microsoft SQL Server, MS Access, MySQL, Microsoft Excel, Google Docs / Spreadsheet, Microsoft SharePoint lists and [much more](https://peakboard.com/en/data-connections/).
 
 # how it works
 

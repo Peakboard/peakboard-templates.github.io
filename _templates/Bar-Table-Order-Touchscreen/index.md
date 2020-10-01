@@ -20,7 +20,7 @@ overview_data_sources:
 
 # mögliche datenquellen
 
-Dieses Template verwendet einfache Variablenlisten als Datenquelle. Variablenlisten ist die Möglichkeit zum speichern von einfachen Parametern direkt auf der Box. Man könnte diese Visualisierung aber auch auf viele andere Arten erstellen und andere Datenquellen, welche einfacher zu verwalten sind verwenden. Zum Beispiel würde sich hier auch eignen: JSON, XML, CSV, ODBC, Microsoft SQL Server, MS Access, MySQL, Microsoft Excel, Google Docs / Spreadsheet, Microsoft SharePoint Listen und vieles mehr.
+Dieses Template verwendet einfache Variablenlisten als Datenquelle. Variablenlisten ist die Möglichkeit zum speichern von einfachen Parametern direkt auf der Box. Man könnte diese Visualisierung aber auch auf viele andere Arten erstellen und andere Datenquellen, welche einfacher zu verwalten sind verwenden. Zum Beispiel würde sich hier auch eignen: JSON, XML, CSV, ODBC, Microsoft SQL Server, MS Access, MySQL, Microsoft Excel, Google Docs / Spreadsheet, Microsoft SharePoint Listen und [vieles mehr](https://peakboard.com/datenanbindungen/).
 
 # so funktioniert's
 

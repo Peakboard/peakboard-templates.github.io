@@ -20,4 +20,4 @@ overview_data_sources:
 
 # mögliche datenquellen
 
-Dieses Board wurde mit einer Peakboard Variablenliste erstellt. Dies ermöglicht das einfache Lesen und Schreiben der Werte direkt über den Touchscreen. Es wäre auch möglich dieses Template mit anderen Datenquellen zu verwenden und die eingegeben Werte in einem weiteren System zu speichern. Dafür kämen z.B. in Frage: MS SQL Server, MS Access, MS Azure SQL, Oracle Database, MySQL, PostgreSQL oder auch MongoDB.
+Dieses Board wurde mit einer Peakboard Variablenliste erstellt. Dies ermöglicht das einfache Lesen und Schreiben der Werte direkt über den Touchscreen. Es wäre auch möglich dieses Template mit anderen Datenquellen zu verwenden und die eingegeben Werte in einem weiteren System zu speichern. Dafür kämen z.B. in Frage: MS SQL Server, MS Access, MS Azure SQL, Oracle Database, MySQL, PostgreSQL, MongoDB oder [viele weitere](https://peakboard.com/datenanbindungen/).

@@ -21,7 +21,7 @@ overview_data_sources:
 
 # possible data sources
 
-This template was created with images and an Excel file, which are stored in a OneDrive directory. But this is only one possible way and serves only as an example. You could also use this template with the following data sources: Google Spreadsheet, RSS Feed, JSON, XML, CSV, OData, Web Services, REST API, Microsoft Excel, Google Docs, MS SharePoint Lists, Dropbox, Microsoft OneDrive, Google Drive, Microsoft,SharePoint Document Libraries, Microsoft Teams Files or with a local file server.
+This template was created with images and an Excel file, which are stored in a OneDrive directory. But this is only one possible way and serves only as an example. You could also use this template with the following data sources: Google Spreadsheet, RSS Feed, JSON, XML, CSV, OData, Web Services, REST API, Microsoft Excel, Google Docs, MS SharePoint Lists, Dropbox, Microsoft OneDrive, Google Drive, Microsoft, SharePoint Document Libraries, Microsoft Teams Files, with a local file server or [many other ways](https://peakboard.com/en/data-connections/).
 
 # how it works
 

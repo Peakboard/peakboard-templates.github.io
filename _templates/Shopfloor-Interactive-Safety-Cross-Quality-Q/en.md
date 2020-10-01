@@ -20,4 +20,4 @@ overview_data_sources:
 
 # possible data sources
 
-This board was created with a Peakboard variable list. This allows easy reading and writing of the values directly via the touch screen. It would also be possible to use this template with other data sources and store the entered values in another system. This could be: MS SQL Server, MS Access, MS Azure SQL, Oracle Database, MySQL, PostgreSQL or MongoDB.
+This board was created with a Peakboard variable list. This allows easy reading and writing of the values directly via the touch screen. It would also be possible to use this template with other data sources and store the entered values in another system. This could be: MS SQL Server, MS Access, MS Azure SQL, Oracle Database, MySQL, PostgreSQL, MongoDB or [many more](https://peakboard.com/en/data-connections/).
