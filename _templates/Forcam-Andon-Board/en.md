@@ -19,7 +19,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# How it works
+# how it works
 
 Adjust the URLs for the API calls to your system. You must do this for all 9 API calls.
 

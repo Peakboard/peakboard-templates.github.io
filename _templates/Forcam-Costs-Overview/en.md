@@ -18,7 +18,7 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# This is how it works
+# how it works
 
 To connect this board to your Forcam system, you must first configure the URLs of the JSON calls and the Forcam API. You will have to do this for all 5 calls.
 
