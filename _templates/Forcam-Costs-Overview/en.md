@@ -31,3 +31,7 @@ Then you have to adjust the authentication. Enter your URL and your Client ID an
 Afterwards you can adjust a few parameters. First you have to specify which Workplace you want to display and secondly you have to specify what the hourly rate of your machine or Workplace is and how much a single part costs. These values could of course be taken from another system. Here it is simulated with simple variables.
 
 ![](img/forcam-workplace-and-prices.png)
+
+With the help of a touch screen or mouse and keyboard, the Workplace Number can be changed to during operation in order to flexibly view different workplaces. Simply click on the text field, enter the new Workplace Number and click on the button to confirm. If you don't need this function, just remove the button and turn the input field into a normal text field.
+
+![](img/forcam-cost-overview-live-edit.png)
