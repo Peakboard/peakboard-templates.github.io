@@ -20,7 +20,7 @@ overview_data_sources:
 
 # so funktioniert's
 
-Um dieses Board mit deinem Forcam System zu verbinden musst du erst die URLs der JSON Calls and die Forcam API anpassen. Dies musst du für alle 5 Calls wiederholen.
+Um dieses Board mit deinem Forcam System zu verbinden musst du erst die URLs der JSON Calls and die Forcam API anpassen. Dies musst du für alle 5 Calls wiederholen. Der Call 'Current_Times' (3) ist deaktiviert, da er erst die Operation ID von einem anderen Call benötigt. Nachdem die ID da ist wird der Call ausgeführt.
 
 ![](img/forcam-call-url.png)
 
