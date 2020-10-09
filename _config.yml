@@ -45,7 +45,7 @@ language:
     homepage-menu-title-data-sources: "Data Sources"
     homepage-visible-categories: ["administration","andon","kpi","lean management","logistics","oee","production","scripting","reception","interaction", "edge", "shopfloor"]
     homepage-visible-data-sources:
-    top-menu-cta-button-text: "Get started for free!"
+    top-menu-cta-button-text: "get started for free!"
     top-menu-cta-button-url: "https://peakboard.com/en/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
     page-top-overview-text: "template overview"
     footer-support: "support"
@@ -90,9 +90,9 @@ language:
     homepage-menu-title-data-sources: "Datenquellen"
     homepage-visible-categories: ["administration","andon","empfang","kpi","lean management","logistik","oee / gae","produktion","scripting","interaktion", "edge", "shopfloor"]
     homepage-visible-data-sources:
-    top-menu-cta-button-text: "Kostenlos starten!"
+    top-menu-cta-button-text: "kostenlos starten!"
     top-menu-cta-button-url: "https://peakboard.com/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
-    page-top-overview-text: "Template Übersichtsseite"
+    page-top-overview-text: "template übersicht"
     footer-support: "support"
     footer-support-tel: "tel:"
     footer-support-email: "e-mail:"
