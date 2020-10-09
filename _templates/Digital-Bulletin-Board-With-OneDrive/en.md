@@ -12,7 +12,7 @@ category:
   - Reception
   - Bulletin Board
 image: Digital-Bulletin-Board-With-OneDrive.png
-image_thumbnail: DDigital-Bulletin-Board-With-OneDrive_thumbnail.png
+image_thumbnail: Digital-Bulletin-Board-With-OneDrive_thumbnail.png
 download: Digital-Bulletin-Board-With-OneDrive.pbmx
 overview_description:
 overview_benefits:
