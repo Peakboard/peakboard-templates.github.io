@@ -39,11 +39,11 @@ language:
     homepage-top-section-title: "peakboard templates"
     homepage-top-section-content: "Due to the flexibility of Peakboard there are numerous application possibilities in the most diverse areas. Here you will find some templates with a short description, which you can download directly and use for your purposes."
     homepage-carousel-button-text: "learn more"
-    homepage-featured-category: "Recommended"
-    homepage-all-category: "All"
+    homepage-featured-category: "recommended"
+    homepage-all-category: "all"
     homepage-menu-title-category: "categories"
     homepage-menu-title-data-sources: "Data Sources"
-    homepage-visible-categories: ["administration","andon","kpi","Lean Management","Logistics","OEE","Production","Scripting","Reception","Interaction", "Edge", "Shopfloor"]
+    homepage-visible-categories: ["administration","andon","kpi","lean management","logistics","oee","production","scripting","reception","interaction", "edge", "shopfloor"]
     homepage-visible-data-sources:
     top-menu-cta-button-text: "Get started for free!"
     top-menu-cta-button-url: "https://peakboard.com/en/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
@@ -84,11 +84,11 @@ language:
     homepage-top-section-title: "peakboard templates"
     homepage-top-section-content: "Durch die Flexibilität von Peakboard gibt es zahlreiche Anwendungsmöglichkeiten in den unterschiedlichsten Bereichen. Hier finden Sie einige Vorlagen mit einer kurzen Beschreibung, welche Sie direkt herunterladen und für Ihre Zwecke verwenden können."
     homepage-carousel-button-text: "mehr erfahren"
-    homepage-featured-category: "Empfohlen"
-    homepage-all-category: "Alle"
+    homepage-featured-category: "empfohlen"
+    homepage-all-category: "alle"
     homepage-menu-title-category: "Kategorien"
     homepage-menu-title-data-sources: "Datenquellen"
-    homepage-visible-categories: ["Administration","Andon","Empfang","KPI","Lean Management","Logistik","OEE / GAE","Produktion","Scripting","Interaktion", "Edge", "Shopfloor"]
+    homepage-visible-categories: ["administration","andon","empfang","kpi","lean management","logistik","oee / gae","produktion","scripting","interaktion", "edge", "shopfloor"]
     homepage-visible-data-sources:
     top-menu-cta-button-text: "Kostenlos starten!"
     top-menu-cta-button-url: "https://peakboard.com/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
@@ -129,11 +129,11 @@ language:
     homepage-top-section-title: "获取帮助"
     homepage-top-section-content: "针对您的需求，帮助您快速、高效地充分利用Peakboard，详情请参考相关文章。"
     homepage-carousel-button-text: "了解更多"
-    homepage-featured-category: "Recommended"
+    homepage-featured-category: "recommended"
     homepage-all-category: "全部"
     homepage-menu-title-category: "类别"
     homepage-menu-title-data-sources: "数据源"
-    homepage-visible-categories: ["Administration","Andon","KPI","Lean Management","Logistics","OEE","Production","Scripting","Reception","Interaction", "Edge"]
+    homepage-visible-categories: ["administration","andon","kpi","lean management","logistics","oee","production","scripting","reception","interaction", "edge", "shopfloor"]
     homepage-visible-data-sources:
     top-menu-cta-button-text: "马上开始"
     top-menu-cta-button-url: "https://peakboard.com/zh-hans/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"

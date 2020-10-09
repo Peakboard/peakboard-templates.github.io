@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Darstellung einer komplexen Datenaggregation
+title: darstellung einer komplexen datenaggregation
 description: 
   - Diese Visualisierung zeigt ein Scripting-Beispiel für eine komplexe Datenaggregation.
 lang: de

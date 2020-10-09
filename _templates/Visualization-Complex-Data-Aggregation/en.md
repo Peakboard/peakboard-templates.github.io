@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Visualization of a Complex Data Aggregation
+title: visualization of a complex data aggregation
 description: 
   - This visualization shows a scripting example for complex data aggregation.
 lang: en
