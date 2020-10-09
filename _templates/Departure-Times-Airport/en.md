@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Overview of Departure Times for Stuttgart Airport
+title: overview of departure times for stuttgart airport
 description: 
   - This template is used for the visualization of departure APIs (= interfaces) of Stuttgart Airport. Three terminals with the current flight times as well as an overview of further flights in the following two hours and delays are visualized.
 lang: en

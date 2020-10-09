@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Chargenqualität Übersicht
+title: chargenqualität übersicht
 description: 
   - Dieses Template zeigt die Qualität der aktuellen Charge an.
 lang: de

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Predictive Maintenance Board
+title: predictive maintenance board
 description: 
   - This template is used in Predictive Maintenance. It informs about machine running times as well as about when the next machine failure is expected. It also provides current sensor data, such as temperature or vibrations per line. Current and future audits are listed on the right-hand side.
 lang: en

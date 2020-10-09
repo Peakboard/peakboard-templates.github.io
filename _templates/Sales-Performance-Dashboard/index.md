@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Dashboard Teamleistung Vertrieb
+title: dashboard teamleistung vertrieb
 description: 
   - Mit diesem Template können Sie Ihr Vertriebs-Dashboard bauen. Erzeugen Sie mehr Wettbewerb durch sichtbare Kennzahlen. Einfach Datenquelle Ihrer Wahl anschließen (z. B. Excel) und loslegen!
 lang: de

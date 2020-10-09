@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Übersicht über eine einzelne Produktionslinie
+title: übersicht über eine einzelne produktionslinie
 description: 
   - In dieser Vorlage wird eine einzelne Produktionslinie mit klassischen Metriken, wie zum Beispiel Soll-Ist-Vergleich und Gesamtanlageneffektivität, visualisiert. Dadurch kann man schnell und übersichtlich den aktuellen Status der Bestellung sowie die Entwicklung der GAE überblicken.
 lang: de

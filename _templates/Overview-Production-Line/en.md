@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Overview of a Production Line
+title: overview of a production line
 description: 
   - This visualization enables a holistic overview of a production line by means of a generic background graphic. Thus, different machine statuses, target/actual comparisons, OEE and much more can be displayed in real time. Replace the static variables with your data sources in order to map your production line holistically in just a few steps.
 lang: en

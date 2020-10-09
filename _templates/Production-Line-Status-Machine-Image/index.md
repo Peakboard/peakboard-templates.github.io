@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Übersicht über eine Produktionslinie mit generischem Hintergrundbild
+title: übersicht über eine produktionslinie mit generischem hintergrundbild
 description: 
   - Diese Vorlage bietet eine Übersicht über eine gesamte Produktionslinie. Hierfür wird eine Zeichnung verschiedener Maschinen als Hintergrundgrafik verwendet, um eine bessere Übersichtlichkeit zu verschaffen. Dadurch kann der aktuelle Status von verschiedenen Stationen erkannt und eventuelle Fehler schnell behoben werden. Ersetzen Sie die statischen Variablen mit Ihren Datenquellen, um in wenigen Schritten Ihre Fertigungslinie ganzheitlich abzubilden.
 lang: de

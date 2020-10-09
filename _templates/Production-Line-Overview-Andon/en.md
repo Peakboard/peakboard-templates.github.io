@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Production Line Overview Andon
+title: production line overview andon
 description: 
   - This template gives an overview of a single production line with different stations. In addition, the performance of the different shifts, reports of the last activities as well as the OEE can be visualized. To use this template, you only need to replace the Timer Scripts with your data sources.
 lang: en

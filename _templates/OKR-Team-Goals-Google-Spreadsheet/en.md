@@ -1,6 +1,6 @@
 ---
 layout: article
-title: OKR Team Goals with Google Spreadsheet
+title: okr team goals with google spreadsheet
 description: 
   - OKR is a management method for linking the goals of each individual employee to those of the company. This template offers the possibility to display up to 4 Objectives and 3 Key Results. For this purpose, the respective data is loaded from a variable list. You can replace this variable list with another datasource, such as Google Spreadsheet or Excel, so that you can easily adapt it to your needs.
 lang: en

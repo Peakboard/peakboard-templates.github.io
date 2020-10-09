@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Overview of a Single Production Line
+title: overview of a single production line
 description: 
   - In this template, a single production line is visualized with classical metrics, such as target/actual comparison and overall equipment effectiveness. This allows a quick and clear overview of the current status of the order as well as the development of the OEE.
 lang: en

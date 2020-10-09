@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Monitoring Server Performance
+title: monitoring server performance
 description: 
   - Use this template to visualize all key metrics of your server performance and utilization in real time.
 lang: en

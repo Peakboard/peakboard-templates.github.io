@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Übersicht von Abflugzeiten am Beispiel des Stuttgarter Flughafens 
+title: übersicht von abflugzeiten am beispiel des stuttgarter flughafens 
 description: 
   - Dieses Template dient der Visualisierung von Abflug-APIs (=Schnittstellen) des Stuttgarter Flughafens. Drei Terminals mit den aktuellen Flugzeiten, sowie einer Übersicht der weiteren Flüge in den folgenden zwei Stunden und Verspätungen, werden visualisiert.
 lang: de

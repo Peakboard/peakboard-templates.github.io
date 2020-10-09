@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Interaktives Template zum Abhaken von Aufgaben mit SQL Datenbankanbindung 
+title: interaktives template zum abhaken von aufgaben mit sql datenbankanbindung 
 description: 
   - Dieses Template basiert auf einer SQL Datenbank und zeigt den aktuellen Status einer Maschine. Dadurch können Mitarbeiter ihren Fortschritt nachverfolgen und haben die Möglichkeit mithilfe eines Touchscreens abgeschlossene Arbeitsschritte als erledigt zu markieren. Über ein Script schreibt das Template beim Bedienen des Touchscreens zurück in die SQL Datenbank und meldet so den Abschluss eines Arbeitsschrittes.
 lang: de

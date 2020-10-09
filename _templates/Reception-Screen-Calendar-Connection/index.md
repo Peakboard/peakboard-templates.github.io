@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Empfangsbildschirm mit Microsoft Office 365 Kalenderanbindung
+title: empfangsbildschirm mit microsoft office 365 kalenderanbindung
 description: 
   - Mit dieser Vorlage können Sie einfach und schnell einen Empfangsbildschirm mit unterschiedlichen Terminen visualisieren. Hierfür wird ein Microsoft 365 Kalender als Datenquelle verbunden. Um diese Vorlage für Ihre Zwecke nutzen zu können, ersetzen Sie einfach das Firmenlogo, fügen Sie gegebenenfalls ein anderes Hintergrundbild ein und verbinden Sie Ihren Kalender. Eine Erklärung zur Anbindung Ihres Kalenders finden Sie weiter unten auf dieser Seite.
 lang: de

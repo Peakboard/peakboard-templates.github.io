@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Small Parts Picking
+title: small parts picking
 description: 
   - This visualization provides an overview of the current utilization of a warehouse. Variables are used as sample data and a script is executed to display an action. Replace the variables with your own data sources and remove the script to run it for your personal use case.
 lang: en

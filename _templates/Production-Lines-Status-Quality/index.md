@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Übersicht über zwei Produktionslinien in einer Halle
+title: übersicht über zwei produktionslinien in einer halle
 description: 
   - Dieses Template beinhaltet den Status von zwei Produktionslinien in einer Halle. Es zeigt die bereits produzierte Stückzahl und wie viele Teile zur Soll-Menge noch fehlen. Zusätzlich werden die Qualität durch die Anzeige von Fehlproduktionen angezeigt.
 lang: de

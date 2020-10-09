@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Small Parts Picking with SQL Connection
+title: small parts picking with sql connection
 description: 
   - This template is used to provide a better overview of the current utilization of a warehouse. A SQL data source is used for this purpose. To be able to use this template for your purposes, the Microsoft SQL Server Native Client must be installed. https://www.microsoft.com/en-us/download/details.aspx?id=50402
 lang: en

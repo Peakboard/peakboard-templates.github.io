@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Überwachung der Serverleistung
+title: überwachung der serverleistung
 description: 
   - Visualisieren Sie mit dieser Vorlage alle wichtigen Kennzahlen Ihrer Serverleistung und -auslastung in Echtzeit.
 lang: de

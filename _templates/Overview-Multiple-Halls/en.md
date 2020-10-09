@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Overview of multiple production halls 
+title: overview of multiple production halls 
 description: 
   - This template offers an overview of the most important key figures of several production halls. This includes information such as the status of the individual lines and meta information on the current orders, from OPC UA data for example.
 lang: en

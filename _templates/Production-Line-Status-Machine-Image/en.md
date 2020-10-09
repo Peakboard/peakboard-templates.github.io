@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Production Line Status with Machine Image
+title: production line status with machine image
 description: 
   - This template provides an overview of an entire production line. For this a drawing of different machines is used as background graphic, in order to provide a better clarity. This allows the current status of different stations to be recognized and any errors to be quickly corrected. Replace the static variables with your data sources in order to map your production line holistically in just a few steps.
 lang: en

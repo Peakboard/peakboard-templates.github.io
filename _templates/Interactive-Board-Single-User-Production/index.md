@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Interaktives Board für den einzelnen Arbeitsplatz
+title: interaktives board für den einzelnen arbeitsplatz
 description: 
   - Diese Vorlage dient als interaktives Board für die Einzelplatzfertigung. Durch die Verwendung eines Touch Screens an dem entsprechenden Arbeitsplatz, kann der jeweilige Mitarbeiter Probleme melden, Montagezeiten stoppen und sieht gleichzeitig, wie viele Teile für einen bestimmten Auftrag noch zu erledigen sind. Diese Informationen können an anderer Stelle zentral überblickt werden, um so die Produktion zu optimieren. Auf diese Weise kann eine Betriebsdatenerfassung (BDE) sehr einfach realisiert werden..
 lang: de

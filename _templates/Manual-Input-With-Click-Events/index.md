@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Vorlage für eine manuelle Eingabe mit Hilfe von Click Events
+title: vorlage für eine manuelle eingabe mit hilfe von click events
 description: 
   - Mit Peakboard können Sie sogenannte Click Events erstellen. In diesem Template bietet es die Möglichkeit, unterschiedliche Werte durch einen Klick auf die rechte "+"-Schaltfläche zu verändern.
 lang: de

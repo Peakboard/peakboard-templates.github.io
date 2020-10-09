@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Raumbelegung und Terminübersicht am Empfang
+title: raumbelegung und terminübersicht am empfang
 description: 
   - Diese Visualisierung dient dazu, einen Überblick über tagesaktuelle Termine und die entsprechende Raumbelegung zu erhalten. Verbinden Sie Ihren Microsoft 365 Kalender, tauschen Sie das Logo aus und passen Sie, falls nötig, das Wetter-Widget an, um die Visualisierung Ihren Bedürfnissen entsprechend anzupassen.
 lang: de

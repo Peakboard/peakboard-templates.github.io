@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Template for Manual Editing using Click Events
+title: template for manual editing using click events
 description: 
   - With Peakboard you can create so-called Click Events. In this template you can change different values by clicking on the right '+' button.
 lang: en

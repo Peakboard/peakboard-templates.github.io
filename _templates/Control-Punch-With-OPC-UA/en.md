@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Control of a Punch with OPC UA
+title: control of a punch with opc ua
 description: 
   - This template shows how to set up the communication between Peakboard and a punch using OPC UA.
 lang: en

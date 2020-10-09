@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Kleinteilekommissionierung
+title: kleinteilekommissionierung
 description: 
   - Diese Visualisierung gibt einen Überblick über die aktuelle Auslastung eines Lagers. Es werden Variablen als Beispieldaten verwendet und ein Skript wird ausgeführt, um eine Aktion anzuzeigen. Ersetzen Sie die Variablen durch Ihre eigenen Datenquellen und entfernen Sie das Skript, damit es für Ihren persönlichen Anwendungsfall ausgeführt wird.
 lang: de
