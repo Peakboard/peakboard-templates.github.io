@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Digitales Schwarzes Brett mit OneDrive Anbindung
+title: digitales schwarzes brett mit onedrive anbindung
 description: 
-  - Dieses Board zeigt einige Unternehmensinformationen an und hilft, Mitarbeiter über Neuigkeiten zu informieren. Alle News, Bilder und das PDF können über einen einzelnen OneDrive Order verwaltet werden. Mit diesem Template kannst du deine eigene Digital Signage Anwendung erstellen.
+  - Schwarzes Brett 2.0. Mitarbeiter auf einem digitalen Infoboard automatisiert auf dem Laufenden halten. Egal ob es dabei um allgemeine Mitarbeiterinformationen, einen Newsticker, den Speiseplan in der Mensa, Schichtpläne, Ankündigungen oder aber Raumbelegungspläne am Empfang geht, du bleibst hinsichtlich der Medienformate, Darstellung und Inhalte völlig flexibel. Alle News, Bilder und PDF-Dokumente können über einen OneDrive Order verwaltet werden. Mit diesem Template steht deiner individuellen Digital Signage Anwendung nichts mehr im Weg.
 lang: de
 weight: 2000
 isDraft: true
@@ -21,47 +21,47 @@ overview_data_sources:
 
 # mögliche datenquellen
 
-Dieses Template wurde mit Bilder und einer Excel Datei erstellt, welche in einem OneDrive Verzeichnis liegen. Dies ist aber nur ein möglicher Weg und dient lediglich als Beispiel. Sie können dieses Template beispielsweise auch mit folgenden Datenquellen verwenden: Google Spreadsheet, RSS-Feed, JSON, XML, CSV, OData, Web Services, REST-API, Microsoft Excel, Google Docs, MS SharePoint Lists, Dropbox, Microsoft OneDrive, Google Drive, Microsoft,SharePoint Document Libraries, Microsoft Teams Files, mit einem lokalen Dateiserver oder [viele weitere Wege](https://peakboard.com/datenanbindungen/).
+Das Template wurde beispielhaft mit Hilfe von Bildern und einer Excel Datei erstellt, die in einem OneDrive Verzeichnis liegen. Viele weitere Datenquellen sind denkbar, wie z.B. Google Spreadsheet, RSS-Feed, JSON, XML, CSV, OData, Web Services, REST-API, Microsoft Excel, Google Docs, MS SharePoint Lists, Dropbox, Microsoft OneDrive, Google Drive, Microsoft,SharePoint Document Libraries, Microsoft Teams Files, ein lokaler Dateiserver und [mehr](https://peakboard.com/datenanbindungen/).
 
 # so funktioniert's
 
-Eine generelle Einführung in Peakboard finden Sie in den [ersten Schritten](https://peakboard.rocks/erste-schritte). Wenn Sie wissen möchten, wie Sie eine Peakboard Box mit Ihrem Designer verbinden und eine Visualisierung übertragen, lesen Sie am besten folgenden [Artikel](https://peakboard.rocks/anschliessen). Zum Erstellen einer Visualisierung benötigen Sie den Peakboard Designer. Dieser kann kostenfrei [heruntergeladen](https://peakboard.com/peakboard-designer/?utm_campaign=templates&utm_medium=description_link&utm_source=templates_overview) werden.
+[Hier](https://peakboard.rocks/erste-schritte) findest du eine allgemeine Einführung in Peakboard. Wenn du wissen möchtest, wie du den Peakboard Designer mit deiner Peakboard Box verbindest und deine Visualisierung überträgst, hilft dir folgender [Artikel](https://peakboard.rocks/anschliessen) weiter. Hier kannst du dir den [Peakboard Designer](https://peakboard.com/peakboard-designer/?utm_campaign=templates&utm_medium=description_link&utm_source=templates_overview) kostenlos herunterladen.
 
-Um den Inhalt dieses Templates zu aktualisieren, kannst du die Dateien aus diesem [Github-Ordner](https://github.com/Peakboard/peakboard-templates.github.io/tree/master/_templates/Digital-Bulletin-Board-With-OneDrive/data-files) herunterladen. Im Anschluss musst du die Dateien an den gewünschten Zielort ablegen. Wähle aus einer der zahlreichen Cloud-Dienste aus oder füge sie direkt zur Visualisierung hinzu oder verwende einen sie als Dateien in deinem Netzwerk, alles ist möglich. Am einfachsten geht es mit einem der Cloud-Dienste.
+Lade dir die Dateien aus [Github](https://github.com/Peakboard/peakboard-templates.github.io/tree/master/_templates/Digital-Bulletin-Board-With-OneDrive/data-files) herunter, um den Inhalt des Templates zu aktualisieren. Lege im Anschluss die Dateien an den gewünschten Zielort ab. Du kannst deine Dateien z.B. in einem der zahlreichen Cloud-Dienste ablegen. So werden sie immer aktualisiert, wenn du auch die Dateien im jeweiligen Cloud-Dienst aktualisierst. Du kannst die Dateien aber auch direkt zur Visualisierung hinzufügen, indem du sie der Peakboard Datei hinzufügst.
 
-Wenn du ein Bild oder die angezeigte PDF-Datei ändern willst, müsst du nur eine Datei mit dem gleichen Namen hochladen, anschließend wird der Inhalt der neuen Datei angezeigt. So ist unser OneDrive Ordner aus:
+Wenn du ein Bild oder die angezeigte PDF-Datei ändern willst, lade einfach eine Datei mit demselben Namen hoch. So wir der Inhalt der neuen Datei angezeigt. Hier siehst du ein Beispiel für einen OneDrive Ordner:
 
 ![image_live](img/OneDrive-Data-Overview.png)
 
-Wenn du die Datei board-inhalte.xlsx öffnest, siehst du zwei Datenblätter. Das erste Blatt dient zur Pflege der Daten für die Mittagsmenüs. Du kannst die Zeilene einfach aktualisieren und jeweils das Datum, die Namen für die Mahlzeiten und einen Preis hinzufügen. Es werden immer die Mahlzeiten aus der Zeilte mit dem heutigen Datum angezeigt. Das zweite Blatt ermöglicht es, die Nachrichten zu aktualisieren. Es werden immer die letzten fünf Zeilen für die Visualisierung verwendet. So sieht die Excel Datei aus:
+Wenn du die Datei board-inhalte.xlsx öffnest, siehst du zwei Datenblätter. Mit dem ersten Blatt kannst du die Daten für die Mittagsmenüs pflegen. Die Zeilen aktualisierst du, indem du das neue Datum, die Namen der Gerichte und einen Preis hinzufügst. Angezeigt werden dabei immer die Gerichte, die mit dem aktuellen Datum versehen sind. Im zweiten Blatt kannst du die Nachrichten aktualisieren. Visualisiert werden dabei immer die letzten fünf Zeilen. So sieht die Excel Datei aus:
 
 ![image_live](img/Excel-Data-Structure.png)
 
-Nachdem du die Dateien in deinem gewünschten Ordner abgelegt und angepasst hast, musst du noch die Verbindung von Peakboard zu den Dateien herstellen. Dafür musst du im Peakboard Designer dieses Template öffnen und jeweils unter Data die beiden Datenquellen 'news_excel' und 'food_excel' aktualisieren. Wähle den gewünschten Dienst und die Datei aus und klicke auf 'Daten laden'.
+Nachdem du die Dateien in deinem gewünschten Ordner abgelegt und angepasst hast, stellst du noch die Verbindung von Peakboard zu den Dateien her. Öffne dazu dieses Template im Peakboard Designer und aktualisiere jeweils unter Data die beiden Datenquellen ‘news_excel’ und ‘food_excel’. Wähle den gewünschten Dienst und die Datei aus und klicke auf ‘Daten laden’.
 
 ![image_live](img/Excel-Data-Source-Selection.png)
 
-Nachdem du diesen Dialog geschlossen hast und alle benötigten Datenquellen und Ressourcen aktualisiert sind, solltest du deine Daten nach Drücken des 'Vorschau'-Buttons sehen können.
+Nachdem du diesen Dialog geschlossen hast und alle benötigten Datenquellen und Ressourcen aktualisiert sind, solltest du deine Daten nach Drücken des ‘Vorschau’-Buttons sehen können.
 
 ## wetter widget aktualisieren
+Wenn du das Wetter Widget nicht verwenden möchtest, kannst du das Element im Peakboard Designer einfach aus der Visualisierung löschen. Wähle es dafür mit einem Rechtsklick aus und klicke auf ‘Löschen’.
 
-Wenn du dieses Wetter Widget nicht verwenden möchtest, kannst du es einfach im Peakboard Designer das Element aus der Visualisierung löschen. Wählen es dafür mit einem Rechtsklick aus und klicke auf 'Löschen'.
-
-Wenn du das Wetter Widget verwenden möchtest, kannst du dir ein eigenes Widget mit deiner Stadt unter folgender Adresse erstellen: [https://weatherwidget.io/](https://weatherwidget.io/).
+Wenn du das Wetter Widget verwenden möchtest, kannst du dir dein eigenes Widget mit deiner Stadt unter folgender Adresse erstellen: [https://weatherwidget.io/](https://weatherwidget.io/).
 
 Gib die Parameter wie Stadt, Sprache und die Einheit an.
 
-Wenn du mit den Optionen zufrieden bist, kannst du auf den Button 'Get Code' klicken. Im geöffneten Fenster findest du nun den fertigen Code für dein persönliches Widget. Kopiere diesen Code indem du einfach auf den Button 'Copy to Clipboard' klickst.
+Wenn du mit den Optionen zufrieden bist, klicke auf den Button ‘Get Code’. Im geöffneten Fenster findest du nun den fertigen Code für dein persönliches Widget. Kopiere diesen Code, indem du einfach auf den Button ‘Copy to Clipboard’ klickst.
 
-Gehe nun zurück in den Peakboard Designer und wähle das Control 'Web widget' in der Sidebar aus oder klicke direkt auf das Wetter Widget. 
+Gehe nun zurück in den Peakboard Designer und wähle das Control ‘Web widget’ in der Sidebar aus oder klicke direkt auf das Wetter Widget.
 
 ![image_live](img/select_weather_widget.gif)
 
-In der weiteren Sidebar auf der rechten Seite findest du nun einige Parameter zu diesem Element. Klicke auf den '...' Button im Punkt 'HTML-Code' (2). In dem geöffneten Fenster kannst du nun den bestehenden Code durch deinen erstellten Code ersetzen (3). 
+In der weiteren Sidebar auf der rechten Seite findest du nun einige Parameter zu diesem Element. Klicke auf den ‘…’ Button im Punkt ‘HTML-Code’ (2). In dem geöffneten Fenster kannst du nun den bestehenden Code durch deinen erstellten Code ersetzen (3).
 
 ![image_live](img/web_widget_code.png)
 
-# bildnachweis
+
+## bildnachweis
 
 Die verwendeten Bilder stammen von [Freepik](http://freepik.com/) und [Unsplash](https://unsplash.com/). 
 
