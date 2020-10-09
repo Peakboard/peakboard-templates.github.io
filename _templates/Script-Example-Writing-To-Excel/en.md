@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script Example for Writing to Excel
+title: script example for writing to excel
 description: 
   - This script example shows you how to use an "ExecuteNonQuery" statement to write data to Excel via an ODBC connection.
 lang: en

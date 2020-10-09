@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script Example for an Interactive Screen Change
+title: script example for an interactive screen change
 description: 
   - In this template we will show you how to switch back and forth between several screens with the help of buttons.
 lang: en

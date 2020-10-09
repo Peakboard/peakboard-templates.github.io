@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script-Beispiel für das Schreiben nach Excel
+title: script-beispiel für das schreiben nach excel
 description: 
   - Dieses Script-Beispiel zeigt Ihnen, wie Sie ein "ExecuteNonQuery"-Statement verwenden können, um über eine ODBC Verbindung Daten in Excel schreiben zu können.
 lang: de

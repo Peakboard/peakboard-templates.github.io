@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script Example for a Image Change
+title: script example for a image change
 description: 
   - This template shows how you can interactively exchange images from local or web resources.
 lang: en

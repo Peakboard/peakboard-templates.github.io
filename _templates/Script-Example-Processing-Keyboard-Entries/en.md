@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script Example for Processing Keyboard Entries
+title: script example for processing keyboard entries
 description: 
   - This template shows how to handle keyboard entries in Peakboard.
 lang: en

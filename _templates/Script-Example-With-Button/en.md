@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script Example with Button
+title: script example with button
 description: 
   - With this script example you can learn how to work with a button in Peakboard.
 lang: en

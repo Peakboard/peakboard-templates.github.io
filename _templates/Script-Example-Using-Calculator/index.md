@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script-Beispiel anhand eines einfachen Taschenrechners
+title: script-beispiel anhand eines einfachen taschenrechners
 description: 
   - Diese Vorlage zeigt, wie Sie einen einfachen Taschenrechner (Addition und Subtraktion) erstellen und verwenden können.
 lang: de

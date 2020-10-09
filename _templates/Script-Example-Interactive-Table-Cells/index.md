@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script-Beispiel für interaktive Tabellenzellen
+title: script-beispiel für interaktive tabellenzellen
 description: 
   - Durch dieses Script-Beispiel können Sie zwischen mehreren Bildschirmen wechseln und diese somit verwalten, indem Sie auf eine interaktive Tabellenzelle klicken.
 lang: de
