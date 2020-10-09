@@ -5,7 +5,7 @@ description:
   - Keep control of the server racks in your server room at all times with this template. Use it as an effective monitoring system to display the current server load. Monitor all servers in use, react much faster to potential problems and thus increase availability. Use sensors to measure the temperature or integrate an alarm system.
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: IT-Server-Rack-Overview
 category:
   - Administration

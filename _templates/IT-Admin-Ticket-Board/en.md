@@ -5,7 +5,7 @@ description:
   - You work in the IT department and want a quick overview of the current target/actual status of open and closed tickets? Or you would like to have a ticket overview of the last 12 months e.g. via bar chart? No problem with this template. Just connect the template to your own ticket system and keep track of all support and service requests at any time. Manage tickets efficiently and ensure deadlines are being kept. The template is also customizable  offering many more visualization options. Simply download and get started!
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: IT-Admin-Ticket-Board
 category:
   - Administration

@@ -5,7 +5,7 @@ description:
   - Diese Vorlage visualisiert in einer kalenderähnlichen Tile-Ansicht sowohl die Sicherheit als auch Qualität im Unternehmen und trägt damit zu einem kontinuierlichen Verbesserungsprozess (Kaizen) bei. Das Sicherheitskreuz macht auf nur einen Blick vergangene Arbeitsunfälle je nach Schweregrad ersichtlich, während das Qualitäts-Q der Darstellung der Produktqualität dient - für ein verbessertes Qualitätsmanagement im Produktionsumfeld. Via Touchscreen oder Maus hast du dabei die Möglichkeit, die einzelnen Kacheln anzutippen, die Werte anzupassen und entsprechend abzuspeichern. So erhalten Führungskräfte und Mitarbeiter direkt am Shopfloor Übersicht und Transparenz über Arbeitssicherheit und Qualitätsentwicklung.
 lang: de
 weight: 2000
-isDraft: true
+isDraft: false
 ref: Shopfloor-Interactive-Safety-Cross-Quality-Q
 category:
   - Shopfloor

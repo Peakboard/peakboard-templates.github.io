@@ -5,7 +5,7 @@ description:
   - In a calendar-like tile view this template gives an overview of the safety and quality in the organization contributing to a continuous improvement process (kaizen). The safety cross visualizes accidents and severity of injury at the workplace. The quality Q displays product quality - for an improved quality management in the manufacturing area. Adjust and save the values of individual tiles via touch screen or mouse. This will give both managers and workers a transparent overview of the safety, efficiency and productivity at the shopfloor.
 lang: en
 weight: 2000
-isDraft: true
+isDraft: false
 ref: Shopfloor-Interactive-Safety-Cross-Quality-Q
 category:
   - Shopfloor
