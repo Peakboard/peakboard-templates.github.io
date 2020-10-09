@@ -1,8 +1,8 @@
 ---
 layout: article
-title: IT Serverübersicht – Behalte deine Server-Racks im Blick
+title: IT server monitoring – serverüberwachung in echtzeit
 description: 
-  - Dieses Template bietet die Möglichkeit mit Hilfe einer übersichtlichen Darstellung aller Serverschränke deinen Serverraum im Blick zu behalten. Dies steigert die Verfügbarkeit, denn man kann früher reagieren wenn ein Problem besteht. Eine einfache Überwachung aller genutzten Server. Sensoren können die Temperatur anzeigen, es wäre auch möglich ein Alarmsystem zu integrieren und so noch mehr Schutz zu bieten. Mit diesem Monitoring-Tool wird die Serverauslastung in Echtzeit dargestellt.
+  - Mit diesem Template behältst du die Serverschränke in deinem Serverraum jederzeit im Blick. So hast du ein übersichtliches Monitoring-Tool zur Darstellung der aktuellen Serverauslastung. Überwache ganz einfach alle genutzten Server, reagiere viel schneller auf potentielle Probleme und steigere dadurch die Verfügbarkeit. Über Sensoren kannst du dir außerdem die Temperatur anzeigen lassen, ebenso ist die Integration eines Alarmsystems möglich.
 lang: de
 weight: 1000
 isDraft: true
@@ -20,4 +20,4 @@ overview_data_sources:
 
 # mögliche datenquellen
 
-Dieses Template verwendet einfache Peakboard Variablenlisten als Datenquelle. Du würdest natürlich direkt deine Systeme anzapfen damit auch die richtigen Daten ankommen. Dafür könntest du z.B. dieses Systeme und Formate verwenden: JSON, XML, CSV, REST-API, ODBC, MS SQL Server, MS Access, Azure, Oracle, MySQL, PostgreSQL, MongoDB und [vieles mehr](https://peakboard.com/datenanbindungen/).
+Dieses Template verwendet einfache Peakboard Variablenlisten als Datenquelle. Greife direkt auf deine Systeme zu. Folgende Systeme und Formate kommen u.a. in Frage: JSON, XML, CSV, REST-API, ODBC, MS SQL Server, MS Access, Azure, Oracle, MySQL, PostgreSQL, MongoDB und [viele mehr](https://peakboard.com/datenanbindungen/).

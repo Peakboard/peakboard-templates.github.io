@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Interactive Shopfloor Board - Adjust your safety cross or quality Q with a single touch
+title: interactive dashboard for your shopfloor management - safety cross and quality q as lean management tools
 description: 
-  - With this template you have the possibility to get an overview of security and quality at a glance. The whole thing works with a so called TileView and allows the user to touch each single tile with a touch screen or mouse. Afterwards he can adjust the value and save the whole thing. This way, managers and employees always have an overview of occupational safety and quality development directly on the store floor.
+  - In a calendar-like tile view this template gives an overview of the safety and quality in the organization contributing to a continuous improvement process (kaizen). The safety cross visualizes accidents and severity of injury at the workplace. The quality Q displays product quality - for an improved quality management in the manufacturing area. Adjust and save the values of individual tiles via touch screen or mouse. This will give both managers and workers a transparent overview of the safety, efficiency and productivity at the shopfloor.
 lang: en
 weight: 2000
 isDraft: true
@@ -20,4 +20,4 @@ overview_data_sources:
 
 # possible data sources
 
-This board was created with a Peakboard variable list. This allows easy reading and writing of the values directly via the touch screen. It would also be possible to use this template with other data sources and store the entered values in another system. This could be: MS SQL Server, MS Access, MS Azure SQL, Oracle Database, MySQL, PostgreSQL, MongoDB or [many more](https://peakboard.com/en/data-connections/).
+This board was created with a Peakboard variable list allowing for an easy reading and writing of the values directly via touch screen. Use the template also with different data sources and save values in a different system. Possible data sources are: MS SQL Server, MS Access, MS Azure SQL, Oracle Database, MySQL, PostgreSQL, MongoDB and [many more](https://peakboard.com/en/data-connections/).

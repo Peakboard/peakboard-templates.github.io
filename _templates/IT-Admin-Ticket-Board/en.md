@@ -1,8 +1,8 @@
 ---
 layout: article
-title: IT-Admin-Ticket-Board
+title: IT ticket system – show the most important tickets in real-time by priority
 description: 
-  - Quickly know how many tickets are still open, or how many have already been completed this month? No problem with this template. Simply connect to your own ticket system and always keep track of all urgent support requests. This gives you an overview and increases the satisfaction of your colleagues. Important tickets no longer fall by the wayside. This simplifies ticket management. You can probably think of many more important information that you could put into this template, just download and modify it!
+  - You work in the IT department and want a quick overview of the current target/actual status of open and closed tickets? Or you would like to have a ticket overview of the last 12 months e.g. via bar chart? No problem with this template. Just connect the template to your own ticket system and keep track of all support and service requests at any time. Manage tickets efficiently and ensure deadlines are being kept. The template is also customizable  offering many more visualization options. Simply download and get started!
 lang: en
 weight: 1000
 isDraft: true
@@ -21,4 +21,4 @@ overview_data_sources:
 
 # possible data sources
 
-This template uses an Excel data source to simulate a connection to a ticket system. In a real scenario, the data would of course be pulled directly from a ticket system via an API. An API is available for almost every common ticket system, we use Zendesk internally but also Jira, Jira Service Desk, Bugzilla, Redmine or others should not be a problem. For this you can use our standard interfaces such as JSON, XML, CSV, OData, REST API. But also with database based systems this would be possible: ODBC, MS SQL Server, Oracle, MySQL, PostgreSQL, MongoDB and [many more](https://peakboard.com/en/data-connections/).
+This template simulates the connection to a ticket system via an Excel data source. Via an API you can pull the data directly to your helpdesk, such as Zendesk, Jira, Jira Service Desk, Bugzilla, Redmine or many others. Use standard interfaces such as JSON, XML, CSV, OData, REST-API. Database based systems are also possible, like ODBC, MS SQL Server, Oracle, MySQL, PostgreSQL, MongoDB and [many more](https://peakboard.com/en/data-connections/).

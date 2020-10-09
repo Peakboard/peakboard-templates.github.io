@@ -1,8 +1,8 @@
 ---
 layout: article
-title: gastronomy ordering system - order drinks and snacks directly at the table with a touchscreen
+title: interactive ordering system – order drinks and snacks directly at the table via touch screen
 description: 
-  - This template offers the possibility to order a table at each table with the help of a touch screen. Quasi a digital menu. This offers an uncomplicated possibility to establish an ordering system and further services could be connected. Currently the entered order is simply sent to an e-mail address, very simple. Simply adjust drinks, food and prices, set up the monitor and off you go.
+  - With this template, restaurant customers receive the menu as an interactive dashboard with integrated ordering system. Also connect further services to establish an easy online or POS ordering system. The order is sent directly by e-mail. Easily change and adjust drinks, food and prices at any time. All you need is a monitor to get started.
 lang: en
 weight: 800
 isDraft: true
@@ -20,15 +20,14 @@ overview_data_sources:
 
 # possible data sources
 
-This template uses simple variable lists as data source. Variable lists is the possibility to store simple parameters directly on the box. You could also create this visualization in many other ways and use other data sources that are easier to manage. For example: JSON, XML, CSV, ODBC, Microsoft SQL Server, MS Access, MySQL, Microsoft Excel, Google Docs / Spreadsheet, Microsoft SharePoint lists and [much more](https://peakboard.com/en/data-connections/).
+This template uses simple variable lists as data source allowing you to save parameters directly on the Peakboard Box. You can freely decide about the way of visualization and the data to be integrated. Other possible data sources are for example: JSON, XML, CSV, ODBC, Microsoft SQL Server, MS Access, MySQL, Microsoft Excel, Google Docs / Spreadsheet, Microsoft SharePoint lists and [many more](https://peakboard.com/en/data-connections/).
 
 # how it works
 
-Adjust the variable 'MailReceiver' under Variables and enter your e-mail. Every order will be sent to this address when someone clicks on 'Order'. With the help of the variable lists 'Products0', 'Products1', 'Products2' and 'Products3' you can enter the desired products including prices. With the variable 'TableNumber' you can assign an individual table number for each screen. 
+"Adjust the variable ‘MailReceiver’ under Variables and enter your e-mail address. Every order will be sent directly to this address as soon as a customer clicks on ‘Order’. With the help of the variable lists ‘Products0’, ‘Products1’, ‘Products2’ and ‘Products3’ you can enter the desired products including their prices. Assign an individual table number for each screen with the variable ‘TableNumber’. 
 
 ![](img/change-email-variable.png)
 
-With multiple screens, it makes all the more sense to store and manage drinks and food in a cloud service using a central data source, such as Excel.
-
+With multiple screens, you may want to store and manage drinks and food in a cloud service using a central data source, such as an Excel sheet." 
 
 Background image [designed by Mrsiraphol / Freepik](http://www.freepik.com)
