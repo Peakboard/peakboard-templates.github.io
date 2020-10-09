@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Subway Plan Stuttgart
+title: subway plan stuttgart
 description: 
   - This board shows a departure board for the subway / Metro in Stuttgart (Germany). The API used in the board is only suitable for the Stuttgart subway.
 lang: en
