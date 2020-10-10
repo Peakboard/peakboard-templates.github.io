@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script Example with Animations
+title: script example with animations
 description: 
   - With this script example you can learn how to use animations in Peakboard.
 lang: en

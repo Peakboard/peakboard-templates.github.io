@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script-Beispiel für das Arbeiten mit einem zeitgesteuerten Script
+title: script-beispiel für das arbeiten mit einem zeitgesteuerten script
 description: 
   - In dieser Vorlage lernen Sie, wie Sie ein zeitgesteuertes Script verwenden, das abhängig von der Tageszeit unterschiedliche Werte wiedergibt.
 lang: de

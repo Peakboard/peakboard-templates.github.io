@@ -1,11 +1,11 @@
 ---
 layout: article
-title: IT-Server-Rack-Overview
+title: IT server monitoring – serverüberwachung in echtzeit
 description: 
-  - Check all your racks in at you server room with this beautiful overview of all your servers and racks. 
+  - Mit diesem Template behältst du die Serverschränke in deinem Serverraum jederzeit im Blick. So hast du ein übersichtliches Monitoring-Tool zur Darstellung der aktuellen Serverauslastung. Überwache ganz einfach alle genutzten Server, reagiere viel schneller auf potentielle Probleme und steigere dadurch die Verfügbarkeit. Über Sensoren kannst du dir außerdem die Temperatur anzeigen lassen, ebenso ist die Integration eines Alarmsystems möglich.
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: IT-Server-Rack-Overview
 category:
   - Administration
@@ -17,3 +17,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+# mögliche datenquellen
+
+Dieses Template verwendet einfache Peakboard Variablenlisten als Datenquelle. Greife direkt auf deine Systeme zu. Folgende Systeme und Formate kommen u.a. in Frage: JSON, XML, CSV, REST-API, ODBC, MS SQL Server, MS Access, Azure, Oracle, MySQL, PostgreSQL, MongoDB und [viele mehr](https://peakboard.com/datenanbindungen/).

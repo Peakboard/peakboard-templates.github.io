@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Übersichtliche Statusanzeige mehrerer Produktionslinien mit SQL Datenbankanbindung 
+title: übersichtliche statusanzeige mehrerer produktionslinien mit sql datenbankanbindung 
 description: 
   - Dieses Cockpit-Dashboard basiert auf einer SQL-Datenbank und liefert eine praktische Übersicht über mehrere Produktionslinien. Außerdem zeigt es sowohl die einzelnen Arbeitsschritte der jeweiligen Produktionslinie, als auch den Fortschritt der einzelnen Arbeitsschritte an.
 lang: de

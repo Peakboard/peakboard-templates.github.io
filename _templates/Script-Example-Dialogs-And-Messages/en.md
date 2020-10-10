@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script Example for Dialogs and Messages
+title: script example for dialogs and messages
 description: 
   - With this script example you can create and use different dialogs and messages.
 lang: en

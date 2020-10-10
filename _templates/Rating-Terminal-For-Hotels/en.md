@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Hotel rating terminal with e-mail notification
+title: hotel rating terminal with e-mail notification
 description: 
   - Use Peakboard to give your customers or visitors the opportunity to rate you. Get your reviews directly by e-mail.
 lang: en

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Andon Single Station Overview
+title: andon single station overview
 description: 
   - This template gives you an overview of several workstations to react quickly to possible problems at a single station. This template can be used in production (make-to-order production) and in assembly.
 lang: en

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Digital Signage für Ihre Unternehmenskantine oder die Gastronomie
+title: digital signage für deine unternehmenskantine oder die gastronomie
 description: 
   - Diese Vorlage zeigt, wie sie mit individuellen Bildern eine Digital Signage Anwendung kreieren können. Laden Sie Ihre bevorzugten Bilder in die Visualisierung und definieren Sie welches Bild wann angezeigt werden soll. Ihre Abbildungen und Uhrzeiten können Sie sowohl über den Peakboard Designer als auch über die API (Webinterface oder Peakboard App) verwalten.
 lang: de

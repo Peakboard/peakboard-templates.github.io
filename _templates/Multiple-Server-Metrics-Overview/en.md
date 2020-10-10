@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Central monitoring of multiple servers
+title: central monitoring of multiple servers
 description: 
   - With this template you can easily keep an overview of your servers. It displays information from up to three servers with the most important key figures such as CPU, disk space, RAM and network utilization. In addition, the dashboard also includes the runtime, the last reboot and the last backup. The data can be read from server logs or directly via an existing API.
 lang: en

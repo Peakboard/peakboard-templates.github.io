@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script-Beispiel zum Runden von Zahlen
+title: script-beispiel zum runden von zahlen
 description: 
   - Dieses Beispiel zeigt, wie Sie mit Zahlen arbeiten, diese Runden und in einer Tabelle anzeigen können.
 lang: de

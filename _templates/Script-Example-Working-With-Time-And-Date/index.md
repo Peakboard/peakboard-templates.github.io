@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script-Beispiel zum Arbeiten mit Zeit und Datum
+title: script-beispiel zum arbeiten mit zeit und datum
 description: 
   - Diese Vorlage zeigt Ihnen, wie Sie mit Zeitobjekten arbeiten können. Lernen Sie, wie Sie ein Datum hinzufügen, manipulieren, vergleichen oder formatieren können.
 lang: de

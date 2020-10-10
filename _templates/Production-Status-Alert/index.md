@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Produktionsstatus Warntafel
+title: produktionsstatus warntafel
 description: 
   - Dieses template zeigt den aktuellen Status der Produktion an und zeigt bei Fehlern eine deutliche Warnmeldung an. So können Fehler schnell entdeckt und behoben werden.
 lang: de

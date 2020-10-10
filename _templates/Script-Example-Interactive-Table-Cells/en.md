@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script Example for Interactive Table Cells
+title: script example for interactive table cells
 description: 
   - This script example allows you to switch between and manage multiple screens by clicking an interactive table cell.
 lang: en

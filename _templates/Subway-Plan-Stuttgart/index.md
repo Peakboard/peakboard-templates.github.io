@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Abfahrtsplan Station Stuttgart
+title: abfahrtsplan station stuttgart
 description: 
   - Dieses Template zeigt einen Abfahrtsplan einer Haltestelle in Stuttgart. Die Schnittstelle die verwendet wird funktioniert nur für Stuttgart.
 lang: de

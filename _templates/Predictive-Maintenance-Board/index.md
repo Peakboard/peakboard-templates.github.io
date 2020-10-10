@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Board für die vorausschauende Instandhaltung (Predictive Maintenance)
+title: board für die vorausschauende instandhaltung (predictive maintenance)
 description: 
   - Dieses Template wird in der Instandhaltung eingesetzt. Es informiert über Maschinenlaufzeiten und über den Zeitpunkt des nächsten erwarteten Maschinenausfalls. Außerdem gibt es aktuelle Sensordaten, wie z.B. Temperatur oder Vibrationen je Linie wieder. Auf der rechten Seite sind die aktuellen und zukünftigen Audits aufgelistet.
 lang: de

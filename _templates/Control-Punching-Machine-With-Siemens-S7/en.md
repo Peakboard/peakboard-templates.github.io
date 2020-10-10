@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Control of a punching machine with Siemens S7
+title: control of a punching machine with Siemens S7
 description: 
   - This template shows how to set up the communication between Peakboard and a punch using a Siemens S7 controller.
 lang: en

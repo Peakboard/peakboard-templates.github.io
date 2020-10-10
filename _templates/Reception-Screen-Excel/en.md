@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Reception Screen with Excel Connection
+title: reception screen with excel connection
 description: 
   - This template is another welcome screen for the reception area or lobby. The appointments are maintained via an Excel file.
 lang: en

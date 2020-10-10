@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Detaillierte Übersicht über eine Produktionslinie
+title: detaillierte übersicht über eine produktionslinie
 description: 
   - Diese Vorlage zeigt alle relevanten Informationen einer einzelnen Produktionslinie an. Es beinhaltet unter anderem MES Daten, Bestellinformationen und Mitarbeiter News. Zusätzlich wird der Status der anderen Linien vereinfacht dargestellt. Verbinden Sie einfach die Datenquellen Ihrer Wahl, wie z. B. aus SAP oder OPC UA.
 lang: de

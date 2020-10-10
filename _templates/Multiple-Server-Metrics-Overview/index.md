@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Zentrale Überwachung mehrerer Server
+title: zentrale überwachung mehrerer server
 description: 
   - Mit diesem Template behalten Sie den Überblick Ihre Server. Es werden Informationen von bis zu drei Servern mit den wichtigsten Kennzahlen wie CPU, Speicherplatz, RAM und Netzwerkauslastung angezeigt. Außerdem beinhaltet das Dashboard die Laufzeit, den letzten Neustart und das letzte Backup. Die Daten können aus Serverprotokollen oder direkt über eine vorhande API ausgelesen werden.
 lang: de

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Overview of a Truck Loading
+title: overview of a truck loading
 description: 
   - This visualization makes it possible to give an overview of current truck loadings for each loading gate in warehouse logistics. The forklift drivers thus always know how many goods have already been loaded, how many are still outstanding and within what time the loading must be completed. Additional information, such as possible hazard classes, weight classes, forwarding agents, etc., can also be mapped, and the corresponding data can be obtained from SAP, for example.
 lang: en

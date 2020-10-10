@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Room Occupancy and Appointment Overview at the Reception Desk
+title: room occupancy and appointment overview at the reception desk
 description: 
   - This visualization provides an overview of current appointments and the corresponding room occupancy. Connect your Microsoft 365 calendar, change the logo and, if necessary, adjust the weather widget to adapt the visualization to your needs.
 lang: en

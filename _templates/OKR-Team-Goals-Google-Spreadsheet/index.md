@@ -1,6 +1,6 @@
 ---
 layout: article
-title: OKR Teamziele aus Google Spreadsheet
+title: okr teamziele aus google spreadsheet
 description: 
   - Bei der englischen Bezeichnung OKR handelt es sich um eine Management Methode, um die Ziele eines jeden einzelnen Mitarbeiters mit denen des Unternehmens zu verbinden. Diese Vorlage bietet die Möglichkeit, bis zu 4 Objekte (Objectives) und je 3 Schlüsselresultate (Key Results) anzeigen zu lassen. Hierfür werden die jeweiligen Daten aus einer Variablenliste geladen. Sie können diese Variablenliste durch eine andere Datenquelle, wie z.B. Google Spreadsheet oder Excel ersetzen, sodass Sie die Datenquelle für Ihre Bedürfnisse anpassen können.
 lang: de

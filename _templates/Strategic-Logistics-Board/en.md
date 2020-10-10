@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Strategic Logistics Dashboard
+title: strategic logistics dashboard
 description: 
   - This template provides a complete overview of the most important key figures in warehouse logistics. Keep an eye on KPIs such as delivery reliability, complaint rate, tonnage, or throughput. Due to the simple visualization, reasons for complaints are easily visible and problems can be directly addressed. This template gets its data from an Excel file. Alternatively, other data sources such as SAP or SQL could be used.
 lang: en

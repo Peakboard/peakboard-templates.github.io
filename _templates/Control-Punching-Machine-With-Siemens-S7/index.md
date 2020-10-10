@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Steuerung einer Stanze mittels Siemens S7
+title: steuerung einer stanze mittels Siemens S7
 description: 
   - Dieses Template zeigt, wie Sie die Kommunikation zwischen Peakboard und einer Stanze, mit Hilfe einer Siemens S7 Steuerung, einrichten können.
 lang: de

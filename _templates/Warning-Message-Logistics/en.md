@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Warning Message in Logistics
+title: warning message in logistics
 description: 
   - This template gives the order picker a quick overview of the most important stock placements and removals and warns of problems with a red flashing display. By adding your data sources and customizing the script, you can use this template to suit your needs.
 lang: en

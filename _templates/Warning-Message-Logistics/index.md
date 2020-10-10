@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Warnmeldung in der Logistik
+title: warnmeldung in der logistik
 description: 
   - Diese Vorlage gibt dem Kommissionierer einen schnellen Überblick über die wichtigsten Ein- und Auslagerungen und warnt bei Problemen durch eine rot aufblinkende Anzeige. Indem Sie Ihre Datenquellen hinzufügen und das Skript anpassen, können Sie diese Vorlage für Ihre Bedürfnisse verwenden.
 lang: de

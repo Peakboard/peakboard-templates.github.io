@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Übersicht über eine Produktionslinie mit Status und Qualität
+title: übersicht über eine produktionslinie mit status und qualität
 description: 
   - Diese Vorlage bietet die Möglichkeit, einige wichtige Metriken einer einzelnen Produktionslinie einfach und unkompliziert abzubilden. Diese sind beispielsweise das Qualitätslevel des aktuellen Zyklus, die Zykluslänge oder die Gesamtanlageneffektivität. Durch das Ersetzen des Timer-Scripts sowie der Variablen, können Sie diese Visualisierung für Ihre Zwecke nutzen.
 lang: de

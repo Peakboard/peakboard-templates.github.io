@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Produktionslinienüberblick mit Andon Anzeigen
+title: produktionslinienüberblick mit andon anzeigen
 description: 
   - Diese Vorlage gibt einen Überblick über eine einzelne Produktionslinie mit unterschiedlichen Stationen. Zusätzlich können die Leistung der verschiedenen Schichten, Meldungen der letzten Vorfälle, sowie die GAE visualisiert werden. Um dieses Template verwenden zu können, müssen Sie lediglich die Timer Scripte mit Ihren Datenquellen ersetzen
 lang: de

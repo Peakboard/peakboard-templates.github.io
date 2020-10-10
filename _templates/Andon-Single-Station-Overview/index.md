@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Andon-Übersicht einzelner Arbeitsschritte
+title: andon-übersicht einzelner arbeitsschritte
 description: 
   - Mit diesem Template überblicken Sie mehrere Arbeitsstationen um schnell auf mögliche Probleme an einem einzelnen Arbeitsplatz zu reagieren. Dieses Template kann sowohl in der Produktion (Einzelfertigung) als auch in der Montage verwendet werden.
 lang: de

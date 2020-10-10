@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Reception Screen with Microsoft Office 365 Calendar Connection
+title: reception screen with microsoft office 365 calendar connection
 description: 
   - With this template you can easily and quickly visualize a reception screen with different appointments. For this a Microsoft 365 calendar is connected as data source. To be able to use this template for your purposes, simply replace the company logo, insert a different background image if necessary and connect your calendar. An explanation of how to connect your calendar can be found more detailed below.
 lang: en

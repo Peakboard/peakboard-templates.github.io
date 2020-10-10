@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Übersicht über mehrere Produktionslinien
+title: übersicht über mehrere produktionslinien
 description: 
   - Dieses Template bietet eine Übersicht über fünf Produktionslinien in einer Produktionshalle. Es werden Variablenlisten als Datenquellen verwendet, diese können Sie durch Ihre persönlichen Datenquellen ersetzen (z. B. OPC UA). Mit Hilfe der Funktion 'Bedingte Formatierung' wird auf den aktuellen Status jeder Linie reagiert und die Elemente entsprechend eingefärbt.
 lang: de

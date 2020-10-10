@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Interactive template with tick off option for worksteps – based on SQL data
+title: interactive template with tick off option for worksteps – based on sql data
 description: 
   - This template is based on a SQL database and shows the current status of a machine. It enables employees to track their progress and to mark finished work steps as completed using a touch screen. When the touch screen is operated, the template writes back to the SQL database via a script and thus reports the completion of a work step.
 lang: en
