@@ -21,6 +21,8 @@ overview_data_sources:
 ---
 # how it works
 
+This template uses the Forcam [ForceBridge API](https://docs.forcebridge.io/).
+
 Adjust the URLs for the API calls to your system. You must do this for all 9 API calls.
 
 ![](img/forcam-edit-json-call-url.png)

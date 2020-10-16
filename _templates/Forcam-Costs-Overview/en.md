@@ -20,6 +20,8 @@ overview_data_sources:
 
 # how it works
 
+This template uses the Forcam [ForceBridge API](https://docs.forcebridge.io/).
+
 To connect this board to your Forcam system, you must first configure the URLs of the JSON calls and the Forcam API. You will have to do this for all 5 calls. The call 'Current_Times' (3) is disabled because it needs the operation ID from another call first. After the ID is there the call is executed.
 
 ![](img/forcam-call-url.png)
