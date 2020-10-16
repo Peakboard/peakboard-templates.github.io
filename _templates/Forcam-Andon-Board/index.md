@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Forcam Andon Board mit ForceBridge API
+title: FORCAM andon-board mit FORCAM FORCE bridge API
 description: 
-  - Diese Board verwendet eine Anbindung an die ForceBridge API von Forcam. Es werden zu drei Workplaces jeweils Werte zur Operation und zur Gesamtanlageneffektivität (GAE / OEE) von der API abgerufen und in Form eines Andon Dashboards dargestellt. 
+  - In der Produktion wird ein Andon-Board als visuelles Monitoring am Shopfloor eingesetzt, um den Produktionsstatus einer Produktionslinie bzw. eines Produktionssystems darzustellen.  Fertigungsprozesse können so ganz einfach optimiert werden. Dieses Template verwendet eine Anbindung an FORCAM FORCE, der IT-Plattform für das industrielle Internet der Dinge (IIoT) von FORCAM. Es werden drei Workplaces in Echtzeit visualisiert. Die Prozessdaten und Daten zur Gesamtanlageneffektivität (GAE / OEE) werden über die FORCE Bridge API von FORCAM abgerufen und als Andon Dashboard dargestellt. 
 lang: de
 weight: 2000
-isDraft: true
+isDraft: false
 ref: Forcam-Andon-Board
 category:
   - Forcam
@@ -23,14 +23,14 @@ overview_data_sources:
 
 Dieses Template verwendet die Forcam [ForceBridge API](https://docs.forcebridge.io/).
 
-Passe jeweils bei den API calls die URLs auf dein System an. Dies musst du für alle 9 API Calls durchführen.
+Passe bei den API Calls die jeweilige URL an dein System an (in Summe sind es 9 API Calls). 
 
 ![](img/forcam-edit-json-call-url.png)
 
- Nun musst du die Authentifizierung anpassen und deine Token URL und jeweils deine Client ID und deinen Client Secret anpassen. Wenn du einen neuen Call an die API anlegen willst, kannst du bei der Authentifizierung immer das Forcam Preset auswählen.
+Passe anschließend die Authentifizierung, deine Token URL und jeweils deine Client ID und deinen Client Secret an. Wenn du einen neuen Call an die API anlegen willst, kannst du bei der Authentifizierung immer das FORCAM Preset auswählen. 
 
- ![](img/forcam-edit-authentication.png)
+![](img/forcam-edit-authentication.png)
 
- Abschließend musst du nur noch die Workplace Number Variablen anpassen und jeweils deine 3 Workplaces angeben die du für das Board im Auge haben willst.
+Passe abschließend die Workplace Number Variablen an und gib deine 3 Workplaces an, die du auf deinem Dashboard visualisieren möchtest.
 
- ![](img/forcam-edit-workplace-number.png)
+![](img/forcam-edit-workplace-number.png)

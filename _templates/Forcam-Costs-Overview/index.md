@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Forcam-Übersicht einzelner Arbeitsplatz mit Operation und Kostenübersicht
+title: dashboard für die produktionsanalyse - arbeitsplatz-übersicht mit anbindung an FORCAM FORCE
 description: 
-  - Dieses Template bietet die Möglichkeit eine detaillierte Übersicht über einen einzelnen Arbeitsplatz zu bekommen. Es werden Daten aus der Forcam ForceBridge API geholt und diese mit weiteren Parametern, in diesem Fall Stundensatz und Stückpreis verrechnet um so eine Übersicht über die aktuelle Operation und die dazugehörigen Fehlkosten zu erhalten.
+  - Dieses Template ermöglicht dir eine detaillierte Übersicht über einen einzelnen Arbeitsplatz in der Produktion. Es verwendet eine Anbindung an FORCAM FORCE, der IT-Plattform für das industrielle Internet der Dinge (IIoT) von FORCAM. Die Produktionsdaten, die du dir aus der FORCAM FORCE Bridge API ziehst, kannst du mit weiteren Parametern, wie hier dem  Stundensatz und Stückpreis, in Relation setzen. Dies dient nicht nur der Auftragsübersicht und dem Monitoring der aktuellen Operation, sondern gibt dir auch Transparenz über die resultierenden Kosten bzw. Fehlkosten, z.B. in Folge eines Maschinenausfalls. So unterstützt dich das Template bei der Prozessoptimierung in deiner Fertigung und trägt damit zu einer Verbesserung der Produktivität bei.
 lang: de
 weight: 2000
-isDraft: true
+isDraft: false
 ref: Forcam-Costs-Overview
 category:
   - Forcam
@@ -20,20 +20,18 @@ overview_data_sources:
 
 # so funktioniert's
 
-Dieses Template verwendet die Forcam [ForceBridge API](https://docs.forcebridge.io/).
-
-Um dieses Board mit deinem Forcam System zu verbinden musst du erst die URLs der JSON Calls and die Forcam API anpassen. Dies musst du für alle 5 Calls wiederholen. Der Call 'Current_Times' (3) ist deaktiviert, da er erst die Operation ID von einem anderen Call benötigt. Nachdem die ID da ist wird der Call ausgeführt.
+Passe zunächst die URLs der JSON Calls an die [FORCAM API](https://docs.forcebridge.io/) an, um das Dashboard mit deinem FORCAM System zu verbinden. Wiederhole diesen Schritt für alle 5 Calls. Der Call ‘Current_Times’ (3) ist deaktiviert, da er erst die Operation ID von einem anderen Call benötigt. Erst dann kann der Call ausgeführt werden.
 
 ![](img/forcam-call-url.png)
 
-Anschließend musst du die Authentifizierung anpassen. Gib jeweils deine URL an und deine Client ID und deinen Client Secret. Wenn du noch weitere Calls an die ForceBridge API machen willst kannst du immer das Forcam Preset verwenden.
+Passe anschließend die Authentifizierung an. Gib dafür jeweils deine URL, deine Client ID und deinen Client Secret an. Verwende das FORCAM Preset für weitere Calls an die FORCE Bridge API.
 
 ![](img/forcam-oauth-update.png)
 
-Anschließend kannst du noch ein paar Parameter anpassen. Zum einen musst du angeben, welchen Workplace du anzeigen lassen willst und zum anderen musst du noch angeben was der Stundensatz deiner Maschine oder deines Workplaces ist und weiß ein einzelnes Teil kostet. Diese Werte könnten natürlich auch aus einem anderen System gezogen werden. Hier wird es mit einfachen Variablen simuliert.
+Passe nun die Parameter an. Gib an, welchen Workplace du anzeigen lassen willst und hinterlege den Stundensatz deiner Maschine oder deines Workplaces sowie die Stückkosten. Diese Werte kannst du dir natürlich auch aus einem anderen System ziehen. Im Beispiel werden einfache Variablen verwendet.
 
 ![](img/forcam-workplace-and-prices.png)
 
-Mit Hilfe eines Touchscreens oder Maus und Tastatur kann die Workplace Number auf im laufenden Betrieb getauscht werden um so flexibel unterschiedliche Workplaces betrachten zu können. Einfach das Textfeld anklicken, die neue Workplace Number eintragen und anschließend auf den Button klicken zum bestätigen. Wenn du diese Funktion nicht benötigst, einfach den Button entfernen und aus dem Eingabefeld ein normales Textfeld machen.
+Mit Hilfe eines Touchscreens oder einer Maus und Tastatur kannst du die Workplace Number auch im laufenden Betrieb jederzeit ändern, um so flexibel unterschiedliche Workplaces betrachten zu können. Klicke dafür einfach das Textfeld an, trage die neue Workplace Number ein und klicke zur Bestätigung auf den Button. Solltest du diese Funktion nicht benötigen, kannst du den Button auch ganz einfach entfernen und das Eingabefeld in ein normales Textfeld umwandeln.
 
 ![](img/forcam-cost-overview-live-edit.png)

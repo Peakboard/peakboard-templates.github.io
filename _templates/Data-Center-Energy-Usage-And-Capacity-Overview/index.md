@@ -1,11 +1,11 @@
 ---
 layout: article
-title: IT Rechenzentrum – Behalte den Stromverbrauch im Blick
+title: stromverbrauch rechenzentrum – den energiebedarf jederzeit im blick behalten
 description: 
-  - Dieses Template bietet die Möglichkeit mit Hilfe einer übersichtlichen Darstellung aller Rechenzentren die Auslastung im Blick zu behalten. Dies steigert die Verfügbarkeit und hilft Probleme rechtzeitig zu erkennnen.
+  - Dieses Template gibt einen schnellen Überblick über die einzelnen (weltweiten) Rechenzentren durch Echtzeitdaten.  Dargestellt werden können z.B. Strombedarf/Verbrauch, Temperaturen, Rechenleistung, Auslastung usw. Beim Erreichen bestimmter Grenzwerte kann ein visueller Alarm ausgelöst werden. Dies steigert die Verfügbarkeit, erhöht die Energieeffizienz und hilft, Probleme rechtzeitig zu erkennnen.
 lang: de
 weight: 1600
-isDraft: true
+isDraft: false
 ref: Data-Center-Energy-Usage-And-Capacity-Overview
 category:
   - Administration
@@ -20,4 +20,4 @@ overview_data_sources:
 
 # mögliche datenquellen
 
-Dieses Template verwendet einfache Peakboard Variablenlisten als Datenquelle. Du würdest natürlich direkt deine Systeme anzapfen damit auch die richtigen Daten ankommen. Dafür könntest du z.B. dieses Systeme und Formate verwenden: JSON, XML, CSV, REST-API, ODBC, MS SQL Server, MS Access, Azure, Oracle, MySQL, PostgreSQL, MongoDB und [vieles mehr](https://peakboard.com/datenanbindungen/).
+Das Template verwendet einfache Peakboard Variablenlisten als Datenquelle. Diese kannst du durch deine Systeme entsprechend austauschen. Folgende Systeme und Formate kommen dabei z.B. in Frage: JSON, XML, CSV, REST-API, ODBC, MS SQL Server, MS Access, Azure, Oracle, MySQL, PostgreSQL, MongoDB und [viele mehr](https://peakboard.com/datenanbindungen/).
