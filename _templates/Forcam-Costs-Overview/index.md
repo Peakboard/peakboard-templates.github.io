@@ -4,7 +4,7 @@ title: dashboard für die produktionsanalyse - arbeitsplatz-übersicht mit anbin
 description: 
   - Dieses Template ermöglicht dir eine detaillierte Übersicht über einen einzelnen Arbeitsplatz in der Produktion. Es verwendet eine Anbindung an FORCAM FORCE, der IT-Plattform für das industrielle Internet der Dinge (IIoT) von FORCAM. Die Produktionsdaten, die du dir aus der FORCAM FORCE Bridge API ziehst, kannst du mit weiteren Parametern, wie hier dem  Stundensatz und Stückpreis, in Relation setzen. Dies dient nicht nur der Auftragsübersicht und dem Monitoring der aktuellen Operation, sondern gibt dir auch Transparenz über die resultierenden Kosten bzw. Fehlkosten, z.B. in Folge eines Maschinenausfalls. So unterstützt dich das Template bei der Prozessoptimierung in deiner Fertigung und trägt damit zu einer Verbesserung der Produktivität bei.
 lang: de
-weight: 2000
+weight: 1800
 isDraft: false
 ref: Forcam-Costs-Overview
 category:
