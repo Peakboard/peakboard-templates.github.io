@@ -1,11 +1,11 @@
 ---
 layout: article
-title: IT Data Center Energy Usage and Capacity Overview
+title: data center energy consumption - dashboard for an easy energy monitoring
 description: 
-  - This template offers the possibility to keep an eye on the workload of all data centers by means of a clear presentation. This increases the availability and helps to detect problems in time.
+  - This template gives a quick, real-time overview of (worldwide) data centers. Easily visualize data on e.g. energy efficiency/energy consumption, temperatures, data center workload, utilization etc. Visual alerts indicate critical values have been reached. This will increase availability, contribute to efficiency improvements and helps to report problems when they occur.
 lang: en
-weight: 1000
-isDraft: true
+weight: 1600
+isDraft: false
 ref: Data-Center-Energy-Usage-And-Capacity-Overview
 category:
   - Administration
@@ -20,4 +20,4 @@ overview_data_sources:
 
 # possible data sources
 
-This template uses simple peakboard variable lists as data source. You would of course tap directly into your systems to get the right data. You could use these systems and formats: JSON, XML, CSV, REST-API, ODBC, MS SQL Server, MS Access, Azure, Oracle, MySQL, PostgreSQL, MongoDB and [much more](https://peakboard.com/en/data-connections/).
+The template uses simple peakboard variable lists as data source. You can exchange them with your systems accordingly. Possible systems and formats are for example: JSON, XML, CSV, REST-API, ODBC, MS SQL Server, MS Access, Azure, Oracle, MySQL, PostgreSQL, MongoDB and [many more](https://peakboard.com/en/data-connections/).

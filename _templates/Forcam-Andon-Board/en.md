@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Forcam Andon Board with ForceBridge API
+title: FORCAM andon board with FORCAM FORCE bridge API
 description: 
-  - This board uses a connection to the ForceBridge API from Forcam. Values for three workplaces are retrieved from the API and displayed in the form of an Andon Dashboard.
+  - In the production area, an andon board is used as a monitoring tool on the shopfloor to visualize the production status of an assembly line or manufacturing system. For an easy optimization of production processes. This template uses a connection to FORCAM FORCE, FORCAM's IT platform for the industrial Internet of Things (IIoT). Three workplaces are visualized in real-time. Process data and data on overall equipment efficiency (OEE) is retrieved via FORCAM's FORCE Bridge API and visualized on an andon dashboard.
 lang: en
-weight: 2000
-isDraft: true
+weight: 1800
+isDraft: false
 ref: Forcam-Andon-Board
 category:
   - Forcam
@@ -21,15 +21,16 @@ overview_data_sources:
 ---
 # how it works
 
-Adjust the URLs for the API calls to your system. You must do this for all 9 API calls.
+This template uses the Forcam [ForceBridge API](https://docs.forcebridge.io/).
+
+Adjust the URL of the individual API calls to your system (in total there are 9 API calls). 
 
 ![](img/forcam-edit-json-call-url.png)
 
- Now you have to adjust the authentication and change your Token URL and your Client ID and Client Secret respectively. If you want to create a new call to the API, you can always select the Forcam preset during authentication.
+In a second step, adjust the authentication, your Token URL, your Client ID and your Client Secret. If you want to create a new call to the API, you can always select the FORCAM preset for the authentication. 
 
- ![](img/forcam-edit-authentication.png)
+![](img/forcam-edit-authentication.png)
 
- Finally, you only need to adjust the Workplace Number variables and specify the 3 workplaces you want to have in mind for the board.
+Finally, adjust the Workplace Number variables and enter the 3 workplaces that you want to visualize on your dashboard.
 
- ![](img/forcam-edit-workplace-number.png)
-
+![](img/forcam-edit-workplace-number.png)
