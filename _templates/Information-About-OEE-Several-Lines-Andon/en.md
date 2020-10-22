@@ -1,8 +1,8 @@
 ---
 layout: article
-title: information about the oee of several production lines with andon
+title: digital andon board ― the status of your production lines and current OEE values at a glance
 description: 
-  - This template allows the visualization of three production lines. The current order of a customer, the overall equipment effectiveness (OEE) as well as the status of the individual stations of each line are displayed. With the help of the traffic light colour scheme (Andon), it is possible to see at a glance where a problem currently exists, so that action can be taken quickly and this can be remedied.
+  - With this template you can create a digital Andon Board to easily display important key figures of your production lines in real time. Production staff can automatically see important information such as a customer's current order, overall equipment effectiveness (OEE) and the production status at a glance. With real-time visualization of problems in typical Andon Board signal colors, you can keep an eye on problem messages and respond by correcting the fault at lightning speed - increasing productivity and reducing material waste. Download now and get started!
 lang: en
 weight: 3000
 isDraft: false
@@ -21,3 +21,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# possible data sources
+This template uses a Peakboard [variable list](https://help.peakboard.com/scripting/en-variables.html). In reality the data would be fetched from a MES. With Peakboard you could connect your visualization with the following systems: AIS Automation FabEagle MES, camLine InFrame Synapse MES, DELMIA Apriso MES, DE DESC, FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite, PSIpenta MES and [many more](https://peakboard.com/en/product/peakboard-versions/#dataconnections).
