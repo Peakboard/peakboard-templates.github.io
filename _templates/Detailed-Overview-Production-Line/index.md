@@ -23,4 +23,10 @@ overview_data_sources:
 ---
 # mögliche datenquellen
 
-Dieses Template verwendet einfache Variablenlisten als Datenquelle. Wenn du dir daraus dein eigenes Board erstellst, wirst du diese durch deine persönlichen Datenquellen und Systeme ersetzen. Dafür gibt es zahlreiche Möglichkeiten. Zum einen können in Peakboard ERP Systeme wie z.B. abas ERP, proALPHA ERP, Epicor ERP, Comarch ERP, QAD Adaptive ERP oder SAP angebunden werden. Zum anderen machen bei diesem Board auch MES Sinn, bei Peakboard kannst du neben vielen anderen diese anbinden: FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite oder PSIpenta MES. Einfache Daten könntest du auch über Standards wie XML, SQL Server, MongoDB, JSON, XML, Excel anbinden. Auch weitere Protokolle sind möglich (MQTT, OPC UA, Siemens S7). Schau einfach [hier](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen), dein System ist bestimmt auch dabei. Falls nicht, lass uns das gerne wissen.
+Dieses Template verwendet einfache Variablenlisten als Datenquelle. Wenn du dir daraus dein eigenes Board erstellst, wirst du diese durch deine persönlichen Datenquellen und Systeme ersetzen. Dafür gibt es zahlreiche Möglichkeiten. 
+
+Zum einen können in Peakboard ERP Systeme wie z.B. abas ERP, proALPHA ERP, Epicor ERP, Comarch ERP, QAD Adaptive ERP oder SAP angebunden werden. 
+
+Zum anderen machen bei diesem Board auch MES Sinn, bei Peakboard kannst du neben vielen anderen diese anbinden: FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite oder PSIpenta MES. 
+
+Einfache Daten könntest du auch über Standards wie XML, SQL Server, MongoDB, JSON, XML, Excel anbinden. Auch weitere Protokolle sind möglich (MQTT, OPC UA, Siemens S7). Schau einfach [hier](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen), dein System ist bestimmt auch dabei. Falls nicht, lass uns das gerne wissen.
