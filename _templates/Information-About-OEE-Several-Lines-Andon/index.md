@@ -22,4 +22,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # mögliche datenquellen
-Damit dieses Template verwendet eine Peakboard [Variablenliste](https://help.peakboard.com/scripting/de-variables.html). In der Realität würden die Daten von einem MES geholt werden. Mit Peakboard könnten sie unter anderem folgende System anbinden: AIS Automation FabEagle MES, camLine InFrame Synapse MES, DELMIA Apriso MES, DE DESC, FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite, PSIpenta MES oder [viele mehr](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen).
+Dieses Template verwendet eine Peakboard [Variablenliste](https://help.peakboard.com/scripting/de-variables.html) als Datenquelle. In der Realität würden die Daten aus einem MES kommen. Mit Peakboard könnten sie unter anderem folgende Systeme anbinden: AIS Automation FabEagle MES, camLine InFrame Synapse MES, DELMIA Apriso MES, DE DESC, FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite, PSIpenta MES und [viele mehr](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen).
