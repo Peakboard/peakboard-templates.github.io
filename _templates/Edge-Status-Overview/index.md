@@ -22,6 +22,7 @@ overview_data_sources:
 
 Dieses Template verwendet die Peakboard Edge Datenquelle. Peakboard Edge kann Informationen über externe Geräte direkt ein- und ausgeben. Peakboard Edge kommuniziert dabei nicht über ein Display, sondern wird immer mit einer Peakboard Box verbunden. [Hier kannst du mehr über Peakboard Edge erfahren](https://peakboard.com/produkt/peakboard-edge/).
 
+
 # so funktioniert’s
 
 ![image_live](edge-use-case-production.gif)

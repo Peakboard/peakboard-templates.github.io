@@ -1,8 +1,8 @@
 ---
 layout: article
-title: übersichtliche statusanzeige mehrerer produktionslinien mit sql datenbankanbindung 
+title: statusinformationen für produktionsaufträge übersichtlich angezeigt ― dein dashboard mit SQL datenanbindung
 description: 
-  - Dieses Cockpit-Dashboard basiert auf einer SQL-Datenbank und liefert eine praktische Übersicht über mehrere Produktionslinien. Außerdem zeigt es sowohl die einzelnen Arbeitsschritte der jeweiligen Produktionslinie, als auch den Fortschritt der einzelnen Arbeitsschritte an.
+  - Dieses Template liefert dir eine praktische Übersicht über den Status mehrerer Produktionslinien und basiert auf einer SQL Datenbank. Es zeigt sowohl den Fortschritt der Produktionslinien als auch der einzelnen Arbeitsgänge an. Für unkompliziertes Monitoring deiner Produktionsaufträge jetzt einfach Template herunterladen!
 lang: de
 weight: 1900
 isDraft: false
@@ -18,3 +18,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+# mögliche datenquellen
+
+Dieses Template verwendet eine SQL Datenbank. Es könnten aber auch andere Systeme verwendet werden, wie z.B. ODBC, MS SQL Server, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL, MongoDB, Teradata oder Wintool. Auch ein ERP Systeme könnte sich dafür eignen. Eine Auflistung an möglichen Datenquellen findest du [hier](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen).

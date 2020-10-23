@@ -1,8 +1,8 @@
 ---
 layout: article
-title: simple status display of several production lines with sql database connection
+title: production order status clearly displayed ― your dashboard with SQL data connection
 description: 
-  - This cockpit dashboard is based on an SQL database and provides a practical overview of several production lines. It also shows the individual work steps of each production line, as well as the progress of the individual work steps.
+  - This template gives you a practical overview of the status of several production lines and is based on a SQL database. It shows the progress of the production lines as well as of the individual operations and indicates which steps of the process are finished and which still have to be completed. For easy monitoring of your production orders download the template now!
 lang: en
 weight: 1900
 isDraft: false
@@ -18,3 +18,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+# possible data sources
+
+This template uses a SQL database. But other systems could be used as well, such as ODBC, MS SQL Server, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL, MongoDB, Teradata or Wintool. An ERP system could also be suitable for this. A list of possible data sources can be found [here](https://peakboard.com/en/product/peakboard-versions/#dataconnections).
