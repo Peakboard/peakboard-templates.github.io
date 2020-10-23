@@ -9,7 +9,7 @@ isDraft: false
 ref: Forcam-Costs-Overview
 category:
   - Forcam
-  - Production
+  - Produktion
 image: Forcam-Costs-Overview.png
 image_thumbnail: Forcam-Costs-Overview_thumbnail.png
 download: Forcam-Costs-Overview.pbmx
