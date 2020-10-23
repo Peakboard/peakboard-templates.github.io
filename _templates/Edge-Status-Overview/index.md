@@ -1,8 +1,8 @@
 ---
 layout: article
-title: übersicht über den status von arbeitsplätzen mit Peakboard Edge
+title: dein echtzeit-dashboard für den arbeitsstatus ― mit Peakboard Edge alle arbeitsplätze im blick
 description: 
-  - Übersicht über den Status von bis zu 18 Arbeitsplätzen. Jeder Arbeitsplatz kann seinen Status mit Hilfe von Peakboard Edge melden. Grün bedeutet alles ist in Ordnung, Blau bedeutet geplante Pause und Rot bedeutet es gibt an diesem Arbeitsplatz ein Problem.
+  - "Mit diesem Template und Peakboard Edge kann der Status verschiedener Arbeitsplätze in Echtzeit angezeigt werden. Verschiedene Farben sollen dabei Transparenz über die Produktivität der einzelnen Arbeitsplätze schaffen: Grün bedeutet alles ist in Ordnung, Blau bedeutet geplante Pause und Rot bedeutet es gibt an diesem Arbeitsplatz ein Problem. Jetzt herunterladen!"
 lang: de
 weight: 2000
 isDraft: false
@@ -18,6 +18,10 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# So funktioniert’s
+# mögliche datenquellen
+
+Dieses Template verwendet die Peakboard Edge Datenquelle. Peakboard Edge kann Informationen über externe Geräte direkt ein- und ausgeben. Peakboard Edge kommuniziert dabei nicht über ein Display, sondern wird immer mit einer Peakboard Box verbunden. [Hier kannst du mehr über Peakboard Edge erfahren](https://peakboard.com/produkt/peakboard-edge/).
+
+# so funktioniert’s
 
 ![image_live](edge-use-case-production.gif)
