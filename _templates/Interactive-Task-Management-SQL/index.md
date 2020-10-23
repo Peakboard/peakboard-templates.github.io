@@ -8,9 +8,9 @@ weight: 1500
 isDraft: false
 ref: Interactive-Task-Management-SQL
 category:
-  - Production
+  - Produktion
   - Lean Management
-  - Interaction
+  - Interaktion
   - Einzelfertigung
 image: Interaktiv-Aufgaben-Abhaken-SQL-Datenbank.png
 image_thumbnail: Interaktiv-Aufgaben-Abhaken-SQL-Datenbank_thumbnail.png
