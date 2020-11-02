@@ -11,6 +11,7 @@ category:
   - Lean Management
   - KPI
   - OKR
+  - Nachhaltigkeit
 image: OKR-Teamziele-Google-Spreadsheet.png
 image_thumbnail: OKR-Teamziele-Google-Spreadsheet_thumbnail.png
 download: OKR-Teamziele-Google-Spreadsheet.pbmx
