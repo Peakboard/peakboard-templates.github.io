@@ -1,8 +1,8 @@
 ---
 layout: article
-title: manufacturing analytics dashboard - workplace overview with connection to FORCAM FORCE
+title: manufacturing analytics dashboard - workplace overview with connection to FORCAM FORCE™
 description: 
-  - This template gives you a detailed overview of the manufacturing process at a single workstation. It is connected to FORCAM FORCE, FORCAM's IT platform for the industrial Internet of Things (IIoT). Pull the production data from the FORCAM FORCE Bridge API and relate it to other parameters, such as hourly rate and unit price. Get a full order status overview and operation monitoring in real time. What's more, get transparency about the resulting costs i.e. loss, e.g. due to machine malfunction. This template supports your process optimization and contributes to an improvement in your profitability.
+  - This template gives you a detailed overview of the manufacturing process at a single workstation. It is connected to FORCAM FORCE™, FORCAM's IT platform for the industrial Internet of Things (IIoT). Pull the production data from the FORCAM FORCE™ Bridge API and relate it to other parameters, such as hourly rate and unit price. Get a full order status overview and operation monitoring in real time. What's more, get transparency about the resulting costs i.e. loss, e.g. due to machine malfunction. This template supports your process optimization and contributes to an improvement in your profitability.
 lang: en
 weight: 1800
 isDraft: false
