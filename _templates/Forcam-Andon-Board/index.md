@@ -1,6 +1,6 @@
 ---
 layout: article
-title: FORCAM andon-board mit FORCAM FORCE bridge API
+title: FORCAM andon-board mit FORCAM FORCE™ bridge API
 description: 
   - In der Produktion wird ein Andon-Board als visuelles Monitoring am Shopfloor eingesetzt, um den Produktionsstatus einer Produktionslinie bzw. eines Produktionssystems darzustellen.  Fertigungsprozesse können so ganz einfach optimiert werden. Dieses Template verwendet eine Anbindung an FORCAM FORCE™, der IT-Plattform für das industrielle Internet der Dinge (IIoT) von FORCAM. Es werden drei Workplaces in Echtzeit visualisiert. Die Prozessdaten und Daten zur Gesamtanlageneffektivität (GAE / OEE) werden über die FORCE Bridge API von FORCAM abgerufen und als Andon Dashboard dargestellt. 
 lang: de
