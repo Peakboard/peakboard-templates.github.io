@@ -1,8 +1,11 @@
 ---
 layout: article
-title: übersicht über den energieverbrauch – für einfaches energiemanagement nach ISO 50001
+title: übersicht über den energieverbrauch – einfaches energiemanagementsystem nach ISO 50001
 description: 
-  - Dieses Template bietet dir mehr Transparenz für dein Energiemanagement. So behälst du die wichtigsten Energieverbraucher immer im Blick und kannst Probleme schnell erkennen. Neben dem Stromverbrauch können auch noch weitere wichtige Kennzahlen wie Luftmengen oder der Systemdruck angezeigt werden. Dies alles hilft dir, leichter alle Vorgaben einer ISO 500001 Normung zu erreichen und Energiemanagement sichtbar zu machen.
+  - Dieses Template bietet dir mehr Transparenz für dein Energiemanagement. 
+Es dient der Überwachung der größten Energieverbraucher in deinem Unternehmen, der Verbesserung der Energieeffizienz und der Einsparung von Ressourcen.
+So behältst du die wichtigsten Energieverbraucher immer im Blick, kannst eine Energienutzung im Sinne des Kilmaschutzes sicherstellen und Probleme im Energiemanagement schnell erkennen um eine Reduzierung der Energiekosten zu erreichen. Neben dem Stromverbrauch können auch noch weitere wichtige Kennzahlen wie Luftmengen oder der Systemdruck angezeigt werden. Jetzt Template ehrunterladen und leichter die gesetzlichen Vorgaben einer ISO 500001 Normung erreichen.
+
 lang: de
 weight: 2000
 isDraft: true
