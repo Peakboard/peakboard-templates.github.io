@@ -19,3 +19,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# possible data sources
+This template uses an Excel file as data source. For your Use Case you can of course use your systems. You could use your machines e.g. via MQTT, OPC UA, Siemens S7, Azure Event & IoT Hub or Mitsubishi Electric. Possibly, however, MES could also be used, e.g: AIS Automation FabEagle MES, camLine InFrame Synapse MES, DELMIA Apriso MES, DE DESC, FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite, PSIpenta MES or [many more](https://peakboard.com/en/product/peakboard-versions/#dataconnections).
