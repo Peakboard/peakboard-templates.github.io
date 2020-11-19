@@ -4,8 +4,8 @@ title: status of a single manufacturing line ― all information on one dashboar
 description: 
   - With this template you can display important production key figures of a single production line in an easy to understand way. Easily display relevant metrics about your machines on screens and have production and control data as well as key figures like KPIs directly in view! Real-time data provides more transparency in your production, shortens production downtimes and helps you to maximize your production volume. Download now and get started!
 lang: en
-weight: 1800
-isDraft: true
+weight: 2100
+isDraft: false
 ref: Detailed-Board-Single-Production-Line
 category:
   - KPI
