@@ -8,7 +8,7 @@ So behältst du die wichtigsten Energieverbraucher immer im Blick, kannst eine E
 
 lang: de
 weight: 2000
-isDraft: true
+isDraft: false
 ref: Energy-Monitoring-ISO-50001
 category:
   - Produktion
