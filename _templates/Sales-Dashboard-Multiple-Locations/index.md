@@ -18,3 +18,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# mögliche datenquellen
+Dieses Template verwendet eine Excel Datei als Datenquelle. Diese Datei könnte auf einem Netzlaufwerk oder bei einem Cloud Dienstleister (Microsoft OneDrive, Google Drive, Dropbox, Sharepoint) gespeichert und dort aktuell gehalten werden. Alternativ könnten die Daten auch aus einer SQL Datenbank, einem CRM, einem BI Tool oder sonstigen Systemen über eine REST-API bezogen werden. Verwende für deinen Use Case einfach deine Systeme. Hier ein paar Beispiele was so möglich wäre: PostgreSQL, MySQL, MongoDB, MS Azure SQL, MS Access, MS SQL Server, IBM DB2, JSON, XML, CSV, REST-API oder [viele mehr](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen).
