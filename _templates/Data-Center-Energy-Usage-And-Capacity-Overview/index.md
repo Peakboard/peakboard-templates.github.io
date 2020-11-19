@@ -1,8 +1,8 @@
 ---
 layout: article
-title: stromverbrauch rechenzentrum – den energiebedarf jederzeit im blick behalten
+title: stromverbrauch im rechenzentrum – den energiebedarf jederzeit im blick behalten
 description: 
-  - Dieses Template gibt einen schnellen Überblick über die einzelnen (weltweiten) Rechenzentren durch Echtzeitdaten.  Dargestellt werden können z.B. Strombedarf/Verbrauch, Temperaturen, Rechenleistung, Auslastung usw. Beim Erreichen bestimmter Grenzwerte kann ein visueller Alarm ausgelöst werden. Dies steigert die Verfügbarkeit, erhöht die Energieeffizienz und hilft, Probleme rechtzeitig zu erkennnen.
+  - Mit diesem Template haben Rechenzentrumsbetreiber wichtige Kennzahlen ihres Rechenzentrums, wie z. B. den Stromverbrauch jederzeit im Blick. Dabei spielt es keine Rolle wo auf der Welt das Rechenzentrum liegt. Dank Echtzeitdaten liefert dieses Dashboard einen schnellen Überblick über für Rechenzentren relevante Kennzahlen wie Strombedarf, Energieverbrauch, Abwärme, Rechenleistung oder Auslastung. Beim Erreichen bestimmter Grenzwerte kann ein visueller Alarm ausgelöst werden. Dies steigert die Verfügbarkeit, erhöht die Energieeffizienz und hilft, Probleme rechtzeitig zu erkennen.
 lang: de
 weight: 1600
 isDraft: false
