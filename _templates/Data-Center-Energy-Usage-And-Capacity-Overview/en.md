@@ -1,8 +1,8 @@
 ---
 layout: article
-title: data center energy consumption - dashboard for an easy energy monitoring
+title: energy consumption in the data center – dashboard for an easy energy monitoring
 description: 
-  - This template gives a quick, real-time overview of (worldwide) data centers. Easily visualize data on e.g. energy efficiency/energy consumption, temperatures, data center workload, utilization etc. Visual alerts indicate critical values have been reached. This will increase availability, contribute to efficiency improvements and helps to report problems when they occur.
+  - With this template, data center operators can keep an eye on important key figures of their data center, such as energy consumption, at all times and no matter where in the world the data centers are located. Thanks to real-time data, this dashboard provides a quick overview of key figures relevant to data centers, such as energy consumption, capacity, waste heat, computing power, workload. A visual alarm can be triggered when certain threshold values are reached. This increases availability, improves energy efficiency, and helps to detect problems early. Download now!
 lang: en
 weight: 1600
 isDraft: false
