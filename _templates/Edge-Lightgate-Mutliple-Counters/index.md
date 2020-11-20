@@ -10,7 +10,7 @@ ref: Edge-Lightgate-Mutliple-Counters
 category:
   - Interaktion
   - Edge
-image: Uebersicht-Abfuellanlagen-Zaehler-Edges.png
+image: Uebersicht-Abfuellanlagen-Zaehler-Edge.png
 image_thumbnail: Uebersicht-Abfuellanlagen-Zaehler-Edge_thumbnail.png
 download: Uebersicht-Abfuellanlagen-Zaehler-Edge.pbmx
 overview_description:
