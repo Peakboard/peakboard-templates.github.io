@@ -25,6 +25,5 @@ Dieses Template verwendet die Peakboard Edge Datenquelle. Peakboard Edge kann In
 Wie genau dieses Template funktioniert und wie du es selbst aufbauen kannst, erfährst du in diesem YouTube Video:
 {% include video.html image='img/peakboard-retrofitting-maschinen.jpg' video_id='cXD9-TJuITA' %}
 
-
-
+Hier noch eine allgemeine Übersicht wie das ganze aufgebaut ist.
 ![image_live](img/peakboard-edge-production-light-barrier.gif)
