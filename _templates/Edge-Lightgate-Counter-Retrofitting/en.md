@@ -19,8 +19,10 @@ overview_data_sources:
 ---
 # possible data sources
 
-This template uses the Peakboard Edge data source. Peakboard Edge can directly input and output information about external devices. Peakboard Edge does not communicate via a display, but is always connected to a Peakboard Box. [Here you can learn more about Peakboard Edge](https://peakboard.com/produkt/peakboard-edge/). How exactly this template works and how you can build it yourself, you can find out in this [YouTube Video](https://www.youtube.com/watch?v=j7iv-Opymmo).
+This template uses the Peakboard Edge data source. Peakboard Edge can directly input and output information about external devices. Peakboard Edge does not communicate via a display, but is always connected to a Peakboard Box. [Here you can learn more about Peakboard Edge](https://peakboard.com/produkt/peakboard-edge/). 
 
+How exactly this template works and how you can build it yourself, you can find out in this YouTube Video:
+{% include video.html image='img/peakboard-retrofit-machines.jpg' video_id='j7iv-Opymmo' %}
 
 # how it works
 
