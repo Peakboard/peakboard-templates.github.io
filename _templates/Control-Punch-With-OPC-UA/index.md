@@ -1,6 +1,6 @@
 ---
 layout: article
-title: steuerung einer ttanze mittels opc ua
+title: steuerung einer stanze mittels opc ua
 description: 
   - Dieses Template zeigt, wie Sie die Kommunikation zwischen Peakboard und einer Stanze, mit Hilfe von OPC UA, einrichten können.
 lang: de
