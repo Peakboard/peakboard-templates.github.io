@@ -18,3 +18,9 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+# so funktioniert’s
+
+Wie genau dieses Template funktioniert und wie du es selbst aufbauen kannst, erfährst du in diesem YouTube Video:
+
+{% include video.html image='img/OPC-UA-Daten-Visualisiert-Peakboard.jpg' video_id='xr309YQnikc' %}

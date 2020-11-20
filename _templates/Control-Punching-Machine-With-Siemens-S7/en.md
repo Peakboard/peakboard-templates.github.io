@@ -18,5 +18,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# Remarks 
-This board can not run on your Peakboard unless you own a Siemens S7 control. It is just an example to see how the communication with a S7 control could work. If you want to see how the board works visit: https://youtu.be/w8jRp6st180?t=9m15s
+# how it works
+This board can not run on your Peakboard unless you own a Siemens S7 control. It is just an example to see how the communication with a S7 control could work. How exactly this template works and how you can build it yourself, you can find out in this YouTube Video:
+
+{% include video.html image='img/Siemens-S7-Controller-Visualized-Peakboard.jpg' video_id='gE8tboIOvTQ' %}
