@@ -5,7 +5,7 @@ description:
   - Digitalisierung ist dir zu teuer und aufwändig? Rüstes deine alten Maschinen gang einfach nach! Du benötigst dafür lediglich Peakboard Edge in Kombination mit Peakboard Enterprise und eine handelsübliche Lichtschranke mit einem Relais-Ausgang. Mit diesem Template visualisierst du im Anschluss die anfallenden Daten um sie so unmittelbar zu kommunizieren. Jetzt herunterladen!
 lang: de
 weight: 1400
-isDraft: true
+isDraft: false
 ref: Edge-Lightgate-Counter-Retrofitting
 category:
   - Interaktion
