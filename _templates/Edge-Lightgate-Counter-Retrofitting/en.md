@@ -1,8 +1,8 @@
 ---
 layout: article
-title: retrofitting of a machine with a light barrier and with a peakboard edge
+title: quickly retrofitting machines with a light barrier and Peakboard Edge
 description: 
-  - This template shows how you can use Peakboard Edge to do a simple retrofit of an old machine. All you need is a Peakboard Edge in combination with a Peakboard Enterprise and a standard light barrier with a relay output.
+  - Digitalization is too expensive and time-consuming for you? Simply retrofit your old machines! All you need is Peakboard Edge in combination with Peakboard Enterprise and a standard light barrier with a relay output. With this template you can visualize the collected data and communicate them directly. Download it now!
 lang: en
 weight: 1400
 isDraft: true
