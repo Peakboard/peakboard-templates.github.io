@@ -22,8 +22,9 @@ overview_data_sources:
 Dieses Template verwendet die Peakboard Edge Datenquelle. Peakboard Edge kann Informationen über externe Geräte direkt ein- und ausgeben. Peakboard Edge kommuniziert dabei nicht über ein Display, sondern wird immer mit einer Peakboard Box verbunden. [Hier kannst du mehr über Peakboard Edge erfahren](https://peakboard.com/produkt/peakboard-edge/). 
 
 # so funktioniert’s
+
+![image_live](img/peakboard-edge-production-light-barrier.gif)
+
 Wie genau dieses Template funktioniert und wie du es selbst aufbauen kannst, erfährst du in diesem YouTube Video:
 {% include video.html image='img/peakboard-retrofitting-maschinen.jpg' video_id='cXD9-TJuITA' %}
 
-Hier noch eine allgemeine Übersicht wie das ganze aufgebaut ist.
-![image_live](img/peakboard-edge-production-light-barrier.gif)
