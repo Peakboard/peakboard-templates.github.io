@@ -1,8 +1,8 @@
 ---
 layout: article
-title: warnmeldung in der logistik
+title: dein alarmmonitor ― echtzeit-übertragung von warnmeldungen in der logistik
 description: 
-  - Diese Vorlage gibt dem Kommissionierer einen schnellen Überblick über die wichtigsten Ein- und Auslagerungen und warnt bei Problemen durch eine rot aufblinkende Anzeige. Indem Sie Ihre Datenquellen hinzufügen und das Skript anpassen, können Sie diese Vorlage für Ihre Bedürfnisse verwenden.
+  - Im Alarmfall muss es schnell gehen! Dieses Template gibt dem Kommissionierer sowie allen Mitarbeitern einen schnellen Überblick über die wichtigsten Ein- und Auslagerungen und signalisiert Probleme durch eine rot aufblinkende Anzeige – und zwar in Echtzeit! Durch die Vielzahl an Schnittstellen kannst du ganz einfach deine individuellen Datenquellen hinzufügen. Passe außerdem das Skript an, um das Dashboard ganz nach deinen Bedürfnissen zu nutzen. Entscheide dabei selbst, welche Zusatzinformationen deine Visualisierung anzeigen soll. Jetzt herunterladen und konfigurieren!
 lang: de
 weight: 400
 isDraft: false
@@ -19,3 +19,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# mögliche datenquellen
+Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als fiktive Datenquellen. Alternativ könnten die Daten auch aus einem WMS oder anderen Logistikprogrammen kommen. Einige Beispiele die du anbinden könntest: SAP EWM, Oracle NetSuite, PSIwms, Erhardt + Partner LFS, IBM Sterling WMS, Epicor WMS, JDA WMS, Fishbowl Inventory, SSI Schäfer WAMAS und [viele mehr](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen).
