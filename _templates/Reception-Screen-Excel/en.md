@@ -1,8 +1,8 @@
 ---
 layout: article
-title: reception screen with excel connection
+title: Digital signage at the reception ― your reception screen with Peakboard
 description: 
-  - This template is another welcome screen for the reception area or lobby. The appointments are maintained via an Excel file.
+  - Welcome your guests and make a good impression already in the reception area with this appealing template. Or use it to show your visitors appointments and room allocations on displays at the reception. The appointments are maintained for this purpose via an Excel file. Just download the template and impress your guests!
 lang: en
 weight: 290
 isDraft: false
