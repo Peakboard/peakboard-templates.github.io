@@ -1,8 +1,8 @@
 ---
 layout: article
-title: lkw zuweisung mit Peakboard Edge
+title: deine LKW übersicht am wareneingang ― dein dashboard für die LKW zuweisung mit Peakboard Edge
 description: 
-- Diese Vorlage bietet die Möglichkeit, einem bestimmten Tor zu einem bestimmten Zeitpunkt verschiedene LKWs zuzuweisen. Die Zuordnung der LKWs erfolgt über das Peakboard Webinterface. Dort können Sie alle Daten direkt auf der Peakboard Box speichern und pflegen. Werden mehr als 7 Tore angegeben, wechselt die Ansicht automatisch auf die nächste Seite. Laden Sie die Visualisierung auf Ihre Peakboard Box und öffnen Sie das Webinterface, um Ihre Tore und LKWs zu verwalten. Die Ampeln der Visualisierung sind mit einzelnen Peakboard Edges verknüpft. Wenn Sie ihre Peakboard Edges in der Datenquelle der Visualisierung hinterlegen, können Sie den Status direkt am Tor über eine gewöhnliche Ampel anzeigen.
+- Mit diesem Template kannst du einem bestimmten Tor am Wareneingang während eines bestimmten Zeitfensters verschiedene LKWs zuzuweisen. Die Zuordnung der LKWs erfolgt über das Peakboard Webinterface. Dort kannst du alle Daten direkt auf der Peakboard Box speichern und pflegen. Werden mehr als 7 Tore angegeben, wechselt die Ansicht automatisch auf die nächste Seite. Lade deine Visualisierung auf die Peakboard Box und öffne das Webinterface, um die Tore und LKWs zu verwalten. Die Ampeln der Visualisierung sind mit einzelnen Peakboard Edges verknüpft. Wenn du Peakboard Edge in der Datenquelle der Visualisierung hinterlegst, kann der Status dem Fahrer direkt am Tor über eine gewöhnliche Ampel angezeigt werden. Das verkürzt Wartezeiten für die Lieferanten und beschleunigt die Entladung. Lade dir das Template jetzt herunter, für effizientere Logistik Prozesse.
 lang: de
 weight: 1000
 isDraft: false

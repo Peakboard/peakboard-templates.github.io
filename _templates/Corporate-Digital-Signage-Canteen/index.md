@@ -1,8 +1,8 @@
 ---
 layout: article
-title: digital signage für deine unternehmenskantine oder die gastronomie
+title: digital signage mit uhrzeitabhängiger anzeige ― dein dashboard für unternehmenskantine oder gastronomie
 description: 
-  - Diese Vorlage zeigt, wie sie mit individuellen Bildern eine Digital Signage Anwendung kreieren können. Laden Sie Ihre bevorzugten Bilder in die Visualisierung und definieren Sie welches Bild wann angezeigt werden soll. Ihre Abbildungen und Uhrzeiten können Sie sowohl über den Peakboard Designer als auch über die API (Webinterface oder Peakboard App) verwalten.
+  - Display Werbung in deinem Corporate Design! Dieses Template zeigt, wie du ganz einfach mit individuellen Bildern eine Digital Signage Anwendung kreieren kannst. Lade Bilder deiner Wahl in die Visualisierung und definiere welches Bild wann angezeigt werden soll. Deine individuellen Abbildungen und Uhrzeiten können sowohl über den Peakboard Designer als auch über die API (Webinterface oder Peakboard App) verwaltet werden. Durch die flexiblen Darstellungsoptionen kannst du das Template ganz nach deinen Bedürfnissen konfigurieren und erhältst so mehr Aufmerksamkeit von deiner Zielgruppe. Direkt herunterladen! Los gehts.
 lang: de
 weight: 1000
 isDraft: false

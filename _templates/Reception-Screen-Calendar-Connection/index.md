@@ -1,8 +1,8 @@
 ---
 layout: article
-title: empfangsbildschirm mit microsoft office 365 kalenderanbindung
+title: digital signage infotafel ― dein empfangsbildschirm mit Microsoft Office 365 kalenderanbindung
 description: 
-  - Mit dieser Vorlage können Sie einfach und schnell einen Empfangsbildschirm mit unterschiedlichen Terminen visualisieren. Hierfür wird ein Microsoft 365 Kalender als Datenquelle verbunden. Um diese Vorlage für Ihre Zwecke nutzen zu können, ersetzen Sie einfach das Firmenlogo, fügen Sie gegebenenfalls ein anderes Hintergrundbild ein und verbinden Sie Ihren Kalender. Eine Erklärung zur Anbindung Ihres Kalenders finden Sie weiter unten auf dieser Seite.
+  - Mit diesem Template gestaltest du einfach und schnell ein mutlifunktionaler digitaler Empfangsbildschirm. Binde deinen Microsoft 365 Kalender als Datenquelle an um Besucherinformationen wie z. B. Raumbelegungen zuverlässig und zeitgesteuert auf einem Bildschirm deiner Wahl anzuzeigen. Ergänze dein Firmenlogo und gestalte deinen Empfangsbildschirm in deinem Corporate Design - flexibel und funktional. Jetzt herunterladen
 lang: de
 weight: 1000
 isDraft: false
