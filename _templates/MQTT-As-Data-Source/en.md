@@ -1,8 +1,8 @@
 ---
 layout: article
-title: mqtt as data source
+title: MQTT as data source – your MQTT dashboard with Peakboard
 description: 
-  - This visualization shows how to use MQTT as a data source&#58; The monitors are located at different points in the production hall. For example, the worker has one of these monitors at his station and can request maintenance. The production manager can react to messages on another monitor. The response time is therefore much faster and shows how different Peakboard Boxes and visualizations can work together.
+  - "This visualization shows how to use MQTT as a data source to easily enable communication between two dashboards: The two monitors can be located at completely different locations in the production hall. The worker uses one of the monitors at his station to request maintenance. The production manager in turn sees the message on his monitor in real time and can react accordingly. This shortens reaction times and enables problems to be solved more quickly. Download template now."
 lang: en
 weight: 600
 isDraft: false
