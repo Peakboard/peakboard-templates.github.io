@@ -5,7 +5,7 @@ description:
   - Bulletin board 3.0 – keeping employees up to date with an electronic bulletin board. Whether it's general internal communication, the weather, birthdays, announcements, notices or room allocation plans, you remain completely flexible with regards to media formats, documents and messages. All allocation plans and birthdays can be managed via an Excel file. PDF documents only have to be added to the dashboard directory. Digital signage made easy.
 lang: en
 weight: 1900
-isDraft: false
+isDraft: true
 ref: Digital-Bulletin-Board-with-Excel
 category:
   - Administration
