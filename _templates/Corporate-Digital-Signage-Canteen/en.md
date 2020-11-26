@@ -1,8 +1,8 @@
 ---
 layout: article
-title: corporate digital signage for your canteen or gastronomy
+title: digital signage menu board ― your dashboard for company canteen or gastronomy
 description: 
-  - This template is an example of how you can create a digital signage application using your individual images in order to create weekly schedules, offers or menus from the gastronomy sector. Simply load your digitalized menus into our template and define which image will be displayed at which times. Your images and display times can be easily modified via the Peakboard Designer or via API (web interface or App).
+  - Display advertising in your corporate design! This template shows how you can easily create a digital signage application with individual images. Load images of your choice into the visualization and define which image should be displayed when. Your individual images and times can be managed via the Peakboard Designer as well as via the API (web interface or Peakboard App). The flexible display options allow you to configure the template according to your needs and to match your restaurant as well as your target group. Download directly and display menus, pricing, or promotions! Let's get started.
 lang: en
 weight: 1000
 isDraft: false

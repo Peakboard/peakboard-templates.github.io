@@ -1,11 +1,11 @@
 ---
 layout: article
-title: mit diesem vertriebs board machst du verkaufen zum wettkampf
+title: dein sales dashboard – mache den vertrieb zum wettkampf
 description: 
-  - Mit diesem Template kannst du Umsätze von verschiedenen Standorten miteinander Vergleichen und sorgst so für mehr Wettbewerb. Durch die direkte visuelle Anzeige der wichtigsten Kennzahl werden Ehrgeiz geweckt. Als Datenbasis dient hier eine einfache Excel mit jeweils den Täglichen Umsätzen der 3 Standorte, dies könnte aus einem Vertriebstool oder CRM kommen. Dieses Template ist auch ein schönes Beispiel wie man mit Dataflows diese Daten verwendet und für seine Zwecke auswertet und nutzbar macht. Jetzt runterladen und noch mehr verkaufen!
+  - Mit diesem Template vergleichst du Umsätze verschiedener Standorte deines Unternehmens und sorgst so für mehr Wettbewerb unter deinen Mitarbeitern im Vertrieb. Durch die optisch verständlich aufbereiteten Soll-Ist-Vergleiche der Umsätze der jeweiligen Standorte, sehen deine Vertiebsmitarbeiter wo sie gerade stehen und wo sie stehen sollten, wodurch der Ehrgeiz geweckt wird. Als Datenbasis dient hier eine einfache Excel Tabelle, die die täglichen Umsätze der drei Standorte beinhaltet, aber auch ein CRM oder Vertriebstool könnte hier angebunden werden. Dieses Template ist außerdem ein schönes Beispiel dafür, wie man solche Daten mit Dataflows für seine Zwecke auswertet und nutzbar macht. Jetzt herunterladen und den Vertrieb ankurbeln!
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Sales-Dashboard-Multiple-Locations
 category:
   - Administration

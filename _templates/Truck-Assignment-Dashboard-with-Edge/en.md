@@ -1,8 +1,10 @@
 ---
 layout: article
-title: truck assignment with Peakboard Edge
+title: your truck overview at the warehouse ― your dashboard for truck assignment with Peakboard Edge
 description: 
-- This template offers the possibility to assign different trucks to a certain gate at a certain time. The assignment of the trucks is done via the Peakboard Web Interface. There, you can store and maintain all data directly on the Peakboard Box. If more than 7 gates are specified, the view automatically changes to the next page. Upload the visualization to your Peakboard Box and open the Peakboard Web Interface to manage your gates and trucks. The traffic lights of the visualization are linked to an individual Peakboard Edge. If you link your Peakboard Edges in the edge data source of the visualization, you can display the status directly at the gate using a common signal light.
+- In logistics, timing is key. Inside the warehouse was well as at the goods receipt. With this template you can assign different trucks to a certain gate at the goods receipt during a certain time window via the Peakboard web interface. There you can save and add There you can save and add If more than 7 gates are entered, the display automatically switches to the next page. Load your visualization on the Peakboard Box and open the web interface to manage the gates and trucks. The traffic lights of the visualization are linked to individual Peakboard Edges. If you store Peakboard Edge in the data source of the visualization, the status can be displayed to the driver directly at the gate using a normal traffic light. This shortens waiting times for the suppliers and speeds up the unloading. Download the template now, for more efficient logistics processes. Download now and easily improve your delivery reliability and
+logistics processes.
+
 lang: en
 weight: 1000
 isDraft: false

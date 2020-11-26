@@ -1,8 +1,10 @@
 ---
 layout: article
-title: reception screen with microsoft office 365 calendar connection
+title: digital signage reception screen ― information dashboard with Microsoft Office 365 calendar connection
 description: 
-  - With this template you can easily and quickly visualize a reception screen with different appointments. For this a Microsoft 365 calendar is connected as data source. To be able to use this template for your purposes, simply replace the company logo, insert a different background image if necessary and connect your calendar. An explanation of how to connect your calendar can be found more detailed below.
+  - With this template you can easily and quickly design a multifunctional digital reception screen for your visitors. Welcome your customers right at the area of reception with the information they need during their visit on a dynamic reception screen. Connect your Microsoft 365 calendar as a data source to display visitor information such as room occupancy
+according to the daily schedule.
+Add your company logo and design the reception screen in your corporate design - flexible and functional. Download now.
 lang: en
 weight: 1000
 isDraft: false

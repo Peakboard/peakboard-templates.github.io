@@ -1,8 +1,8 @@
 ---
 layout: article
-title: room occupancy and appointment overview at the reception desk
+title: reception screen for room occupancy and schedule overview - your digital bulletin board
 description: 
-  - This visualization provides an overview of current appointments and the corresponding room occupancy. Connect your Microsoft 365 calendar, change the logo and, if necessary, adjust the weather widget to adapt the visualization to your needs.
+  - With the all-in-one solution from Peakboard, you can welcome guests with the most important information already in at the area of reception. This template helps your visitors to get an overview of current appointments and the corresponding room occupancy with a quick glance at the reception screen. Simply connect your Microsoft 365 calendar, exchange the logo and, if necessary, adjust the weather widget to adapt the visualization to your needs and display it according to your corporate design. Download the template now and automatically show your guests exactly what they need to know during their visit.
 lang: en
 weight: 1000
 isDraft: false

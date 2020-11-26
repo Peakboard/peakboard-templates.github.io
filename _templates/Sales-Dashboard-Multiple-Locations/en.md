@@ -1,11 +1,11 @@
 ---
 layout: article
-title: get more competition in your sales teams with this sales revenue board
+title: your sales dashboard – boost sales through competition
 description: 
-  - With this template you can compare sales from different locations with each other and thus ensure more competition. The direct visual display of the most important key figure arouses ambition. A simple Excel sheet is used as the database with the daily sales of the 3 locations, this could come from a sales tool or CRM. This template is also a nice example of how this data can be used with dataflows and evaluated and made usable for your purposes. Download now and sell even more!
+  - With this template you can compare the sales of different locations of your company and thus create more competition among your sales staff. Through the visually comprehensible target-performance comparisons of the sales of the respective locations, your sales employees can see where they currently stand and where they should stand, thus increasing their ambition. A simple Excel table, which contains the daily revenues of the three locations, serves as a data basis, but a CRM or sales tool could also be connected here. This template is also a perfect example of how to use dataflows to evaluate such data and make it usable for your purposes. Download now and boost your sales!
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Sales-Dashboard-Multiple-Locations
 category:
   - Administration

@@ -1,8 +1,8 @@
 ---
 layout: article
-title: quickly overview of the status of several filling lines with Peakboard Edge
+title: production status of your bottling plants – interactive dashboard with Peakboard Edge
 description: 
-- This example shows how the throughput of a bottling plant can be counted with the help of Peakboard Edge. In addition, you can keep an eye on the current status of each line. Data from other systems such as an ERP could also help employees to keep track of the current production. All you need is Peakboard Edge in combination with Peakboard Enterprise and a standard light barrier with a relay output. With this template you can then visualize the resulting data in order to communicate them directly. Download now!
+- With this template, you can keep an eye on the performance of your bottling lines at all times and easily track the progress of your production. In addition, you can integrate further relevant data, e.g. from ERP systems, and help your employees to have an overview of the current production in real time. All you need is Peakboard Edge in combination with Peakboard Enterprise and a standard light barrier with a relay output. This template also lets you visualize the resulting data and communicate it immediately as a practical target-performance comparison. Download it now!
 lang: en
 weight: 1800
 isDraft: true

@@ -1,8 +1,8 @@
 ---
 layout: article
-title: mqtt als datenquelle
+title: MQTT als datenquelle ― dein MQTT dashboard mit Peakboard
 description: 
-  - Diese Visualisierung zeigt, wie man MQTT als Datenquelle verwendet&#58; Die Monitore befinden sich an verschiedenen Stellen in der Produktionshalle. So hat beispielsweise der Werker einen dieser Monitore an seiner Station und kann Wartung in Anspruch nehmen. Der Produktionsleiter kann auf einem anderen Monitor auf Meldungen reagieren. Die Reaktionszeit ist dadurch viel schneller und zeigt, wie verschiedene Peakboard Boxen und Visualisierungen zusammenarbeiten können.
+  - "Diese Visualisierung zeigt, wie man MQTT als Datenquelle verwenden kann um so ganz leicht eine Kommunikation zwischen zwei Dashboards zu ermöglichen: Die beiden Monitore können sich dabei an ganz verschiedenen Stellen in der Produktionshalle befinden. Der Werker nutzt dabei einen der Monitore an seiner Station, um Wartungen in Anspruch zu nehmen. Der Produktionsleiter wiederum sieht die Meldung in Echtzeit auf seinem Monitor und kann entsprechend reagieren. Reaktionszeiten werden so verkürzt und Probleme schneller behoben. Jetzt Template herunterladen."
 lang: de
 weight: 600
 isDraft: false

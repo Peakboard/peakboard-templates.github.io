@@ -1,8 +1,8 @@
 ---
 layout: article
-title: empfangsbildschirm mit excel-anbindung
+title: Digital signage an der Rezeption ― dein empfangsbildschirm mit Peakbboard
 description: 
-  - Bei dieser Vorlage handelt es sich um einen weiteren Willkommensbildschirm für den Empfangsbereich oder die Lobby. Hierfür werden die Termine über eine Excel-Datei gepflegt.
+  - Begrüße deine Besucher und mache bereits im Empfangsbereich einen guten Eindruck mit diesem ansprechenden Template. Oder nutze es, um deinen Gästen Termine und Raumbelegungen auf Displays an der Rezeption anzeigen zu lassen. Die Termine werden hierfür über eine Excel-Datei gepflegt. Einfach Template herunterladen und beeindrucken!
 lang: de
 weight: 290
 isDraft: false

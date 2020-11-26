@@ -1,8 +1,8 @@
 ---
 layout: article
-title: einfache übersicht über den status mehrerer abfülllinien mit Peakboard Edge
+title: produktionsstatus deiner abfüllanlagen – interaktives Dashboard mit Peakboard Edge
 description: 
-  - Dieses Beispiel zeigt, wie mit Hilfe von Peakboard Edge der Durchsatz einer Abfüllanlage gezählt werden kann. Zusätzlich kannst du den aktuellen Status jeder Linie im Blick behalten. Auch Daten aus weiteren System wie einem ERP könnten den Mitarbeitern helfen immer den Überblick über die aktuelle Produktion zu behalten. Du benötigst dafür lediglich Peakboard Edge in Kombination mit Peakboard Enterprise und eine handelsübliche Lichtschranke mit einem Relais-Ausgang. Mit diesem Template visualisierst du im Anschluss die anfallenden Daten um sie so unmittelbar zu kommunizieren. Jetzt herunterladen!
+  - Mit diesem Template hast du den Durchsatz deiner Abfüllanlagen jederzeit im Blick und kannst den Fortschritt deiner Produktion ganz leicht verfolgen. Binde zusätzlich weitere relevanten Daten, z. B. aus ERP-Systemen ganz einfach an und hilf deinen Mitarbeitern die aktuelle Produktion in Echtzeit zu überblicken. Du benötigst dafür lediglich Peakboard Edge in Kombination mit Peakboard Enterprise und eine handelsübliche Lichtschranke mit einem Relais-Ausgang. Mit diesem Template visualisierst du im Anschluss die anfallenden Daten, um sie so unmittelbar im praktischen Soll-Ist-Vergleich zu kommunizieren. Jetzt herunterladen!
 lang: de
 weight: 1800
 isDraft: true
