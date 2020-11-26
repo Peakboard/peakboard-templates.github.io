@@ -2,7 +2,7 @@
 layout: article
 title: digitales schwarzes brett mit excel
 description: 
-  - Schwarzes Brett 2.0. Mitarbeiter auf einem digitalen Infoboard automatisiert auf dem Laufenden halten. Egal ob es dabei um allgemeine Mitarbeiterinformationen, einen Newsticker, den Speiseplan in der Mensa, Schichtpläne, Ankündigungen oder aber Raumbelegungspläne am Empfang geht, du bleibst hinsichtlich der Medienformate, Darstellung und Inhalte völlig flexibel. Alle News, Bilder und PDF-Dokumente können über einen OneDrive Order verwaltet werden. Mit diesem Template steht deiner individuellen Digital Signage Anwendung nichts mehr im Weg.
+  - Schwarzes Brett 3.0. Mitarbeiter auf einem digitalen Infoboard automatisiert auf dem Laufenden halten. Egal ob es dabei um allgemeine Mitarbeiterinformationen, einen Newsticker, den Speiseplan in der Mensa, Schichtpläne, Ankündigungen oder aber Raumbelegungspläne am Empfang geht, du bleibst hinsichtlich der Medienformate, Darstellung und Inhalte völlig flexibel. Alle News, Bilder und PDF-Dokumente können über einen OneDrive Order verwaltet werden. Mit diesem Template steht deiner individuellen Digital Signage Anwendung nichts mehr im Weg.
 lang: de
 weight: 1900
 isDraft: true
