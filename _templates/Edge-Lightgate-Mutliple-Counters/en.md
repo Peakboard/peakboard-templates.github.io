@@ -5,7 +5,7 @@ description:
 - With this template, you can keep an eye on the performance of your bottling lines at all times and easily track the progress of your production. In addition, you can integrate further relevant data, e.g. from ERP systems, and help your employees to have an overview of the current production in real time. All you need is Peakboard Edge in combination with Peakboard Enterprise and a standard light barrier with a relay output. This template also lets you visualize the resulting data and communicate it immediately as a practical target-performance comparison. Download it now!
 lang: en
 weight: 1800
-isDraft: true
+isDraft: false
 ref: Edge-Lightgate-Mutliple-Counters
 category:
   - Interaction
