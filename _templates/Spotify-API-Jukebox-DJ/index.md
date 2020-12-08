@@ -31,9 +31,9 @@ Anschließend musst du dich mit deinem Spotify Account anmelden.
 
 ![](img/login-to-spotify.png)
 
-Nun bist du auch schon fertig und das Template ist mit deinem Spotify verbunden.
+Nun bist du auch schon fertig und das Template ist mit deinem Spotify Account verbunden.
 
-Öffne nun Spotify auf deinem Rechner oder Smartphone und lasse irgendwas laufen. Die Musik wird nicht über Peakboard übertragen, Peakboard funktioniert lediglich als eine Art Fernbedienung.
+Öffne nun Spotify auf deinem Rechner oder Smartphone und lasse irgendwas laufen. Die Musik wird nicht über Peakboard übertragen, Peakboard funktioniert lediglich als eine Art Fernbedienung. Achtung: Dieses Template verwendet die Spotify Queue. Diese sollte daher leer bleiben solange du das Template verwendest.
 
 Wenn du jetzt in der Preview oder auf einer Peakboard Box die Visualisierung startest kannst du mit einem Touchscreen oder eine Maus direkt loslegen.
 
