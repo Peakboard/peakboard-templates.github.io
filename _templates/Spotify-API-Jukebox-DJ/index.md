@@ -18,8 +18,7 @@ overview_data_sources:
 ---
 # so funktioniert's
 
-Lade dir das Template herunter und öffne es mit dem Peakboard Designer.
-Nun musst du zuerst dich gegenüber Spotify authentifizieren. Dies machst du indem du eine Datenquelle öffnest (1.) und dort den Token erneuerst. Klicke auf den Button 'Token Erneuern' (2.) um alle Einstellungen bezüglich der OAuth Authentifzierung zu öffnen. 
+Lade dir das Template herunter und öffne es mit dem Peakboard Designer. Nun musst du zuerst dich gegenüber Spotify authentifizieren. Dies machst du indem du eine Datenquelle öffnest (1.) und dort den Token erneuerst. Klicke auf den Button 'Token Erneuern' (2.) um alle Einstellungen bezüglich der OAuth Authentifzierung zu öffnen. 
 
 ![](img/update-spotify-datasource.png)
 

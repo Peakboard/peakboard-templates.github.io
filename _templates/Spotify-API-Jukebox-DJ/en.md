@@ -18,8 +18,7 @@ overview_data_sources:
 ---
 # how it works
 
-Download the template and open it with the Peakboard Designer.
-Now you first have to authenticate yourself to Spotify. You do this by opening a data source (1.) and renewing the token there. Click on the button 'Renew Token' (2.) to open all settings concerning OAuth authentication. 
+Download the template and open it with the Peakboard Designer. Now you first have to authenticate yourself to Spotify. You do this by opening a data source (1.) and renewing the token there. Click on the button 'Renew Token' (2.) to open all settings concerning OAuth authentication. 
 
 ![](img/update-spotify-datasource.png)
 
