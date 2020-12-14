@@ -1,4 +1,5 @@
 {% if page.isDraft %}<meta name="robots" content="noindex" />{% endif %}
+{% if page.noindex %}<meta name='robots' content='noindex,nofollow' />{% endif %}
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>

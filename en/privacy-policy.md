@@ -4,6 +4,7 @@ layout: privacy
 lang: en
 ref: privacy-01
 search-ignore: true
+noindex: true
 ---
 
 ## 1. Data protection overview
