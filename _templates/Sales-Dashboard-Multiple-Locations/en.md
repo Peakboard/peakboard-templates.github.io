@@ -2,7 +2,7 @@
 layout: article
 title: your sales dashboard – boost sales through competition
 description: 
-  - With this template you can compare the sales of different locations of your company and thus create more competition among your sales staff. Through the visually comprehensible target-performance comparisons of the sales of the respective locations, your sales employees can see where they currently stand and where they should stand, thus increasing their ambition. A simple Excel table, which contains the daily revenues of the three locations, serves as a data basis, but a CRM or sales tool could also be connected here. This template is also a perfect example of how to use dataflows to evaluate such data and make it usable for your purposes. Download now and boost your sales!
+  - With this template you can compare the sales of different locations of your company and thus create more competition among your sales employees. Through the comprehensible target/actual comparison of the sales of the respective locations, your sales employees can see where they currently stand and where they should stand and thus strengthen their motivation.  A simple Excel spreadsheet containing the daily sales of the three locations serves as the data basis, but a CRM or sales tool could also be connected here. This template is also a perfect example of how you can use data flows to evaluate such data and make it useful for your purposes. Download now and increase your sales!
 lang: en
 weight: 1000
 isDraft: false
