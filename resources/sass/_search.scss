@@ -8,8 +8,10 @@ $gray-dark: #373d3f;
 }
 
 .ais-SearchBox-input {
-  border: 1.5px solid #c4c8d8;
+  border: 1.5px solid #c4c8d8 !important;
   border-radius: 3px;
+  padding: .3rem 1.7rem;
+  --tw-ring-color: #f29205 !important;
 }
 
 .ais-Menu-list {
