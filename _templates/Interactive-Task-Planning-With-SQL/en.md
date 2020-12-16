@@ -1,8 +1,8 @@
 ---
 layout: article
-title: your interactive task planning - with one click all information is saved in SQL
+title: create an interactive task list – your dashboard for open to dos
 description: 
-  - "With this template you can quickly and elegantly organize your task planning. The times of printed Excel files are over. The task times are directly persisted in a SQL server. So you can always see how long a task took and which tasks need to be optimized. You can evaluate the data at any time with other tools and use it everywhere to optimize your store floor meetings, for example."
+  - Easily manage orders or projects with this handy template. Download it for free and create a practical digital to do list to keep open tasks in sight. In addition, you can see your next scheduled tasks and how much time is planned for each of them. Connect your Peakboard Box to a touchscreen to record how long you took per task. With one click this information is saved in a SQL server and helps you to optimize processes sustainably.
 lang: en
 weight: 1700
 isDraft: true
