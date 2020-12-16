@@ -1,8 +1,8 @@
 ---
 layout: article
-title: deine interaktive aufgabenplanung – mit einem klick alle informationen in SQL gesichert
+title: deine digitale to do liste – verwalte aufgaben via interaktivem dashboard
 description: 
-  - "Mit diesem Template kannst du deine Aufgabenplanung schnell und elegant organisieren. Die Zeiten von ausgedruckten Excel Dateien sind vorbei. Die Aufgabenzeiten werden direkt in einem SQL-Server persistiert. So kannst du jederzeit einsehen wie lange ein Auftrag dauerte und welche Aufgaben optimiert werden müssen. Die Daten kannst du somit jederzeit mit anderen Tools auswerten und überall nutzen, um bspw. deine Shopfloor Meetings zu optimieren."
+  - Mit diesem praktischen Template hast du deine To-dos im Blick und verwaltest Aufträge oder Projekte noch effizienter. Darüber hinaus werden dir deine nächsten zu erledigenden Aufgaben angezeigt und du siehst direkt wie viel Zeit dafür geplant ist. Schließe deine Peakboard Box an einen Touchscreen, um festzuhalten wie lange du pro Aufgabe gebraucht hast. Mit einem Klick auf den Touchscreen werden diese Informationen in einem SQL-Server gesichert und helfen dir dabei Prozesse nachhaltig zu optimieren.
 lang: de
 weight: 1700
 isDraft: true
