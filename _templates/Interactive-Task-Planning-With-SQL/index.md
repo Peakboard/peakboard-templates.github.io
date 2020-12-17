@@ -2,7 +2,7 @@
 layout: article
 title: deine digitale to do liste – verwalte aufgaben via interaktivem dashboard
 description: 
-  - Mit diesem praktischen Template hast du deine To-dos im Blick und verwaltest Aufträge oder Projekte noch effizienter. Darüber hinaus werden dir deine nächsten zu erledigenden Aufgaben angezeigt und du siehst direkt wie viel Zeit dafür geplant ist. Schließe deine Peakboard Box an einen Touchscreen, um festzuhalten wie lange du pro Aufgabe gebraucht hast. Mit einem Klick auf den Touchscreen werden diese Informationen in einem SQL-Server gesichert und helfen dir dabei Prozesse nachhaltig zu optimieren.
+  - Mit diesem praktischen Template haben deine Mitarbeiter anstehende Aufgaben jederzeit im Blick und verwalten Aufträge oder Projekte noch effizienter. Darüber hinaus werden ihnen die nächsten zu erledigenden Aufgaben angezeigt und sie sehen direkt wie viel Zeit dafür vorgesehen ist. Wird die Peakboard Box an einen Touchscreen angeschlossen, lässt sich außerdem festhalten, wie lange es dauert, bis eine Aufgabe erledigt ist. Mit einem Klick auf den Touchscreen werden diese Informationen in einem SQL-Server gesichert und helfen dir dabei Prozesse nachhaltig zu optimieren.
 lang: de
 weight: 1700
 isDraft: true
