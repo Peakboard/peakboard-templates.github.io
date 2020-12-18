@@ -10,8 +10,8 @@ ref: Edge-Lightgate-Counter-Retrofitting
 category:
   - Interaction
   - Edge
-image: Edge-Lightgate-Counter-Retrofitting.png
-image_thumbnail: Edge-Lightgate-Counter-Retrofitting_thumbnail.png
+image: Edge-Lightgate-Counter-Retrofitting_CN.png
+image_thumbnail: Edge-Lightgate-Counter-Retrofitting_CN_thumbnail.png
 download: Edge-Lightgate-Counter-Retrofitting_CN.pbmx
 overview_description:
 overview_benefits:

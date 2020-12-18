@@ -14,8 +14,8 @@ category:
   - Production
   - Shopfloor
   - Series Production
-image: Detailed-Board-Single-Production-Line.png
-image_thumbnail: Detailed-Board-Single-Production-Line_thumbnail.png
+image: Detailed-Board-Single-Production-Line_CN.png
+image_thumbnail: Detailed-Board-Single-Production-Line_CN_thumbnail.png
 download: Detailed-Board-Single-Production-Line_CN.pbmx
 overview_description:
 overview_benefits:

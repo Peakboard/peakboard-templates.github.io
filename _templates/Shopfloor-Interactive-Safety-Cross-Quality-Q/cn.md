@@ -10,8 +10,8 @@ ref: Shopfloor-Interactive-Safety-Cross-Quality-Q
 category:
   - Shopfloor
   - Interaction
-image: Shopfloor-Interactive-Safety-Cross-Quality-Q.png
-image_thumbnail: Shopfloor-Interactive-Safety-Cross-Quality-Q_thumbnail.png
+image: Shopfloor-Interactive-Safety-Cross-Quality-Q_CN.png
+image_thumbnail: Shopfloor-Interactive-Safety-Cross-Quality-Q_CN_thumbnail.png
 download: Shopfloor-Interactive-Safety-Cross-Quality-Q_CN.pbmx
 overview_description:
 overview_benefits:

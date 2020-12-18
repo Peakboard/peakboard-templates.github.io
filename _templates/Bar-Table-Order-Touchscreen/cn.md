@@ -10,8 +10,8 @@ ref: Bar-Table-Order-Touchscreen
 category:
   - Interaction
   - Misc
-image: Bar-Table-Order-Touchscreen.png
-image_thumbnail: Bar-Table-Order-Touchscreen_thumbnail.png
+image: Bar-Table-Order-Touchscreen_CN.png
+image_thumbnail: Bar-Table-Order-Touchscreen_CN_thumbnail.png
 download: Bar-Table-Order-Touchscreen_CN.pbmx
 overview_description:
 overview_benefits:

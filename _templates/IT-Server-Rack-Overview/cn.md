@@ -10,9 +10,9 @@ ref: IT-Server-Rack-Overview
 category:
   - Administration
   - IT data center
-image: IT-Server-Rack-Overview.png
-image_thumbnail: IT-Server-Rack-Overview_thumbnail.png
-download: IT-Server-Rack-Overview _CN.pbmx
+image: IT-Server-Rack-Overview_CN.png
+image_thumbnail: IT-Server-Rack-Overview_CN_thumbnail.png
+download: IT-Server-Rack-Overview_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

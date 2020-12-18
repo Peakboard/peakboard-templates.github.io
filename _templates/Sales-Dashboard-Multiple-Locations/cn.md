@@ -5,14 +5,14 @@ description:
   - 您可以使用该模板比较不同地区的销售额，从而确保相互之间的竞争。通过直观地展示最重要的关键数据，激发大家的斗志。模板使用一个简单的Excel工作簿作为数据库，它包含三个地区的日销售额。您也可以从其他销售工具或CRM系统获取该数据。模板展示了如何将这些数据与数据流配合使用，如何评估销售数据并为您所用，是一个非常好的示例。马上下载，创造更好的销售业绩！
 lang: cn
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Sales-Dashboard-Multiple-Locations
 category:
   - Administration
   - KPI
   - Misc
-image: Sales-Dashboard-Multiple-Locations.png
-image_thumbnail: Sales-Dashboard-Multiple-Locations_thumbnail.png
+image: Sales-Dashboard-Multiple-Locations_CN.png
+image_thumbnail: Sales-Dashboard-Multiple-Locations_CN_thumbnail.png
 download: Sales-Dashboard-Multiple-Locations_CN.pbmx
 overview_description:
 overview_benefits:

@@ -11,8 +11,8 @@ category:
   - Administration
   - IT Tickets
   - IT
-image: IT-Admin-Ticket-Board.png
-image_thumbnail: IT-Admin-Ticket-Board_thumbnail.png
+image: IIT-Admin-Ticket-Board_CN.png
+image_thumbnail: IT-Admin-Ticket-Board_CN_thumbnail.png
 download: IT-Admin-Ticket-Board_CN.pbmx
 overview_description:
 overview_benefits:

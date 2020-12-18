@@ -11,8 +11,8 @@ category:
   - Administration
   - Reception
   - Bulletin Board
-image: Digital-Bulletin-Board-With-OneDrive.png
-image_thumbnail: Digital-Bulletin-Board-With-OneDrive_thumbnail.png
+image: Digital-Bulletin-Board-With-OneDrive_CN.png
+image_thumbnail: Digital-Bulletin-Board-With-OneDrive_CN_thumbnail.png
 download: Digital-Bulletin-Board-With-OneDrive_CN.pbmx
 overview_description:
 overview_benefits:

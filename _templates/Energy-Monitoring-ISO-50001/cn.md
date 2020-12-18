@@ -12,8 +12,8 @@ category:
   - maintenance
   - sustainability
   - quality management
-image: Energy-Monitoring-ISO-50001.png
-image_thumbnail: Energy-Monitoring-ISO-50001_thumbnail.png
+image: Energy-Monitoring-ISO-50001_CN.png
+image_thumbnail: Energy-Monitoring-ISO-50001_CN_thumbnail.png
 download: Energy-Monitoring-ISO-50001_CN.pbmx
 overview_description:
 overview_benefits:
