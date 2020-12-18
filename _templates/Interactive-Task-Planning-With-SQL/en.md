@@ -5,7 +5,7 @@ description:
   - With this practical template, employees have an overview of upcoming tasks at all times and they can manage orders or projects even more efficiently. In addition, the upcoming tasks to be completed are displayed and they can directly see how much time has been scheduled for the task. If the Peakboard Box is connected to a touchscreen, it is also possible to record how long it takes for a task to be completed. With a click on the touchscreen, this information is saved in an SQL server and helps you to optimize processes in the long term. Download now for free!
 lang: en
 weight: 1700
-isDraft: true
+isDraft: false
 ref: Interactive-Task-Planning-With-SQL
 category:
   - Production

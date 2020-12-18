@@ -5,7 +5,7 @@ description:
   - Mit diesem praktischen Template haben deine Mitarbeiter anstehende Aufgaben jederzeit im Blick und verwalten Aufträge oder Projekte noch effizienter. Darüber hinaus werden ihnen die nächsten zu erledigenden Aufgaben angezeigt und sie sehen direkt wie viel Zeit dafür vorgesehen ist. Wird die Peakboard Box an einen Touchscreen angeschlossen, lässt sich außerdem festhalten, wie lange es dauert, bis eine Aufgabe erledigt ist. Mit einem Klick auf den Touchscreen werden diese Informationen in einem SQL-Server gesichert und helfen dir dabei Prozesse nachhaltig zu optimieren.
 lang: de
 weight: 1700
-isDraft: true
+isDraft: false
 ref: Interactive-Task-Planning-With-SQL
 category:
   - Produktion
