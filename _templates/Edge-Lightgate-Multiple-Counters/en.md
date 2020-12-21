@@ -6,13 +6,16 @@ description:
 lang: en
 weight: 1600
 isDraft: false
-ref: Edge-Lightgate-Mutliple-Counters
+ref: Edge-Lightgate-Multiple-Counters
+redirect_from:
+  - /Edge-Lightgate-Mutliple-Counters/en
+  - /Edge-Lightgate-Mutliple-Counters/en/
 category:
   - Production
   - Edge
-image: Edge-Lightgate-Mutliple-Counters.png
-image_thumbnail: Edge-Lightgate-Mutliple-Counters_thumbnail.png
-download: Edge-Lightgate-Mutliple-Counters.pbmx
+image: Edge-Lightgate-Multiple-Counters.png
+image_thumbnail: Edge-Lightgate-Multiple-Counters_thumbnail.png
+download: Edge-Lightgate-Multiple-Counters.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

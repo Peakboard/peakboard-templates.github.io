@@ -6,13 +6,16 @@ description:
 lang: cn
 weight: 1800
 isDraft: false
-ref: Edge-Lightgate-Mutliple-Counters
+ref: Edge-Lightgate-Multiple-Counters
+redirect_from:
+  - /Edge-Lightgate-Mutliple-Counters/cn
+  - /Edge-Lightgate-Mutliple-Counters/cn/
 category:
   - Interaction
   - Edge
-image: Edge-Lightgate-Mutliple-Counters_CN.png
-image_thumbnail: Edge-Lightgate-Mutliple-Counters_CN_thumbnail.png
-download: Edge-Lightgate-Mutliple-Counters_CN.pbmx
+image: Edge-Lightgate-Multiple-Counters_CN.png
+image_thumbnail: Edge-Lightgate-Multiple-Counters_CN_thumbnail.png
+download: Edge-Lightgate-Multiple-Counters_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

@@ -6,7 +6,12 @@ description:
 lang: de
 weight: 1600
 isDraft: false
-ref: Edge-Lightgate-Mutliple-Counters
+ref: Edge-Lightgate-Multiple-Counters
+redirect_from:
+  - /Edge-Lightgate-Mutliple-Counters/
+  - /Edge-Lightgate-Mutliple-Counters
+  - /Edge-Lightgate-Mutliple-Counters/de
+  - /Edge-Lightgate-Mutliple-Counters/de/
 category:
   - Produktion
   - Edge
