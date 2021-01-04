@@ -10,8 +10,8 @@ ref: Data-Center-Energy-Usage-And-Capacity-Overview
 category:
   - Administration
   - IT data center
-image: Data-Center-Energy-Usage-And-Capacity-Overview.png
-image_thumbnail: Data-Center-Energy-Usage-And-Capacity-Overview_thumbnail.png
+image: Data-Center-Energy-Usage-And-Capacity-Overview_CN.png
+image_thumbnail: Data-Center-Energy-Usage-And-Capacity-Overview_CN_thumbnail.png
 download: Data-Center-Energy-Usage-And-Capacity-Overview_CN.pbmx
 overview_description:
 overview_benefits:

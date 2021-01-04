@@ -11,8 +11,8 @@ category:
   - Andon
   - Production
   - Job Production
-image: Andon-Single-Stations-Workflow.png
-image_thumbnail: Andon-Single-Stations-Workflow_thumbnail.png
+image: Andon-Single-Stations-Workflow_CN.png
+image_thumbnail: Andon-Single-Stations-Workflow_CN_thumbnail.png
 download: Andon-Single-Stations-Workflow_CN.pbmx
 overview_description:
 overview_benefits:

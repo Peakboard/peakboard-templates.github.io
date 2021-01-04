@@ -12,8 +12,8 @@ category:
   - Production
   - Andon
   - OEE
-image: Forcam-Andon-Board.png
-image_thumbnail: Forcam-Andon-Board.png
+image: Forcam-Andon-Board_CN.png
+image_thumbnail: Forcam-Andon-Board_CN_thumbnail.png
 download: Forcam-Andon-Board_CN.pbmx
 overview_description:
 overview_benefits:

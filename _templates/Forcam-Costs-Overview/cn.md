@@ -10,8 +10,8 @@ ref: Forcam-Costs-Overview
 category:
   - Forcam
   - Production
-image: Forcam-Costs-Overview.png
-image_thumbnail: Forcam-Costs-Overview_thumbnail.png
+image: Forcam-Costs-Overview_CN.png
+image_thumbnail: Forcam-Costs-Overview_CN_thumbnail.png
 download: Forcam-Costs-Overview_CN.pbmx
 overview_description:
 overview_benefits:
