@@ -2,7 +2,7 @@
 layout: article
 title: dein Siemens S7 dashboard ― steuerung einer stanze mittels Siemens S7
 description: 
-  - Dieses Template zeigt, wie du ganz einfach die Kommunikation zwischen Peakboard und einer Stanze, mithilfe einer Siemens S7 Steuerung, einrichten kannst. Jetzt Template herunterladen und für diene individuelle Visualsierung konfigurieren! Peakboard’s vielzählige Funktionalitäten und die Anbindung verschiedenster Schnittstellen bietet dir dabei ein Höchstmaß an Flexibilität.
+  - Dieses Template zeigt, wie du ganz einfach die Kommunikation zwischen Peakboard und einer Stanze mithilfe einer Siemens S7 Steuerung einrichten kannst. Jetzt Template herunterladen und für deine individuelle Visualisierung konfigurieren! Vielzählige Funktionalitäten und die Anbindung verschiedenster Schnittstellen bieten dir dabei ein Höchstmaß an Flexibilität.
 lang: de
 weight: 500
 isDraft: false
