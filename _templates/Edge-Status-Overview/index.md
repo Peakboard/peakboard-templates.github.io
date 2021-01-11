@@ -2,7 +2,7 @@
 layout: article
 title: dein echtzeit-dashboard für den arbeitsstatus ― mit Peakboard Edge alle arbeitsplätze im blick
 description: 
-  - "Mit diesem Template und Peakboard Edge kann der Status verschiedener Arbeitsplätze in Echtzeit angezeigt werden. Verschiedene Farben sollen dabei Transparenz über die Produktivität der einzelnen Arbeitsplätze schaffen: Grün bedeutet alles ist in Ordnung, Blau bedeutet geplante Pause und Rot bedeutet es gibt an diesem Arbeitsplatz ein Problem. Jetzt herunterladen!"
+  - "Mit diesem Template und Peakboard Edge kann der Status verschiedener Arbeitsplätze in Echtzeit angezeigt werden. Verschiedene Farben sollen dabei Transparenz über die Produktivität der einzelnen Arbeitsplätze schaffen: Grün bedeutet alles ist in Ordnung, blau bedeutet geplante Pause und rot bedeutet, es gibt an diesem Arbeitsplatz ein Problem. Jetzt herunterladen!"
 lang: de
 weight: 2000
 isDraft: false
