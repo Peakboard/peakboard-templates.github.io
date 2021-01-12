@@ -19,7 +19,7 @@ overview_data_sources:
 ---
 # mögliche datenquellen
 
-Dieses Template verwendet die Peakboard Edge Datenquelle. Peakboard Edge kann Informationen über externe Geräte direkt ein- und ausgeben. Peakboard Edge kommuniziert dabei nicht über ein Display, sondern wird immer mit einer Peakboard Box verbunden. [Hier kannst du mehr über Peakboard Edge erfahren](https://peakboard.com/produkt/peakboard-edge/). Die über das Peakboard Edge eingescannten Nummern können dann aus einem weiteres System Daten zu einem Auftrag holen. Dieses Template arbeitet mit einer Excel Datei, in deinem Szenario wäre ein ERP System wie: abas ERP, proALPHA ERP, Epicor ERP, Comarch ERP, QAD Adaptive ERP, MS Dynamics AX Axapta, MS Dynamics NAV oder SAP denkbar. Hier findest du eine Übersicht über [mögliche Schnittstellen](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen).
+Dieses Template verwendet die Peakboard Edge Datenquelle. Peakboard Edge kann Informationen über externe Geräte direkt ein- und ausgeben. Peakboard Edge kommuniziert dabei nicht über ein Display, sondern wird immer mit einer Peakboard Box verbunden. [Hier kannst du mehr über Peakboard Edge erfahren](https://peakboard.com/produkt/peakboard-edge/). Die über das Peakboard Edge eingescannten Nummern können dann aus einem weiteres System Daten zu einem Auftrag holen. Dieses Template arbeitet mit einer Excel Datei, in deinem Szenario wäre ein ERP System wie: abas ERP, proALPHA ERP, Epicor ERP, Comarch ERP, QAD Adaptive ERP, MS Dynamics AX Axapta, MS Dynamics NAV oder SAP denkbar. Hier findest du eine Übersicht über [mögliche Schnittstellen](https://peakboard.com/schnittstellen/).
 
 
 # so funktioniert’s

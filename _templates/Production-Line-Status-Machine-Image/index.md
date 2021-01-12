@@ -21,4 +21,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # mögliche datenquellen
-Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als Datenquelle. Für deinen Use Case kannst du natürlich deine Systeme anbinden. Peakboard unterstützt unter anderem folgende Protokolle: MQTT, OPC UA, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation, MT Connect, WAGO oder [andere Datenquellen](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen).
+Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als Datenquelle. Für deinen Use Case kannst du natürlich deine Systeme anbinden. Peakboard unterstützt unter anderem folgende Protokolle: MQTT, OPC UA, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation, MT Connect, WAGO oder [andere Datenquellen](https://peakboard.com/schnittstellen/).

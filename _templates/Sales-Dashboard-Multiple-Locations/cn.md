@@ -19,4 +19,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # 可使用的数据源
-该模板使用Excel文件作为数据源。您可以将文件存储在云服务提供商（Microsoft OneDrive、Google Drive、Dropbox、Sharepoint）的网络驱动中，并使其保持更新。此外，该数据也可以通过REST API从SQL数据库、CRM、BI工具或其他系统获取。针对您的使用场景，连接自己的系统即可。可使用的数据源包括：PostgreSQL、MySQL、MongoDB、MS Azure SQL、MS Access、MS SQL Server、IBM DB2、JSON、XML、CSV、REST-API或[其他](https://peakboard.com/en/product/peakboard-versions/#dataconnections)。
+该模板使用Excel文件作为数据源。您可以将文件存储在云服务提供商（Microsoft OneDrive、Google Drive、Dropbox、Sharepoint）的网络驱动中，并使其保持更新。此外，该数据也可以通过REST API从SQL数据库、CRM、BI工具或其他系统获取。针对您的使用场景，连接自己的系统即可。可使用的数据源包括：PostgreSQL、MySQL、MongoDB、MS Azure SQL、MS Access、MS SQL Server、IBM DB2、JSON、XML、CSV、REST-API或[其他](https://peakboard.com/en/interfaces/)。

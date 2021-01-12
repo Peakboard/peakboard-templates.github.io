@@ -26,7 +26,7 @@ overview_data_sources:
 
 Dieses Template verwendet die Peakboard Edge Datenquelle. Peakboard Edge kann Informationen über externe Geräte direkt ein- und ausgeben. Peakboard Edge kommuniziert dabei nicht über ein Display, sondern wird immer mit einer Peakboard Box verbunden. [Hier kannst du mehr über Peakboard Edge erfahren](https://peakboard.com/produkt/peakboard-edge/). 
 
-Alternativ zu Peakboard Edge, könnte der Status der einzelnen Abfülllinien auch über Maschinenprotokolle wie MQTT, OPC UA, Siemens S7, Werme, Mitsubishi Electric oder auch über ein MES bezogen werden. Unter anderem werden folgende MES unterstützt: FASTEC 4 PRO, FORCAM FORCE, DELMIA Apriso MES und [viele mehr](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen).
+Alternativ zu Peakboard Edge, könnte der Status der einzelnen Abfülllinien auch über Maschinenprotokolle wie MQTT, OPC UA, Siemens S7, Werme, Mitsubishi Electric oder auch über ein MES bezogen werden. Unter anderem werden folgende MES unterstützt: FASTEC 4 PRO, FORCAM FORCE, DELMIA Apriso MES und [viele mehr](https://peakboard.com/schnittstellen/).
 
 
 # so funktioniert’s

@@ -22,4 +22,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # possible data sources
-This template uses Peakboard [variable lists](https://help.peakboard.com/scripting/en-variables.html) as data source. For your Use Case you can of course connect your systems. Peakboard supports among others the following protocols: MQTT, OPC UA, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation, MT Connect, WAGO or [many other data sources](https://peakboard.com/en/product/peakboard-versions/#dataconnections).
+This template uses Peakboard [variable lists](https://help.peakboard.com/scripting/en-variables.html) as data source. For your Use Case you can of course connect your systems. Peakboard supports among others the following protocols: MQTT, OPC UA, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation, MT Connect, WAGO or [many other data sources](https://peakboard.com/en/interfaces/).

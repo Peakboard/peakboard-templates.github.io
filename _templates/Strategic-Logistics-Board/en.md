@@ -20,4 +20,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # possible data sources
-This template uses Excel as data source. Alternatively, the data could also come from a WMS or other logistics programs. Some examples you could connect to: SAP EWM, Oracle NetSuite, PSIwms, Erhardt + Partner LFS, IBM Sterling WMS, Epicor WMS, JDA WMS, Fishbowl Inventory or SSI Schäfer WAMAS. Also standard interfaces like: JSON, XML, CSV, OData, Rest-APIs or even Google Docs could be used. An overview of possible data sources in Peakboard can be found [here](https://peakboard.com/en/product/peakboard-versions/#dataconnections).
+This template uses Excel as data source. Alternatively, the data could also come from a WMS or other logistics programs. Some examples you could connect to: SAP EWM, Oracle NetSuite, PSIwms, Erhardt + Partner LFS, IBM Sterling WMS, Epicor WMS, JDA WMS, Fishbowl Inventory or SSI Schäfer WAMAS. Also standard interfaces like: JSON, XML, CSV, OData, Rest-APIs or even Google Docs could be used. An overview of possible data sources in Peakboard can be found [here](https://peakboard.com/en/interfaces/).

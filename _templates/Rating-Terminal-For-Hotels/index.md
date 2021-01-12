@@ -19,4 +19,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # mögliche datenquellen
-Dieses Template versendet nach einer Abstimmung eine E-Mail an die Adresse, die in die Variable 'MailReceiver' eingetragen werden kann. Alternativ könnten das Feedback auch in andere Systeme geschrieben werden. Hier könnten besonders Datenbanken interessant sein, wie z.B.: MS SQL Server, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL, MongoDB oder [viele mehr](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen).
+Dieses Template versendet nach einer Abstimmung eine E-Mail an die Adresse, die in die Variable 'MailReceiver' eingetragen werden kann. Alternativ könnten das Feedback auch in andere Systeme geschrieben werden. Hier könnten besonders Datenbanken interessant sein, wie z.B.: MS SQL Server, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL, MongoDB oder [viele mehr](https://peakboard.com/schnittstellen/).

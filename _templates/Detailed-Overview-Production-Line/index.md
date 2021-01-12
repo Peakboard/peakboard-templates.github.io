@@ -29,4 +29,4 @@ Zum einen können in Peakboard ERP Systeme wie z.B. abas ERP, proALPHA ERP, Epic
 
 Zum anderen machen bei diesem Board auch MES Sinn, bei Peakboard kannst du neben vielen anderen diese anbinden: FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite oder PSIpenta MES. 
 
-Einfache Daten könntest du auch über Standards wie XML, SQL Server, MongoDB, JSON, XML, Excel anbinden. Auch weitere Protokolle sind möglich (MQTT, OPC UA, Siemens S7). Schau einfach [hier](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen), dein System ist bestimmt auch dabei. Falls nicht, lass uns das gerne wissen.
+Einfache Daten könntest du auch über Standards wie XML, SQL Server, MongoDB, JSON, XML, Excel anbinden. Auch weitere Protokolle sind möglich (MQTT, OPC UA, Siemens S7). Schau einfach [hier](https://peakboard.com/schnittstellen/), dein System ist bestimmt auch dabei. Falls nicht, lass uns das gerne wissen.

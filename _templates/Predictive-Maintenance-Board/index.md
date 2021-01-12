@@ -21,4 +21,4 @@ overview_data_sources:
 ---
 # mögliche datenquellen
 
-Dieses Template simuliert ein Predictive Maintenance System mit Excel-Daten. Für deinen Use Case würdest du dein Predective Maintenance System anbinden. Dafür eignen sich besonders Standards wie: JSON, XML, CSV, OData, Web Services, REST-API oder [andere Schnittstellen](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen).
+Dieses Template simuliert ein Predictive Maintenance System mit Excel-Daten. Für deinen Use Case würdest du dein Predective Maintenance System anbinden. Dafür eignen sich besonders Standards wie: JSON, XML, CSV, OData, Web Services, REST-API oder [andere Schnittstellen](https://peakboard.com/schnittstellen/).

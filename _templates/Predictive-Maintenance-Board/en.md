@@ -21,4 +21,4 @@ overview_data_sources:
 ---
 # possible data sources
 
-This template simulates a predictive maintenance system with Excel data. For your Use Case you would connect your predictive maintenance system. To connect to this systems, standards like: JSON, XML, CSV, OData, Web Services, REST-API or [other interfaces](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen) could be used.
+This template simulates a predictive maintenance system with Excel data. For your Use Case you would connect your predictive maintenance system. To connect to this systems, standards like: JSON, XML, CSV, OData, Web Services, REST-API or [other interfaces](https://peakboard.com/schnittstellen/) could be used.

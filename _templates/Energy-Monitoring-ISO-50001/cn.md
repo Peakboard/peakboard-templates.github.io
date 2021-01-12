@@ -20,4 +20,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # 可使用的数据源
-该模板使Excel文件作为数据源。当然了，针对自身情况，您可以使用机器设备，例如通过MQTT、OPC UA、西门子S7、Azure Event & IoT Hub或三菱电气获得的数据。此外，也可以使用MES系统，例如AIS Automation FabEagle MES、camLine InFrame Synapse MES、DELMIA Apriso MES、DE DESC、FASTEC 4 PRO、Felten PILOT:MES、Forcam Force、gfos.MES、inray FAS、iTAC.MES.Suite、MPDV MES HYDRA、Plex MES Suite、PSIpenta MES或[许多其他数据源](https://peakboard.com/en/product/peakboard-versions/#dataconnections)。
+该模板使Excel文件作为数据源。当然了，针对自身情况，您可以使用机器设备，例如通过MQTT、OPC UA、西门子S7、Azure Event & IoT Hub或三菱电气获得的数据。此外，也可以使用MES系统，例如AIS Automation FabEagle MES、camLine InFrame Synapse MES、DELMIA Apriso MES、DE DESC、FASTEC 4 PRO、Felten PILOT:MES、Forcam Force、gfos.MES、inray FAS、iTAC.MES.Suite、MPDV MES HYDRA、Plex MES Suite、PSIpenta MES或[许多其他数据源](https://peakboard.com/en/interfaces/)。

@@ -32,4 +32,4 @@ overview_data_sources:
 
 # 可使用的数据源
 
-模板使用SQL数据库，它也展示了如何将数据写回数据库。但也可以使用其他数据系统，例如ODBC, MS SQL Server, MS Access, MS Azure SQL, Oracle数据库, IBM DB2, MySQL, PostgreSQL, MongoDB, Teradata或Wintool；ERP系统也适用于该模板。请在此[here](https://peakboard.com/en/product/peakboard-versions/#dataconnections)了解完整的列表。
+模板使用SQL数据库，它也展示了如何将数据写回数据库。但也可以使用其他数据系统，例如ODBC, MS SQL Server, MS Access, MS Azure SQL, Oracle数据库, IBM DB2, MySQL, PostgreSQL, MongoDB, Teradata或Wintool；ERP系统也适用于该模板。请在此[here](https://peakboard.com/en/interfaces/)了解完整的列表。

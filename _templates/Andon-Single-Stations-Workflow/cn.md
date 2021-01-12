@@ -21,4 +21,4 @@ overview_data_sources:
 # 可使用的数据源
 该模板使用Peakboard [变量列表](https://help.peakboard.com/scripting/en-variables.html)作为数据源。针对您的使用情况，当然也可以使用自己的数据系统。不同的Peakboard Box之间也可以相互通信：只需添加一个Peakboard Box作为数据源，然后从中读取变量或变量列表。还可以使用Peakboard Edge，您可以用它轻松地连接模拟系统，将数据融合到数字化世界。 
 
-当然，您还可以使用已有的基础设施，通过MQTT、OPC UA、西门子S7、Werma、三菱电气或MES系统读取机器数据。支持的部分MES系统包括：FORCAM FORCE、AIS Automation FabEagle MES、camLine InFrame Synapse MES、MPDV MES HYDRA或[其他](https://peakboard.com/en/product/peakboard-versions/#dataconnections)。
+当然，您还可以使用已有的基础设施，通过MQTT、OPC UA、西门子S7、Werma、三菱电气或MES系统读取机器数据。支持的部分MES系统包括：FORCAM FORCE、AIS Automation FabEagle MES、camLine InFrame Synapse MES、MPDV MES HYDRA或[其他](https://peakboard.com/en/interfaces/)。

@@ -19,4 +19,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # mögliche datenquellen
-Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als Datenquelle. Für deinen Use Case kannst du natürlich deine Systeme verwenden. Hier könnten besonders Standardschnittstellen und Formate interessant sein, wie z.B.: JSON, XML, CSV, OData, Web Services, REST-API, ODBC, MS SQL Server, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL, MongoDB, Teradata, WinTool oder [viele mehr](https://peakboard.com/produkt/peakboard-versionen/#schnittstellen).
+Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als Datenquelle. Für deinen Use Case kannst du natürlich deine Systeme verwenden. Hier könnten besonders Standardschnittstellen und Formate interessant sein, wie z.B.: JSON, XML, CSV, OData, Web Services, REST-API, ODBC, MS SQL Server, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL, MongoDB, Teradata, WinTool oder [viele mehr](https://peakboard.com/schnittstellen/).
