@@ -5,7 +5,7 @@ description:
   - With Carployee's solution, companies effectively support their employees in building car pools. They reduce their environmental footprint by lowering CO2 emissions, as well as reducing traffic jams and saving parking spaces. The generated data is then made visible with a dashboard from Peakboard to communicate the success to all employees, which motivates other employees to join in and also contribute to climate protection. Download the template now and improve your company's mobility behavior sustainably!
 lang: en
 weight: 1700
-isDraft: true
+isDraft: false
 ref: Carployee-Carpooling-Dashboard
 category:
   - Administration
