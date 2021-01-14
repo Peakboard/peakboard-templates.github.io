@@ -1,8 +1,8 @@
 ---
 layout: article
-title: fahrgemeinschaften – zeige allen mitarbeitern die erfolge durch carpooling
+title: klimaschutz mit Peakboard und carployee – fahrgemeinschaften bilden und CO2 einsparen
 description: 
-  - Mit Hilfe von Tools wie Carployee können Unternehmen an ihrem CO2 Fußabdruck arbeiten und Fahrgemeinschaften fördern. Mit Hilfe von Peakboard kannst du diese Daten auch für alle sichtbar machen und förderst so die Motivation von weiteren Mitarbeitern auch mitzumachen.
+  - Mithilfe der Lösung von Carployee unterstützen Unternehmen ihre Mitarbeiter dabei Fahrgemeinschaften zu bilden. Sie senken dadurch effektiv ihren ökologischen Fußabdruck, denn es wird nicht nur der CO2-Ausstoß reduziert, sondern auch die Entstehung von Staus bekämpft und Parkplätze eingespart. Die Daten werden anschließend mit einem Dashboard von Peakboard sichtbar gemacht, um den Erfolg an alle Mitarbeiter und Mitarbeiterinnen zu kommunizieren. Das motiviert weitere Angestellte mitzumachen und ebenfalls zum Klimaschutz beizutragen. Template jetzt herunterladen und das Mobilitätsverhalten deines Unternehmens nachhaltig verbessern!
 lang: de
 weight: 1700
 isDraft: true
