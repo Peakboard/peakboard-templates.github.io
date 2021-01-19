@@ -15,6 +15,20 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 <link rel="icon" type="image/x-icon" href="/assets/images/favicon.png" />
 
+<!-- Twitter cards -->
+<meta name="twitter:title" content="{{ page.title }}">
+
+{% if page.description %}
+<meta name="twitter:description" content="{{ page.description }}">
+{% else %}
+<meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+
+{% if page.image %}
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+{% endif %}
+
 {% seo %}
 
 {% include cookie_alert.html %}
