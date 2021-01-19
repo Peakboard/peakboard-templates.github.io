@@ -4,7 +4,7 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="theme-color" content="#ffa500"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=default,Array.prototype.find,Array.prototype.includes"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/algolia-min.css" integrity="sha256-HB49n/BZjuqiCtQQf49OdZn63XuKFaxcIHWf0HNKte8=" crossorigin="anonymous">
 
@@ -26,9 +26,10 @@
 
 {% if page.image %}
 <meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+<meta name="twitter:image" content="{{ page.image | relative_url }}">
+<meta property="og:image" content="{{ page.image | relative_url }}">
 {% endif %}
 
-{% seo %}
+{% seo title=false %}
 
 {% include cookie_alert.html %}
