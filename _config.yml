@@ -20,7 +20,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jekyll-seo
+  - jekyll-seo-tag
 collections:
   templates:
     output: true
