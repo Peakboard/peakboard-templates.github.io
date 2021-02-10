@@ -8,8 +8,8 @@ noindex: true
 redirect_from:
 - /de/privacy
 - /de/privacy/
-title: Peakboard Templates
-description: Für Peakboard gibt es zahlreiche Anwendungsmöglichkeiten. Hier findest du Vorlagen, welche du direkt herunterladen und für deine Zwecke verwenden kannst.
+title: "Peakboard Templates – Datenschutz"
+description: "Durch die Flexibilität von Peakboard gibt es zahlreiche Anwendungsmöglichkeiten in den unterschiedlichsten Bereichen. Hier findest du einige Vorlagen mit einer kurzen Beschreibung, welche du direkt herunterladen und für deine Zwecke verwenden kannst."
 ---
 
 ## 1. Datenschutz auf einen Blick
