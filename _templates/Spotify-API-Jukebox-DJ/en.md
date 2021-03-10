@@ -5,7 +5,7 @@ description:
   - Create an interactive dashboard with Spotify integration as a digital jukebox! Use this template and the Spotify API to turn your Spotify Account into a social jukebox.  Simply connect any Spotify account and transfer the visualization onto your Peakboard Box. Now use a touchscreen of your choice or a mouse, to let your guests or customers pick the next song. Create the perfect playlist for your party by placing this interactive and social party gag next to the dancefloor or right at the bar.
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Spotify-API-Jukebox-DJ
 category:
   - Misc
