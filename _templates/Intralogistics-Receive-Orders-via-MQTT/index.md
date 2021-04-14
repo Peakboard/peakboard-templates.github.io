@@ -22,4 +22,4 @@ Bei diesem Template wird die Kommunikation zwischen den verschiedenen Screens ü
 
 # verwandtes template
 
-Dieses Template funktioniert in Verbindung mit [diesem Template](https://templates.peakboard.com/Intralogistics-Order-Parts-with-MQTT/de). Welche die Bestellungen aufnimmt und darstellt.
+Dieses Template funktioniert in Verbindung mit [diesem Template](https://templates.peakboard.com/Intralogistics-Order-Parts-with-MQTT/index). Welche die Bestellungen aufnimmt und darstellt.
