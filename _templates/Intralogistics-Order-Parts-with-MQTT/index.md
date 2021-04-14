@@ -11,9 +11,9 @@ category:
   - Logistik
   - Lager
   - Interaktion
-image: Intralogistics-Order-Parts-with-MQTT.png
-image_thumbnail: Intralogistics-Order-Parts-with-MQTT_thumbnail.png
-download: Intralogistics-Order-Parts-with-MQTT.pbmx
+image: Intralogistik-Teile-Bestellen-Mit-MQTT.png
+image_thumbnail: Intralogistik-Teile-Bestellen-Mit-MQTT_thumbnail.png
+download: Intralogistik-Teile-Bestellen-Mit-MQTT.pbmx
 ---
 
 # mögliche datenquellen

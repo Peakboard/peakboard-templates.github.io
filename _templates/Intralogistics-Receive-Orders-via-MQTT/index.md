@@ -11,9 +11,9 @@ category:
   - Logistik
   - Lager
   - Interaktion
-image: Intralogistics-Receive-Orders-via-MQTT.png
-image_thumbnail: Intralogistics-Receive-Orders-via-MQTT_thumbnail.png
-download: Intralogistics-Receive-Orders-via-MQTT.pbmx
+image: Intralogistik-Bestellungen-Empfangen-ueber-MQTT.png
+image_thumbnail: Intralogistik-Bestellungen-Empfangen-ueber-MQTT_thumbnail.png
+download: Intralogistik-Bestellungen-Empfangen-ueber-MQTT.pbmx
 ---
 
 # mögliche datenquellen
