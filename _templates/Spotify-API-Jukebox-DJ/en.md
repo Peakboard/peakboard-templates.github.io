@@ -28,13 +28,13 @@ Now click on 'Request Token' in the dialog.
 
 Afterwards you have to login to your Spotify account.
 
-[](img/login-to-spotify.png)
+![](img/login-to-spotify.png)
 
 Now you are done and the template is connected to your Spotify.
 
 Now open Spotify on your computer or phone and run any song. The music is not transmitted via Peakboard, Peakboard only works as a kind of remote control. Please note: This template uses the Spotify Queue. The queue should remain empty while you use the template.
 
-If you start the visualization now in the preview or on a peakboard box you can start directly with a touchscreen or a mouse.
+If you start the visualization now in the preview or on a Peakboard Box you can start directly with a touchscreen or a mouse.
 
 ![](img/select-spotify-playlist.png)
 
