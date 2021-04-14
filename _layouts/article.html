@@ -15,7 +15,9 @@ layout: base
         {% endfor %}
     </p>
 
-    <p>{{ page.description }}</p>
+    {% for descriptionPart in page.description %}
+        <p>{{ descriptionPart }}
+    {% endfor %}
 
     {% if page.image %}
     <div class="border-2 border-gray-400 my-4 p-1">
