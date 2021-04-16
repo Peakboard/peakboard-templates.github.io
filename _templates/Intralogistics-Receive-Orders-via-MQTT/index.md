@@ -1,8 +1,10 @@
 ---
 layout: article
-title: intralogistik – bestellungen empfangen über MQTT
+title: empfange bestellungen in echtzeit – einfache MQTT kommunikation zwischen produktion und intralogistik
 description: 
-  - Dieses Template stellt Bestellungen die auf einer anderen Peakboard Box über MQTT aufgegben wurden dar. So hat man immer die Übersicht, welche Bestellungen noch offen sind.
+  - Nutze Peakboard mit MQTT, um eine effiziente Kommunikation zwischen der Produktion und der Intralogistik herzustellen.
+  - Mit diesem Template werden dir Bestellungen fehlender Produktionsteile unmittelbar im Lager deiner Intralogistik angezeigt, um dort von deinen Mitarbeitern und Mitarbeiterinnen verarbeitet werden zu können.
+  - Lade dir dieses Template kostenlos herunter und nutze es als digitale und interaktive Bestellmöglichkeit, die mithilfe eines Touchscreens bedient werden kann. So garantierst du lückenlose Produktionsprozesse und minimierst Wartezeiten nachhaltig.
 lang: de
 weight: 1800
 isDraft: true

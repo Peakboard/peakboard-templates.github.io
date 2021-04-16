@@ -1,8 +1,10 @@
 ---
 layout: article
-title: intralogistics - receive orders via MQTT
+title: receive orders in real-time – simple MQTT communication between production and intralogistics
 description: 
-  - This template shows orders that have been placed on another Peakboard Box via MQTT. So you always have an overview of which orders are still open.
+  - Use Peakboard with MQTT to set up an efficient communication between production and intralogistics.
+  - With this template, orders for production parts are displayed in your intralogistics warehouse in real time, where they can be immediately processed by your employees.
+  - Download this template for free and use it as a digital and interactive way for receiving orders so you can guarantee seamless production processes and minimize waiting times in the long term.
 lang: en
 weight: 1800
 isDraft: true
