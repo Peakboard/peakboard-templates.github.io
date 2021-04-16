@@ -6,7 +6,7 @@ description:
   - Lade dir dieses Template kostenlos herunter und nutze es als digitale und interaktive Bestellliste, die mithilfe eines Touchscreens von deinem Werker bedient wird, um so fehlende Produktionsteile im Lager nachzubestellen. So garantierst du lückenlose Produktionsprozesse und minimierst Wartezeiten nachhaltig.
 lang: de
 weight: 1800
-isDraft: true
+isDraft: false
 ref: Intralogistics-Order-Parts-with-MQTT
 category:
   - Logistik

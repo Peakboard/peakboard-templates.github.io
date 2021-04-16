@@ -6,7 +6,7 @@ description:
   - Lade dir dieses Template kostenlos herunter und nutze es als digitale Anzeige von Teilebestellungen. So garantierst du lückenlose Produktionsprozesse und minimierst Wartezeiten nachhaltig.
 lang: de
 weight: 1800
-isDraft: true
+isDraft: false
 ref: Intralogistics-Receive-Orders-via-MQTT
 category:
   - Logistik

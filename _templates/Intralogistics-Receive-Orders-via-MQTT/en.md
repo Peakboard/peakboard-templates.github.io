@@ -6,7 +6,7 @@ description:
   - Download this template for free and use it as a digital way for receiving orders so you can guarantee seamless production processes and minimize waiting times in the long term.
 lang: en
 weight: 1800
-isDraft: true
+isDraft: false
 ref: Intralogistics-Receive-Orders-via-MQTT
 category:
   - Logistics
