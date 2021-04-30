@@ -1,6 +1,6 @@
 ---
 layout: article
-title: your interactive production tracking dashboard ― easily track the progress of manufacturing processes
+title: your interactive production tracking dashboard – easily track the progress of manufacturing processes
 description: 
   - This template is based on a SQL database and shows the current status of a machine in real time. This allows employees to track their progress in the production process and has the possibility to mark completed work steps as finished using a touch screen. When the touch screen is operated, the template writes back to the SQL database via a script and thus reports the completion of a work step. Download the template as an easy monitoring tool of your processes and a handy real-time overview over your progress!
 lang: en

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: digital signage infotafel ― dein empfangsbildschirm mit Microsoft Office 365 kalenderanbindung
+title: digital signage infotafel – dein empfangsbildschirm mit Microsoft Office 365 kalenderanbindung
 description: 
   - Mit diesem Template gestaltest du einfach und schnell ein mutlifunktionaler digitaler Empfangsbildschirm. Binde deinen Microsoft 365 Kalender als Datenquelle an um Besucherinformationen wie z. B. Raumbelegungen zuverlässig und zeitgesteuert auf einem Bildschirm deiner Wahl anzuzeigen. Ergänze dein Firmenlogo und gestalte deinen Empfangsbildschirm in deinem Corporate Design - flexibel und funktional. Jetzt herunterladen
 lang: de

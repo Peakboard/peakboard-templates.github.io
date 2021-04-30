@@ -1,6 +1,6 @@
 ---
 layout: article
-title: statusinformationen für produktionsaufträge übersichtlich angezeigt ― dein dashboard mit SQL datenanbindung
+title: statusinformationen für produktionsaufträge übersichtlich angezeigt – dein dashboard mit SQL datenanbindung
 description: 
   - Dieses Template liefert dir eine praktische Übersicht über den Status mehrerer Produktionslinien und basiert auf einer SQL Datenbank. Es zeigt sowohl den Fortschritt der Produktionslinien als auch der einzelnen Arbeitsgänge an. Für unkompliziertes Monitoring deiner Produktionsaufträge jetzt einfach Template herunterladen!
 lang: de

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: andon-system für die fließbandfertigung ― einzelne arbeitsschritte auf einem dashboard im blick behalten 
+title: andon-system für die fließbandfertigung – einzelne arbeitsschritte auf einem dashboard im blick behalten 
 description: 
   - Mit diesem praktischen Template siehst du mehrere Arbeitsstationen auf einen Blick. So siehst du die Abläufe einzelner Arbeitsschritte, was zur Verbesserung deiner Prozesse beiträgt. Außerdem kannst du blitzschnell auf mögliche Probleme deiner Werker und Störungen der Maschinen an einem einzelnen Arbeitsplatz reagieren, um Verschwendung effizient zu minimieren. Dieses Template kann sowohl in der Produktion, z. B. in der Einzelfertigung oder Fließbandfertigung, als auch in der Montage verwendet werden. Jetzt Template herunterladen und ganz einfach Produktionsprozesse nachhaltig optimieren!
 lang: de

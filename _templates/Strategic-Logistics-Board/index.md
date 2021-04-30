@@ -1,6 +1,6 @@
 ---
 layout: article
-title: dein dashboard für die strategische lagerverwaltung ― kennzahlen deiner lagerlogistik jederzeit im blick
+title: dein dashboard für die strategische lagerverwaltung – kennzahlen deiner lagerlogistik jederzeit im blick
 description: 
   - Mit diesem Dashboard für die digitale Lagerverwaltung hast du in der Lagerlogistik jederzeit aktuelle Informationen, KPIs wie Liefertreue, Reklamationsrate, Tonnage oder Durchsatz und Fehlermeldungen im Blick, und zwar in Echtzeit! Von Wareneingang bis Warenausgang – dank aktueller Daten vereinfachst du deine Warenwirtschaft. Durch die einfache Darstellung werden Reklamationsgründe außerdem schnell ersichtlich und Probleme können direkt angegangen werden. Ein Warehouse-Management-System ganz nach deinem Geschmack, individuell auf deine Intralogistik zugeschnitten. Jetzt herunterladen und direkt loslegen!
 lang: de

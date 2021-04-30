@@ -1,6 +1,6 @@
 ---
 layout: article
-title: interactive digital signage dashboard ― feedback terminal at the reception
+title: interactive digital signage dashboard – feedback terminal at the reception
 description: 
   - With Peakboard your guests can easily evaluate their stay in your hotel via a touch screen at the reception. You can receive these ratings in a flash by e-mail, so you always know if your guests are satisfied with their stay. Download now and attract attention at the reception desk!
 lang: en

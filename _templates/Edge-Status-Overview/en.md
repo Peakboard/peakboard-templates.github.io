@@ -1,6 +1,6 @@
 ---
 layout: article
-title: your real-time manufacturing dashboard for work status ― with Peakboard Edge all workstations in view
+title: your real-time manufacturing dashboard for work status – with Peakboard Edge all workstations in view
 description: 
   - "With this template and Peakboard Edge the status of different workstations can be displayed in real time. Different colors are used to quickly create transparency about the productivity of the individual workstations: Green means everything is ok, blue means a planned break and red means there is a problem at this workstation. Download now!"
 lang: en

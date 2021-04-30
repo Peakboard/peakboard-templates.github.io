@@ -1,6 +1,6 @@
 ---
 layout: article
-title: keep track of team goals easily and in real time –– your OKR dashboard for employee motivation
+title: keep track of team goals easily and in real time – your OKR dashboard for employee motivation
 description: 
   - OKR is a management method that connects the goals of each individual employee with the company's goals. This template displays up to four objectives and three key results each. The data is retrieved from a list of variables, which can also be replaced by another data source such as Google Spreadsheet or Excel.
   - Download now and customize it according to the needs of your team.Through the transparent presentation of the tasks and the measurability of their progress, your employees will realize that they are actively contributing to the success of the company and will be motivated in a sustainable way.

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: production order status clearly displayed ― your dashboard with SQL data connection
+title: production order status clearly displayed – your dashboard with SQL data connection
 description: 
   - This template gives you a practical overview of the status of several production lines and is based on a SQL database. It shows the progress of the production lines as well as of the individual operations and indicates which steps of the process are finished and which still have to be completed. For easy monitoring of your production orders download the template now!
 lang: en
