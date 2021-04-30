@@ -18,7 +18,7 @@ download: Intralogistics-Receive-Orders-via-MQTT.pbmx
 
 # possible data sources
 
-This template uses MQTT for the communication between the different screens. You could also use another technology or write the data into a database such as ODBC, MS SQL Server, Oracle, MySQL, PostgreSQL, MongoDB and [many more](https://peakboard.com/en/interfaces/).
+This template uses MQTT for the communication between the different screens. You could also use another technology or write the data into a database such as ODBC, MS SQL Server, Oracle, MySQL, PostgreSQL, MongoDB and [many more](https://peakboard.com/en/interfaces/). 
 
 # related template
 

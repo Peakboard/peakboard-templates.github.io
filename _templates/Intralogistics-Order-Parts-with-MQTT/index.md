@@ -19,7 +19,7 @@ download: Intralogistik-Teile-Bestellen-Mit-MQTT.pbmx
 
 # mögliche datenquellen
 
-Bei diesem Template wird die Kommunikation zwischen den verschiedenen Screens über MQTT gelöst. Man könnte die Daten aber auch in eine Datenbank schreiben wie z.B. ODBC, MS SQL Server, Oracle, MySQL, PostgreSQL, MongoDB und [viele mehr](https://peakboard.com/datenanbindungen/).
+Bei diesem Template wird die Kommunikation zwischen den verschiedenen Screens über MQTT gelöst. Man könnte die Daten aber auch in eine Datenbank schreiben wie z.B. ODBC, MS SQL Server, Oracle, MySQL, PostgreSQL, MongoDB und [viele mehr](https://peakboard.com/datenanbindungen/). 
 
 # verwandtes template
 
