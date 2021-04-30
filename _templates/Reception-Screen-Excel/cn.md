@@ -5,7 +5,7 @@ description:
   - 模板为另一个用于接待处或大厅的欢迎看板，其中的预约信息通过Excel文件管理。
 lang: cn
 weight: 290
-isDraft: false
+isDraft: true
 ref: Reception-Screen-Excel
 category:
   - Administration

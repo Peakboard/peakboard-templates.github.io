@@ -1,11 +1,11 @@
 ---
 layout: article
-title: übersicht über eine fertigungslinie ― dein produktionsdisplay für die fließbandfertigung
+title: übersicht über eine fertigungslinie — dein produktionsdisplay für die fließbandfertigung
 description: 
   - Dieses Template bietet dir eine praktische Übersicht über eine Fertigungslinie in der Fließbandfertigung. Eine generische Hintergrundgrafik, die die einzelnen Arbeitsplätze und ihre Anordnung abbilden, liefert so einen Überblick über die einzelnen Arbeitsgänge. Außerdem kannst du so wichtige Informationen zur Fertigung übersichtlich darstellen. Ob Kennzahlen zum Maschinenstatus, Meldungen von Störungen, Taktzeiten, Durchlaufzeiten, Soll-Ist-Vergleiche von Stückzahlen oder GAE Werte. Einfach Template herunterladen und die statischen Variablen durch deine individuellen Datenquellen ersetzen.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Overview-Production-Line
 category:
   - Produktion

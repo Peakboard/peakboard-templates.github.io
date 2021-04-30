@@ -5,7 +5,7 @@ description:
   - 您可以使用Peakboard创建所谓的“点击事件”。在该模板中，您可以通过点击右侧的“+”按钮，改变不同的数值。
 lang: cn
 weight: 500
-isDraft: false
+isDraft: true
 ref: Manual-Editing-Using-Click-Events
 category:
  - Interaction
