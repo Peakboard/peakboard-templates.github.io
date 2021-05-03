@@ -1,11 +1,11 @@
 ---
 layout: article
-title: deine digitale jukebox ― interaktives dashboard mit Spotify integration
+title: deine digitale jukebox – interaktives dashboard mit Spotify integration
 description: 
   - Mit Peakboard und Spotify gestaltest du deine digitale Jukebox in Form eines interaktiven Dashboards! Mithilfe der Spotify-API und diesem Template wird deine Party blitzschnell zum Kracher.  Verbinde einfach einen Spotify Account und lade die Visualisierung auf eine Peakboard Box. Mithilfe eines Touchscreens oder einer Maus können deine Gäste nun interaktiv für Songs abstimmen. Platziere den Touchscreen, auf dem das Dashboard ist direkt auf der Tanzfläche und lass die selbst Gäste entscheiden welcher Song als nächstes gespielt wird ― so entsteht nach und nach die perfekte Playlist.
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Spotify-API-Jukebox-DJ
 category:
   - Sonstiges

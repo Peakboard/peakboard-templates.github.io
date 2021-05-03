@@ -5,7 +5,7 @@ description:
   - Nutze Peakboard mit MQTT, um in kurzer Zeit eine effiziente Kommunikation zwischen der Produktion und der Intralogistik herzustellen. Erstelle so ganz leicht Bestellungen von Produktionsteilen, die in der Fertigung benötigt werden, und sende sie per Knopfdruck an die Intralogistik.
   - Lade dir dieses Template kostenlos herunter und nutze es als digitale und interaktive Bestellliste, die mithilfe eines Touchscreens von deinem Werker bedient wird, um so fehlende Produktionsteile im Lager nachzubestellen. So garantierst du lückenlose Produktionsprozesse und minimierst Wartezeiten nachhaltig.
 lang: de
-weight: 1800
+weight: 1823
 isDraft: false
 ref: Intralogistics-Order-Parts-with-MQTT
 category:
