@@ -23,3 +23,9 @@ Bei diesem Template wird die Kommunikation zwischen den verschiedenen Screens ü
 # verwandtes template
 
 Dieses Template funktioniert in Verbindung mit [diesem Template](https://templates.peakboard.com/Intralogistics-Order-Parts-with-MQTT/index). Mit diesem Template können Bestellungen von Teilen ausgelöst werden.
+
+
+# so funktioniert’s
+
+Wie genau dieses Template funktioniert und wie du es selbst aufbauen kannst, erfährst du in diesem YouTube Video:
+{% include video.html image='img/youtube_de.jpg' video_id='JaQbWFjmHps' %}

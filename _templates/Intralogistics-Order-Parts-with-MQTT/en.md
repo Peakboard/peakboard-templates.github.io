@@ -24,3 +24,8 @@ This template uses MQTT for the communication between the different screens. You
 # related template
 
 This template works in connection with [this template](https://templates.peakboard.com/Intralogistics-Receive-Orders-via-MQTT/en). Which accepts and represents the orders.
+
+# how it works
+
+How exactly this template works and how you can build it yourself, you can find out in this YouTube Video:
+{% include video.html image='img/youtube_en.jpg' video_id='5wLximbOCGY' %}
