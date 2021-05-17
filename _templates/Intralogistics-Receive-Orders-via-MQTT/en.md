@@ -15,6 +15,12 @@ image: Intralogistics-Receive-Orders-via-MQTT.png
 image_thumbnail: Intralogistics-Receive-Orders-via-MQTT_thumbnail.png
 download: Intralogistics-Receive-Orders-via-MQTT.pbmx
 ---
+# how it works
+
+![](img/peakboard-mqtt-dashboards.gif)
+
+How exactly this template works and how you can build it yourself, you can find out in this YouTube Video:
+{% include video.html image='img/youtube_en.jpg' video_id='UFPcmPQRG-4' %}
 
 # possible data sources
 
@@ -24,7 +30,3 @@ This template uses MQTT for the communication between the different screens. You
 
 This template works in connection with [this template](https://templates.peakboard.com/Intralogistics-Order-Parts-with-MQTT/en). Which creates new orders.
 
-# how it works
-
-How exactly this template works and how you can build it yourself, you can find out in this YouTube Video:
-{% include video.html image='img/youtube_en.jpg' video_id='UFPcmPQRG-4' %}
