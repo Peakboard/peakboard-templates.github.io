@@ -15,10 +15,9 @@ image: Intralogistik-Bestellungen-Empfangen-ueber-MQTT.png
 image_thumbnail: Intralogistik-Bestellungen-Empfangen-ueber-MQTT_thumbnail.png
 download: Intralogistik-Bestellungen-Empfangen-ueber-MQTT.pbmx
 ---
+![](img/peakboard-mqtt-dashboards.gif)
 
 # so funktioniert’s
-
-![](img/peakboard-mqtt-dashboards.gif)
 
 Wie genau dieses Template funktioniert und wie du es selbst aufbauen kannst, erfährst du in diesem YouTube Video:
 {% include video.html image='img/youtube_de.jpg' video_id='JaQbWFjmHps' %}

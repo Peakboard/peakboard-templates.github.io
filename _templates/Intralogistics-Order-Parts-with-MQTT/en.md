@@ -16,9 +16,9 @@ image: Intralogistics-Order-Parts-with-MQTT.png
 image_thumbnail: Intralogistics-Order-Parts-with-MQTT_thumbnail.png
 download: Intralogistics-Order-Parts-with-MQTT.pbmx
 ---
-# how it works
-
 ![](img/peakboard-mqtt-dashboards.gif)
+
+# how it works
 
 How exactly this template works and how you can build it yourself, you can find out in this YouTube Video:
 {% include video.html image='img/youtube_en.jpg' video_id='5wLximbOCGY' %}
