@@ -1,6 +1,6 @@
 ---
 layout: article
-title: predictive maintenance ― dein dashboard für die vorausschauende instandhaltung
+title: predictive maintenance – dein dashboard für die vorausschauende instandhaltung
 description: 
   - "Dieses Template vereinfacht die Instandhaltung deiner Produktionsanlagen. Es gestaltet die Überwachung deiner Maschinen effizienter und informiert verlässlich über Maschinenlaufzeiten, den Produktionsprozess und zeigt dir außerdem mögliche Störungen an, damit du präventiv handeln kannst: Denn in Kombination mit einem Predictive Maintenance Tool informiert dich dieses Dashboard über den Zeitpunkt des nächsten erwarteten Maschinenausfalls und mögliche anfallende Wartungsarbeiten. Außerdem gibt es aktuelle Sensordaten, wie z. B. Temperatur oder Vibrationen je Linie wieder. Auf der rechten Seite sind die aktuellen und zukünftigen Audits aufgelistet. Jetzt herunterladen und die nächste Wartung vorausschauend im Blick behalten!"
 lang: de

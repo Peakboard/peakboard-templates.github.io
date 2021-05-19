@@ -5,7 +5,7 @@ description:
   - Mit Peakboard kannst du ganz leicht sogenannte Click Events erstellen. Dieses Template bietet in Verbindung mit einem Touchscreen die Möglichkeit, unterschiedliche Werte durch einen Klick auf die rechte "+"-Schaltfläche zu verändern, um so den Produktionsprozess zu überwachen und den Informationsaustausch zwischen Mitarbeitern zu vereinfachen. Steigere so die Produktivität und sorge für mehr Transparenz in der Fertigung. Jetzt Template kostenlos herunterladen.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Manual-Editing-Using-Click-Events
 category:
   - Interaktion

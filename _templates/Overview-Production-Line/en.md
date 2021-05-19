@@ -1,11 +1,11 @@
 ---
 layout: article
-title: overview of a production line –– your production display for the assembly line production
+title: overview of a production line – your production display for the assembly line production
 description: 
   - This template gives you a practical overview of a production line in the assembly line production. A generic background graphic, which depicts the individual workstations and their arrangement, thus provides an overview of the individual steps of manufacturing. It also allows you to clearly display important information about the production. Whether key figures on machine status, notifications in case of malfunctions, cycle times, throughput times, target/actual comparisons of quantities or GAE values. Simply download the template and replace the static variables with your individual data sources.
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Overview-Production-Line
 category:
   - Production

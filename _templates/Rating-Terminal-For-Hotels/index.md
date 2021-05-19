@@ -1,6 +1,6 @@
 ---
 layout: article
-title: interaktives digital signage dashboard ― bewertungsterminal mit e-mail-benachrichtigung
+title: interaktives digital signage dashboard – bewertungsterminal mit e-mail-benachrichtigung
 description: 
   - Mit Peakboard können deine Gäste ihren Aufenthalt in deinem Hotel ganz einfach mittels eines Touchscreens an der Rezeption bewerten. Diese Bewertungen kannst du dir blitzschnell per E-Mail zusenden lassen, um so jederzeit direkt Bescheid zu wissen. Jetzt herunterladen und für Aufmerksamkeit am Empfang sorgen!
 lang: de

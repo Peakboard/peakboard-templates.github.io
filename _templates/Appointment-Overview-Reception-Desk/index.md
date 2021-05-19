@@ -1,6 +1,6 @@
 ---
 layout: article
-title: dashboard zur raumbelegung und terminübersicht am empfang ― dein digitales schwarzes brett
+title: dashboard zur raumbelegung und terminübersicht am empfang – dein digitales schwarzes brett
 description: 
   - Mit der Komplettlösung von Peakboard begrüßt du Gäste bereits im Foyer mit den wichtigsten Informationen. Dieses Template hilft deinen Besuchern einen Überblick über tagesaktuelle Termine und die entsprechende Raumbelegung mit einem kurzen Blick auf den Bildschirm zu erhalten. Binde einfach deinen Microsoft 365 Kalender an, tausche das Logo aus und passe falls nötig, das Wetter-Widget an, um die Visualisierung deinen Bedürfnissen entsprechend anzupassen. Lade das Template jetzt herunter und zeige deinen Gästen automatisiert genau das an, was sie für ihren Besuch wissen müssen.
 lang: de

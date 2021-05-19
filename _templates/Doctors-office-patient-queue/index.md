@@ -1,6 +1,6 @@
 ---
 layout: article
-title: digital signage im wartezimmer ― das dashboard für die arztpraxis
+title: digital signage im wartezimmer – das dashboard für die arztpraxis
 description: 
   - Dieses Dashboard entstand im Rahmen des von der Bundesregierung Deutschland und sieben sozialen Initiativen organisierten WirVsVirus-Hackathons im März 2020 (wirvsvirushackathon.org). Dabei wurde ein Prozess entwickelt, mit dem Wartezeiten für Patienten in Arztpraxen nicht nur besser organisiert, sondern auch die gegenseitige Ansteckung weitestgehend vermieden wird, indem die Wartezimmer sozusagen ins Freie verlagert werden. Die Displaylösung kann die Wartenden  z. B. während Corona über einen Bildschirm vor der Praxis über ihre Termine zur Kenntnis setzen. Lade dir das Template herunter und gestalte dein maßgeschneidertes Dashboard mit den Datenquellen deiner Wahl.
 lang: de

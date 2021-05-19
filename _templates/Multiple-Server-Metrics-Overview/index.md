@@ -1,6 +1,6 @@
 ---
 layout: article
-title: ganz einfach mehrere server im blick haben ― dein server monitoring dashboard
+title: ganz einfach mehrere server im blick haben – dein server monitoring dashboard
 description: 
   - Mit diesem Template behältst du ganz einfach den Überblick über den Status deiner Server. Es werden Informationen von bis zu drei Servern mit den wichtigsten Kennzahlen wie CPU, Speicherplatz, RAM und Netzwerkauslastung angezeigt. Außerdem beinhaltet das Dashboard die Laufzeit, den letzten Neustart und das letzte Backup. Die Daten können aus Serverprotokollen oder direkt über eine vorhandene API ausgelesen werden.
   - Lade dir das Template als praktische remote Monitoring Solution herunter, und lass dir Meldungen deines Servers oder gegebenenfalls auch einen Alarm in Echtzeit anzeigen. Außerdem ist es möglich, eine Benachrichtigung per E-Mail einzurichten, die dir Probleme meldet. Für mehr Sicherheit im Serverraum Template jetzt herunterladen

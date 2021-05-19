@@ -1,6 +1,6 @@
 ---
 layout: article
-title: keep track of multiple servers –– easy server monitoring in the data center
+title: keep track of multiple servers – easy server monitoring in the data center
 description: 
   - Your solution for easy server monitoring! With this template you can keep track of the status of your servers. It displays information from up to three servers with the most important key figures such as CPU, disk space, RAM and network usage. The dashboard also includes other metrics such as the runtime, last reboot and last backup. The data can be read from server logs or directly via an existing API.
   - Download the template as a handy remote monitoring solution, and display messages from your server or even an alarm in real-time. It is also possible to set up an e-mail notification to notify you of problems or issues with your IT infrastructure. For more security in the server room download the template now

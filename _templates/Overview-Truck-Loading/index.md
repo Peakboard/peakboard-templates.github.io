@@ -1,6 +1,6 @@
 ---
 layout: article
-title: dein dashboard für die lkw-beladung am warenausgang ― übersicht einer lkw brückenbeladung
+title: dein dashboard für die lkw-beladung am warenausgang – übersicht einer lkw brückenbeladung
 description: 
   - Dieses Template bietet dir einen Überblick über aktuelle Brückenbeladungen pro Verladetor in der Lagerlogistik. Dadurch wissen die Gabelstaplerfahrer jederzeit wie viele Güter bereits verladen wurden, wie viele noch ausstehen und innerhalb welcher Zeit das Verladen erledigt sein muss. Zusätzliche Informationen zu den Aufträgen, wie z. B. mögliche Gefahrenklassen, Gewichtsklassen, Spedition usw. können ebenfalls automatisiert abgebildet werden. Entsprechende Daten können beispielsweise aus SAP bezogen werden. Lade dir das Template jetzt herunter und optimiere deinen Verladeprozess.
 lang: de

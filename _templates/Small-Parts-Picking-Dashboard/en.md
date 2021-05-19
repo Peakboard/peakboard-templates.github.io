@@ -1,6 +1,6 @@
 ---
 layout: article
-title: small parts picking and packing ― warehouse dashboard
+title: small parts picking and packing – warehouse dashboard
 description: 
   - This template is used to monitor the current workload of your warehouse. The practical visualization shows you important key figures such as inventory levels and information on orders in real time. Optimize your logistics processes and increase your warehouse stock accuracy with ease. In this template variables are used as sample data and a script is executed to display an action. Replace the variables with your own data sources and remove the script to configure the template for your individual use case.
 lang: en

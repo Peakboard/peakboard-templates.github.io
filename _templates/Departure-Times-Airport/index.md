@@ -1,6 +1,6 @@
 ---
 layout: article
-title: digitale anzeigetafel am flughafen ― dein dashboard zur übersicht von abflugzeiten
+title: digitale anzeigetafel am flughafen – dein dashboard zur übersicht von abflugzeiten
 description: 
   - Dieses Template dient der Visualisierung von Abflug-APIs des Stuttgarter Flughafens. Die praktische Anzeigetafel kommuniziert automatisiert alles was Passagiere zu ihrem Flug wissen müssen. Informationen von drei Terminals mit den aktuellen Flugzeiten, sowie einer Übersicht der weiteren Flüge in den folgenden zwei Stunden und Verspätungen, werden verständlich visualisiert. Jetzt herunterladen!
 lang: de
