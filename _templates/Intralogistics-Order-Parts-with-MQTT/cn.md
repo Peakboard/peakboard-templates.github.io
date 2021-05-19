@@ -24,5 +24,5 @@ download: Intralogistics-Order-Parts-with-MQTT_CN.pbmx
 
 # 相关模板
 
-[这一模板](https://templates.peakboard.com/Intralogistics-Receive-Orders-via-MQTT/en)用于接受和呈现订单，模板可与其配合使用。
+[此模板](https://templates.peakboard.com/Intralogistics-Receive-Orders-via-MQTT/cn)用于接受和呈现订单，本文模板可与其配合使用。
 
