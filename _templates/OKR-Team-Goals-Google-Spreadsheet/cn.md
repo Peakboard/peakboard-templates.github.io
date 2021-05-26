@@ -11,9 +11,9 @@ category:
   - Lean Management
   - KPI
   - OKR
-image: OKR-Team-Goals-Google-Spreadsheet.png
-image_thumbnail: OKR-Team-Goals-Google-Spreadsheet_thumbnail.png
-download: OKR-Team-Goals-Google-Spreadsheet - CN.pbmx
+image: OKR-Team-Goals-Google-Spreadsheet_CN.png
+image_thumbnail: OKR-Team-Goals-Google-Spreadsheet_CN_thumbnail.png
+download: OKR-Team-Goals-Google-Spreadsheet_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

@@ -15,18 +15,23 @@ layout: base
         {% endfor %}
     </p>
 
-    <p>{{ page.description }}</p>
+    {% for descriptionPart in page.description %}
+        <p>{{ descriptionPart }}
+    {% endfor %}
 
     {% if page.image %}
     <div class="border-2 border-gray-400 my-4 p-1">
-        <img src="{{ page.image }}" alt="Template: {{ page.title }}" style="margin: 0;">
+        <img src="{{ page.image }}" title="Peakboard Template: {{ page.title }}" style="margin: 0;">
     </div>
     {% endif %}
 
     {% if page.download %}
-    <button class="py-3 px-4 menu-cta-button text-xl tracking-base">
+    <button class="py-3 px-4 menu-cta-button text-xl tracking-base leading-none">
         <a class="no-underline" href="{{ page.download }}">{{ site.language[page.lang].article-download-button-text }}</a>
     </button>
+    <span class="block md:inline text-grey py-3 md:px-4 md:py-0">
+        {{ site.language[page.lang].article-download-explanation }}
+    </span>
     {% endif %}
 
 </section>
@@ -93,7 +98,7 @@ layout: base
 
 <div class="article-overview {% if darkBackground == 'true' %}dark-background{% endif %}">
     <div class="py-16 max-w-xl px-4 mx-auto">
-        <h2 style="color: rgba(0, 0, 0, .84);">{{ site.language[page.lang].article-related-templates-title }}</h2>
+        <h2 style="color: rgba(0, 0, 0, .84);" class="font-semibold text-2xl">{{ site.language[page.lang].article-related-templates-title }}</h2>
 
         <div class="flex flex-wrap my-4">
 
@@ -129,7 +134,7 @@ layout: base
                             {% capture imageUrl %}{{ site.baseurl }}/{{ imageUrlPath[1] }}/{{ singleTemplate.image }}{% endcapture %}
                         {% endif %}
                         <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
-                            <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400 hover:border-orange">
+                            <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-200 hover:border-orange">
                                 <a class="no-underline" href="{{ site.baseurl }}{{ singleTemplate.url }}">
                                     <img class="w-full lightbox-ignore" src="{{ imageUrl }}" alt="{{ singleTemplate.title }}">
                                 </a>
@@ -180,7 +185,7 @@ layout: base
                                 {% capture imageUrl %}{{ site.baseurl }}/{{ imageUrlPath[1] }}/{{ singleTemplate.image }}{% endcapture %}
                             {% endif %}
                             <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
-                                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400 hover:border-orange">
+                                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-200 hover:border-orange">
                                     <a class="no-underline" href="{{ site.baseurl }}{{ singleTemplate.url }}">
                                         <img class="w-full lightbox-ignore" src="{{ imageUrl }}" alt="{{ singleTemplate.title }}">
                                     </a>
@@ -231,7 +236,7 @@ layout: base
                             {% capture imageUrl %}{{ site.baseurl }}/{{ imageUrlPath[1] }}/{{ singleTemplate.image }}{% endcapture %}
                         {% endif %}
                             <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
-                                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400 hover:border-orange">
+                                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-200 hover:border-orange">
                                     <a class="no-underline" href="{{ site.baseurl }}{{ singleTemplate.url }}">
                                         <img class="w-full lightbox-ignore" src="{{ imageUrl }}" alt="{{ singleTemplate.title }}">
                                     </a>
@@ -282,7 +287,7 @@ layout: base
                                 {% capture imageUrl %}{{ site.baseurl }}/{{ imageUrlPath[1] }}/{{ singleTemplate.image }}{% endcapture %}
                             {% endif %}
                             <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
-                                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400 hover:border-orange">
+                                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-200 hover:border-orange">
                                     <a class="no-underline" href="{{ site.baseurl }}{{ singleTemplate.url }}">
                                         <img class="w-full lightbox-ignore" src="{{ imageUrl }}" alt="{{ singleTemplate.title }}">
                                     </a>
@@ -333,7 +338,7 @@ layout: base
                                 {% capture imageUrl %}{{ site.baseurl }}/{{ imageUrlPath[1] }}/{{ singleTemplate.image }}{% endcapture %}
                             {% endif %}
                             <div class="w-full lg:w-1/3 xl:w-1/3 overflow-hidden mb-4 lg:mb-0 xl:mb-0 pr-2">
-                                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-400 hover:border-orange">
+                                <div class="px-4 py-4 bg-white h-full border-2 rounded border-gray-200 hover:border-orange">
                                     <a class="no-underline" href="{{ site.baseurl }}{{ singleTemplate.url }}">
                                         <img class="w-full lightbox-ignore" src="{{ imageUrl }}" alt="{{ singleTemplate.title }}">
                                     </a>
@@ -357,10 +362,4 @@ layout: base
 </div>
 {% capture darkBackground %}{% if darkBackground == 'true' %}false{% else %}true{% endif %}{% endcapture %}
 
-{% capture cta-setting-dark-background %}{{darkBackground}}{% endcapture %}
-{% capture cta-title %}{{ site.language[page.lang].cta-title }}{% endcapture %}
-{% capture cta-subtitle %}{{ site.language[page.lang].cta-subtitle }}{% endcapture %}
-{% capture cta-content %}{{ site.language[page.lang].cta-content }}{% endcapture %}
-{% capture cta-link %}{{ site.language[page.lang].cta-link }}{% endcapture %}
-{% capture cta-link-text %}{{ site.language[page.lang].cta-link-text }}{% endcapture %}
-{% include cta.html %}
+{% include cta.html lang=page.lang %}

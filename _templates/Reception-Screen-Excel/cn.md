@@ -5,15 +5,15 @@ description:
   - 模板为另一个用于接待处或大厅的欢迎看板，其中的预约信息通过Excel文件管理。
 lang: cn
 weight: 290
-isDraft: false
+isDraft: true
 ref: Reception-Screen-Excel
 category:
   - Administration
   - Reception
   - Misc
-image: Empfangsbildschirm-Excel.png
-image_thumbnail: Empfangsbildschirm-Excel_thumbnail.png
-download: Reception-Screen-Excel - CN.pbmx
+image: Reception-Screen-Excel_CN.png
+image_thumbnail: Reception-Screen-Excel_CN_thumbnail.png
+download: Reception-Screen-Excel_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

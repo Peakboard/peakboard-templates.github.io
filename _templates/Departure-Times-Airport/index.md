@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Übersicht von Abflugzeiten am Beispiel des Stuttgarter Flughafens 
+title: digitale anzeigetafel am flughafen – dein dashboard zur übersicht von abflugzeiten
 description: 
-  - Dieses Template dient der Visualisierung von Abflug-APIs (=Schnittstellen) des Stuttgarter Flughafens. Drei Terminals mit den aktuellen Flugzeiten, sowie einer Übersicht der weiteren Flüge in den folgenden zwei Stunden und Verspätungen, werden visualisiert.
+  - Dieses Template dient der Visualisierung von Abflug-APIs des Stuttgarter Flughafens. Die praktische Anzeigetafel kommuniziert automatisiert alles was Passagiere zu ihrem Flug wissen müssen. Informationen von drei Terminals mit den aktuellen Flugzeiten, sowie einer Übersicht der weiteren Flüge in den folgenden zwei Stunden und Verspätungen, werden verständlich visualisiert. Jetzt herunterladen!
 lang: de
 weight: 1000
 isDraft: false
@@ -10,9 +10,9 @@ ref: Departure-Times-Airport
 category:
   - Verkehr
   - Sonstiges
-image: Departure-Times-Airport.png
-image_thumbnail: Departure-Times-Airport_thumbnail.png
-download: Departure-Times-Airport.pbmx
+image: Abflugzeiten-Flughafen.png
+image_thumbnail: Abflugzeiten-Flughafen_thumbnail.png
+download: Abflugzeiten-Flughafen.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

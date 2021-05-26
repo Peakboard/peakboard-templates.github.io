@@ -11,9 +11,9 @@ category:
   - Logistics
   - Warehouse
   - Lean Management
-image: Small-Parts-Picking-SQL-Connection-CN.png
-image_thumbnail: Small-Parts-Picking-SQL-Connection_thumbnail.png
-download: Small-Parts-Picking-SQL-Connection - CN.pbmx
+image: Small-Parts-Picking-SQL-Connection_CN.png
+image_thumbnail: Small-Parts-Picking-SQL-Connection_CN_thumbnail.png
+download: Small-Parts-Picking-SQL-Connection_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Überwachung der Serverleistung
+title: serverleistung im blick behalten – dein IT-Dashboard
 description: 
-  - Visualisieren Sie mit dieser Vorlage alle wichtigen Kennzahlen Ihrer Serverleistung und -auslastung in Echtzeit.
+  - Dein Template für die einfache Serverüberwachung! Visualisiere alle wichtigen Kennzahlen zum Status deines Servers auf einem individuell konfigurierbaren Dashboard, und zwar in Echtzeit! Behalte relevante Informationen wie die Serverleistung und -auslastung, CPU und RAM, sowie Ausfälle jederzeit im Blick. Peakboard fügt sich dabei nahtlos in deine bestehende IT-Infrastruktur ein. Jetzt Template herunterladen und den Server Raum ganz leicht im Blick haben!
 lang: de
 weight: 1000
 isDraft: false
@@ -11,10 +11,12 @@ category:
   - Empfohlen
   - Administration
   - IT-Rechenzentrum
-image: Monitoring-Server-Performance.png
-image_thumbnail: Monitoring-Server-Performance_thumbnail.png
-download: Monitoring-Server-Performance.pbmx
+image: Ueberwachung-der-Serverleistung.png
+image_thumbnail: Ueberwachung-der-Serverleistung_thumbnail.png
+download: Ueberwachung-der-Serverleistung.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# mögliche datenquellen
+Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als Datenquelle. Für deinen Use Case kannst du natürlich deine Systeme verwenden. Hier könnten besonders Standardschnittstellen und Formate interessant sein, wie z.B.: JSON, XML, CSV, OData, Web Services, REST-API, ODBC, MS SQL Server, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL, MongoDB, Teradata, WinTool oder [viele mehr](https://peakboard.com/schnittstellen/).

@@ -13,9 +13,9 @@ category:
   - Reception
   - Calendar
   - Misc
-image: Reception-Screen-Microsoft-Office-Calendar.png
-image_thumbnail: Reception-Screen-Microsoft-Office-Calendar_thumbnail.png
-download: Reception-Screen-Microsoft-Office-Calendar - CN.pbmx
+image: Reception-Screen-Microsoft-Office-Calendar_CN.png
+image_thumbnail: Reception-Screen-Microsoft-Office-Calendar_CN_thumbnail.png
+download: Reception-Screen-Microsoft-Office-Calendar_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

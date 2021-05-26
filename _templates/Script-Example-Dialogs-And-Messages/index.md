@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script-Beispiel für Dialoge und Meldungen
+title: script-beispiel für dialoge und meldungen
 description: 
   - Mit diesem Script-Beispiel können Sie unterschiedliche Dialoge und Meldungen erstellen und verwenden.
 lang: de

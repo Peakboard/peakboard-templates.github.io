@@ -11,9 +11,9 @@ category:
   - Recommended
   - Logistics
   - Warehouse
-image: Operational-Logistics-Board.png
-image_thumbnail: Operational-Logistics-Board_thumbnail.png
-download: Operational-Logistics-Board-CN.pbmx
+image: Operational-Logistics-Board_CN.png
+image_thumbnail: Operational-Logistics-Board_CN_thumbnail.png
+download: Operational-Logistics-Board_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

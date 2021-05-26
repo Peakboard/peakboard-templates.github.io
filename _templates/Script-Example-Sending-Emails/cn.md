@@ -11,7 +11,7 @@ category:
   - Script
   - Scripting
 image: Script_Email_EN.png
-download: Script_Email - CN.pbmx
+download: Script_Email_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

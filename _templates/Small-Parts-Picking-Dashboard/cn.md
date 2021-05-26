@@ -12,9 +12,9 @@ category:
   - Logistics
   - Lean Management
   - Warehouse
-image: Small-Parts-Picking.png
-image_thumbnail: Small-Parts-Picking_thumbnail.png
-download: Small-Parts-Picking - CN.pbmx
+image: Small-Parts-Picking_CN.png
+image_thumbnail: Small-Parts-Picking_CN_thumbnail.png
+download: Small-Parts-Picking_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Batches Quality Overview
+title: batches quality overview
 description: 
   - This design includes the current order status in production
 lang: en

@@ -1,17 +1,18 @@
 ---
 layout: article
-title: Overview of a Production Line
+title: overview of a production line – your production display for the assembly line production
 description: 
-  - This visualization enables a holistic overview of a production line by means of a generic background graphic. Thus, different machine statuses, target/actual comparisons, OEE and much more can be displayed in real time. Replace the static variables with your data sources in order to map your production line holistically in just a few steps.
+  - This template gives you a practical overview of a production line in the assembly line production. A generic background graphic, which depicts the individual workstations and their arrangement, thus provides an overview of the individual steps of manufacturing. It also allows you to clearly display important information about the production. Whether key figures on machine status, notifications in case of malfunctions, cycle times, throughput times, target/actual comparisons of quantities or GAE values. Simply download the template and replace the static variables with your individual data sources.
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Overview-Production-Line
 category:
   - Production
   - Lean Management
   - OEE
-  - Serial Production
+  - Series Production
+  - Shopfloor
 image: Overview-Production-Line.png
 image_thumbnail: Overview-Production-Line_thumbnail.png
 download: Overview-Production-Line.pbmx
@@ -19,3 +20,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# possible data sources
+This template uses Peakboard [variable lists](https://help.peakboard.com/scripting/en-variables.html) as fictitious data sources. In a real scenario you could connect your systems instead. Data for the different areas of this board could come from completely different systems. ERP systems like: abas ERP, proALPHA ERP, Epicor ERP, Comarch ERP, QAD Adaptive ERP, SAP or many more. There could also be MES systems such as AIS Automation FabEagle MES, camLine InFrame Synapse MES, DELMIA Apriso MES, DE DESC, FASTEC 4 PRO, Felten PILOT:MES or Forcam Force connected. Or also machine-oriented communication methods such as: MQTT, OPC UA, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation or MT Connect. There are many data sources you could use for this board, you can find an overview [here](https://peakboard.com/en/interfaces/).

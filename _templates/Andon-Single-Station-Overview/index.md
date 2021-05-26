@@ -1,19 +1,19 @@
 ---
 layout: article
-title: Andon Übersicht von einzelnen Arbeitsschritten
+title: andon-system für die fließbandfertigung – einzelne arbeitsschritte auf einem dashboard im blick behalten 
 description: 
-  - Mit diesem Template können Sie mehrere Arbeitsstationen überblicken und so schnell auf mögliche Problem in einem einzelnen Arbeitsschritt reagieren. Dieses Template könnte sowohl in der Produktion (Einzelfertigung) als auch in der Montage verwendet werden.
+  - Mit diesem praktischen Template siehst du mehrere Arbeitsstationen auf einen Blick. So siehst du die Abläufe einzelner Arbeitsschritte, was zur Verbesserung deiner Prozesse beiträgt. Außerdem kannst du blitzschnell auf mögliche Probleme deiner Werker und Störungen der Maschinen an einem einzelnen Arbeitsplatz reagieren, um Verschwendung effizient zu minimieren. Dieses Template kann sowohl in der Produktion, z. B. in der Einzelfertigung oder Fließbandfertigung, als auch in der Montage verwendet werden. Jetzt Template herunterladen und ganz einfach Produktionsprozesse nachhaltig optimieren!
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Andon-Single-Station-Overview
 category:
   - Andon
   - Produktion
-  - Logistik
-image: Andon-Single-Station-Overview.png
-image_thumbnail: 
-download: Andon-Single-Station-Overview.pbmx
+  - Einzelfertigung
+image: Uebersicht-einzelne-Arbeitsstationen-mit-Andon.png
+image_thumbnail: Uebersicht-einzelne-Arbeitsstationen-mit-Andon_thumbnail.png
+download: Uebersicht-einzelne-Arbeitsstationen-mit-Andon.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

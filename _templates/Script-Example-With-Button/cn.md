@@ -13,7 +13,7 @@ category:
   - Script-Beispiel
   - Button
 image: Script_Button_Example_EN.png
-download: Script_Button_Example - CN.pbmx
+download: Script_Button_Example_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

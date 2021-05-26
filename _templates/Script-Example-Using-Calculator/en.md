@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script Example Using a Simple Calculator
+title: script example using a simple calculator
 description: 
   - This template shows how to create and use a simple calculator (addition and subtraction).
 lang: en

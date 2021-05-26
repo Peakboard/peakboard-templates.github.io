@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Raumbelegung und Terminübersicht am Empfang
+title: dashboard zur raumbelegung und terminübersicht am empfang – dein digitales schwarzes brett
 description: 
-  - Diese Visualisierung dient dazu, einen Überblick über tagesaktuelle Termine und die entsprechende Raumbelegung zu erhalten. Verbinden Sie Ihren Microsoft 365 Kalender, tauschen Sie das Logo aus und passen Sie, falls nötig, das Wetter-Widget an, um die Visualisierung Ihren Bedürfnissen entsprechend anzupassen.
+  - Mit der Komplettlösung von Peakboard begrüßt du Gäste bereits im Foyer mit den wichtigsten Informationen. Dieses Template hilft deinen Besuchern einen Überblick über tagesaktuelle Termine und die entsprechende Raumbelegung mit einem kurzen Blick auf den Bildschirm zu erhalten. Binde einfach deinen Microsoft 365 Kalender an, tausche das Logo aus und passe falls nötig, das Wetter-Widget an, um die Visualisierung deinen Bedürfnissen entsprechend anzupassen. Lade das Template jetzt herunter und zeige deinen Gästen automatisiert genau das an, was sie für ihren Besuch wissen müssen.
 lang: de
 weight: 1000
 isDraft: false
@@ -12,9 +12,9 @@ category:
   - Empfohlen
   - Administration
   - Empfang
-image: Appointment-Overview-Reception-Desk.png
-image_thumbnail: Appointment-Overview-Reception-Desk_thumbnail.png
-download: Appointment-Overview-Reception-Desk.pbmx
+image: Raumbelegung-Terminuebersicht-am-Empfang.png
+image_thumbnail: Raumbelegung-Terminuebersicht-am-Empfang_thumbnail.png
+download: Raumbelegung-Terminuebersicht-am-Empfang.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

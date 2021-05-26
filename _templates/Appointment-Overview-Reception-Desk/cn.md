@@ -12,9 +12,9 @@ category:
   - Recommended
   - Administration
   - Reception
-image: Appointment-Overview-Reception-Desk.png
-image_thumbnail: Appointment-Overview-Reception-Desk_thumbnail.png
-download: Appointment-Overview-Reception-Desk - CN.pbmx
+image: Appointment-Overview-Reception-Desk_CN.png
+image_thumbnail: Appointment-Overview-Reception-Desk_CN_thumbnail.png
+download: Appointment-Overview-Reception-Desk_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

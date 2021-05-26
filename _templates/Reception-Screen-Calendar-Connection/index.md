@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Empfangsbildschirm mit Microsoft Office 365 Kalenderanbindung
+title: digital signage infotafel – dein empfangsbildschirm mit Microsoft Office 365 kalenderanbindung
 description: 
-  - Mit dieser Vorlage können Sie einfach und schnell einen Empfangsbildschirm mit unterschiedlichen Terminen visualisieren. Hierfür wird ein Microsoft 365 Kalender als Datenquelle verbunden. Um diese Vorlage für Ihre Zwecke nutzen zu können, ersetzen Sie einfach das Firmenlogo, fügen Sie gegebenenfalls ein anderes Hintergrundbild ein und verbinden Sie Ihren Kalender. Eine Erklärung zur Anbindung Ihres Kalenders finden Sie weiter unten auf dieser Seite.
+  - Mit diesem Template gestaltest du einfach und schnell ein mutlifunktionaler digitaler Empfangsbildschirm. Binde deinen Microsoft 365 Kalender als Datenquelle an um Besucherinformationen wie z. B. Raumbelegungen zuverlässig und zeitgesteuert auf einem Bildschirm deiner Wahl anzuzeigen. Ergänze dein Firmenlogo und gestalte deinen Empfangsbildschirm in deinem Corporate Design - flexibel und funktional. Jetzt herunterladen
 lang: de
 weight: 1000
 isDraft: false
@@ -13,9 +13,9 @@ category:
   - Empfang
   - Kalender
   - Sonstiges
-image: Reception-Screen-Microsoft-Office-Calendar.png
-image_thumbnail: Reception-Screen-Microsoft-Office-Calendar_thumbnail.png
-download: Reception-Screen-Microsoft-Office-Calendar.pbmx
+image: Empfangsbildschirm-Microsoft-Office-Kalender.png
+image_thumbnail: Empfangsbildschirm-Microsoft-Office-Kalender_thumbnail.png
+download: Empfangsbildschirm-Microsoft-Office-Kalender.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
@@ -23,7 +23,7 @@ overview_data_sources:
 
 ## So funktioniert's
 
-Um einen möglichst einfachen Einstieg in die Erstellungen eines Willkommensbildschirms zu geben, bieten wir vorgefertigte Templates an. Dies ist eine Schritt für Schritt Anleitung, wie Sie Ihren persönlichen Willkommensbildschirm mit diesen Templates erstellen können. Eine generelle Einführung in Peakboard finden Sie in den [ersten Schritten](https://peakboard.rocks/erste-schritte). Wenn Sie wissen möchten, wie Sie eine Peakboard Box mit Ihrem Designer verbinden und eine Visualisierung übertragen, lesen Sie am besten folgenden [Artikel](https://peakboard.rocks/anschliessen). Zum Erstellen einer Visualisierung benötigen Sie den Peakboard Designer. Dieser kann kostenfrei [heruntergeladen](https://peakboard.rocks/designer-from-welcome) werden.
+Um einen möglichst einfachen Einstieg in die Erstellungen eines Willkommensbildschirms zu geben, bieten wir vorgefertigte Templates an. Dies ist eine Schritt für Schritt Anleitung, wie Sie Ihren persönlichen Willkommensbildschirm mit diesen Templates erstellen können. Eine generelle Einführung in Peakboard finden Sie in den [ersten Schritten](https://peakboard.rocks/erste-schritte). Wenn Sie wissen möchten, wie Sie eine Peakboard Box mit Ihrem Designer verbinden und eine Visualisierung übertragen, lesen Sie am besten folgenden [Artikel](https://peakboard.rocks/anschliessen). Zum Erstellen einer Visualisierung benötigen Sie den Peakboard Designer. Dieser kann kostenfrei [heruntergeladen](https://peakboard.com/peakboard-designer/?utm_campaign=templates&utm_medium=description_link&utm_source=templates_overview) werden.
 
 ### Unterschiedliche Varianten
 

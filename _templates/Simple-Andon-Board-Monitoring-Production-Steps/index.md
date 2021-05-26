@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Einfaches Andon Board zur Überwachung von 5 Produktionsschritten
+title: dein digitales andon-board – überwache produktionsschritte mit dem lampensystem
 description: 
-  - Bei dieser Vorlage handelt es sich um eine Übersicht von fünf verschiedenen Produktionsschritten zu einem Auftrag. Mittels einer Andon Board Anzeige (Ampelfarbschema) werden die einzelnen Stationen farblich gekennzeichnet. So wird auf einen Blick ersichtlich, an welcher Station der Linie alles planmäßig läuft oder an welcher ein Problem aufgetreten ist und seit welcher Zeit dieses besteht. Zusätzlich wird der Auftragsstatus in Echtzeit abgebildet. Entfernen Sie das hinterlegte Timer Script und fügen Sie Ihre Datenquelle hinzu, um diese Visualisierung für Ihre Zwecke verwenden zu können.
+  - Dieses Template zeigt eine Übersicht der Abläufe einzelner Produktionsschritte eines Auftrags. Ob bei den einzelnen Arbeitsschritten alles planmäßig läuft, wird mittels übersichtlicher Andon-Board Anzeige im typischen Ampelfarbschema angezeigt. Bei Störungen genügt ein kurzer Blick auf den Monitor und die „rote Lampe“ verrät ob es ein Problem gibt, wo es das Problem gibt und seit wann. Das sorgt für Transparenz am Arbeitsplatz, steigert die Motivation und verkürzt Reaktionszeiten. Zusätzlich wird der Auftragsstatus in Echtzeit abgebildet. Lade dir das Template kostenlos herunter, entfernen das hinterlegte Timer Script und füge deine Datenquelle hinzu, um die Visualisierung für deine Zwecke verwenden zu können. 
 lang: de
 weight: 500
 isDraft: false
@@ -21,3 +21,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# mögliche datenquellen
+Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als fiktive Datenquellen. In einem echten Szenario könntest du stattdessen deine Systeme anbinden. Zum Beispiel Maschinennahe Kommunikationsmethoden wie: MQTT, OPC UA, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation oder MT Connect. Es gibt viele Datenquellen die du für dieses Board verwenden könntest, eine Übersicht findest du [hier](https://peakboard.com/schnittstellen/).

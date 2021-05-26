@@ -1,8 +1,9 @@
 ---
 layout: article
-title: Reception Screen with Microsoft Office 365 Calendar Connection
+title: digital signage reception screen – information dashboard with Microsoft Office 365 calendar connection
 description: 
-  - With this template you can easily and quickly visualize a reception screen with different appointments. For this a Microsoft 365 calendar is connected as data source. To be able to use this template for your purposes, simply replace the company logo, insert a different background image if necessary and connect your calendar. An explanation of how to connect your calendar can be found more detailed below.
+  - "With this template you can easily and quickly design a multifunctional digital reception screen for your visitors. Welcome your customers right at the area of reception with the information they need during their visit on a dynamic reception screen. Connect your Microsoft 365 calendar as a data source to display visitor information such as room occupancy
+according to the daily schedule. Add your company logo and design the reception screen in your corporate design - flexible and functional. Download now."
 lang: en
 weight: 1000
 isDraft: false
@@ -23,7 +24,7 @@ overview_data_sources:
 
 ## How it works
 
-In order to get into the creation of a welcome screen as simple as possible, we offer ready-made templates. This is a step by step guide on how to create your personal welcome screen with these templates. For a general introduction to Peakboard, see the [first steps](https://peakboard.rocks/get-started). If you would like to know how to connect a Peakboard box to your designer and transfer a visualization, please read the following [article](https://peakboard.rocks/connect). To create a visualization you need the Peakboard Designer. This can be downloaded [for free](https://peakboard.rocks/designer-from-welcome-en).
+In order to get into the creation of a welcome screen as simple as possible, we offer ready-made templates. This is a step by step guide on how to create your personal welcome screen with these templates. For a general introduction to Peakboard, see the [first steps](https://peakboard.rocks/get-started). If you would like to know how to connect a Peakboard box to your designer and transfer a visualization, please read the following [article](https://peakboard.rocks/connect). To create a visualization you need the Peakboard Designer. This can be downloaded [for free](https://peakboard.com/en/peakboard-designer/?utm_campaign=templates&utm_medium=description_link&utm_source=templates_overview).
 
 ### Different variants
 

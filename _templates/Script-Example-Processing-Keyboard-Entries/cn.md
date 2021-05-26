@@ -11,7 +11,7 @@ category:
   - Script
   - Scripting
 image: Script_Key_Inputs_EN.png
-download: Script_Key_Inputs - CN.pbmx
+download: Script_Key_Inputs_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

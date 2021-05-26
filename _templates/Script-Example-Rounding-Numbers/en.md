@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script example for rounding numbers
+title: script example for rounding numbers
 description: 
   - This example shows how to work with numbers, how to do these, and how to display them in a table.
 lang: en

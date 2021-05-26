@@ -11,7 +11,7 @@ category:
   - Script
   - Scripting
 image: Script_Dialogs_and_Messages_EN.png
-download: Script_Dialogs_and_Messages - CN.pbmx
+download: Script_Dialogs_and_Messages_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

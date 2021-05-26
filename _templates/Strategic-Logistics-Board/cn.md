@@ -12,9 +12,9 @@ category:
   - Logistics
   - Warehouse
   - KPI
-image: Strategic-Logistics-Board.png
-image_thumbnail: Strategic-Logistics-Board_thumbnail.png
-download: Strategic-Logistics-Board-CN.pbmx
+image: Strategic-Logistics-Board_CN.png
+image_thumbnail: Strategic-Logistics-Board_CN_thumbnail.png
+download: Strategic-Logistics-Board_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

@@ -11,12 +11,13 @@ category:
   - Production
   - Control
   - Process
-image: Control-Punching-Machine-Siemens-S7.png
-image_thumbnail: Control-Punching-Machine-Siemens-S7_thumbnail.png
-download: Control-Punching-Machine-Siemens-S7 - CN.pbmx
+image: Control-Punching-Machine-Siemens-S7_CN.png
+image_thumbnail: Control-Punching-Machine-Siemens-S7_CN_thumbnail.png
+download: Control-Punching-Machine-Siemens-S7_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
 ---
 # 提示 
-除非您有Siemens S7控制器，否则该看板将无法在Peakboard上使用。这只是一个示例，演示Peakboard如何与S7控制器通讯。如果您想了解该看板如何工作，请访问https://youtu.be/w8jRp6st180?t=9m15s。
+除非您有Siemens S7控制器，否则该看板将无法在Peakboard上使用。这只是一个示例，演示Peakboard如何与S7控制器通讯。如果您想了解该看板如何工作，请访问
+{% include video.html image='img/Siemens-S7-Controller-Visualized-Peakboard.jpg' video_id='gE8tboIOvTQ' %}

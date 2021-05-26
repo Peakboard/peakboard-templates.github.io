@@ -10,7 +10,7 @@ ref: Script_Animate
 category:
   - Scripting
 image: Script_Animate_EN.png
-download: Script_Animate - CN.pbmx
+download: Script_Animate_EN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
