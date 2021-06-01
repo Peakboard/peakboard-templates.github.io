@@ -5,7 +5,7 @@ description:
   - Lade dir dieses Dashboard herunter und nutze es zur Werkersteuerung in der Kommissionierung in den verschiedenen Lagerbereichen. Das Dashboard zeigt im Soll-Ist-Vergleich an, wo die Werker der einzelnen Bereiche des Lagers beim Erledigen der Aufträge gerade stehen und wo sie eigentlich bereits stehen sollten. Die Mitarbeiterinnen und Mitarbeiter können so direkt sehen, in welchen Bereichen des Lagers gerade Unterstützung gebraucht wird und dann selbstständig dorthin wechseln, um ihren Kollegen beim Erreichen des Tagesziels unter die Arme zu greifen. Optimiere jetzt deine Logistik Prozesse – denn nur informierte Mitarbeiter und Mitarbeiterinnen können fundierte Entscheidungen treffen!
 lang: de
 weight: 1600
-isDraft: true
+isDraft: false
 ref: Warehouse-Management-Areas-Coordination-With-SAP
 category:
   - Empfohlen
