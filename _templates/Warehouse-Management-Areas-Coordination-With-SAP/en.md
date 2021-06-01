@@ -2,7 +2,8 @@
 layout: article
 title: area coordination in the warehouse - keep track of the current status with SAP
 description: 
-- This template is used to monitor the current utilization of your warehouse. All areas of small parts picking are displayed and you always have an overview of the status of individual areas. This helps to coordinate the allocation of employees in the best possible way. So that all areas are finished at the end of the day. So you can easily optimize your logistics processes. Because only informed employees can make well-founded decisions!
+- Download this dashboard and use it for worker management in commissioning in the various warehouse areas. The dashboard shows in a target/actual comparison where the workers in the individual areas of the warehouse are currently standing in completing the orders and where they should actually already be standing. 
+The employees can see directly in which areas of the warehouse support is currently needed and then independently switch to these areas to help their colleagues achieve the daily target. Optimize your logistics processes now - because only informed employees can make informed decisions!
 lang: en
 weight: 1600
 isDraft: true
