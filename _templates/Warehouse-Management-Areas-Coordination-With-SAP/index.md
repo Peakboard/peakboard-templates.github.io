@@ -1,8 +1,9 @@
 ---
 layout: article
-title: bereichskoordinierung im lager – behalte den überblick über den aktuellen stand mit SAP
+title: kommissionierungs-board zur werkersteuerung – behalte den überblick über auslastungen mit SAP
 description: 
-  - Dieses Template dient zur Überwachung der aktuellen Auslastung deines Lagers. Es werden alle Bereiche der Kleinteilekommisierung angezeigt und man behält immer den Überblick über den Status einzerlnen Bereiche. Dies hilft dabei, die Einteilung der Mitarbeiter bestmöglich zu koordinieren. Damit am Ende des Tages alle Bereiche fertig werden. So kannst du kinderleicht deine Logistik Prozesse optimieren. Denn nur informierte Mitarbeiter können fundierte Entscheidungen treffen!
+  - Lade dir dieses Dashboard herunter und nutze es zur Werkersteuerung in der Kommissionierung in den verschiedenen Lagerbereichen. Das Dashboard zeigt im Soll-Ist-Vergleich an, wo die Werker der einzelnen Bereiche des Lagers beim Erledigen der Aufträge gerade stehen und wo sie eigentlich bereits stehen sollten. 
+Die Mitarbeiterinnen und Mitarbeiter können so direkt sehen, in welchen Bereichen des Lagers gerade Unterstützung gebraucht wird und dann selbstständig dorthin wechseln, um ihren Kollegen beim Erreichen des Tagesziels unter die Arme zu greifen. Optimiere jetzt deine Logistik Prozesse – denn nur informierte Mitarbeiter und Mitarbeiterinnen können fundierte Entscheidungen treffen!
 lang: de
 weight: 1600
 isDraft: true
