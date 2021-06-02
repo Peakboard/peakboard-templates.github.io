@@ -1,8 +1,8 @@
 ---
 layout: article
-title: 使用Simens S7控制冲压机
+title: 您的西门子S7看板 —— 使用西门子S7控制冲压机
 description: 
-  - 利用Simens S7控制器，模板展示了如何在Peakboard与冲压机之间建立通信。
+  - 利用西门子S7控制器，模板展示了如何轻松地在Peakboard与冲压机之间建立通信。马上下载模板，配置自己的个性化看板！Peakboard功能丰富，整合了各种不同的交互界面，能为您提供极大的灵活性。
 lang: cn
 weight: 500
 isDraft: false
@@ -18,6 +18,6 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# 提示 
-除非您有Siemens S7控制器，否则该看板将无法在Peakboard上使用。这只是一个示例，演示Peakboard如何与S7控制器通讯。如果您想了解该看板如何工作，请访问
+# 如何使用 
+该看板只有配合西门子S7控制器才能在Peakboard上使用。它只是一个示例，演示Peakboard如何与S7控制器通信。如果您想了解该看板如何工作以及如何自己动手创建，请访问
 {% include video.html image='img/Siemens-S7-Controller-Visualized-Peakboard.jpg' video_id='gE8tboIOvTQ' %}
