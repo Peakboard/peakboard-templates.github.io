@@ -21,4 +21,4 @@ overview_data_sources:
 # 如何使用
 点击以下视频，了解具体如何使用该模板以及如何自己动手创建：
 
-{% include video.html image='img/OPC-UA-Data-Visualized-Peakboard.jpg' video_id='u08960oxc1d' %}
+{% include video.html image='img/OPC-UA-Data-Visualized-Peakboard.jpg' tencent_id='u08960oxc1d' %}
