@@ -21,4 +21,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # possible data sources
-This template uses a SAP system as a data source. The further processing of the data takes place directly in Peakboard. Alternatively, the data could also come from other systems such as WMS or other logistics programs. Some examples that you could connect: Oracle NetSuite, PSIwms, Erhardt + Partner LFS, IBM Sterling WMS, Epicor WMS, JDA WMS, Fishbowl Inventory, SSI Schäfer WAMAS and [many more] (https://peakboard.com/schnittstellen/).
+This template uses a SAP system as a data source. The further processing of the data takes place directly in Peakboard. Alternatively, the data could also come from other systems such as WMS or other logistics programs. Some examples that you could connect: Oracle NetSuite, PSIwms, Erhardt + Partner LFS, IBM Sterling WMS, Epicor WMS, JDA WMS, Fishbowl Inventory, SSI Schäfer WAMAS and [many more](https://peakboard.com/schnittstellen/).
