@@ -5,7 +5,7 @@ description:
   - This dashboard was created as part of the WirVsVirus-Hackathon in March 2020 (wirvsvirushackathon.org) organized by the German government and seven social initiatives. The goal was to better organize waiting times for patients in medical practices or hospitals, but also to prevent the mutual infection as far as possible by moving the waiting rooms outside, so to speak. The display solution can, for example, inform waiting patients or visitors about their appointments via a screen in front of the practice during Corona. Download the template and design your customized dashboard with the data sources of your choice. 
 lang: en
 weight: 600
-isDraft: false
+isDraft: true
 ref: Doctors-office-patient-queue
 category:
   - Administration
