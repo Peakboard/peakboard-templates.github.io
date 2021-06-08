@@ -5,9 +5,9 @@ description:
   - Mit diesem Template gestaltest du einfach und schnell ein mutlifunktionaler digitaler Empfangsbildschirm. Binde deinen Microsoft 365 Kalender als Datenquelle an um Besucherinformationen wie z. B. Raumbelegungen zuverlässig und zeitgesteuert auf einem Bildschirm deiner Wahl anzuzeigen. Ergänze dein Firmenlogo und gestalte deinen Empfangsbildschirm in deinem Corporate Design - flexibel und funktional. Jetzt herunterladen
 lang: de
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Reception-Screen-Microsoft-Office-Calendar
-carousel: true
+carousel: false
 category:
   - Administration
   - Empfang

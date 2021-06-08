@@ -5,9 +5,9 @@ description:
   - 使用这一模板，您可以快速、轻松地将各种预约可视化显示在接待看板。为此，我们以微软365日历作为数据源与看板相连。要想让其符合您的需求，只需替换掉公司图标，需要的话可以插入不同的背景图片，并与您的日历连接。针对如何连接日历，我们在后文也进行了详细解释。
 lang: cn
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Reception-Screen-Microsoft-Office-Calendar
-carousel: true
+carousel: false
 category:
   - Administration
   - Reception
