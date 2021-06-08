@@ -7,7 +7,7 @@ lang: de
 weight: 1500
 isDraft: false
 ref: Interactive-Board-For-Single-User-Production
-carousel: false
+carousel: true
 category:
   - Produktion
   - Einzelfertigung

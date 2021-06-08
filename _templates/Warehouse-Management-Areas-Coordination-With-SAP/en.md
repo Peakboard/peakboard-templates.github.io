@@ -7,6 +7,7 @@ description:
 lang: en
 weight: 1600
 isDraft: false
+carousel: true
 ref: Warehouse-Management-Areas-Coordination-With-SAP
 category:
   - Recommended

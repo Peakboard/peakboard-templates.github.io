@@ -7,7 +7,6 @@ lang: cn
 weight: 1000
 isDraft: false
 ref: Overview-Of-Single-Production-Line
-carousel: true
 category:
   - Production
   - Serial Production

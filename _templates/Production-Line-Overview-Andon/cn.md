@@ -7,7 +7,6 @@ lang: cn
 weight: 1000
 isDraft: false
 ref: Production-Line-Overview-Andon
-carousel: true
 category:
   - Recommended
   - Andon
