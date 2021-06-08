@@ -5,7 +5,7 @@ description:
   - 使用Peakboard， 让客户和访客对您进行评价，并直接通过邮件获取评价。
 lang: cn
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Rating-Terminal-For-Hotels
 category:
   - Reception

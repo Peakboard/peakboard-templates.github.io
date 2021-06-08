@@ -5,7 +5,7 @@ description:
   - With Peakboard your guests can easily evaluate their stay in your hotel via a touch screen at the reception. You can receive these ratings in a flash by e-mail, so you always know if your guests are satisfied with their stay. Download now and attract attention at the reception desk!
 lang: en
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Rating-Terminal-For-Hotels
 category:
   - Reception
