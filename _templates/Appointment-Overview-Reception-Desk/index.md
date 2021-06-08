@@ -7,7 +7,6 @@ lang: de
 weight: 1000
 isDraft: true
 ref: Appointment-Overview-Reception-Desk
-carousel: true
 category:
   - Empfohlen
   - Administration

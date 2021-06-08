@@ -6,6 +6,7 @@ description:
 lang: en
 weight: 2100
 isDraft: false
+carousel: true
 ref: Detailed-Board-Single-Production-Line
 category:
   - KPI
