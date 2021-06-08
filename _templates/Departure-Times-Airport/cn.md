@@ -5,7 +5,7 @@ description:
   - 模板主要用于可视化斯图加特机场的航班离港信息，它展示了三个航站楼当前航班时间、未来两小时航班一览以及延误航班。
 lang: cn
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Departure-Times-Airport
 category:
   - Traffic

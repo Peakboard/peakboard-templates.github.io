@@ -5,7 +5,7 @@ description:
   - 使用该模板制作的菜单，餐厅顾客可通过一个交互式的看板点单，并且它还与餐厅的订单系统相连。您还可以接入其他服务，创建一个便捷的在线或POS订单系统。订单直接通过邮件发出。随时更改或调整饮品、餐食和价格，非常方便。只需一台显示器，即可轻松开始。
 lang: cn
 weight: 800
-isDraft: false
+isDraft: true
 ref: Bar-Table-Order-Touchscreen
 category:
   - Interaction

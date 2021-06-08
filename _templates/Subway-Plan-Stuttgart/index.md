@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt einen Abfahrtsplan einer Haltestelle in Stuttgart. So haben Fahrgäste wichtige Informationen zum Fahrplan wie z. B. Ankunft- und Abfahrt der nächsten Bahn / des nächsten Busses direkt an der Haltestelle im Blick - und zwar in Echtzeit. Die Schnittstelle die hier verwendet wird funktioniert nur für Stuttgart.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Stuttgart_Subway_Plan
 category:
 image: Abfahrtstafel-Haltestelle-Stuttgart.png

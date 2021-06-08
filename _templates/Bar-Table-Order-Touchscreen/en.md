@@ -5,7 +5,7 @@ description:
   - With this template, restaurant customers receive the menu as an interactive dashboard with integrated ordering system. Also connect further services to establish an easy online or POS ordering system. The order is sent directly by e-mail. Easily change and adjust drinks, food and prices at any time. All you need is a monitor to get started.
 lang: en
 weight: 800
-isDraft: false
+isDraft: true
 ref: Bar-Table-Order-Touchscreen
 category:
   - Interaction

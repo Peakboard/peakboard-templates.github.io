@@ -5,7 +5,7 @@ description:
   - 该可视化提供了当前预约及对应的房间使用概览。您可以将其连上微软365日历并修改图标，若有必要，还可以调整天气插件，使其满足您的需求。
 lang: cn
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Appointment-Overview-Reception-Desk
 carousel: true
 category:

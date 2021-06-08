@@ -6,7 +6,7 @@ description:
 according to the daily schedule. Add your company logo and design the reception screen in your corporate design - flexible and functional. Download now."
 lang: en
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Reception-Screen-Microsoft-Office-Calendar
 carousel: false
 category:

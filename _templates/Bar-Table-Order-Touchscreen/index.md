@@ -5,7 +5,7 @@ description:
   - Mit diesem Template erhalten die Gäste im Restaurant die Speisekarte als interaktives Dashboard mit integrierter Bestellfunktion. Du kannst außerdem auch weitere Services anbinden und so ein ganz unkompliziertes Online-Bestellsystem aufsetzen. Die Bestellung erfolgt direkt über E-mail. Getränke, Speisen und Preise kannst du jederzeit und ganz einfach anpassen. Du brauchst nur einen Monitor und kannst direkt loslegen.
 lang: de
 weight: 800
-isDraft: false
+isDraft: true
 ref: Bar-Table-Order-Touchscreen
 category:
   - Interaktion

@@ -7,7 +7,7 @@ lang: de
 weight: 1000
 isDraft: false
 ref: Reception-Screen-Microsoft-Office-Calendar
-carousel: false
+carousel: true
 category:
   - Administration
   - Empfang

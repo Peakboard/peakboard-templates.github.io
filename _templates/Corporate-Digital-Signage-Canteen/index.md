@@ -5,7 +5,7 @@ description:
   - Display Werbung in deinem Corporate Design! Dieses Template zeigt, wie du ganz einfach mit individuellen Bildern eine Digital Signage Anwendung kreieren kannst. Lade Bilder deiner Wahl in die Visualisierung und definiere welches Bild wann angezeigt werden soll. Deine individuellen Abbildungen und Uhrzeiten können sowohl über den Peakboard Designer als auch über die API (Webinterface oder Peakboard App) verwaltet werden. Durch die flexiblen Darstellungsoptionen kannst du das Template ganz nach deinen Bedürfnissen konfigurieren und erhältst so mehr Aufmerksamkeit von deiner Zielgruppe. Direkt herunterladen! Los gehts.
 lang: de
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Corporate-Digital-Signage-Canteen
 category:
   - Administration
