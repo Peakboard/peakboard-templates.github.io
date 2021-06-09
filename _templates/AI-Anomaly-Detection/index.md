@@ -2,7 +2,7 @@
 layout: article
 title: frühzeitige erkennung von problemen mit hilfe eines KI modells
 description: 
-  - Dieses Template verwendet ein KI-Modell in der Azure Cloud um zu erkennen, wann die Wahrscheinlichkeit für eine Fehlproduktion steigt. Es werden 2 Messwerte an ein KI-Modell übermittelt und mit Hilfe der JSON Datenquelle erhält man die errechnete Wahrscheinlichkeit als Wert zurück. Mit diesem Wert kann man die aktuelle Gefahr schnell ersichtlich machen un so frühzeitig reagieren um Fehlproduktion komplett zu vermeiden.
+  - Dieses Template verwendet ein KI-Modell in der Azure Cloud um zu erkennen, wann die Wahrscheinlichkeit für eine Fehlproduktion steigt. Es werden 2 Messwerte an ein KI-Modell übermittelt und mit Hilfe der JSON Datenquelle erhält man die errechnete Wahrscheinlichkeit als Wert zurück. Mit diesem Wert kann man die aktuelle Situation schnell ersichtlich machen und so frühzeitig reagieren um Fehlproduktion komplett zu vermeiden.
 lang: de
 weight: 1700
 isDraft: true

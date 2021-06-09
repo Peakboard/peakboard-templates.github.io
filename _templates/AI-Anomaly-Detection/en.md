@@ -2,7 +2,7 @@
 layout: article
 title: early detection of problems with the help of an AI model
 description: 
-  - This template uses an AI model in the Azure Cloud to recognize when the probability of a faulty production increases. Two measured values are transmitted to an AI model and the calculated probability is returned as a value with the help of the JSON data source. With this value you can quickly make the current danger visible and react early enough to completely avoid incorrect production.
+  - This template uses an AI model in the Azure Cloud to recognize when the probability of a faulty production increases. Two measured values are transmitted to an AI model and the calculated probability is returned as a value with the help of the JSON data source. With this value you can quickly make the current situation visible and react early enough to completely avoid misproduction.
 lang: en
 weight: 1700
 isDraft: true
