@@ -9,7 +9,7 @@ isDraft: true
 ref: AI-Anomaly-Detection
 category:
   - Production
-  - AI
+  - Maintenance
 image: AI-Anomaly-Detection.png
 image_thumbnail: AI-Anomaly-Detection_thumbnail.png
 download: AI-Anomaly-Detection.pbmx
@@ -19,5 +19,6 @@ overview_data_sources:
 ---
 # how it works
 
-This template uses an AI model from Paiqo. This model runs in the Azure cloud.
+This template uses an AI model from Paiqo. This model runs in the Azure cloud. 
+
 Two measured values are simulated with a script and sent to the model. As soon as the model receives the values, it calculates the probability of failure and returns this value to the board. This is then displayed and helps to identify problems quickly and to react early in order to completely avoid missing parts that are outside the tolerance.
