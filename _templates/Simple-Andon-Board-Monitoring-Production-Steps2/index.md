@@ -14,9 +14,9 @@ category:
   - Andon
   - Warnung
   - Prozess
-image: Einfaches-Andon-Board-Zur-Ueberwachung-Von-Produktionsschritten.png
-image_thumbnail: Einfaches-Andon-Board-Zur-Ueberwachung-Von-Produktionsschritten_thumbnail.png
-download: Einfaches-Andon-Board-Zur-Ueberwachung-Von-Produktionsschritten.pbmx
+image: Einfaches-Andon-Board-Zur-Ueberwachung-Von-Produktionsschritten2.png
+image_thumbnail: Einfaches-Andon-Board-Zur-Ueberwachung-Von-Produktionsschritten2_thumbnail.png
+download: Einfaches-Andon-Board-Zur-Ueberwachung-Von-Produktionsschritten2.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
