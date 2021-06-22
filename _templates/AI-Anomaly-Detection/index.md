@@ -10,9 +10,9 @@ ref: AI-Anomaly-Detection
 category:
   - Produktion
   - Instandhaltung
-image: AI-Anomaly-Detection.png
-image_thumbnail: AI-Anomaly-Detection_thumbnail.png
-download: AI-Anomaly-Detection.pbmx
+image: Anomalie-Erkennung-mit-KI.png
+image_thumbnail: Anomalie-Erkennung-mit-KI_thumbnail.png
+download: Anomalie-Erkennung-mit-KI.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
