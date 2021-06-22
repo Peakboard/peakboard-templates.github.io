@@ -19,6 +19,6 @@ overview_data_sources:
 ---
 # so funktioniert's
 
-Dieses Template verwendet ein AI Modell der Firma Paiqo. Dieses Modell läuft in der Azure Cloud.
+Dieses Template verwendet ein AI Modell der Firma [Paiqo](https://paiqo.com/de/). Dieses Modell läuft in der Azure Cloud.
 
-Es werden 2 Messwerte simuliert mit einem Script und an das Modell gesendet. Sobald das Modell die Werte erhält kalkuliert es die Wahrscheinlichkeit für einen Ausfall und gibt diesen Wert an das Board zurück. Dies wird dann angezeigt und hilft, schnell Probleme zu erkennen und frühzeitig zu reagieren um Fehlteile, die außerhalb der Toleranz sind, komplett zu vermeiden.
+Es werden 2 Messwerte simuliert mit einem Script und an das Modell gesendet. In einem realen Szenario wären dies zwei Werte von Sensonren. Sobald das Modell die Werte erhält kalkuliert es die Wahrscheinlichkeit für einen Ausfall und gibt diesen Wert an das Board zurück. Dies wird dann angezeigt und hilft, schnell Probleme zu erkennen und frühzeitig zu reagieren um Fehlteile, die außerhalb der Toleranz sind, komplett zu vermeiden.
