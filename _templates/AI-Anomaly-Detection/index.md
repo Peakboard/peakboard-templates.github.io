@@ -1,8 +1,8 @@
 ---
 layout: article
-title: frühzeitige erkennung von problemen mit hilfe eines KI modells
+title: immer einen schritt voraus – so vermeidest du fehlproduktion mithilfe von KI
 description: 
-  - Dieses Template verwendet ein KI-Modell in der Azure Cloud um zu erkennen, wann eine Anomalie entsteht und so die Wahrscheinlichkeit für eine Fehlproduktion steigt. Es werden 2 Messwerte an ein KI-Modell übermittelt und mit Hilfe der JSON Datenquelle erhält man eine Anomalie-Bewertung als Wert zurück. Mit diesem Wert kann man die aktuelle Situation schnell ersichtlich machen und so frühzeitig reagieren um Fehlproduktion komplett zu vermeiden. Sobald negative Werte auftreten zeigt das Board dies deutlich an und Mitarbeiter können schnell reagieren bevor Fehlteile entstehen.
+  - Dieses Template verwendet ein KI-Modell in der Azure Cloud, um zu erkennen, wenn eine Anomalie in der Produktion auftritt, wodurch die Wahrscheinlichkeit einer Fehlproduktion erhöht wird. Dazu werden zwei Messwerte an ein KI-Modell gesendet und über die JSON-Datenquelle auf Anomalien geprüft. Dieser Wert dient als Indikator für die Qualität der Produktion und ermöglicht es dir, Fehlproduktionen rechtzeitig zu erkennen und zu vermeiden. Das Dashboard zeigt dir auftretende negative Werte leicht verständlich und auf einen Blick an, so dass Mitarbeiter und Mitarbeiterinnen selbstständig und umgehend reagieren können, um fehlerhafte Produktionsteile zu vermeiden. Spare Zeit und Kosten in deiner Produktion und lade dir das Template kostenlos herunter.
 lang: de
 weight: 1700
 isDraft: true
