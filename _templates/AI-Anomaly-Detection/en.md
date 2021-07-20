@@ -1,8 +1,8 @@
 ---
 layout: article
-title: early detection of problems with the help of an AI model
+title: stay one step ahead – how to avoid misproduction using AI
 description: 
-  - This template uses an AI model in the Azure Cloud to recognize when an anomaly occurs and thus the probability of a faulty production increases. Two measured values are transmitted to an AI model and an anomaly assessment is returned as a value with the help of the JSON data source. With this value you can quickly make the current situation visible and react early in order to completely avoid incorrect production. As soon as negative values occur, the board shows this clearly and employees can react quickly before missing parts arise.
+  - This template uses an AI model in the Azure Cloud to detect when an anomaly occurs in production, increasing the likelihood of a misproduction. To do this, two measured values are sent to an AI model and checked for anomalies using the JSON data source. This value serves as an indicator for the quality of the production and allows you to detect and avoid misproduction in time. The Dahsboard shows you negative values in an easily understandable way and at a glance, so that employees and co-workers can react independently and immediately to avoid faulty production parts. Save time and costs in your production and download our template for free.
 lang: en
 weight: 1700
 isDraft: false
