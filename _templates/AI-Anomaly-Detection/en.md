@@ -5,7 +5,7 @@ description:
   - This template uses an AI model in the Azure Cloud to recognize when an anomaly occurs and thus the probability of a faulty production increases. Two measured values are transmitted to an AI model and an anomaly assessment is returned as a value with the help of the JSON data source. With this value you can quickly make the current situation visible and react early in order to completely avoid incorrect production. As soon as negative values occur, the board shows this clearly and employees can react quickly before missing parts arise.
 lang: en
 weight: 1700
-isDraft: true
+isDraft: false
 ref: AI-Anomaly-Detection
 category:
   - Production

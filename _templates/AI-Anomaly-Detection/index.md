@@ -5,7 +5,7 @@ description:
   - Dieses Template verwendet ein KI-Modell in der Azure Cloud um zu erkennen, wann eine Anomalie entsteht und so die Wahrscheinlichkeit für eine Fehlproduktion steigt. Es werden 2 Messwerte an ein KI-Modell übermittelt und mit Hilfe der JSON Datenquelle erhält man eine Anomalie-Bewertung als Wert zurück. Mit diesem Wert kann man die aktuelle Situation schnell ersichtlich machen und so frühzeitig reagieren um Fehlproduktion komplett zu vermeiden. Sobald negative Werte auftreten zeigt das Board dies deutlich an und Mitarbeiter können schnell reagieren bevor Fehlteile entstehen.
 lang: de
 weight: 1700
-isDraft: true
+isDraft: false
 ref: AI-Anomaly-Detection
 category:
   - Produktion
