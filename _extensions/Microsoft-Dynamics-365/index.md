@@ -5,7 +5,7 @@ title_text: Microsoft Dynamics 365
 by: Peakboard
 description:
   - This extension enables easy access to the Microsoft Dynamics 365 API for the Peakboard Designer. This means you can access all data from your Microsoft Dynamics 365 system and integrate it into your dashboard. Just some more dummy text to fill the space.
-lang: en 
+lang: de 
 weight: 1000
 isDraft: false
 ref: microsoft-dynamics-365
