@@ -51,6 +51,9 @@ module.exports = {
                 "grey-lightest": "#f0f1f2",
                 orange: "#ffa500",
                 "orange-light": "#faad63",
+            },
+            borderWidth: {
+                '0.5': '0.5px'
             }
         },
         fontFamily: {

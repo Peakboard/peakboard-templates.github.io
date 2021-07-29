@@ -25,6 +25,9 @@ collections:
   templates:
     output: true
     permalink: /:path
+  extensions:
+    output: true
+    permalink: /extensions/:path
 
 # Portions of text found throughout common components (like the footer) can be configured here for each language
 language:
@@ -88,6 +91,13 @@ language:
     cookie-box-change-preferences-section-statistics: "Statistics (1)"
     cookie-box-change-preferences-section-statistics-explanation: "Statistics Cookies collect information anonymously. This information helps us to understand how our visitors use our website."
     cookie-box-change-preferences-button-save: "Save Preferences"
+    extensions-link-text-return-to-overview: "Gallery / Extensions"
+    extensions-link-text-download: "Download extension"
+    extensions-link-how-to: "https://help.peakboard.com/data_sources/Extension/en-ManageExtension.html"
+    extensions-link-text-how-to: "How to install a Peakboard Extension"
+    extensions-section-description: "Description"
+    extensions-section-version-history: "Version History"
+    extensions-section-screenshots: "Screenshots"
   de:
     article-download-button-text: "template herunterladen"
     article-download-explanation: "Datei mit Peakboard Designer öffnen"
@@ -148,6 +158,13 @@ language:
     cookie-box-change-preferences-section-statistics: "Statistiken (1)"
     cookie-box-change-preferences-section-statistics-explanation: "Statistik Cookies erfassen Informationen anonym. Diese Informationen helfen uns zu verstehen, wie unsere Besucher unsere Website nutzen."
     cookie-box-change-preferences-button-save: "Speichern"
+    extensions-link-text-return-to-overview: "Gallery / Extensions"
+    extensions-link-text-download: "Download extension"
+    extensions-link-how-to: "https://help.peakboard.com/data_sources/Extension/en-ManageExtension.html"
+    extensions-link-text-how-to: "How to install a Peakboard Extension"
+    extensions-section-description: "Description"
+    extensions-section-version-history: "Version History"
+    extensions-section-screenshots: "Screenshots"
   cn:
     article-download-button-text: "下载模板"
     article-download-explanation: "Open file with Peakboard Designer"
@@ -208,6 +225,13 @@ language:
     cookie-box-change-preferences-section-statistics: "统计类 (1)"
     cookie-box-change-preferences-section-statistics-explanation: "此类Cookies会收集匿名信息，能帮助我们了解访客如何使用本网站。"
     cookie-box-change-preferences-button-save: "保存偏好"
+    extensions-link-text-return-to-overview: "Gallery / Extensions"
+    extensions-link-text-download: "Download extension"
+    extensions-link-how-to: "https://help.peakboard.com/data_sources/Extension/en-ManageExtension.html"
+    extensions-link-text-how-to: "How to install a Peakboard Extension"
+    extensions-section-description: "Description"
+    extensions-section-version-history: "Version History"
+    extensions-section-screenshots: "Screenshots"
 algolia:
   application_id: 'XEVVIEZWKI'
   index_name: PEAKBOARD_EPIC_BOARDS
