@@ -1,20 +1,25 @@
 ---
 layout: extension
-title: 单工作站安东板概览
-description: 
-  - 模板为您提供了多个工作站概览，让您对任一工作站中可能出现的问题都能作出快速反应。 它可用于生产（订单处理生产）和组装线。
-lang: cn
+title: Microsoft Dynamics 365 - Peakboard Extension
+title_text: Microsoft Dynamics 365
+by: Peakboard
+description:
+  - This extension enables easy access to the Microsoft Dynamics 365 API for the Peakboard Designer. This means you can access all data from your Microsoft Dynamics 365 system and integrate it into your dashboard. Just some more dummy text to fill the space.
+lang: en
 weight: 1000
 isDraft: false
-ref: Andon-Single-Station-Overview
+ref: microsoft-dynamics-365
+image: Microsoft-Dynamics-365.png
+image_thumbnail: Microsoft-Dynamics-365_thumbnail.png
+download: Microsoft-Dynamics-365.pbmx
 category:
-  - Andon
-  - Production
-  - Job Production
-image: Andon-Single-Station-Overview_CN.png
-image_thumbnail: Andon-Single-Station-Overview_CN_thumbnail.png
-download: Andon-Single-Station-Overview_CN.pbmx
-overview_description:
-overview_benefits:
-overview_data_sources:
+  - Datasource
+  - CRM
+  - Microsoft
+screenshots:
+  - Microsoft-Dynamics-365_CN.png
+  - Microsoft-Dynamics-365_DE.png
+version_history:
+  - Version 1.0.1 on 20 June 2021 | Bug fix, something added
+  - Version 1.0.1 on 20 June 2021 | Initial release
 ---

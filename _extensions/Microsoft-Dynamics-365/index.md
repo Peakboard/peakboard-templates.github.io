@@ -1,20 +1,25 @@
 ---
 layout: extension
-title: andon-system für die fließbandfertigung – einzelne arbeitsschritte auf einem dashboard im blick behalten 
-description: 
-  - Mit diesem praktischen Template siehst du mehrere Arbeitsstationen auf einen Blick. So siehst du die Abläufe einzelner Arbeitsschritte, was zur Verbesserung deiner Prozesse beiträgt. Außerdem kannst du blitzschnell auf mögliche Probleme deiner Werker und Störungen der Maschinen an einem einzelnen Arbeitsplatz reagieren, um Verschwendung effizient zu minimieren. Dieses Template kann sowohl in der Produktion, z. B. in der Einzelfertigung oder Fließbandfertigung, als auch in der Montage verwendet werden. Jetzt Template herunterladen und ganz einfach Produktionsprozesse nachhaltig optimieren!
-lang: de
+title: Microsoft Dynamics 365 - Peakboard Extension
+title_text: Microsoft Dynamics 365
+by: Peakboard
+description:
+  - This extension enables easy access to the Microsoft Dynamics 365 API for the Peakboard Designer. This means you can access all data from your Microsoft Dynamics 365 system and integrate it into your dashboard. Just some more dummy text to fill the space.
+lang: en 
 weight: 1000
 isDraft: false
-ref: Andon-Single-Station-Overview
+ref: microsoft-dynamics-365
+image: Microsoft-Dynamics-365.png
+image_thumbnail: Microsoft-Dynamics-365_thumbnail.png
+download: Microsoft-Dynamics-365.pbmx
 category:
-  - Andon
-  - Produktion
-  - Einzelfertigung
-image: Uebersicht-einzelne-Arbeitsstationen-mit-Andon.png
-image_thumbnail: Uebersicht-einzelne-Arbeitsstationen-mit-Andon_thumbnail.png
-download: Uebersicht-einzelne-Arbeitsstationen-mit-Andon.pbmx
-overview_description:
-overview_benefits:
-overview_data_sources:
+  - Datasource
+  - CRM
+  - Microsoft
+screenshots:
+  - Microsoft-Dynamics-365_CN.png
+  - Microsoft-Dynamics-365_DE.png
+version_history:
+  - Version 1.0.1 on 20 June 2021 | Bug fix, something added
+  - Version 1.0.1 on 20 June 2021 | Initial release
 ---
