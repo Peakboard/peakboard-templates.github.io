@@ -159,10 +159,10 @@ language:
     cookie-box-change-preferences-section-statistics-explanation: "Statistik Cookies erfassen Informationen anonym. Diese Informationen helfen uns zu verstehen, wie unsere Besucher unsere Website nutzen."
     cookie-box-change-preferences-button-save: "Speichern"
     extensions-link-text-return-to-overview: "Gallery / Extensions"
-    extensions-link-text-download: "Download extension"
-    extensions-link-how-to: "https://help.peakboard.com/data_sources/Extension/en-ManageExtension.html"
+    extensions-link-text-download: "extension herunterladen"
+    extensions-link-how-to: "https://help.peakboard.com/data_sources/Extension/de-Extension.html"
     extensions-link-text-how-to: "How to install a Peakboard Extension"
-    extensions-section-description: "Description"
+    extensions-section-description: "Beschreibung"
     extensions-section-version-history: "Version History"
     extensions-section-screenshots: "Screenshots"
   cn:
