@@ -1,11 +1,35 @@
 @font-face {
-  font-family: 'Roboto Regular 400';
-  src: url("/assets/fonts/Roboto-Regular.ttf");
+  font-family: 'HelveticaDisplay';
+  src: url("/assets/fonts/HelveticaNowDisplayBold.otf");
   font-weight: 300;
 }
 
 @font-face {
-  font-family: 'Roboto Regular 700', sans-serif;
-  src: url("/assets/fonts/Roboto-Bold.ttf");
+  font-family: 'HelveticaDisplayBold', sans-serif;
+  src: url("/assets/fonts/HelveticaNowDisplayBold.otf");
   font-weight: 700;
+}
+
+@font-face {
+  font-family: 'HelveticaDisplayItalic', sans-serif;
+  src: url("/assets/fonts/HelveticaNowDisplayIt.otf");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'HelveticaNow';
+  src: url("/assets/fonts/HelveticaNowText.otf");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'HelveticaNowBold', sans-serif;
+  src: url("/assets/fonts/HelveticaNowTextBold.otf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'HelveticaNowItalic', sans-serif;
+  src: url("/assets/fonts/HelveticaNowTextIt.otf");
+  font-style: italic;
 }
