@@ -8,6 +8,7 @@ weight: 100
 isDraft: true
 ref: Corporate_Slide_Show
 category:
+  - All
   - Airport
   - Public Transport
   - API

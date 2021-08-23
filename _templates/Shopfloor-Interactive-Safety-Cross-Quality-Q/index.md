@@ -8,6 +8,7 @@ weight: 2000
 isDraft: false
 ref: Shopfloor-Interactive-Safety-Cross-Quality-Q
 category:
+  - Alle
   - Shopfloor
   - Interaktion
 image: Shopfloor-Interaktives-Sicherheitskreuz-Qualitaets-Q.png

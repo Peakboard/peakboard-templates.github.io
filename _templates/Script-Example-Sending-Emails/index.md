@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Email
 category:
+  - Alle
   - Script
   - Scripting
 image: Script_Email_EN.png

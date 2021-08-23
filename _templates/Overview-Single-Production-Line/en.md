@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: Overview-Of-Single-Production-Line
 category:
+  - All
   - Production
   - Serial Production
   - Car

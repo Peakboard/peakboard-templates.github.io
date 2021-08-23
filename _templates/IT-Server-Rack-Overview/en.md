@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: IT-Server-Rack-Overview
 category:
+  - All
   - Administration
   - IT data center
 image: IT-Server-Rack-Overview.png

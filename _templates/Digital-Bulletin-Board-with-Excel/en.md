@@ -8,6 +8,7 @@ weight: 1900
 isDraft: true
 ref: Digital-Bulletin-Board-with-Excel
 category:
+  - All
   - Administration
   - Reception
   - Bulletin Board

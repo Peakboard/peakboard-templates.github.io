@@ -8,6 +8,7 @@ weight: 1400
 isDraft: false
 ref: Edge-Lightgate-Counter-Retrofitting
 category:
+  - Alle
   - Interaktion
   - Edge
 image: Edge-Lightgate-Counter-Retrofitting.png

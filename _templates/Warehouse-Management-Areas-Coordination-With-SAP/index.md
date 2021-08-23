@@ -9,6 +9,7 @@ isDraft: false
 carousel: true
 ref: Warehouse-Management-Areas-Coordination-With-SAP
 category:
+  - Alle
   - Empfohlen
   - Logistik
   - Lean Management

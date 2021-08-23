@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Key_Inputs
 category:
+  - Alle
   - Script
   - Scripting
 image: Script_Key_Inputs_EN.png

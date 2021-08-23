@@ -8,6 +8,7 @@ weight: 2000
 isDraft: false
 ref: Predictive-Maintenance-Board
 category:
+  - All
   - Recommended
   - Maintenance
   - Production

@@ -8,6 +8,7 @@ weight: 650
 isDraft: true
 ref: Production_Count
 category:
+  - Alle
   - Zähler
   - Groß
   - Lebensmittel

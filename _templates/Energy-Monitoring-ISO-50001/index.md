@@ -9,6 +9,7 @@ weight: 2000
 isDraft: false
 ref: Energy-Monitoring-ISO-50001
 category:
+  - Alle
   - Produktion
   - Instandhaltung
   - Nachhaltigkeit

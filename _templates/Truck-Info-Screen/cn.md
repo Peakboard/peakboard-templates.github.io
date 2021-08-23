@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Truck_Info_Screen
 category:
+  - All
   - Logistics
   - Truck
 image: Truck_Info_Screen_EN.png

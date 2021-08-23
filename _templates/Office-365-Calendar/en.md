@@ -8,6 +8,7 @@ weight: 280
 isDraft: true
 ref: Office_365_Calendar
 category:
+  - All
   - Office
   - Calendar
   - Scripting

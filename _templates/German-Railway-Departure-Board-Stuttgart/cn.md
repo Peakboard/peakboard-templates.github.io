@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: German-Railway-Departure-Board-Stuttgart
 category:
+  - All
   - Traffic
   - Misc
 image: German-Railway-Departure-Board-Stuttgart.png

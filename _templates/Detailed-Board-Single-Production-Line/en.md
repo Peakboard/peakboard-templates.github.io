@@ -9,6 +9,7 @@ isDraft: false
 carousel: true
 ref: Detailed-Board-Single-Production-Line
 category:
+  - All
   - KPI
   - Lean Management
   - Process

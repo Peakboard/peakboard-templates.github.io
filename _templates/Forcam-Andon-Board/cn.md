@@ -8,6 +8,7 @@ weight: 1800
 isDraft: false
 ref: Forcam-Andon-Board
 category:
+  - All
   - Forcam
   - Production
   - Andon

@@ -10,6 +10,7 @@ isDraft: true
 ref: Reception-Screen-Microsoft-Office-Calendar
 carousel: false
 category:
+  - All
   - Administration
   - Reception
   - Calendar

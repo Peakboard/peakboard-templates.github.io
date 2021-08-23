@@ -8,6 +8,7 @@ weight: 2000
 isDraft: false
 ref: Overview-Several-Production-Lines
 category:
+  - All
   - Recommended
   - Production
   - KPI

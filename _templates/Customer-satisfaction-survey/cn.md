@@ -9,6 +9,7 @@ weight: 500
 isDraft: true
 ref: Customer_satisfaction_survey
 category:
+  - All
   - Interactive
   - Touch
   - Button

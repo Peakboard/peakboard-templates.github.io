@@ -8,6 +8,7 @@ weight: 2000
 isDraft: false
 ref: Edge-Barcode-Scanner-Info
 category:
+  - Alle
   - Interaktion
   - Edge
 image: Edge-Strichcode-Scanner-Metainformationen.png

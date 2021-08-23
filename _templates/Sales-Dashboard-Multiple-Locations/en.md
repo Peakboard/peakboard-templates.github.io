@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: Sales-Dashboard-Multiple-Locations
 category:
+  - All
   - Administration
   - KPI
   - Misc

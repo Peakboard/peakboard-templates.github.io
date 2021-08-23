@@ -8,6 +8,7 @@ weight: 100
 isDraft: true
 ref: Commodity_Prices
 category:
+  - All
   - Stocks
   - Price Overview
   - Trade

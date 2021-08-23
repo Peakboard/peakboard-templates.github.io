@@ -8,6 +8,7 @@ weight: 1600
 isDraft: false
 ref: Data-Center-Energy-Usage-And-Capacity-Overview
 category:
+  - All
   - Administration
   - IT data center
 image: Data-Center-Energy-Usage-And-Capacity-Overview_CN.png

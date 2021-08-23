@@ -8,6 +8,7 @@ weight: 2500
 isDraft: false
 ref: Operational-Logistics-Board
 category:
+  - All
   - Recommended
   - Logistics
   - Warehouse

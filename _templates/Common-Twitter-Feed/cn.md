@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Common_Twitter_Feed
 category:
+  - All
   - Twitter
   - Social Media
   - Feed

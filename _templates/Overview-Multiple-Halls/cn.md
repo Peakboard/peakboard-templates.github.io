@@ -8,6 +8,7 @@ weight: 1100
 isDraft: false
 ref: Overview-Multiple-Halls
 category:
+  - All
   - Production
   - Shopfloor
 image: Overview-Multiple-Halls_CN.png

@@ -8,6 +8,7 @@ weight: 600
 isDraft: false
 ref: Small-Parts-Picking
 category:
+  - Alle
   - Empfohlen
   - Logistik
   - Lean Management

@@ -12,7 +12,8 @@ ref: microsoft-dynamics-365
 image: Microsoft-Dynamics-365.png
 image_thumbnail: Microsoft-Dynamics-365_thumbnail.png
 download: Microsoft-Dynamics-365.pbmx
-category:
+extension_category:
+  - All
   - Datasource
   - CRM
   - Microsoft

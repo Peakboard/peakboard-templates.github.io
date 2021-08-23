@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: Overview-Production-Line-Status-And-Quality
 category:
+  - All
   - Recommended
   - Series Production
   - OEE

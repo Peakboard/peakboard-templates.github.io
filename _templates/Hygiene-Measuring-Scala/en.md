@@ -8,6 +8,7 @@ weight: 650
 isDraft: true
 ref: Measuring_Scala
 category:
+  - All
   - Food
   - Production
   - Hygiene

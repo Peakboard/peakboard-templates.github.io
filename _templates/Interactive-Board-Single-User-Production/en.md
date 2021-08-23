@@ -9,6 +9,7 @@ isDraft: false
 ref: Interactive-Board-For-Single-User-Production
 carousel: true
 category:
+  - All
   - Production
   - Individual Production
   - Interaction

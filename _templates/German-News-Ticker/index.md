@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: German_News_Tagesschau
 category:
+  - Alle
   - Nachrichten
   - Digital Signage
   - Öffentlich

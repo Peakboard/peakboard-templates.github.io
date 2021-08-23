@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: Overview-Of-Single-Production-Line
 category:
+  - Alle
   - Empfohlen
   - Produktion
   - OEE / GAE

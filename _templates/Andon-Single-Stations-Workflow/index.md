@@ -8,6 +8,7 @@ weight: 1600
 isDraft: false
 ref: Andon-Single-Stations-Workflow
 category:
+  - Alle
   - Andon
   - Produktion
   - Einzelfertigung

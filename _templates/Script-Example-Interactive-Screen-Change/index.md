@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Screen_Changer
 category:
+  - Alle
   - Script
   - Scripting
 image: Script_Screen_Changer_EN.png

@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Stuttgart_Subway_Plan
 category:
+  - Alle
 image: Abfahrtstafel-Haltestelle-Stuttgart.png
 image_thumbnail: Abfahrtstafel-Haltestelle-Stuttgart_thumbnail.png
 download: Abfahrtstafel-Haltestelle-Stuttgart.pbmx

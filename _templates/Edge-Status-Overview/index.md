@@ -8,6 +8,7 @@ weight: 2000
 isDraft: false
 ref: Edge-Status-Overview
 category:
+  - Alle
   - Edge
   - Interaktion
   - Einzelfertigung

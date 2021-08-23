@@ -8,6 +8,7 @@ weight: 1200
 isDraft: false
 ref: Open-Orders-Status-Overview
 category:
+  - All
   - Production
   - Interaction
   - Lean Management

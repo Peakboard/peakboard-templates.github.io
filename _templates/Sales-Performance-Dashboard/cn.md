@@ -8,6 +8,7 @@ weight: 500
 isDraft: false
 ref: Sales-Performance-Dashboard
 category:
+  - All
   - Administration
   - KPI
   - Misc

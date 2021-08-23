@@ -13,6 +13,7 @@ redirect_from:
   - /Edge-Lightgate-Mutliple-Counters/de
   - /Edge-Lightgate-Mutliple-Counters/de/
 category:
+  - Alle
   - Produktion
   - Edge
 image: Uebersicht-Abfuellanlagen-Zaehler-Edge.png

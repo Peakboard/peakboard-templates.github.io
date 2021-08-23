@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Change_Image
 category:
+  - Alle
   - Script
   - Scripting
 image: Script_Change_Image_EN.png

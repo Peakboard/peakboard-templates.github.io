@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Car_Status_Tesla
 category:
+  - All
   - Automobile
   - Mics
 image: Car_Status_Tesla_DE.png

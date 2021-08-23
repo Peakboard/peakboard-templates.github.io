@@ -8,6 +8,7 @@ weight: 290
 isDraft: true
 ref: Reception-Screen-Excel
 category:
+  - Alle
   - Administration
   - Empfang
   - Misc

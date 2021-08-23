@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Dialogs_and_Messages
 category:
+  - Alle
   - Script
   - Scripting
 image: Script_Dialogs_and_Messages_EN.png

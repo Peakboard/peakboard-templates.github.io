@@ -8,6 +8,7 @@ weight: 600
 isDraft: true
 ref: Doctors-office-patient-queue
 category:
+  - All
   - Administration
   - Reception
 image: Patient-organization-in-the-medical-practice.png

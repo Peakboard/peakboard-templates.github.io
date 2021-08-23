@@ -8,6 +8,7 @@ weight: 2200
 isDraft: false
 ref: Information-About-OEE-Several-Production-Lines-Andon
 category:
+  - All
   - Recommended
   - Production
   - Andon

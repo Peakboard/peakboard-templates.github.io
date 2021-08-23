@@ -8,6 +8,7 @@ weight: 2500
 isDraft: false
 ref: Strategic-Logistics-Board
 category:
+  - Alle
   - Empfohlen
   - Logistik
   - Lager

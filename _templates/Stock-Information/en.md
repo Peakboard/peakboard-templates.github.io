@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Stock_Information
 category:
+  - All
 image: Stock_Information_EN.png
 download: Stock_Information_EN.pbmx
 overview_description:

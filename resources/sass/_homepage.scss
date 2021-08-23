@@ -5,41 +5,6 @@
   background: url('/assets/images/homepage/peakboard_templates_background.jpg') repeat-x center;
 }
 
-.carousel {
-  border: 1.5px solid #c4c8d8;
-  margin-right: 0.6rem;
-}
-
-.carousel-text {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-
-.carousel-button {
-  background: #ffffff;
-  color: #fff;
-  width: 20px;
-  height: 20px;
-  line-height: 20px;
-  display: inline-block;
-  border-radius: 50%;
-  text-align: center;
-  text-decoration:none;
-  border: 2px solid #fff;
-  box-shadow: 0 0 0 2px #c4c8d8;
-
-  &--active {
-    background: #c4c8d8;
-  }
-
-  &:focus {
-    outline:none !important
-  }
-}
-
 .action-link {
   text-decoration: none;
   overflow-wrap: break-word;

@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Calculator
 category:
+  - Alle
   - Script
   - Scripting
   - Script-Example

@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Labor_Quality_Metrics
 category:
+  - Alle
   - Labor
   - Qualität
 image: Labor_Quality_Metrics_DE.png

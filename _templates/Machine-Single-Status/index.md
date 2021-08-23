@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Machine_Single_Status
 category:
+  - Alle
   - Status
   - Einzelmaschine
   - Warnung

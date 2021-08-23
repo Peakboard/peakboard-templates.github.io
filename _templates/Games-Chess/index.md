@@ -8,6 +8,7 @@ weight: 10
 isDraft: true
 ref: Games_Chess
 category:
+  - Alle
   - Games
 image: Games_Chess.png
 download: Games_Chess.pbmx

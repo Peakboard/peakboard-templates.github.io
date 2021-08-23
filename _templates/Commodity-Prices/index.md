@@ -8,6 +8,7 @@ weight: 100
 isDraft: true
 ref: Commodity_Prices
 category:
+  - Alle
   - Stocks
   - Aktien
   - Rohstoffe

@@ -9,6 +9,7 @@ isDraft: false
 ref: Multiple-Server-Metrics-Overview
 carousel: false
 category:
+  - All
   - Administration
   - IT Data Center
 image: Multiple-Server-Overview_CN.png

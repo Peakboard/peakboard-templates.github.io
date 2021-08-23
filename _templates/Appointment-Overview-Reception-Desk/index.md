@@ -8,6 +8,7 @@ weight: 1000
 isDraft: true
 ref: Appointment-Overview-Reception-Desk
 category:
+  - Alle
   - Empfohlen
   - Administration
   - Empfang

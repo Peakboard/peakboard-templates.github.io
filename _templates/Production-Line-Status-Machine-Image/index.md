@@ -8,6 +8,7 @@ weight: 2000
 isDraft: false
 ref: Production-Line-Status-Machine-Image
 category:
+  - Alle
   - Empfohlen
   - Produktion
   - Fehlermeldung

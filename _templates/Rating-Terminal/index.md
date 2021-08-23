@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Rating-Terminal
 category:
+  - Alle
   - Reception
   - Interaktion
   - Misc

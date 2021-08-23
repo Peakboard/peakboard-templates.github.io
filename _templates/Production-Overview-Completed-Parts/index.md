@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: Production-Overview-Completed-Parts
 category:
+  - Alle
   - Produktion
   - Lean Management
   - OEE / GAE

@@ -8,6 +8,7 @@ weight: 1700
 isDraft: false
 ref: Carployee-Carpooling-Dashboard
 category:
+  - Alle
   - Administration
   - Empfang
   - Schwarzes Brett

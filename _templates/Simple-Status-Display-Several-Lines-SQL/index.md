@@ -8,6 +8,7 @@ weight: 1900
 isDraft: false
 ref: Simple-Status-Display-Several-Lines-SQL
 category:
+  - Alle
   - Produktion
   - Lean Management
   - Einzelfertigung

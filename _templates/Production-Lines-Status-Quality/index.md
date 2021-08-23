@@ -8,6 +8,7 @@ weight: 1100
 isDraft: false
 ref: Production-Lines-Status-Quality
 category:
+  - Alle
   - Produktion
   - Shopfloor
   - Serienfertigung

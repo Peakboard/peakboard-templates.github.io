@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Line_Status_Andon
 category:
+  - All
   - Food
   - Andon
   - Production

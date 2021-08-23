@@ -8,6 +8,7 @@ weight: 2000
 isDraft: false
 ref: Shopfloor-Interactive-Safety-Cross-Quality-Q
 category:
+  - All
   - Shopfloor
   - Interaction
 image: Shopfloor-Interactive-Safety-Cross-Quality-Q_CN.png

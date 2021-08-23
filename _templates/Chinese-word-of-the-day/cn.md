@@ -9,6 +9,7 @@ weight: 10
 isDraft: true
 ref: Chinese_word_of_the_day
 category:
+  - All
   - Random
   - Quotes
   - Fun

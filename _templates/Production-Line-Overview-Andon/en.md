@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: Production-Line-Overview-Andon
 category:
+  - All
   - Recommended
   - Andon
   - Production

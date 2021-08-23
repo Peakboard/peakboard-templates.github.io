@@ -8,6 +8,7 @@ weight: 1000
 isDraft: true
 ref: Corporate-Digital-Signage-Canteen
 category:
+  - Alle
   - Administration
   - Empfang
   - Digital Signage

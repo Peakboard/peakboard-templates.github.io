@@ -10,6 +10,7 @@ isDraft: false
 ref: Multiple-Server-Metrics-Overview
 carousel: false
 category:
+  - Alle
   - Administration
   - IT-Rechenzentrum
 image: Ueberwachung-Verteilter-Server.png

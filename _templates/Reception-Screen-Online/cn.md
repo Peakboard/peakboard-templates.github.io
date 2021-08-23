@@ -8,6 +8,7 @@ weight: 300
 isDraft: true
 ref: Welcome_Screen_Online
 category:
+  - All
   - Administration
   - Reception
   - Misc

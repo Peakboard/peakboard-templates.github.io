@@ -22,8 +22,14 @@ layout: base
             <h2 class="text-2xl font-medium text-orange">by {{ page.by }}</h2>
             <div class="block w-full h-0 border-0.5 border-black my-4"></div>
             <div class="flex flex-row gap-x-4 mb-4">
-            {% for item in page.category %}
-                <div class="border border-gray-400 rounded-lg px-1 text-gray-400 text-sm">{{ item }}</div>
+            {% for item in page.extension_category %}
+                {% if item != 'All' and item != "Alle" %}
+                <div class="border border-gray-400 rounded-lg px-1 text-gray-400 text-sm">
+                    <a href="{{ site.url }}{% if page.lang == 'en' %}/en/{% endif %}{% if page.lang == 'cn' %}/cn/{% endif %}?menu%5Bextension_category%5D={{ item | downcase }}&fromArticle=true">
+                        {{ item }}
+                    </a>
+                </div>
+                {% endif %}
             {% endfor %}
             </div>
             <p class="font-extrabold mt-8 mb-2">{{ site.language[page.lang].extensions-section-description }}</p>

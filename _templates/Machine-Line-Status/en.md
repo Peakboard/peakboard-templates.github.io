@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Machine_Line_Status
 category:
+  - All
   - Status
   - Production
   - Machine

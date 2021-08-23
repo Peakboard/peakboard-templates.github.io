@@ -8,6 +8,7 @@ weight: 500
 isDraft: false
 ref: Control-Punching-Machine-Siemens-S7
 category:
+  - Alle
   - Produktion
   - Steuerung
   - Prozess

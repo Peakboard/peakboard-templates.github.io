@@ -8,6 +8,7 @@ weight: 1893
 isDraft: false
 ref: Detailed-Overview-Production-Line
 category:
+  - All
   - KPI
   - Lean Management
   - Process

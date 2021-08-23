@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Production_Status
 category:
+  - Alle
   - Production
 image: Production_Status_DE.png
 download: Production_Status_DE.pbmx

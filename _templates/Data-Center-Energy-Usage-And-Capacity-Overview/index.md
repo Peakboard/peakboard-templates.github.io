@@ -8,6 +8,7 @@ weight: 1600
 isDraft: false
 ref: Data-Center-Energy-Usage-And-Capacity-Overview
 category:
+  - Alle
   - Administration
   - IT-Rechenzentrum
 image: Rechenzentren-Uebersicht-Energieverbrauch.png

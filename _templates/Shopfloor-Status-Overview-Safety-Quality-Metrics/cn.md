@@ -8,6 +8,7 @@ weight: 2300
 isDraft: false
 ref: Shopfloor-Status-Overview-Safety-Quality-Metrics
 category:
+  - All
   - Shopfloor
   - Lean Management
   - Production

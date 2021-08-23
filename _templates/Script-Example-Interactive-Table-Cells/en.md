@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Cell_Tab
 category:
+  - All
   - Script
   - Scripting
 image: Script_Cell_Tab_EN.png

@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Overview-Production-Line
 category:
+  - All
   - Production
   - Lean Management
   - OEE

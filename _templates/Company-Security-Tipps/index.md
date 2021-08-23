@@ -8,6 +8,7 @@ weight: 2000
 isDraft: true
 ref: Company-Security-Tipps
 category:
+  - Alle
   - Shopfloor
 image: Strategisches-Logistik-Dashboard.png
 image_thumbnail: Strategisches-Logistik-Dashboard_thumbnail.png

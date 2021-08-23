@@ -9,6 +9,7 @@ isDraft: false
 ref: Simple-Andon-Board-Monitoring-Production-Steps
 carousel: false
 category:
+  - Alle
   - Empfohlen
   - Produktion
   - Andon

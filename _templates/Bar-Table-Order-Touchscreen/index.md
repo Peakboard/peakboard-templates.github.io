@@ -8,6 +8,7 @@ weight: 800
 isDraft: true
 ref: Bar-Table-Order-Touchscreen
 category:
+  - Alle
   - Interaktion
   - Sonstiges
 image: Bar-Table-Order-Touchscreen.png

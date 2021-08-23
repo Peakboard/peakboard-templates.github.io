@@ -8,6 +8,7 @@ weight: 210
 isDraft: true
 ref: Email_Shoutbox
 category:
+  - All
   - Scripting
 image: Email_Shoutbox_EN.png
 download: Email_Shoutbox_EN.pbmx

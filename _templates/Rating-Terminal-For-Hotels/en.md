@@ -8,6 +8,7 @@ weight: 1000
 isDraft: true
 ref: Rating-Terminal-For-Hotels
 category:
+  - All
   - Reception
   - Interaction
   - Misc

@@ -9,6 +9,7 @@ weight: 1823
 isDraft: false
 ref: Intralogistics-Receive-Orders-via-MQTT
 category:
+  - Alle
   - Logistik
   - Lager
 image: Intralogistik-Bestellungen-Empfangen-ueber-MQTT.png

@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Navigation_Menu
 category:
+  - All
   - Script
   - Scripting
 image: Script_Navigation_Menu_EN.png

@@ -8,6 +8,7 @@ weight: 1100
 isDraft: false
 ref: Overview-Multiple-Halls
 category:
+  - Alle
   - Produktion
   - Shopfloor
 image: Uebersicht-Mehrerer-Hallen.png

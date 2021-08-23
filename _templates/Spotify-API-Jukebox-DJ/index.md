@@ -8,6 +8,7 @@ weight: 1000
 isDraft: true
 ref: Spotify-API-Jukebox-DJ
 category:
+  - Alle
   - Sonstiges
 image: Spotify-API-Jukebox-DJ.png
 image_thumbnail: Spotify-API-Jukebox-DJ_thumbnail.png

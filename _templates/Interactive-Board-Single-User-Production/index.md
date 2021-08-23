@@ -9,6 +9,7 @@ isDraft: false
 ref: Interactive-Board-For-Single-User-Production
 carousel: true
 category:
+  - Alle
   - Produktion
   - Einzelfertigung
   - Interaktion

@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: Initial-Peakboard-Box-Screen
 category:
+  - All
   - Misc
 image: Initial-Peakboard-Box-Screen-CN.png
 image_thumbnail: Initial-Peakboard-Box-Screen-CN_thumbnail.png

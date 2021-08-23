@@ -8,6 +8,7 @@ weight: 650
 isDraft: true
 ref: Temperature_Visualization
 category:
+  - All
 image: Temperature_Visualization_EN.png
 download: Temperature_Visualization_EN.pbmx
 overview_description:

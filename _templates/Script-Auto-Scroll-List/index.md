@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script-Auto-Scroll-List
 category:
+  - Alle
   - Scripting
 image: Script-Auto-Scroll-List-en.png
 image_thumbnail: 

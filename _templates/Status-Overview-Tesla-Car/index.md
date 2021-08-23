@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Car_Status_Tesla
 category:
+  - Alle
   - Automobil
   - Sonstiges
 image: Car_Status_Tesla_DE.png

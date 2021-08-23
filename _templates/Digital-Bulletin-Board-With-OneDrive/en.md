@@ -8,6 +8,7 @@ weight: 1900
 isDraft: false
 ref: Digital-Bulletin-Board-With-OneDrive
 category:
+  - All
   - Administration
   - Reception
   - Bulletin Board

@@ -8,6 +8,7 @@ weight: 1500
 isDraft: false
 ref: Interactive-Task-Management-SQL
 category:
+  - All
   - Production
   - Lean Management
   - Interaction

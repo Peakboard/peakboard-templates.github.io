@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Timer_Text
 category:
+  - Alle
   - Script
   - Scripting
 image: Script_Timer_Text_EN.png

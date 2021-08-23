@@ -8,6 +8,7 @@ weight: 1000
 isDraft: true
 ref: Truck-Assignment
 category:
+  - Alle
   - Logistik
   - LKW
   - Verkehr

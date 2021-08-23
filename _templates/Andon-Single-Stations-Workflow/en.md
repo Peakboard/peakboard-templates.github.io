@@ -8,6 +8,7 @@ weight: 1600
 isDraft: false
 ref: Andon-Single-Stations-Workflow
 category:
+  - All
   - Andon
   - Production
   - Job Production

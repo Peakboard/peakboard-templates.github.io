@@ -8,6 +8,7 @@ weight: 200
 isDraft: false
 ref: Example_Write_into_SQL
 category:
+  - All
     - Scripting
 image: Example_Write_into_SQL_EN.png
 download: Example_Write_into_SQL_EN.pbmx

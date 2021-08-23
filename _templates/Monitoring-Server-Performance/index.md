@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: Monitoring-Server-Performance
 category:
+  - Alle
   - Empfohlen
   - Administration
   - IT-Rechenzentrum

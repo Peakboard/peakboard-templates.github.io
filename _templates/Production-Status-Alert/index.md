@@ -8,6 +8,7 @@ weight: 500
 isDraft: false
 ref: Production-Status-Alert
 category:
+  - Alle
   - Produktion
   - Serienfertigung
   - Automobil

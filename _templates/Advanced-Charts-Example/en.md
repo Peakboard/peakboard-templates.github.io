@@ -8,7 +8,8 @@ weight: 100
 isDraft: true
 ref: Advanced_Charts_Example
 category:
-  - Demostration
+  - All
+  - Demonstration
   - Example
   - Charts
 image: Advanced_Charts_Example_DE.png

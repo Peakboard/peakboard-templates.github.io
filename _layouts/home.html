@@ -5,68 +5,32 @@ layout: base
 {% include page_header.html lang_selector="home" %}
 
 {% include home_hero_banner.html %}
+
 <div class="max-w-3xl px-4 mx-auto my-12">
+    <div class="w-full px-4 sm:w-72 sm:px-0 mb-4 mx-auto">
+        <h2 class="font-extrabold text-4xl mb-2">Extensions<span class="text-orange">.</span></h2>
+        <div id="search-box">
+            <!-- SearchBox -->
+        </div>
+    </div>
     <div class="flex flex-wrap mb-4">
         <div class="w-full lg:w-1/4 px-2">
-            <div id="search-box">
-                <!-- SearchBox -->
+            <div class="mb-2 uppercase text-grey-dark">
+                {{ site.language[page.lang].homepage-menu-title-templates }}
             </div>
-            <div class="mt-6 mb-2 uppercase text-grey-dark">
-                {{ site.language[page.lang].homepage-menu-title-category }}
+            <div id="templates">
+                <!-- Templates -->
             </div>
-            <div id="categories">
-                <!-- Categories -->
+            <div class="hidden mt-6 mb-2 uppercase text-grey-dark">
+                {{ site.language[page.lang].homepage-menu-title-extensions }}
             </div>
-            {% if site.language[page.lang].homepage-visible-data-sources and site.language[page.lang].homepage-visible-data-sources.size != 0 %}
-                <div class="mt-6 mb-2 uppercase text-grey-dark">
-                    {{ site.language[page.lang].homepage-menu-title-data-sources }}
-                </div>
-                <div id="sources">
-                    <!-- Data sources -->
-                </div>
-            {% endif %}
+            <div id="extensions" class="hidden">
+                <!-- Extensions -->
+            </div>
             <div id="clear-refinements" class="hidden"></div>
         </div>
         <div class="w-full lg:w-3/4 px-2">
-            {% assign collections = site.collections | sort: 'position' %}
-
-            <div class="hidden lg:block">
-                <div id="carousel">
-                    <div class="carousel-container lg:block">
-                    {% assign amount_of_items = 0 %}
-                    {% for collection in collections %}
-                      {% if collection.label != "posts" %}
-                        {% assign articles = site[collection.label] | where:"lang",page.lang | where:"carousel","true" %}
-
-                        {% for article in articles %}
-                            {% assign amount_of_items = amount_of_items | plus: 1 %}
-                            <div class="carousel lg:h-64 mb-4 p-4">
-                                <div class="flex h-full">
-                                    <div class="w-full lg:w-1/2">
-                                        {% assign basePath = article.url | split: '/' %}
-                                        <a href="{{ article.url }}"><img src="/{{ basePath[1] }}/{{ article.image }}" alt="{{ article.title }}" class="max-h-full"></a>
-                                    </div>
-                                    <div class="w-full lg:w-1/2 h-full relative pl-4">
-                                        <div class="carousel-text pb-1">
-                                            <a href="{{ article.url }}" class="no-underline"><p class="text-left text-grey-dark">{{ article.title }}</p></a>
-                                            <p class="text-left my-2 truncate-overflow">{{ article.description }}</p>
-                                            <a href="{{ article.url }}" class="text-left action-link block"><span>{{ site.language[page.lang].homepage-carousel-button-text }}<i class="right-arrow"></i></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        {% endfor %}
-                      {% endif %}
-                    {% endfor %}
-                    </div>
-                    <div class="justify-center hidden lg:flex">
-                        {% for num in (1..amount_of_items) %}
-                            <button class="carousel-button {% if forloop.first %}carousel-button--active{% endif %} mr-2" data-id="{{ forloop.index0 }}"></button>
-                        {% endfor %}
-                    </div>
-                </div>
-            </div>
-            <div id="hits-container" class="flex mb-4 {% if amount_of_items != 0 %}mt-8{% endif %}">
+            <div id="hits-container" class="flex mb-4">
                 <div id="hits" class="w-full">
                     <!-- Hits -->
                 </div>
@@ -101,55 +65,14 @@ layout: base
     <!-- LANGUAGE -->
     <div id="search-box-text" class="invisible">{{ site.language[page.lang].search-bar-placeholder }}</div>
     <div id="language" class="invisible">{{ page.lang }}</div>
-    <div id="visible-categories" class="invisible">{{ site.language[page.lang].homepage-visible-categories | join: "," }}</div>
-    <div id="visible-data-sources" class="invisible">{{ site.language[page.lang].homepage-visible-data-sources | join: "," }}</div>
-    <div id="all-category" class="invisible">{{ site.language[page.lang].homepage-all-category }}</div>
-    <div id="featured-category" class="invisible">{{ site.language[page.lang].homepage-featured-category }}</div>
+    <div id="visible-templates" class="invisible">{{ site.language[page.lang].homepage-visible-templates | join: "," }}</div>
+    <div id="visible-extensions" class="invisible">{{ site.language[page.lang].homepage-visible-extensions | join: "," }}</div>
+    <div id="all-templates" class="invisible">{{ site.language[page.lang].homepage-all-templates }}</div>
+    <div id="all-extensions" class="invisible">{{ site.language[page.lang].homepage-all-extensions }}</div>
+    <div id="featured-templates" class="invisible">{{ site.language[page.lang].homepage-featured-templates }}</div>
     <!-- /LANGUAGE -->
 
     <script src="{{ '/assets/search/search.js' | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
     <script src="https://cdn.jsdelivr.net/npm/algoliasearch@3.33.0/dist/algoliasearchLite.min.js" integrity="sha256-3Laj91VXexjTlFLgL8+vvIq27laXdRmFIcO2miulgEs=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@3.4.0/dist/instantsearch.production.min.js" integrity="sha256-pM0n88cBFRHpSn0N26ETsQdwpA7WAXJDvkHeCLh3ujI=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/siema.min.js' | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
-    <script>
-        const carousel = new Siema({
-            selector: '.carousel-container',
-            duration: 400,
-            loop: true,
-            easing: 'ease-out',
-            perPage: 1,
-            startIndex: 0,
-            draggable: false,
-            multipleDrag: false,
-            threshold: 20,
-            rtl: false
-        });
-
-        var carouselTimerId = setInterval(function () {
-            var currentActiveButton = document.getElementsByClassName("carousel-button--active")[0];
-            var newActiveButton;
-
-            if(currentActiveButton.nextElementSibling) {
-                newActiveButton = currentActiveButton.nextElementSibling;
-            } else {
-                newActiveButton = currentActiveButton.parentNode.firstElementChild;
-            }
-
-            currentActiveButton.classList.remove("carousel-button--active");
-            newActiveButton.classList.add("carousel-button--active");
-
-            return carousel.next();
-        }, 4000);
-
-        var carouselClassName = document.getElementsByClassName("carousel-button");
-
-        for (var i = 0; i < carouselClassName.length; i++) {
-            carouselClassName[i].addEventListener('click', function(){
-                document.getElementsByClassName("carousel-button--active")[0].classList.remove("carousel-button--active");
-                carousel.goTo(this.getAttribute("data-id"));
-                this.classList.add("carousel-button--active");
-                clearInterval(carouselTimerId);
-            }, false);
-        }
-    </script>
 </div>

@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Round_Table
 category:
+  - Alle
   - Script
   - Scripting
 image: Script_Round_Table_EN.png

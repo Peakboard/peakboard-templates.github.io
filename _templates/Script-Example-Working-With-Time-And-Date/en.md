@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Working_with_Dates
 category:
+  - All
   - Script
   - Scripting
 image: Script_Working_with_Dates_EN.png

@@ -8,6 +8,7 @@ weight: 400
 isDraft: true
 ref: Warning-Message-In-Logistics
 category:
+  - All
   - Logistics
   - Warehouse
   - Error

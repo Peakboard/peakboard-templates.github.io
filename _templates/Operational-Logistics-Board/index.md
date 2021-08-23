@@ -8,6 +8,7 @@ weight: 2500
 isDraft: false
 ref: Operational-Logistics-Board
 category:
+  - Alle
   - Empfohlen
   - Logistik
   - Lager

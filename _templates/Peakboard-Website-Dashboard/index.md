@@ -8,6 +8,7 @@ weight: 1000
 isDraft: true
 ref: Peakboard-Website-Dashboard
 category:
+  - Alle
 image: Peakboard-Website-Dashboard_DE.png
 image_thumbnail: Peakboard-Website-Dashboard_DE_thumbnail.png
 download: Peakboard-Website-Dashboard_DE.pbmx

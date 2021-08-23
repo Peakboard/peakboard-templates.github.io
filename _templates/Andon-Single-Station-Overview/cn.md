@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: Andon-Single-Station-Overview
 category:
+  - All
   - Andon
   - Production
   - Job Production

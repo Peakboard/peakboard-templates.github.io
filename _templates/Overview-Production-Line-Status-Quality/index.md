@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: Overview-Production-Line-Status-And-Quality
 category:
+  - Alle
   - Empfohlen
   - Serienfertigung
   - OEE / GAE

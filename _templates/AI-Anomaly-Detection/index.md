@@ -8,6 +8,7 @@ weight: 1700
 isDraft: false
 ref: AI-Anomaly-Detection
 category:
+  - Alle
   - Produktion
   - Instandhaltung
 image: Anomalie-Erkennung-mit-KI.png

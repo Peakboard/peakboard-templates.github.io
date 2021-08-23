@@ -71,17 +71,9 @@ var main = {
                     input.addEventListener('input', function(event) {
                         refine(event.target.value);
 
-                        // make sure All is highlighted
-                        isAllCategory = true;
-                        isAllDataSources = true;
-
                         // reset filters
                         var reset = document.getElementById('clear');
                         reset.click();
-
-                        // add hidden to carousel class
-                        addClass(document.getElementById('carousel'), 'hidden');
-                        removeClass(document.getElementById('hits-container'), 'mt-8');
                     });
 
                     // set class and attributes for search input
@@ -148,13 +140,10 @@ var main = {
             }
         }));
 
-        var isAllCategory = true;
-        if(getUrlVars()["fromArticle"] !== undefined) {
-            isAllCategory = false;
-        }
-        var renderMenuCategory = instantsearch.connectors.connectMenu(function (_ref, isFirstRender) {
-            var items = _ref.items,
-                refine = _ref.refine,
+        var currentlySelected = getUrlVars()["menu%5Bcategory%5D"] ? decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]) : document.getElementById('all-templates').innerHTML;
+        var typeSelected = "template";
+        var renderMenuTemplates = instantsearch.connectors.connectMenu(function (_ref, isFirstRender) {
+            var refine = _ref.refine,
                 widgetParams = _ref.widgetParams;
 
             // make new array of objects
@@ -164,27 +153,35 @@ var main = {
             var itemsSimpleArray = widgetParams.itemsList.split(',');
 
             // obtain name for 'All' category, functioning as a reset
-            var allCategory = document.getElementById('all-category').innerHTML;
+            var allTemplates = document.getElementById('all-templates').innerHTML;
             // obtain name for 'Featured' category, functioning as a reset
-            var featuredCategory = document.getElementById('featured-category').innerHTML;
+            var featuredTemplates = document.getElementById('featured-templates').innerHTML;
+
+            var currentCategoryInUrl = decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]);
 
             // if value of url param 'menu[category]' does not exist in itemsSimpleArray, add it. (also check on Featured as it's added later too)
             // this is to add a category in case it doesn't originally exist in the category list, but it clicked on from an article.
             if (getUrlVars()["menu%5Bcategory%5D"] !== undefined
-                && itemsSimpleArray.indexOf(decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"])) === -1
-                && decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]) !== document.getElementById('featured-category').innerHTML) {
+                && itemsSimpleArray.indexOf(currentCategoryInUrl.toLowerCase()) === -1
+                && currentCategoryInUrl !== document.getElementById('featured-templates').innerHTML) {
 
-                itemsSimpleArray.push(decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]));
+                itemsSimpleArray.push(currentCategoryInUrl.toLowerCase());
+                currentlySelected = currentCategoryInUrl;
+            }
 
-                // in this case, isAllCategory should be changed to false too.
-                isAllCategory = false;
+            // initial search, templates=>all
+            var overrideIsSelected = false;
+            if(typeSelected === 'template' && currentlySelected === allTemplates) {
+                overrideIsSelected = true;
             }
 
             // iterate through list of items, making them into an object
             for (var i = 0; i < itemsSimpleArray.length; i++) {
                 itemsArray.push({
                     label: itemsSimpleArray[i],
-                    value: itemsSimpleArray[i]
+                    value: itemsSimpleArray[i],
+                    isSelected: (overrideIsSelected && itemsSimpleArray[i] === allTemplates) ||
+                        (currentlySelected === itemsSimpleArray[i] && typeSelected === 'template')
                 });
             }
 
@@ -192,33 +189,16 @@ var main = {
             itemsArray.sort(function (a, b) {
                 return a.label > b.label ? 1 : b.label > a.label ? -1 : 0;
             });
-
-            // push 'All' option, at the 1st position in the array.
-            itemsArray.splice(0, 0, {
-                label: allCategory,
-                value: allCategory
+            itemsArray.sort(function (a, b) {
+                return a.label === featuredTemplates ? -1 : b.label === featuredTemplates ? 1 : 0;
             });
-
-            // push 'Featured' option, at the 2nd position in the array.
-            itemsArray.splice(1, 0, {
-                label: featuredCategory,
-                value: featuredCategory
+            itemsArray.sort(function (a, b) {
+                return a.label === allTemplates ? -1 : b.label === allTemplates ? 1 : 0;
             });
 
             // build a list of elements
-            var list = itemsArray.map(function (_ref2) {
-                var staticLabel = _ref2.label,
-                    value = _ref2.value;
-
-                var _ref3 = items.find(function (_ref4) {
-                        var label = _ref4.label;
-                        return label === staticLabel;
-                    }) || {
-                        isRefined: false
-                    },
-                    isRefined = _ref3.isRefined;
-
-                return "<a class='ais-Menu-link " + (isRefined || (isAllCategory && staticLabel === allCategory) ? 'ais-Menu-link-active' : '') + "' href='#category=" + staticLabel + "' data-value='" + value + "'><span class='ais-Menu-label'>" + staticLabel + "</span> </a>";
+            var list = itemsArray.map(function (item) {
+                return "<a class='ais-Menu-link " + (item.isSelected ? 'ais-Menu-link-active' : '') + "' href='#category=" + item.label + "' data-value='" + item.value + "'><span class='ais-Menu-label'>" + item.label + "</span> </a>";
             });
 
             // define the container contents, including the list with actual menu items
@@ -230,41 +210,24 @@ var main = {
                     event.preventDefault();
 
                     // reset search if any
-                    document.getElementById('resetSearchBox').click();
+                    document.getElementById('clear').click();
 
-                    if (event.currentTarget.dataset.value === document.getElementById('all-category').innerHTML) {
-                        removeClass(document.getElementById('carousel'), 'hidden');
-                        addClass(document.getElementById('hits-container'), 'mt-8');
-                    } else {
-                        addClass(document.getElementById('carousel'), 'hidden');
-                        removeClass(document.getElementById('hits-container'), 'mt-8');
-                    }
-
-                    if(allCategory === event.currentTarget.dataset.value) {
-                        refine(' ');
-                        isAllCategory = true;
-                    } else {
-                        refine(event.currentTarget.dataset.value);
-                        isAllCategory = false;
-                    }
+                    // refine value and save it as selected
+                    currentlySelected = event.currentTarget.dataset.value;
+                    typeSelected = "template";
+                    refine(event.currentTarget.dataset.value);
                 });
             });
-
-            // if the first render is done AND there is no category already filtered, select Featured as default.
-            //if(isFirstRender && getUrlVars()["menu%5Bcategory%5D"] === undefined) {
-            //    // default selection
-            //    refine(document.getElementById('featured-category').innerHTML);
-            //}
         });
 
-        search.addWidgets([renderMenuCategory({
+        search.addWidgets([renderMenuTemplates({
             attribute: 'category',
-            container: document.getElementById('categories'),
-            itemsList: document.getElementById('visible-categories').innerHTML
+            container: document.getElementById('templates'),
+            itemsList: document.getElementById('visible-templates').innerHTML
         })]);
 
-        var isAllDataSources = false;
-        var renderMenuSources = instantsearch.connectors.connectMenu(function (_ref5, isFirstRender) {
+        currentlySelected = getUrlVars()["menu%5Bextension_category%5D"] ? decodeURIComponent(getUrlVars()["menu%5Bextension_category%5D"]) : document.getElementById('all-extensions').innerHTML;
+        var renderMenuExtensions = instantsearch.connectors.connectMenu(function (_ref5, isFirstRender) {
             var items = _ref5.items,
                 refine = _ref5.refine,
                 widgetParams = _ref5.widgetParams;
@@ -273,42 +236,41 @@ var main = {
             var itemsSimpleArray = widgetParams.itemsList.split(',');
             // make new array of objects
             var itemsArray = [];
-            // obtain name for 'All' category, functioning as a reset
-            var allCategory = document.getElementById('all-category').innerHTML;
+            // obtain name for 'All' extensions, functioning as a reset
+            var allExtensions = document.getElementById('all-extensions').innerHTML;
 
-            // push 'All' option, with empty value
-            itemsArray.push({
-                label: allCategory,
-                value: allCategory
-            });
+            var currentCategoryInUrl = decodeURIComponent(getUrlVars()["menu%5Bextension_category%5D"]);
 
-            // if value of url param 'menu[category]' does not exist in itemsSimpleArray, add it.
-            if(itemsSimpleArray.indexOf(getUrlVars()["menu[overview_data_sources]"]) !== -1) {
-                itemsSimpleArray.push(getUrlVars()["menu[overview_data_sources]"]);
+            // if value of url param 'menu[extension_category]' does not exist in itemsSimpleArray, add it. (also check on Featured as it's added later too)
+            // this is to add a category in case it doesn't originally exist in the category list, but it clicked on from an article.
+            if (getUrlVars()["menu%5Bextension_category%5D"] !== undefined
+                && itemsSimpleArray.indexOf(currentCategoryInUrl.toLowerCase()) === -1) {
+
+                typeSelected = 'extension';
+                itemsSimpleArray.push(currentCategoryInUrl.toLowerCase());
+                currentlySelected = currentCategoryInUrl;
             }
 
             // iterate through list of items, making them into an object
             for (var i = 0; i < itemsSimpleArray.length; i++) {
                 itemsArray.push({
                     label: itemsSimpleArray[i],
-                    value: itemsSimpleArray[i]
+                    value: itemsSimpleArray[i],
+                    isSelected: currentlySelected === itemsSimpleArray[i] && typeSelected === 'extension'
                 });
             }
 
+            // sort the itemsArray
+            itemsArray.sort(function (a, b) {
+                return a.label > b.label ? 1 : b.label > a.label ? -1 : 0;
+            });
+            itemsArray.sort(function (a, b) {
+                return a.label === allExtensions ? -1 : b.label === allExtensions ? 1 : 0;
+            });
+
             // build a list of elements
-            var list = itemsArray.map(function (_ref6) {
-                var staticLabel = _ref6.label,
-                    value = _ref6.value;
-
-                var _ref7 = items.find(function (_ref8) {
-                        var label = _ref8.label;
-                        return label === staticLabel;
-                    }) || {
-                        isRefined: false
-                    },
-                    isRefined = _ref7.isRefined;
-
-                return "<a class='ais-Menu-link " + (isRefined || (isAllDataSources && staticLabel === allCategory) ? 'ais-Menu-link-active' : '') + "' href='#category=" + staticLabel + "' data-value='" + value + "'><span class='ais-Menu-label'>" + staticLabel + "</span> </a>";
+            var list = itemsArray.map(function (item) {
+                return "<a class='ais-Menu-link " + (item.isSelected ? 'ais-Menu-link-active' : '') + "' href='#extension_category=" + item.label + "' data-value='" + item.value + "'><span class='ais-Menu-label'>" + item.label + "</span> </a>";
             });
 
             // define the container contents, including the list with actual menu items
@@ -320,25 +282,22 @@ var main = {
                     event.preventDefault();
 
                     // reset search if any
-                    document.getElementById('resetSearchBox').click();
+                    document.getElementById('clear').click();
 
-                    if(allCategory === event.currentTarget.dataset.value) {
-                        refine(' ');
-                        isAllDataSources = true;
-                    } else {
-                        refine(event.currentTarget.dataset.value);
-                        isAllDataSources = false;
-                    }
+                    // refine value and save it as selected
+                    currentlySelected = event.currentTarget.dataset.value;
+                    typeSelected = "extension";
+                    refine(event.currentTarget.dataset.value);
                 });
             });
         });
 
         // don't add the widget if there are no data sources.
-        if(document.getElementById('visible-data-sources').innerHTML !== "") {
-            search.addWidgets([renderMenuSources({
-                attribute: 'overview_data_sources',
-                container: document.getElementById('sources'),
-                itemsList: document.getElementById('visible-data-sources').innerHTML
+        if(document.getElementById('visible-extensions').innerHTML !== "") {
+            search.addWidgets([renderMenuExtensions({
+                attribute: 'extension_category',
+                container: document.getElementById('extensions'),
+                itemsList: document.getElementById('visible-extensions').innerHTML
             })]);
         }
 
@@ -364,21 +323,6 @@ var main = {
         search.addWidgets([customClearRefinements({
             container: document.querySelector('#clear-refinements')
         })]);
-
-        // if the featured category is within the url, we should show the carousel, otherwise, we shouldn't.
-        if (window.location.href.indexOf(document.getElementById('all-category').innerHTML) > -1) {
-            removeClass(document.getElementById('carousel'), 'hidden');
-            addClass(document.getElementById('hits-container'), 'mt-8');
-        } else if (getUrlVars()["fromArticle"]) {
-            addClass(document.getElementById('carousel'), 'hidden');
-            removeClass(document.getElementById('hits-container'), 'mt-8');
-        } else if (getUrlVars()["menu%5Bcategory%5D"] === undefined) {
-            removeClass(document.getElementById('carousel'), 'hidden');
-            addClass(document.getElementById('hits-container'), 'mt-8');
-        } else {
-            addClass(document.getElementById('carousel'), 'hidden');
-            removeClass(document.getElementById('hits-container'), 'mt-8');
-        }
 
         search.start();
     }

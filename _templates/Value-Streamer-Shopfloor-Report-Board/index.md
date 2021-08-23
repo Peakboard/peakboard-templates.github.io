@@ -8,6 +8,7 @@ weight: 2000
 isDraft: true
 ref: Value-Streamer-Shopfloor-Report-Board
 category:
+  - Alle
   - Shopfloor
 image: Strategisches-Logistik-Dashboard.png
 image_thumbnail: Strategisches-Logistik-Dashboard_thumbnail.png

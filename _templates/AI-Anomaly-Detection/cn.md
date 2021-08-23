@@ -8,6 +8,7 @@ weight: 1700
 isDraft: false
 ref: AI-Anomaly-Detection
 category:
+  - All
   - Production
   - Maintenance
 image: AI-Anomaly-Detection.png

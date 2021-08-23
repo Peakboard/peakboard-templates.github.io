@@ -8,6 +8,7 @@ weight: 500
 isDraft: true
 ref: Image_Slideshow
 category:
+  - All
 image: Image_Slideshow_EN.png
 image_thumbnail: Image_Slideshow_EN_thumbnail.png
 download: Image_Slideshow_EN.pbmx

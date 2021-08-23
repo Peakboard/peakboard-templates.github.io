@@ -8,6 +8,7 @@ weight: 1700
 isDraft: false
 ref: Carployee-Carpooling-Dashboard
 category:
+  - All
   - Administration
   - Reception
   - Bulletin Board

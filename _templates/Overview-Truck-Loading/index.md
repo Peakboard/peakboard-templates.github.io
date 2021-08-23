@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: Overview-Truck-Loading
 category:
+  - Alle
   - Logistik
   - Lager
   - Prozess

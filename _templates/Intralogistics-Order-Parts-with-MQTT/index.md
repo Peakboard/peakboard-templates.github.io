@@ -9,6 +9,7 @@ weight: 1824
 isDraft: false
 ref: Intralogistics-Order-Parts-with-MQTT
 category:
+  - Alle
   - Logistik
   - Lager
   - Interaktion

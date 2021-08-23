@@ -11,6 +11,7 @@ redirect_from:
   - /Edge-Lightgate-Mutliple-Counters/en
   - /Edge-Lightgate-Mutliple-Counters/en/
 category:
+  - All
   - Production
   - Edge
 image: Edge-Lightgate-Multiple-Counters.png

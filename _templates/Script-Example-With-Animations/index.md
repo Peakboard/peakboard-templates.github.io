@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Animate
 category:
+  - Alle
   - Scripting
 image: Script_Animate_EN.png
 download: Script_Animate_EN.pbmx

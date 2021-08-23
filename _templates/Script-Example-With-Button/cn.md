@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_Button_Example
 category:
+  - All
   - Script
   - Scripting
   - Script-Beispiel

@@ -8,6 +8,7 @@ weight: 500
 isDraft: false
 ref: Control-Punch-OPCA-UA
 category:
+  - Alle
   - Produktion
   - Steuerung
   - Prozess

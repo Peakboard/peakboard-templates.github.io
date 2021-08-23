@@ -9,6 +9,7 @@ weight: 1000
 isDraft: false
 ref: OKR-Team-Goals-Google-Spreadsheet
 category:
+  - Alle
   - Lean Management
   - KPI
   - OKR

@@ -8,6 +8,7 @@ weight: 1000
 isDraft: true
 ref: Departure-Times-Airport
 category:
+  - Alle
   - Verkehr
   - Sonstiges
 image: Abflugzeiten-Flughafen.png

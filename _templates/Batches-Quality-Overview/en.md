@@ -8,6 +8,7 @@ weight: 650
 isDraft: true
 ref: Batches_Quality
 category:
+  - All
   - Food
   - Production
   - Batches

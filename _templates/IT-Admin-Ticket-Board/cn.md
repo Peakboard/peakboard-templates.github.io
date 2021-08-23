@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: IT-Admin-Ticket-Board
 category:
+  - All
   - Administration
   - IT Tickets
   - IT

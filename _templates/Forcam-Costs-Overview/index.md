@@ -8,6 +8,7 @@ weight: 1800
 isDraft: false
 ref: Forcam-Costs-Overview
 category:
+  - Alle
   - Forcam
   - Produktion
 image: Forcam-Costs-Overview.png

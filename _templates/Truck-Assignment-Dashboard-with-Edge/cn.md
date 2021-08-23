@@ -8,6 +8,7 @@ weight: 1000
 isDraft: false
 ref: Truck-Assignment-with-Edge
 category:
+  - All
   - Logistics
   - Truck
   - Traffic

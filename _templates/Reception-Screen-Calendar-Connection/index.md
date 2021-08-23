@@ -9,6 +9,7 @@ isDraft: true
 ref: Reception-Screen-Microsoft-Office-Calendar
 carousel: false
 category:
+  - Alle
   - Administration
   - Empfang
   - Kalender

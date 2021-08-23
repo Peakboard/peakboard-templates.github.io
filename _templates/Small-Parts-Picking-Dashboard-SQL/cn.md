@@ -8,6 +8,7 @@ weight: 800
 isDraft: false
 ref: Small-Parts-Picking-SQL-Connection
 category:
+  - All
   - Logistics
   - Warehouse
   - Lean Management

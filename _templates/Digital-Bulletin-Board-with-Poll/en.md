@@ -8,6 +8,7 @@ weight: 2000
 isDraft: true
 ref: Digital-Bulletin-Board-with-Poll
 category:
+  - All
   - KPI
   - Lean Management
   - Process

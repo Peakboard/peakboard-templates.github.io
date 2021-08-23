@@ -8,6 +8,7 @@ weight: 50
 isDraft: false
 ref: Script_PDF_Viewer
 category:
+  - Alle
   - Script
   - Scripting
 image: Script_PDF_Viewer_EN.png
