@@ -25,6 +25,9 @@ collections:
   extensions:
     output: true
     permalink: /extensions/:path
+  templates:
+    output: true
+    permalink: /:path
 
 # Portions of text found throughout common components (like the footer) can be configured here for each language
 language:
