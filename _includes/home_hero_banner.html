@@ -21,12 +21,12 @@
             </svg>
 
             <div>
-                <h2 class="font-extrabold text-4xl mb-2">Templates<span class="text-orange">.</span></h2>
-                <p class="mb-8">Are you missing the inspiration you need? Our templates will help you get started with your Peakboard project. Simply download them for free and customize them according to your ideas.</p>
+                <h2 class="font-extrabold text-4xl mb-2">{{ site.language[page.lang].homepage-top-section-templates }}<span class="text-orange">.</span></h2>
+                <p class="mb-8">{{ site.language[page.lang].homepage-top-section-templates-text }}</p>
             </div>
 
             <button class="menu-cta-button block mx-auto my-6 py-3 px-16 tracking-base leading-none text-xl md:text-2xl">
-                <a class="no-underline text-white" href="{{ page.download }}">see all</a>
+                <a class="no-underline text-white" href="?menu%5Bcategory%5D={{ site.language[page.lang].homepage-all-templates }}">{{ site.language[page.lang].homepage-top-section-templates-button }}</a>
             </button>
         </div>
         <div class="mx-auto text-center flex flex-wrap content-around">
@@ -35,12 +35,17 @@
             </svg>
 
             <div>
-                <h2 class="font-extrabold text-4xl mb-2">Extensions<span class="text-orange">.</span></h2>
-                <p class="mb-8">Peakboard offers a wide range of interfaces for various data sources. If your data source is not yet included, our extensions will help you.</p>
+                <h2 class="font-extrabold text-4xl mb-2">{{ site.language[page.lang].homepage-top-section-extensions }}<span class="text-orange">.</span></h2>
+                <p class="mb-8">{{ site.language[page.lang].homepage-top-section-extensions-text }}</p>
             </div>
 
             <button class="menu-cta-button block mx-auto my-6 py-3 px-16 tracking-base leading-none text-xl md:text-2xl">
-                <a class="no-underline text-white" href="{{ page.download }}">coming soon</a><!-- see all -->
+                <!-- TODO: delete this button and remove hidden from real button below for launch -->
+                <a class="no-underline text-white" href="#">coming soon</a>
+            </button>
+
+            <button class="hidden menu-cta-button block mx-auto my-6 py-3 px-16 tracking-base leading-none text-xl md:text-2xl">
+                <a class="no-underline text-white" href="?menu%5Bextension_category%5D={{ site.language[page.lang].homepage-all-extensions }}">{{ site.language[page.lang].homepage-top-section-extensions-button }}</a>
             </button>
         </div>
     </div>

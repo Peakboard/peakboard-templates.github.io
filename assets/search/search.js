@@ -140,8 +140,10 @@ var main = {
             }
         }));
 
+
         var currentlySelected = getUrlVars()["menu%5Bcategory%5D"] ? decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]) : document.getElementById('all-templates').innerHTML;
         var typeSelected = "template";
+        var switched = false;
         var renderMenuTemplates = instantsearch.connectors.connectMenu(function (_ref, isFirstRender) {
             var refine = _ref.refine,
                 widgetParams = _ref.widgetParams;
@@ -159,6 +161,15 @@ var main = {
 
             var currentCategoryInUrl = decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]);
 
+            // set the type to template if there is an template selected initially when url loads or when type switches
+            if(getUrlVars()["menu%5Bcategory%5D"] !== undefined) {
+                typeSelected = "template";
+
+                // hide other header and show this one
+                document.getElementById('header-templates').classList.remove("hidden");
+                document.getElementById('header-extensions').classList.add("hidden");
+            }
+
             // if value of url param 'menu[category]' does not exist in itemsSimpleArray, add it. (also check on Featured as it's added later too)
             // this is to add a category in case it doesn't originally exist in the category list, but it clicked on from an article.
             if (getUrlVars()["menu%5Bcategory%5D"] !== undefined
@@ -169,19 +180,12 @@ var main = {
                 currentlySelected = currentCategoryInUrl;
             }
 
-            // initial search, templates=>all
-            var overrideIsSelected = false;
-            if(typeSelected === 'template' && currentlySelected === allTemplates) {
-                overrideIsSelected = true;
-            }
-
             // iterate through list of items, making them into an object
             for (var i = 0; i < itemsSimpleArray.length; i++) {
                 itemsArray.push({
                     label: itemsSimpleArray[i],
                     value: itemsSimpleArray[i],
-                    isSelected: (overrideIsSelected && itemsSimpleArray[i] === allTemplates) ||
-                        (currentlySelected === itemsSimpleArray[i] && typeSelected === 'template')
+                    isSelected: (currentlySelected === itemsSimpleArray[i] && typeSelected === 'template')
                 });
             }
 
@@ -207,10 +211,15 @@ var main = {
             // loop through all links and add a click event to each of them
             _toConsumableArray(widgetParams.container.querySelectorAll('a')).forEach(function (element) {
                 element.addEventListener('click', function (event) {
+
                     event.preventDefault();
 
                     // reset search if any
                     document.getElementById('clear').click();
+
+                    // hide other header and show this one
+                    document.getElementById('header-templates').classList.remove("hidden");
+                    document.getElementById('header-extensions').classList.add("hidden");
 
                     // refine value and save it as selected
                     currentlySelected = event.currentTarget.dataset.value;
@@ -226,7 +235,7 @@ var main = {
             itemsList: document.getElementById('visible-templates').innerHTML
         })]);
 
-        currentlySelected = getUrlVars()["menu%5Bextension_category%5D"] ? decodeURIComponent(getUrlVars()["menu%5Bextension_category%5D"]) : document.getElementById('all-extensions').innerHTML;
+        currentlySelected = getUrlVars()["menu%5Bextension_category%5D"] ? decodeURIComponent(getUrlVars()["menu%5Bextension_category%5D"]) : currentlySelected;
         var renderMenuExtensions = instantsearch.connectors.connectMenu(function (_ref5, isFirstRender) {
             var items = _ref5.items,
                 refine = _ref5.refine,
@@ -241,10 +250,23 @@ var main = {
 
             var currentCategoryInUrl = decodeURIComponent(getUrlVars()["menu%5Bextension_category%5D"]);
 
+            // set the type to extension if there is an extension selected initially when url loads
+            if(getUrlVars()["menu%5Bextension_category%5D"] !== undefined) {
+                typeSelected = "extension";
+
+                // hide other header and show this one
+                document.getElementById('header-templates').classList.add("hidden");
+                document.getElementById('header-extensions').classList.remove("hidden");
+            }
+
             // if value of url param 'menu[extension_category]' does not exist in itemsSimpleArray, add it. (also check on Featured as it's added later too)
             // this is to add a category in case it doesn't originally exist in the category list, but it clicked on from an article.
             if (getUrlVars()["menu%5Bextension_category%5D"] !== undefined
                 && itemsSimpleArray.indexOf(currentCategoryInUrl.toLowerCase()) === -1) {
+
+                // hide other header and show this one
+                document.getElementById('header-templates').classList.add("hidden");
+                document.getElementById('header-extensions').classList.remove("hidden");
 
                 typeSelected = 'extension';
                 itemsSimpleArray.push(currentCategoryInUrl.toLowerCase());
@@ -256,7 +278,7 @@ var main = {
                 itemsArray.push({
                     label: itemsSimpleArray[i],
                     value: itemsSimpleArray[i],
-                    isSelected: currentlySelected === itemsSimpleArray[i] && typeSelected === 'extension'
+                    isSelected: (currentlySelected === itemsSimpleArray[i] && typeSelected === 'extension')
                 });
             }
 
@@ -279,10 +301,15 @@ var main = {
             // loop through all links and add a click event to each of them
             _toConsumableArray(widgetParams.container.querySelectorAll('a')).forEach(function (element) {
                 element.addEventListener('click', function (event) {
+
                     event.preventDefault();
 
                     // reset search if any
                     document.getElementById('clear').click();
+
+                    // hide other header and show this one
+                    document.getElementById('header-templates').classList.add("hidden");
+                    document.getElementById('header-extensions').classList.remove("hidden");
 
                     // refine value and save it as selected
                     currentlySelected = event.currentTarget.dataset.value;
