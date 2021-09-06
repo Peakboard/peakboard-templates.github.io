@@ -125,8 +125,8 @@ language:
     homepage-featured-templates: "empfohlen"
     homepage-all-templates: "alle"
     homepage-all-extensions: "alle"
-    homepage-menu-title-templates: "Kategorien"
-    homepage-menu-title-extensions: "Datenquellen"
+    homepage-menu-title-templates: "Templates"
+    homepage-menu-title-extensions: "Extensions"
     homepage-visible-templates: ["alle","empfohlen","administration","andon","kpi","lean management","logistik","oee / gae","produktion","scripting","interaktion", "edge", "shopfloor"]
     homepage-visible-extensions: ["alle","crm"]
     top-menu-cta-button-text: "kostenlos starten!"
