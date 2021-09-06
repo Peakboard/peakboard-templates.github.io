@@ -57,7 +57,7 @@ language:
     homepage-visible-extensions: ["all","crm"]
     top-menu-cta-button-text: "get started for free!"
     top-menu-cta-button-url: "https://peakboard.com/en/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
-    page-top-overview-text: "template overview"
+    page-top-overview-text: "Gallery / Templates"
     footer-support: "support"
     footer-support-tel: "tel:"
     footer-support-email: "e-mail:"
@@ -131,7 +131,7 @@ language:
     homepage-visible-extensions: ["alle","crm"]
     top-menu-cta-button-text: "kostenlos starten!"
     top-menu-cta-button-url: "https://peakboard.com/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
-    page-top-overview-text: "template übersicht"
+    page-top-overview-text: "Gallery / Templates"
     footer-support: "support"
     footer-support-tel: "tel:"
     footer-support-email: "e-mail:"
@@ -205,7 +205,7 @@ language:
     homepage-visible-extensions: ["all","crm"]
     top-menu-cta-button-text: "马上开始"
     top-menu-cta-button-url: "https://peakboard.com/zh-hans/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
-    page-top-overview-text: "模板概览"
+    page-top-overview-text: "Gallery / Templates"
     footer-support: "技术支持"
     footer-support-tel: "电话："
     footer-support-email: "邮箱："
