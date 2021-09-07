@@ -12,7 +12,8 @@ ref: werma-smart-monitor
 image: Werma_Smart_Monitor_Extention_Logo.png
 image_thumbnail: Werma_Smart_Monitor_Extention_Logo_thumbnail.png
 download: PeakboardExtensionWerma.zip
-category:
+extension_category:
+  - All
   - Production
   - Shopfloor
 
