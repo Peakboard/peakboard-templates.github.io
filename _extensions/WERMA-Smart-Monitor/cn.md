@@ -1,11 +1,11 @@
 ---
 layout: extension
-title: WERMA Smart Monitor - Peakboard Extension
+title: Werma Smart Monitor - Peakboard Extension
 title_text: WERMA Smart Monitor
 by: Peakboard
 description: 
   - This extension enables easy access to Werma databases for the Peakboard designer.
-lang: en
+lang: cn
 weight: 1000
 isDraft: true
 ref: werma-smart-monitor
