@@ -4,7 +4,7 @@ title: Fritz Smart Home - Peakboard Extension
 title_text: Fritz Smart Home
 by: Peakboard
 description: 
-  - eakboard Extension for AVM Fritz Smart Home. This is an example for connection to Fritz thermostats.
+  - Peakboard Extension for AVM Fritz Smart Home. This is an example for connection to Fritz thermostats.
 lang: cn
 weight: 1000
 isDraft: true
