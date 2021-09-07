@@ -15,8 +15,7 @@ download: PeakboardExtensionWerma.zip
 category:
   - Production
   - Shopfloor
-screenshots:
 
 version_history:
-  - Version 1.0.0 on 05 June 2021 | Initial release
+  - Version 1.0 on 05 June 2021 | Initial release
 ---
