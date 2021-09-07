@@ -11,7 +11,7 @@ isDraft: true
 ref: fritz-smart-home
 image: Fritz_Smart_Home_Extention_Logo.png
 image_thumbnail: Fritz_Smart_Home_Extention_Logo_thumbnail.png
-download: PeakboardExtensionWerma.zip
+download: FritzSmartHomeExtension.zip
 extension_category:
   - Alle
 
