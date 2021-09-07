@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: Microsoft Dynamics 365 - Peakboard Extension
+title: Microsoft Dynamics 365 Test - Peakboard Extension
 title_text: Microsoft Dynamics 365
 by: Peakboard
 description: 
