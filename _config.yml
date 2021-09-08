@@ -197,8 +197,8 @@ language:
     homepage-top-section-extensions-button: "查看所有"
     homepage-carousel-button-text: "了解更多"
     homepage-featured-templates: "推荐"
-    homepage-all-templates: "全部"
-    homepage-all-extensions: "全部"
+    homepage-all-templates: "所有"
+    homepage-all-extensions: "所有"
     homepage-menu-title-templates: "类别"
     homepage-menu-title-extensions: "数据源"
     homepage-visible-templates: ["所有","推荐","行政管理","安东板","kpi","精益管理","仓储物流","oee","生产制造","编程脚本","人机交互", "edge设备", "车间一线"]
