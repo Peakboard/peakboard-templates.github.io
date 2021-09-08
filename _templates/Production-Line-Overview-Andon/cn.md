@@ -8,10 +8,10 @@ weight: 1000
 isDraft: false
 ref: Production-Line-Overview-Andon
 category:
-  - All
-  - Recommended
-  - Andon
-  - Production
+  - 所有
+  - 推荐
+  - 安东板
+  - 生产制造
   - OEE
   - KPI
   - Series Production

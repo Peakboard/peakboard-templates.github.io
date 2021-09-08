@@ -8,8 +8,8 @@ weight: 1000
 isDraft: false
 ref: IT-Server-Rack-Overview
 category:
-  - All
-  - Administration
+  - 所有
+  - 行政管理
   - IT data center
 image: IT-Server-Rack-Overview_CN.png
 image_thumbnail: IT-Server-Rack-Overview_CN_thumbnail.png

@@ -8,7 +8,7 @@ weight: 500
 isDraft: true
 ref: Welcome_with_APP_Example
 category:
-  - All
+  - 所有
 image: Welcome_with_APP_Example_EN.png
 download: Welcome_with_APP_Example_EN.pbmx
 overview_description:

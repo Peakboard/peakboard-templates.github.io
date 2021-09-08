@@ -8,9 +8,9 @@ weight: 50
 isDraft: false
 ref: Script_Timer_Text
 category:
-  - All
+  - 所有
   - Script
-  - Scripting
+  - 编程脚本
 image: Script_Timer_Text_EN.png
 download: Script_Timer_Text_EN.pbmx
 overview_description:

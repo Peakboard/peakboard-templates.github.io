@@ -8,8 +8,8 @@ weight: 500
 isDraft: false
 ref: Sales-Performance-Dashboard
 category:
-  - All
-  - Administration
+  - 所有
+  - 行政管理
   - KPI
   - Misc
 image: Sales-Performance-Dashboard_CN.png

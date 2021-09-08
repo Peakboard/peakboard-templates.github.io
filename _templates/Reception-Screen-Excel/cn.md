@@ -8,8 +8,8 @@ weight: 290
 isDraft: true
 ref: Reception-Screen-Excel
 category:
-  - All
-  - Administration
+  - 所有
+  - 行政管理
   - Reception
   - Misc
 image: Reception-Screen-Excel_CN.png

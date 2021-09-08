@@ -8,8 +8,8 @@ weight: 1000
 isDraft: true
 ref: Truck-Assignment
 category:
-  - All
-  - Logistics
+  - 所有
+  - 仓储物流
   - Truck
   - Traffic
 image: Truck-Assignment_CN.png

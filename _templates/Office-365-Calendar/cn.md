@@ -8,10 +8,10 @@ weight: 280
 isDraft: true
 ref: Office_365_Calendar
 category:
-  - All
+  - 所有
   - Office
   - Calendar
-  - Scripting
+  - 编程脚本
   - Example
 image: Office_365_Calendar_EN.png
 download: Office_365_Calendar_EN.pbmx

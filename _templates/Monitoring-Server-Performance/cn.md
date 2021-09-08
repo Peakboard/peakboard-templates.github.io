@@ -8,9 +8,9 @@ weight: 1000
 isDraft: false
 ref: Monitoring-Server-Performance
 category:
-  - All
-  - Recommended
-  - Administration
+  - 所有
+  - 推荐
+  - 行政管理
   - IT Data Center
 image: Monitoring-Server-Performance_CN.png
 image_thumbnail: Monitoring-Server-Performance_CN_thumbnail.png

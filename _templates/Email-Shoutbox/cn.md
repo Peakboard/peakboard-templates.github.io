@@ -8,8 +8,8 @@ weight: 210
 isDraft: true
 ref: Email_Shoutbox
 category:
-  - All
-  - Scripting
+  - 所有
+  - 编程脚本
 image: Email_Shoutbox_EN.png
 download: Email_Shoutbox_EN.pbmx
 overview_description:

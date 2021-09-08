@@ -8,10 +8,10 @@ weight: 2000
 isDraft: false
 ref: Predictive-Maintenance-Board
 category:
-  - All
-  - Recommended
+  - 所有
+  - 推荐
   - Maintenance
-  - Production
+  - 生产制造
   - Series Production
 image: Predictive-Maintenance-Board_CN.png
 image_thumbnail: Predictive-Maintenance-Board_CN_thumbnail.png

@@ -8,10 +8,10 @@ weight: 1700
 isDraft: false
 ref: Interactive-Task-Planning-With-SQL
 category:
-  - All
-  - Production
-  - Lean Management
-  - Interaction
+  - 所有
+  - 生产制造
+  - 精益管理
+  - 人机交互
   - Job Production
 image: Interactive-Task-Planning-With-SQL.png
 image_thumbnail: Interactive-Task-Planning-With-SQL_thumbnail.png

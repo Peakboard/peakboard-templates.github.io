@@ -8,10 +8,10 @@ weight: 800
 isDraft: false
 ref: Small-Parts-Picking-SQL-Connection
 category:
-  - All
-  - Logistics
+  - 所有
+  - 仓储物流
   - Warehouse
-  - Lean Management
+  - 精益管理
 image: Small-Parts-Picking-SQL-Connection_CN.png
 image_thumbnail: Small-Parts-Picking-SQL-Connection_CN_thumbnail.png
 download: Small-Parts-Picking-SQL-Connection_CN.pbmx

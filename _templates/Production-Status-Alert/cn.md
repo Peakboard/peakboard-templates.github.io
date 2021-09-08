@@ -8,8 +8,8 @@ weight: 500
 isDraft: false
 ref: Production-Status-Alert
 category:
-  - All
-  - Production
+  - 所有
+  - 生产制造
   - Alert
   - Status
   - Series Production

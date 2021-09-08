@@ -8,8 +8,8 @@ weight: 2000
 isDraft: false
 ref: Energy-Monitoring-ISO-50001
 category:
-  - All
-  - production
+  - 所有
+  - 生产制造
   - maintenance
   - sustainability
   - quality management

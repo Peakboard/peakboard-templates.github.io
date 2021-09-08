@@ -8,8 +8,8 @@ weight: 1000
 isDraft: false
 ref: Sales-Dashboard-Multiple-Locations
 category:
-  - All
-  - Administration
+  - 所有
+  - 行政管理
   - KPI
   - Misc
 image: Sales-Dashboard-Multiple-Locations_CN.png

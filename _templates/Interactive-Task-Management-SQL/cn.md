@@ -8,10 +8,10 @@ weight: 1500
 isDraft: false
 ref: Interactive-Task-Management-SQL
 category:
-  - All
-  - Production
-  - Lean Management
-  - Interaction
+  - 所有
+  - 生产制造
+  - 精益管理
+  - 人机交互
   - Job Production
 image: Interactive-Task-Management-SQL_CN.png
 image_thumbnail: Interactive-Task-Management-SQL_CN_thumbnail.png

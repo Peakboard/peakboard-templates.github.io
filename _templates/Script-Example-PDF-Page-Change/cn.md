@@ -8,9 +8,9 @@ weight: 50
 isDraft: false
 ref: Script_PDF_Viewer
 category:
-  - All
+  - 所有
   - Script
-  - Scripting
+  - 编程脚本
 image: Script_PDF_Viewer_EN.png
 download: Script_PDF_Viewer_EN.pbmx
 overview_description:

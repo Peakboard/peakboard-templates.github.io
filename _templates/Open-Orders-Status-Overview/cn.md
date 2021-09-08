@@ -8,10 +8,10 @@ weight: 1200
 isDraft: false
 ref: Open-Orders-Status-Overview
 category:
-  - All
-  - Production
-  - Interaction
-  - Lean Management
+  - 所有
+  - 生产制造
+  - 人机交互
+  - 精益管理
   - Job Production
 image: Open-Orders-Status-Overview_CN.png
 image_thumbnail: Open-Orders-Status-Overview_CN_thumbnail.png

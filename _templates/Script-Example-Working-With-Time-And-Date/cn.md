@@ -8,9 +8,9 @@ weight: 50
 isDraft: false
 ref: Script_Working_with_Dates
 category:
-  - All
+  - 所有
   - Script
-  - Scripting
+  - 编程脚本
 image: Script_Working_with_Dates_EN.png
 download: Script_Working_with_Dates_EN.pbmx
 overview_description:

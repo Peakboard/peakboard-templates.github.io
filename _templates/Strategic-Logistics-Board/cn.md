@@ -8,9 +8,9 @@ weight: 2500
 isDraft: false
 ref: Strategic-Logistics-Board
 category:
-  - All
-  - Recommended
-  - Logistics
+  - 所有
+  - 推荐
+  - 仓储物流
   - Warehouse
   - KPI
 image: Strategic-Logistics-Board_CN.png

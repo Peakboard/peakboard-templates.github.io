@@ -8,8 +8,8 @@ weight: 1900
 isDraft: false
 ref: Digital-Bulletin-Board-With-OneDrive
 category:
-  - All
-  - Administration
+  - 所有
+  - 行政管理
   - Reception
   - Bulletin Board
 image: Digital-Bulletin-Board-With-OneDrive_CN.png

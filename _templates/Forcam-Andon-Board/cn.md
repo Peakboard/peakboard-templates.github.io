@@ -8,10 +8,10 @@ weight: 1800
 isDraft: false
 ref: Forcam-Andon-Board
 category:
-  - All
+  - 所有
   - Forcam
-  - Production
-  - Andon
+  - 生产制造
+  - 安东板
   - OEE
 image: Forcam-Andon-Board_CN.png
 image_thumbnail: Forcam-Andon-Board_CN_thumbnail.png

@@ -8,11 +8,11 @@ weight: 1000
 isDraft: false
 ref: Truck-Assignment-with-Edge
 category:
-  - All
-  - Logistics
+  - 所有
+  - 仓储物流
   - Truck
   - Traffic
-  - Edge
+  - Edge设备
 image: Truck-Assignment-with-Edge_CN.png
 image_thumbnail: Truck-Assignment-with-Edge_CN_thumbnail.png
 download: Truck-Assignment-with-Edge_CN.pbmx

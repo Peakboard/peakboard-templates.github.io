@@ -8,12 +8,12 @@ weight: 1000
 isDraft: true
 ref: Fork_Lift_Truck_Screen
 category:
-  - All
-  - Logistics
+  - 所有
+  - 仓储物流
   - Truck
   - Gate
   - Fork-Lift
-  - Interactive
+  - 人机交互
 image: Fork_Lift_Truck_Screen_DE.png
 download: Fork_Lift_Truck_Screen_DE.pbmx
 overview_description:

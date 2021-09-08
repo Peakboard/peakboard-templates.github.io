@@ -8,9 +8,9 @@ weight: 1000
 isDraft: false
 ref: Andon-Single-Station-Overview
 category:
-  - All
-  - Andon
-  - Production
+  - 所有
+  - 安东板
+  - 生产制造
   - Job Production
 image: Andon-Single-Station-Overview_CN.png
 image_thumbnail: Andon-Single-Station-Overview_CN_thumbnail.png

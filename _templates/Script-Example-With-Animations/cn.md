@@ -8,8 +8,8 @@ weight: 50
 isDraft: false
 ref: Script_Animate
 category:
-  - All
-  - Scripting
+  - 所有
+  - 编程脚本
 image: Script_Animate_EN.png
 download: Script_Animate_EN.pbmx
 overview_description:

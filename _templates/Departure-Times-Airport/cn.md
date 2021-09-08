@@ -8,7 +8,7 @@ weight: 1000
 isDraft: true
 ref: Departure-Times-Airport
 category:
-  - All
+  - 所有
   - Traffic
   - Misc
 image: Departure-Times-Airport_CN.png

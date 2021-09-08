@@ -8,9 +8,9 @@ weight: 50
 isDraft: false
 ref: Script_Screen_Changer
 category:
-  - All
+  - 所有
   - Script
-  - Scripting
+  - 编程脚本
 image: Script_Screen_Changer_EN.png
 download: Script_Screen_Changer_EN.pbmx
 overview_description:

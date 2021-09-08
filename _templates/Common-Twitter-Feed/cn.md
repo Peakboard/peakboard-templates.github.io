@@ -8,7 +8,7 @@ weight: 500
 isDraft: true
 ref: Common_Twitter_Feed
 category:
-  - All
+  - 所有
   - Twitter
   - Social Media
   - Feed

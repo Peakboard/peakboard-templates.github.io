@@ -8,9 +8,9 @@ weight: 2000
 isDraft: false
 ref: Edge-Barcode-Scanner-Info
 category:
-  - All
-  - Interaction
-  - Edge
+  - 所有
+  - 人机交互
+  - Edge设备
 image: Edge-Barcode-Scanner-Info_CN.png
 image_thumbnail: Edge-Barcode-Scanner-Info_CN_thumbnail.png
 download: Edge-Barcode-Scanner-Info_CN.pbmx
