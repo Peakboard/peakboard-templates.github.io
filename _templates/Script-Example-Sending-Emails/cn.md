@@ -8,9 +8,9 @@ weight: 50
 isDraft: false
 ref: Script_Email
 category:
-  - All
+  - 所有
   - Script
-  - Scripting
+  - 编程脚本
 image: Script_Email_EN.png
 download: Script_Email_EN.pbmx
 overview_description:

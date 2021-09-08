@@ -8,8 +8,8 @@ weight: 500
 isDraft: false
 ref: Control-Punch-OPCA-UA
 category:
-  - All
-  - Production
+  - 所有
+  - 生产制造
   - Control
   - Process
 image: Control-Punch-OPCA-UA_CN.png

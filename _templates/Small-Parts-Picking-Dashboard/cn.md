@@ -8,10 +8,10 @@ weight: 600
 isDraft: false
 ref: Small-Parts-Picking
 category:
-  - All
-  - All  - Recommended
-  - Logistics
-  - Lean Management
+  - 所有
+  - 推荐
+  - 仓储物流
+  - 精益管理
   - Warehouse
 image: Small-Parts-Picking_CN.png
 image_thumbnail: Small-Parts-Picking_CN_thumbnail.png

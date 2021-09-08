@@ -10,10 +10,10 @@ isDraft: false
 carousel: true
 ref: Warehouse-Management-Areas-Coordination-With-SAP
 category:
-  - All
-  - Recommended
-  - Logistics
-  - Lean Management
+  - 所有
+  - 推荐
+  - 仓储物流
+  - 精益管理
   - Warehouse
 image: Warehouse-Management-Areas-Coordination-With-SAP.png
 image_thumbnail: Warehouse-Management-Areas-Coordination-With-SAP_thumbnail.png

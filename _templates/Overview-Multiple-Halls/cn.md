@@ -8,9 +8,9 @@ weight: 1100
 isDraft: false
 ref: Overview-Multiple-Halls
 category:
-  - All
-  - Production
-  - Shopfloor
+  - 所有
+  - 生产制造
+  - 车间一线
 image: Overview-Multiple-Halls_CN.png
 image_thumbnail: Overview-Multiple-Halls_CN_thumbnail.png
 download: Overview-Multiple-Halls_CN.pbmx

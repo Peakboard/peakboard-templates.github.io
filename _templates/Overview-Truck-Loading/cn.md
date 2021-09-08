@@ -8,8 +8,8 @@ weight: 1000
 isDraft: false
 ref: Overview-Truck-Loading
 category:
-  - All
-  - Logistics
+  - 所有
+  - 仓储物流
   - Warehouse
   - Process
   - Truck

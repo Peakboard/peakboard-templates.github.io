@@ -8,7 +8,7 @@ weight: 500
 isDraft: true
 ref: Current_time_in_spoken_words
 category:
-  - All
+  - 所有
   - Fun
 image: Current_time_in_spoken_words_DE.png
 download: Current_time_in_spoken_words_EN.pbmx

@@ -8,7 +8,7 @@ weight: 100
 isDraft: true
 ref: Commodity_Prices
 category:
-  - All
+  - 所有
   - Stocks
   - Price Overview
   - Trade

@@ -8,9 +8,9 @@ weight: 1000
 isDraft: true
 ref: Appointment-Overview-Reception-Desk
 category:
-  - All
-  - Recommended
-  - Administration
+  - 所有
+  - 推荐
+  - 行政管理
   - Reception
 image: Appointment-Overview-Reception-Desk_CN.png
 image_thumbnail: Appointment-Overview-Reception-Desk_CN_thumbnail.png

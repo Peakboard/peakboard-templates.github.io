@@ -8,7 +8,7 @@ weight: 1000
 isDraft: true
 ref: Peakboard-Website-Dashboard
 category:
-  - All
+  - 所有
 image: Peakboard-Website-Dashboard_CN.png
 image_thumbnail: Peakboard-Website-Dashboard_CN_thumbnail.png
 download: Peakboard-Website-Dashboard_CN.pbmx

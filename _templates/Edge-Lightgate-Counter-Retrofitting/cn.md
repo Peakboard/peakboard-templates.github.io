@@ -8,9 +8,9 @@ weight: 1400
 isDraft: false
 ref: Edge-Lightgate-Counter-Retrofitting
 category:
-  - All
-  - Interaction
-  - Edge
+  - 所有
+  - 人机交互
+  - Edge设备
 image: Edge-Lightgate-Counter-Retrofitting_CN.png
 image_thumbnail: Edge-Lightgate-Counter-Retrofitting_CN_thumbnail.png
 download: Edge-Lightgate-Counter-Retrofitting_CN.pbmx

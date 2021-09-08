@@ -8,9 +8,9 @@ weight: 1600
 isDraft: false
 ref: Andon-Single-Stations-Workflow
 category:
-  - All
-  - Andon
-  - Production
+  - 所有
+  - 安东板
+  - 生产制造
   - Job Production
 image: Andon-Single-Stations-Workflow_CN.png
 image_thumbnail: Andon-Single-Stations-Workflow_CN_thumbnail.png

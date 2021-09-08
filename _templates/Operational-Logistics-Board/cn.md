@@ -8,9 +8,9 @@ weight: 2500
 isDraft: false
 ref: Operational-Logistics-Board
 category:
-  - All
-  - Recommended
-  - Logistics
+  - 所有
+  - 推荐
+  - 仓储物流
   - Warehouse
 image: Operational-Logistics-Board_CN.png
 image_thumbnail: Operational-Logistics-Board_CN_thumbnail.png

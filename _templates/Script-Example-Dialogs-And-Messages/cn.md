@@ -8,9 +8,9 @@ weight: 50
 isDraft: false
 ref: Script_Dialogs_and_Messages
 category:
-  - All
+  - 所有
   - Script
-  - Scripting
+  - 编程脚本
 image: Script_Dialogs_and_Messages_EN.png
 download: Script_Dialogs_and_Messages_EN.pbmx
 overview_description:

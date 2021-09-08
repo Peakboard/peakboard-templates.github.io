@@ -8,7 +8,7 @@ weight: 500
 isDraft: true
 ref: German_News_Tagesschau
 category:
-  - All
+  - 所有
   - News
   - Digital Signage
   - Public

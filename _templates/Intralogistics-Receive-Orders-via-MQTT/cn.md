@@ -9,8 +9,8 @@ weight: 1823
 isDraft: false
 ref: Intralogistics-Receive-Orders-via-MQTT
 category:
-  - All
-  - Logistics
+  - 所有
+  - 仓储物流
   - Warehouse
 image: Intralogistics-Receive-Orders-via-MQTT.png
 image_thumbnail: Intralogistics-Receive-Orders-via-MQTT_thumbnail.png

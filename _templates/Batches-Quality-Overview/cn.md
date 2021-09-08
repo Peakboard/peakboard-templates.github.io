@@ -8,11 +8,10 @@ weight: 650
 isDraft: true
 ref: Batches_Quality
 category:
-  - All
+  - 所有
   - Food
-  - Production
+  - 生产制造
   - Batches
-  - Production
 image: Batches_Quality_EN.png
 download: Batches_Quality_EN.pbmx
 overview_description:

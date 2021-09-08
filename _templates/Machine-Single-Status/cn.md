@@ -8,7 +8,7 @@ weight: 500
 isDraft: true
 ref: Machine_Single_Status
 category:
-  - All
+  - 所有
   - Status
   - Single Machine
   - Warning

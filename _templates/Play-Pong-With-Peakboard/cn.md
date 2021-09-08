@@ -8,7 +8,7 @@ weight: 200
 isDraft: false
 ref: Play-Pong-With-Peakboard
 category:
-  - All
+  - 所有
   - Misc
 image: Play-Pong-With-Peakboard.png
 download: Play-Pong-With-Peakboard.pbmx

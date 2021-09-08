@@ -8,7 +8,7 @@ weight: 500
 isDraft: true
 ref: Image_Slideshow
 category:
-  - All
+  - 所有
 image: Image_Slideshow_EN.png
 image_thumbnail: Image_Slideshow_EN_thumbnail.png
 download: Image_Slideshow_EN.pbmx

@@ -8,8 +8,8 @@ weight: 1700
 isDraft: false
 ref: AI-Anomaly-Detection
 category:
-  - All
-  - Production
+  - 所有
+  - 生产制造
   - Maintenance
 image: AI-Anomaly-Detection.png
 image_thumbnail: AI-Anomaly-Detection_thumbnail.png

@@ -8,9 +8,9 @@ weight: 500
 isDraft: true
 ref: Machine_Line_Status
 category:
-  - All
+  - 所有
   - Status
-  - Production
+  - 生产制造
   - Machine
   - Error
   - Problem

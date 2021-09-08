@@ -8,8 +8,8 @@ weight: 1700
 isDraft: false
 ref: Carployee-Carpooling-Dashboard
 category:
-  - All
-  - Administration
+  - 所有
+  - 行政管理
   - Reception
   - Bulletin Board
   - sustainability

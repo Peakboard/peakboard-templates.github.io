@@ -9,12 +9,12 @@ isDraft: false
 carousel: true
 ref: Detailed-Board-Single-Production-Line
 category:
-  - All
+  - 所有
   - KPI
-  - Lean Management
+  - 精益管理
   - Process
-  - Production
-  - Shopfloor
+  - 生产制造
+  - 车间一线
   - Series Production
 image: Detailed-Board-Single-Production-Line_CN.png
 image_thumbnail: Detailed-Board-Single-Production-Line_CN_thumbnail.png

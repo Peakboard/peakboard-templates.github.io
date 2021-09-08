@@ -8,8 +8,8 @@ weight: 1600
 isDraft: false
 ref: Data-Center-Energy-Usage-And-Capacity-Overview
 category:
-  - All
-  - Administration
+  - 所有
+  - 行政管理
   - IT data center
 image: Data-Center-Energy-Usage-And-Capacity-Overview_CN.png
 image_thumbnail: Data-Center-Energy-Usage-And-Capacity-Overview_CN_thumbnail.png

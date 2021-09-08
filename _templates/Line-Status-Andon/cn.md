@@ -8,10 +8,10 @@ weight: 500
 isDraft: true
 ref: Line_Status_Andon
 category:
-  - All
+  - 所有
   - Food
-  - Andon
-  - Production
+  - 安东板
+  - 生产制造
   - Status
 image: Line_Status_Andon_EN.png
 download: Line_Status_Andon_EN.pbmx

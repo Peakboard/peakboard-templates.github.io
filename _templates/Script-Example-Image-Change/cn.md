@@ -8,9 +8,9 @@ weight: 50
 isDraft: false
 ref: Script_Change_Image
 category:
-  - All
+  - 所有
   - Script
-  - Scripting
+  - 编程脚本
 image: Script_Change_Image_EN.png
 download: Script_Change_Image_EN.pbmx
 overview_description:

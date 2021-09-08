@@ -8,9 +8,9 @@ weight: 50
 isDraft: false
 ref: Script_Navigation_Menu
 category:
-  - All
+  - 所有
   - Script
-  - Scripting
+  - 编程脚本
 image: Script_Navigation_Menu_EN.png
 download: Script_Navigation_Menu_EN.pbmx
 overview_description:

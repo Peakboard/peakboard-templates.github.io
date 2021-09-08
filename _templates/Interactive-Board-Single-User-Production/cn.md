@@ -9,11 +9,11 @@ isDraft: false
 ref: Interactive-Board-For-Single-User-Production
 carousel: true
 category:
-  - All
-  - Production
+  - 所有
+  - 生产制造
   - Individual Production
-  - Interaction
-  - Andon
+  - 人机交互
+  - 安东板
   - Job Production
 image: Interactive-Board-For-Single-User-Production_CN.png
 image_thumbnail: Interactive-Board-For-Single-User-Production_CN_thumbnail.png
