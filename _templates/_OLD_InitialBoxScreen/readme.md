@@ -9,3 +9,4 @@ Initial Welcome Screen Peakboard Box
 
 ![](InitialBoxScreen-EN.png)
 [Download Template](InitialBoxScreen-EN.pbmx?raw=true)
+
