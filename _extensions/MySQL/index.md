@@ -4,7 +4,7 @@ title: MySQL - Peakboard Extension
 title_text: MySQL
 by: Peakboard
 description: 
-  - This extension enables easy access to MySQL databases for the Peakboard Designer.
+  - Diese Erweiterung ermöglicht den einfachen Zugriff auf MySQL-Datenbanken für den Peakboard Designer.
 lang: de
 weight: 1000
 isDraft: true
