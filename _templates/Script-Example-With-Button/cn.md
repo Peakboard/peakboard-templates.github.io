@@ -8,9 +8,9 @@ weight: 50
 isDraft: false
 ref: Script_Button_Example
 category:
-  - All
+  - 所有
   - Script
-  - Scripting
+  - 编程脚本
   - Script-Beispiel
   - Button
 image: Script_Button_Example_EN.png

@@ -8,9 +8,9 @@ weight: 2000
 isDraft: false
 ref: Shopfloor-Interactive-Safety-Cross-Quality-Q
 category:
-  - All
-  - Shopfloor
-  - Interaction
+  - 所有
+  - 车间一线
+  - 人机交互
 image: Shopfloor-Interactive-Safety-Cross-Quality-Q_CN.png
 image_thumbnail: Shopfloor-Interactive-Safety-Cross-Quality-Q_CN_thumbnail.png
 download: Shopfloor-Interactive-Safety-Cross-Quality-Q_CN.pbmx

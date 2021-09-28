@@ -8,7 +8,7 @@ weight: 500
 isDraft: true
 ref: Labor_Quality_Metrics
 category:
-  - All
+  - 所有
   - Labor
   - Quality
 image: Labor_Quality_Metrics_DE.png

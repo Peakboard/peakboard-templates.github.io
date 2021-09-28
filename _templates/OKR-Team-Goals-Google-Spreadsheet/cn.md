@@ -8,8 +8,8 @@ weight: 1000
 isDraft: false
 ref: OKR-Team-Goals-Google-Spreadsheet
 category:
-  - All
-  - Lean Management
+  - 所有
+  - 精益管理
   - KPI
   - OKR
 image: OKR-Team-Goals-Google-Spreadsheet_CN.png

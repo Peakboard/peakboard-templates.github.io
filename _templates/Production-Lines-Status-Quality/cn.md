@@ -8,9 +8,9 @@ weight: 1100
 isDraft: false
 ref: Production-Lines-Status-Quality
 category:
-  - All
-  - Production
-  - Shopfloor
+  - 所有
+  - 生产制造
+  - 车间一线
   - Series Production
 image: Production-Lines-Status-Quality_CN.png
 image_thumbnail: Production-Lines-Status-Quality_CN_thumbnail.png

@@ -9,8 +9,8 @@ weight: 500
 isDraft: true
 ref: Customer_satisfaction_survey
 category:
-  - All
-  - Interactive
+  - 所有
+  - 人机交互
   - Touch
   - Button
 image: Customer_satisfaction_survey_EN.png

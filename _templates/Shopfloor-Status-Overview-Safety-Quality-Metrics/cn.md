@@ -8,10 +8,10 @@ weight: 2300
 isDraft: false
 ref: Shopfloor-Status-Overview-Safety-Quality-Metrics
 category:
-  - All
-  - Shopfloor
-  - Lean Management
-  - Production
+  - 所有
+  - 车间一线
+  - 精益管理
+  - 生产制造
 image: Shopfloor-Status-Overview-Safety-Quality-Metrics_CN.png
 image_thumbnail: Shopfloor-Status-Overview-Safety-Quality-Metrics_CN_thumbnail.png
 download: Shopfloor-Status-Overview-Safety-Quality-Metrics_CN.pbmx

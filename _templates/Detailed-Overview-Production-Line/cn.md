@@ -8,11 +8,11 @@ weight: 2000
 isDraft: false
 ref: Detailed-Overview-Production-Line
 category:
-  - All
+  - 所有
   - KPI
-  - Lean Management
+  - 精益管理
   - Process
-  - Production
+  - 生产制造
   - Series Production
 image: Detailed-Overview-Production-Line_CN.png
 image_thumbnail: Detailed-Overview-Production-Line_CN_thumbnail.png

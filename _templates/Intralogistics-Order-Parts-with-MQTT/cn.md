@@ -9,10 +9,10 @@ weight: 1824
 isDraft: false
 ref: Intralogistics-Order-Parts-with-MQTT
 category:
-  - All
-  - Logistics
+  - 所有
+  - 仓储物流
   - Warehouse
-  - Interactive
+  - 人机交互
 image: Intralogistics-Order-Parts-with-MQTT.png
 image_thumbnail: Intralogistics-Order-Parts-with-MQTT_thumbnail.png
 download: Intralogistics-Order-Parts-with-MQTT_CN.pbmx

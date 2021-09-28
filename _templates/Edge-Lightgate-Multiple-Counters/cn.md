@@ -11,9 +11,9 @@ redirect_from:
   - /Edge-Lightgate-Mutliple-Counters/cn
   - /Edge-Lightgate-Mutliple-Counters/cn/
 category:
-  - All
-  - Interaction
-  - Edge
+  - 所有
+  - 人机交互
+  - Edge设备
 image: Edge-Lightgate-Multiple-Counters_CN.png
 image_thumbnail: Edge-Lightgate-Multiple-Counters_CN_thumbnail.png
 download: Edge-Lightgate-Multiple-Counters_CN.pbmx

@@ -8,8 +8,8 @@ weight: 200
 isDraft: false
 ref: Example_Write_into_SQL
 category:
-  - All
-    - Scripting
+  - 所有
+  - 编程脚本
 image: Example_Write_into_SQL_EN.png
 download: Example_Write_into_SQL_EN.pbmx
 overview_description:

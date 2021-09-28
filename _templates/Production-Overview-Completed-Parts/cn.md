@@ -8,9 +8,9 @@ weight: 1000
 isDraft: false
 ref: Production-Overview-Completed-Parts
 category:
-  - All
-  - Production
-  - Lean Management
+  - 所有
+  - 生产制造
+  - 精益管理
   - OEE
   - Series Production
 image: Production-Overview-Completed-Parts_CN.png

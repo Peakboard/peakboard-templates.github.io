@@ -8,8 +8,8 @@ weight: 800
 isDraft: true
 ref: Bar-Table-Order-Touchscreen
 category:
-  - All
-  - Interaction
+  - 所有
+  - 人机交互
   - Misc
 image: Bar-Table-Order-Touchscreen_CN.png
 image_thumbnail: Bar-Table-Order-Touchscreen_CN_thumbnail.png

@@ -8,9 +8,9 @@ weight: 2000
 isDraft: false
 ref: Production-Line-Status-Machine-Image
 category:
-  - All
-  - Recommended
-  - Production
+  - 所有
+  - 推荐
+  - 生产制造
   - Error
   - Serial Production
   - Process

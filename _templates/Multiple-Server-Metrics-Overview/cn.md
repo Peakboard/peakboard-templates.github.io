@@ -9,8 +9,8 @@ isDraft: false
 ref: Multiple-Server-Metrics-Overview
 carousel: false
 category:
-  - All
-  - Administration
+  - 所有
+  - 行政管理
   - IT Data Center
 image: Multiple-Server-Overview_CN.png
 image_thumbnail: Multiple-Server-Overview_CN_thumbnail.png

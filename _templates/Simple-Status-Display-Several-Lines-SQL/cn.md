@@ -8,9 +8,9 @@ weight: 1900
 isDraft: false
 ref: Simple-Status-Display-Several-Lines-SQL
 category:
-  - All
-  - Production
-  - Lean Management
+  - 所有
+  - 生产制造
+  - 精益管理
   - Job Production
 image: Simple-Status-Display-Several-Lines-SQL_CN.png
 image_thumbnail: Simple-Status-Display-Several-Lines-SQL_CN_thumbnail.png

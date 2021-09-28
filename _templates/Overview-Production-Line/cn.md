@@ -8,9 +8,9 @@ weight: 500
 isDraft: true
 ref: Overview-Production-Line
 category:
-  - All
-  - Production
-  - Lean Management
+  - 所有
+  - 生产制造
+  - 精益管理
   - OEE
   - Series Production
 image: Overview-Production-Line_CN.png

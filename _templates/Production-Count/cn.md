@@ -8,7 +8,7 @@ weight: 650
 isDraft: true
 ref: Production_Count
 category:
-  - All
+  - 所有
   - Count
   - Large
   - Food

@@ -8,8 +8,8 @@ weight: 500
 isDraft: true
 ref: Production_Status
 category:
-  - All
-  - Production
+  - 所有
+  - 生产制造
 image: Production_Status_DE.png
 download: Production_Status_DE.pbmx
 overview_description:

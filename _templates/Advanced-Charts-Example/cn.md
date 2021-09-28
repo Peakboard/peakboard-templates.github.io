@@ -8,7 +8,7 @@ weight: 100
 isDraft: true
 ref: Advanced_Charts_Example
 category:
-  - All
+  - 所有
   - Demonstration
   - Example
   - Charts

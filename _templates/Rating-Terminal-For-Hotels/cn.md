@@ -8,9 +8,9 @@ weight: 1000
 isDraft: true
 ref: Rating-Terminal-For-Hotels
 category:
-  - All
+  - 所有
   - Reception
-  - Interaction
+  - 人机交互
   - Misc
 image: Rating-Terminal-For-Hotel_CN.png
 image_thumbnail: Rating-Terminal-For-Hotel_CN_thumbnail.png

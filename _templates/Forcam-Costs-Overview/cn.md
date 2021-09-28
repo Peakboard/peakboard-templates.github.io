@@ -8,9 +8,9 @@ weight: 1800
 isDraft: false
 ref: Forcam-Costs-Overview
 category:
-  - All
+  - 所有
   - Forcam
-  - Production
+  - 生产制造
 image: Forcam-Costs-Overview_CN.png
 image_thumbnail: Forcam-Costs-Overview_CN_thumbnail.png
 download: Forcam-Costs-Overview_CN.pbmx

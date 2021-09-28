@@ -8,8 +8,8 @@ weight: 1000
 isDraft: false
 ref: IT-Admin-Ticket-Board
 category:
-  - All
-  - Administration
+  - 所有
+  - 行政管理
   - IT Tickets
   - IT
 image: IIT-Admin-Ticket-Board_CN.png

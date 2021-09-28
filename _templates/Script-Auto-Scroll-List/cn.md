@@ -8,8 +8,8 @@ weight: 50
 isDraft: false
 ref: Script-Auto-Scroll-List
 category:
-  - All
-  - Scripting
+  - 所有
+  - 编程脚本
 image: Script-Auto-Scroll-List-en.png
 image_thumbnail: 
 download: Script-Auto-Scroll-List-en.pbmx

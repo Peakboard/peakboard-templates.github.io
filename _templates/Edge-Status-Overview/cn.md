@@ -8,9 +8,9 @@ weight: 2000
 isDraft: false
 ref: Edge-Status-Overview
 category:
-  - All
-  - Edge
-  - Interaction
+  - 所有
+  - Edge设备
+  - 人机交互
   - Job Production
 image: Edge-Status-Overview_CN.png
 image_thumbnail: Edge-Status-Overview_CN_thumbnail.png

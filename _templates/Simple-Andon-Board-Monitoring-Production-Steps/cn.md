@@ -9,10 +9,10 @@ isDraft: false
 ref: Simple-Andon-Board-Monitoring-Production-Steps
 carousel: false
 category:
-  - All
-  - Recommended
-  - Production
-  - Andon
+  - 所有
+  - 推荐
+  - 生产制造
+  - 安东板
   - Alert
   - Process
 image: Simple-Andon-Board-Monitoring-Production-Steps_CN.png

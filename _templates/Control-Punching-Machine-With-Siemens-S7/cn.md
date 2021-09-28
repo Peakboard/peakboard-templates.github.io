@@ -8,8 +8,8 @@ weight: 500
 isDraft: false
 ref: Control-Punching-Machine-Siemens-S7
 category:
-  - All
-  - Production
+  - 所有
+  - 生产制造
   - Control
   - Process
 image: Control-Punching-Machine-Siemens-S7_CN.png

@@ -8,9 +8,9 @@ weight: 650
 isDraft: true
 ref: Measuring_Scala
 category:
-  - All
+  - 所有
   - Food
-  - Production
+  - 生产制造
   - Hygiene
 image: Measuring_Scala_EN.png
 download: Measuring_Scala_EN.pbmx

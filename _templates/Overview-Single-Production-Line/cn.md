@@ -8,8 +8,8 @@ weight: 1000
 isDraft: false
 ref: Overview-Of-Single-Production-Line
 category:
-  - All
-  - Production
+  - 所有
+  - 生产制造
   - Serial Production
   - Car
   - Warning

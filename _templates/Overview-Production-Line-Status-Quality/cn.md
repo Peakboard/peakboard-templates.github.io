@@ -8,11 +8,11 @@ weight: 1000
 isDraft: false
 ref: Overview-Production-Line-Status-And-Quality
 category:
-  - All
-  - Recommended
+  - 所有
+  - 推荐
   - Series Production
   - OEE
-  - Lean Management
+  - 精益管理
 image: Overview-Production-Line-Status-And-Quality_CN.png
 image_thumbnail: Overview-Production-Line-Status-And-Quality_CN_thumbnail.png
 download: Overview-Production-Line-Status-And-Quality_CN.pbmx

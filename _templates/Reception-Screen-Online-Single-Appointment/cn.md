@@ -8,8 +8,8 @@ weight: 300
 isDraft: true
 ref: Welcome_Screen_Online_Single
 category:
-  - All
-  - Administration
+  - 所有
+  - 行政管理
   - Reception
   - Misc
 image: Welcome_Screen_Online_Single_EN.png
