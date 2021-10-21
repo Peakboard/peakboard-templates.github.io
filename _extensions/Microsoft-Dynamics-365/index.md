@@ -14,7 +14,6 @@ image_thumbnail: MS_Dynamics_365_Extention_Logo_thumbnail.png
 download: PeakboardExtensionMicrosoftDynamics365.zip
 extension_category:
   - Alle
-  - CRM
 
 version_history:
   - Version 1.0 on 18 June 2021 | Initial release
