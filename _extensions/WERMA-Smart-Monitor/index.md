@@ -4,7 +4,7 @@ title: Werma Smart Monitor - Peakboard Extension
 title_text: WERMA Smart Monitor
 by: Peakboard
 description: 
-  - This extension enables easy access to Werma databases for the Peakboard designer.
+  - Diese Extension ermöglicht es, WERMA SmartMONITOR Signalleuchten als Datenquelle in Peakboard anzubinden. Die Datenquelle ermöglicht es, den aktuellen Status einer Signalleuchte (Ampelfarbe) auszulesen und zu verändern. Zusätzlich kann eine mit Zeitstempeln versehene Historie der Status ausgelesen werden.
 lang: de
 weight: 1000
 isDraft: true
@@ -16,6 +16,7 @@ extension_category:
   - Alle
   - Produktion
   - Shopfloor
+  - IoT
 
 version_history:
   - Version 1.0 on 05 June 2021 | Initial release

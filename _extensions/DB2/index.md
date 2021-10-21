@@ -13,7 +13,8 @@ image: DB2_Extention_Logo.png
 image_thumbnail: DB2_Extention_Logo_thumbnail.png
 download: PeakboardExtensionDB2.zip
 extension_category:
-  - Alle, Datenbank
+  - Alle
+  - Datenbank
 
 version_history:
   - Version 1.0 on 13 March 2021 | Initial release

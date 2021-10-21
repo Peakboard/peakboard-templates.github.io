@@ -13,7 +13,8 @@ image: Fritz_Smart_Home_Extention_Logo.png
 image_thumbnail: Fritz_Smart_Home_Extention_Logo_thumbnail.png
 download: FritzSmartHomeExtension.zip
 extension_category:
-  - Alle, IoT
+  - Alle
+  - IoT
 
 version_history:
   - Version 1.0 | Initial release
