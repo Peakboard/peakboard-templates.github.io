@@ -177,7 +177,7 @@ language:
     extensions-link-how-to: "https://help.peakboard.com/data_sources/Extension/de-Extension.html"
     extensions-link-text-how-to: "So installierst du eine Peakboard Extension"
     extensions-section-description: "Beschreibung"
-    extensions-section-version-history: "Version History"
+    extensions-section-version-history: "Versionshistorie"
     extensions-section-screenshots: "Screenshots"
   cn:
     article-download-button-text: "下载模板"
