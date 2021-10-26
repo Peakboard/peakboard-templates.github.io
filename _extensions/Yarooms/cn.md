@@ -1,10 +1,10 @@
 ---
 layout: extension
-title: Yarooms - Peakboard Extension
+title: Yarooms —— Peakboard拓件
 title_text: Yarooms
 by: Peakboard
 description: 
-  - This extension allows you to connect the Yarooms room booking system as a data source in Peakboard. This way you can read data on the booking of the created rooms and, for example, design a dashboard that shows the occupancy of a specific room.
+  - 拓件能让您在Peakboard中连接Yarooms房间预定系统，并将其用作数据源。如此一来，您就能读取创建房间的预定信息；还可以设计一个显示某一房间占用情况的看板。
 lang: cn
 weight: 1000
 isDraft: true
@@ -13,7 +13,7 @@ image: Yarooms_Extention_Logo.png
 image_thumbnail: Yarooms_Extention_Logo_thumbnail.png
 download: PeakboardExtensionYarooms.zip
 extension_category:
-  - All
+  - 所有
 
 version_history:
   - Version 1.0 on 09 April 2020 | Initial release
