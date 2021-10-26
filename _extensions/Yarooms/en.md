@@ -4,7 +4,7 @@ title: Yarooms - Peakboard Extension
 title_text: Yarooms
 by: Peakboard
 description: 
-  - This extension enables easy access to Yarooms meetings for the Peakboard Designer.
+  - This extension allows you to connect the Yarooms room booking system as a data source in Peakboard. This way you can read data on the booking of the created rooms and, for example, design a dashboard that shows the occupancy of a specific room.
 lang: en
 weight: 1000
 isDraft: true

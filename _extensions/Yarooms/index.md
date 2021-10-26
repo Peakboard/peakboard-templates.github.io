@@ -4,7 +4,7 @@ title: Yarooms - Peakboard Extension
 title_text: Yarooms
 by: Peakboard
 description: 
-  - Diese Extension ermöglicht es, das Yarooms Raumbuchungssystem als Datenquelle in Peakboard anzubinden. Die Datenquelle ermöglicht es, Daten über die Buchung der angelegten Räume auszulesen. So kann mittels Peakboard beispielsweise ein Dashboard erstellt werden, welches die Belegung eines bestimmten Raumes anzeigt.
+  - Diese Extension ermöglicht es, das Yarooms Raumbuchungssystem als Datenquelle in Peakboard anzubinden. So kannst du Daten über die Buchung der angelegten Räume auslesen und beispielsweise ein Dashboard erstellen, das die Belegung eines bestimmten Raumes anzeigt.
 lang: de
 weight: 1000
 isDraft: true

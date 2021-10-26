@@ -4,7 +4,7 @@ title: Monday.com - Peakboard Extension
 title_text: Monday.com
 by: Peakboard
 description: 
-  - Diese Extension ermöglicht es, die Monday.com Projektmanagement-Software als Datenquelle in Peakboard anzubinden. Mittels GraphQL-Statements können Daten aus Monday.com Boards ausgelesen werden.
+  - Diese Extension ermöglicht es, die Monday.com Projektmanagement-Software als Datenquelle in Peakboard anzubinden. Mittels GraphQL-Statements kannst du so Daten aus Monday.com Boards auslesen.
 lang: de
 weight: 1000
 isDraft: true

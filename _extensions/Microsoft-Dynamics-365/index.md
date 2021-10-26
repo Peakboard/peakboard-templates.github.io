@@ -4,7 +4,7 @@ title: Microsoft Dynamics 365 - Peakboard Extension
 title_text: Microsoft Dynamics 365
 by: Peakboard
 description: 
-  - Diese Extension ermöglicht es, ein Microsoft Dynamics 365 CRM System als Datenquelle in Peakboard anzubinden. Die Datenquelle ermöglicht es, Tabellen und Spalten aus dem CRM System zu selektieren und die Daten daraus auszulesen.
+  - Diese Extension ermöglicht es, ein Microsoft Dynamics 365 CRM-System als Datenquelle in Peakboard anzubinden. Die Datenquelle ermöglicht es, Tabellen und Spalten aus dem CRM-System zu selektieren und die Daten daraus auszulesen.
 lang: de
 weight: 1000
 isDraft: true

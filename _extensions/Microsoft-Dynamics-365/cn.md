@@ -4,7 +4,7 @@ title: Microsoft Dynamics 365 - Peakboard Extension
 title_text: Microsoft Dynamics 365
 by: Peakboard
 description: 
-  - This extension enables easy access to Microsoft Dynamics 365 API for the Peakboard designer.
+  - This extension allows to connect a Microsoft Dynamics 365 CRM system as a data source in Peakboard. With the data source you can select tables and columns from the CRM system and read the data directly from the system.
 lang: cn
 weight: 1000
 isDraft: true
