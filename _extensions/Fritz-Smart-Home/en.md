@@ -17,5 +17,5 @@ extension_category:
   - IoT
 
 version_history:
-  - Version 1.0 on XXX | Initial release
+  - Version 1.0 | Initial release
 ---
