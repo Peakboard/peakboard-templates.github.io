@@ -1,10 +1,10 @@
 ---
 layout: extension
-title: Microsoft Dynamics 365 - Peakboard Extension
-title_text: Microsoft Dynamics 365
+title: 微软Dynamics 365 —— Peakboard拓件
+title_text: 微软Dynamics 365
 by: Peakboard
 description: 
-  - This extension allows to connect a Microsoft Dynamics 365 CRM system as a data source in Peakboard. With the data source you can select tables and columns from the CRM system and read the data directly from the system.
+  - 拓件能让您在Peakboard中连接微软Dynamics 365客户关系管理系统，并将其用作数据源。您可以直接从系统中读取数据，选择需要的表和列。
 lang: cn
 weight: 1000
 isDraft: true
@@ -13,7 +13,7 @@ image: MS_Dynamics_365_Extention_Logo.png
 image_thumbnail: MS_Dynamics_365_Extention_Logo_thumbnail.png
 download: PeakboardExtensionMicrosoftDynamics365.zip
 extension_category:
-  - All
+  - 所有
 
 version_history:
   - Version 1.0 on 18 June 2021 | Initial release
