@@ -1,10 +1,10 @@
 ---
 layout: extension
-title: Fritz Smart Home - Peakboard Extension
-title_text: Fritz Smart Home
+title: Fritz智能家居 —— Peakboard拓件
+title_text: Fritz智能家居
 by: Peakboard
 description: 
-  - This extension allows you to connect FRITZ! smart home devices from the manufacturer AVM as a data source in Peakboard to read out and write back current temperature values of the smart radiator thermostats. This way you can, for example, create an interactive dashboard to display and control the room temperature.
+  - 拓件能让您在Peakboard中连接由AVM厂商生产的FRITZ!智能家居设备，并将其作为数据源读取及写回智能取暖恒温器当前的温度值。由此，您就可以创建一个交互式看板，用来显示、控制室温。
 lang: cn
 weight: 1000
 isDraft: true
@@ -13,8 +13,8 @@ image: Fritz_Smart_Home_Extention_Logo.png
 image_thumbnail: Fritz_Smart_Home_Extention_Logo_thumbnail.png
 download: FritzSmartHomeExtension.zip
 extension_category:
-  - All
-  - IoT
+  - 所有
+  - 物联网
 
 version_history:
   - Version 1.0 | Initial release
