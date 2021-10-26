@@ -1,10 +1,10 @@
 ---
 layout: extension
-title: Werma Smart Monitor - Peakboard Extension
+title: Werma智能监控器 —— Peakboard拓件
 title_text: WERMA Smart Monitor
 by: Peakboard
 description: 
-  - Using this extension, you can connect WERMA SmartMONITOR signal lights as a data source in Peakboard. This allows you to read out and change the status of a signal light. In addition, a timestamped history of the status can also be read out.
+  - 利用该拓件，您可以在Peakboard中连接WERMA SmartMONITOR信号灯，并将其用作数据源。如此一来，您就可以读取并修改信号灯的状态。另外，您还可以从中读取带时间戳的状态历史。
 lang: cn
 weight: 1000
 isDraft: true
@@ -13,8 +13,8 @@ image: Werma_Smart_Monitor_Extention_Logo.png
 image_thumbnail: Werma_Smart_Monitor_Extention_Logo_thumbnail.png
 download: PeakboardExtensionWerma.zip
 extension_category:
-  - All
-  - IoT
+  - 所有
+  - 物联网
   - Production
   - Shopfloor
 
