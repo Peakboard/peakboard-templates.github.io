@@ -1,10 +1,10 @@
 ---
 layout: extension
-title: Philips Hue - Peakboard Extension
+title: Philips Hue —— Peakboard拓件
 title_text: Philips Hue
 by: Peakboard
 description: 
-  - With this extension you can connect devices from the Philips Hue lighting system via the Hue Bridge as a data source in Peakboard. The data source lets you read or write back data about the state (on / off) as well as the brightness value of each applied light source. This way, Peakboard can be used to easily create an interactive dashboard for controlling Philips Hue lighting.
+  - 通过Hue Bridge数据源，您可以通过该拓件连接Philips Hue照明系统的各种设备。 您还可以使用这一数据源读取或写回每个设备的状态（开/关）以及亮度数据；如此一来，您就能用Peakboard轻松地创建交互式看板，从而控制整个照明系统。 
 lang: cn
 weight: 1000
 isDraft: true
@@ -13,8 +13,8 @@ image: Philips_Hue_Extention_Logo.png
 image_thumbnail: Philips_Hue_Extention_Logo_thumbnail.png
 download: PeakboardExtensionHue.zip
 extension_category:
-  - All
-  - IoT
+  - 所有
+  - 物联网
 
 version_history:
   - Version 1.0 | Initial release
