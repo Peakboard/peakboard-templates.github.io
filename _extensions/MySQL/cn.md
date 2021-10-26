@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: MySQL - Peakboard拓件
+title: MySQL —— Peakboard拓件
 title_text: MySQL
 by: Peakboard
 description: 
