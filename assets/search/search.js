@@ -216,6 +216,7 @@ var main = {
 
                     // reset search if any
                     document.getElementById('clear').click();
+                    document.getElementById('resetSearchBox').click();
 
                     // hide other header and show this one
                     document.getElementById('header-templates').classList.remove("hidden");
@@ -306,6 +307,7 @@ var main = {
 
                     // reset search if any
                     document.getElementById('clear').click();
+                    document.getElementById('resetSearchBox').click();
 
                     // hide other header and show this one
                     document.getElementById('header-templates').classList.add("hidden");
@@ -319,14 +321,12 @@ var main = {
             });
         });
 
-        // don't add the widget if there are no data sources.
-        if(document.getElementById('visible-extensions').innerHTML !== "") {
-            search.addWidgets([renderMenuExtensions({
-                attribute: 'extension_category',
-                container: document.getElementById('extensions'),
-                itemsList: document.getElementById('visible-extensions').innerHTML
-            })]);
-        }
+
+        search.addWidgets([renderMenuExtensions({
+            attribute: 'extension_category',
+            container: document.getElementById('extensions'),
+            itemsList: document.getElementById('visible-extensions').innerHTML
+        })]);
 
         var renderClearRefinements = function renderClearRefinements(renderOptions, isFirstRender) {
             var hasRefinements = renderOptions.hasRefinements,
