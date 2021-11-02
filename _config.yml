@@ -46,7 +46,7 @@ language:
     homepage-top-section-templates-button: "see all"
     homepage-top-section-extensions: "Peakboard Extensions"
     homepage-top-section-extensions-text: "Peakboard offers a wide range of interfaces for various data sources. If your data source is not yet included, our extensions will help you."
-    homepage-top-section-extensions-button: "coming soon"
+    homepage-top-section-extensions-button: "see all"
     homepage-carousel-button-text: "learn more"
     homepage-featured-templates: "recommended"
     homepage-all-templates: "all"
@@ -54,7 +54,7 @@ language:
     homepage-menu-title-templates: "Peakboard Templates"
     homepage-menu-title-extensions: "Peakboard Extensions"
     homepage-visible-templates: ["all","recommended","administration","andon","kpi","lean management","logistics","oee","production","scripting","interaction", "edge", "shopfloor"]
-    homepage-visible-extensions: ["all","crm"]
+    homepage-visible-extensions: ["all","database","iot"]
     top-menu-cta-button-text: "get started for free!"
     top-menu-cta-button-url: "https://peakboard.com/en/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
     page-top-overview-text: "< Gallery / Templates"
@@ -129,7 +129,7 @@ language:
     homepage-menu-title-templates: "Peakboard Templates"
     homepage-menu-title-extensions: "Peakboard Extensions"
     homepage-visible-templates: ["alle","empfohlen","administration","andon","kpi","lean management","logistik","oee / gae","produktion","scripting","interaktion", "edge", "shopfloor"]
-    homepage-visible-extensions: ["alle","crm"]
+    homepage-visible-extensions: ["alle","datenbank","iot"]
     top-menu-cta-button-text: "kostenlos starten!"
     top-menu-cta-button-url: "https://peakboard.com/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
     page-top-overview-text: "< Gallery / Templates"
@@ -204,7 +204,7 @@ language:
     homepage-menu-title-templates: "类别"
     homepage-menu-title-extensions: "数据源"
     homepage-visible-templates: ["所有","推荐","行政管理","安东板","kpi","精益管理","仓储物流","oee","生产制造","编程脚本","人机交互", "edge设备", "车间一线"]
-    homepage-visible-extensions: ["all","crm"]
+    homepage-visible-extensions: ["所有","数据库","物联网"]
     top-menu-cta-button-text: "马上开始"
     top-menu-cta-button-url: "https://peakboard.com/zh-hans/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
     page-top-overview-text: "< 图库/模板"
