@@ -5,13 +5,19 @@
 }
 
 @font-face {
-  font-family: 'HelveticaDisplayBold', sans-serif;
+  font-family: 'HelveticaDisplayBold';
   src: url("/assets/fonts/HelveticaNowDisplayBold.otf");
   font-weight: 700;
 }
 
 @font-face {
-  font-family: 'HelveticaDisplayItalic', sans-serif;
+  font-family: 'HelveticaDisplayBlack';
+  src: url("/assets/fonts/HelveticaNowDisplayBlack.otf");
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'HelveticaDisplayItalic';
   src: url("/assets/fonts/HelveticaNowDisplayIt.otf");
   font-style: italic;
 }
@@ -23,13 +29,13 @@
 }
 
 @font-face {
-  font-family: 'HelveticaNowBold', sans-serif;
+  font-family: 'HelveticaNowBold';
   src: url("/assets/fonts/HelveticaNowTextBold.otf");
   font-weight: 700;
 }
 
 @font-face {
-  font-family: 'HelveticaNowItalic', sans-serif;
+  font-family: 'HelveticaNowItalic';
   src: url("/assets/fonts/HelveticaNowTextIt.otf");
   font-style: italic;
 }

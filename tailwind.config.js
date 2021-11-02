@@ -57,7 +57,7 @@ module.exports = {
             }
         },
         fontFamily: {
-            title: ['HelveticaDisplayBold'],
+            title: ['HelveticaDisplayBlack'],
             regular: ['HelveticaNow'],
             sans: [
                 "HelveticaNow",
