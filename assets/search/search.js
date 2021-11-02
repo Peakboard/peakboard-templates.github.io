@@ -173,7 +173,7 @@ var main = {
             // if value of url param 'menu[category]' does not exist in itemsSimpleArray, add it. (also check on Featured as it's added later too)
             // this is to add a category in case it doesn't originally exist in the category list, but it clicked on from an article.
             if (getUrlVars()["menu%5Bcategory%5D"] !== undefined
-                && itemsSimpleArray.indexOf(currentCategoryInUrl.toLowerCase()) === -1
+                && itemsSimpleArray.indexOf(currentCategoryInUrl.toLowerCase().substring(0, currentCategoryInUrl.indexOf('#'))) === -1
                 && currentCategoryInUrl !== document.getElementById('featured-templates').innerHTML) {
 
                 itemsSimpleArray.push(currentCategoryInUrl.toLowerCase());
@@ -263,7 +263,7 @@ var main = {
             // if value of url param 'menu[extension_category]' does not exist in itemsSimpleArray, add it. (also check on Featured as it's added later too)
             // this is to add a category in case it doesn't originally exist in the category list, but it clicked on from an article.
             if (getUrlVars()["menu%5Bextension_category%5D"] !== undefined
-                && itemsSimpleArray.indexOf(currentCategoryInUrl.toLowerCase()) === -1) {
+                && itemsSimpleArray.indexOf(currentCategoryInUrl.toLowerCase().substring(0, currentCategoryInUrl.indexOf('#'))) === -1) {
 
                 // hide other header and show this one
                 document.getElementById('header-templates').classList.add("hidden");

@@ -4,7 +4,7 @@
             <img src="/assets/images/homepage/logistics_vector.svg" alt="logistics image" />
         </div>
         <div class="text-center">
-            <h1 class="font-extrabold text-4xl text-white">{{ site.language[page.lang].homepage-top-section-title }}</h1>
+            <h1 class="font-extrabold text-4xl text-white font-title">{{ site.language[page.lang].homepage-top-section-title }}</h1>
             <p class="my-3 text-white text-lg">{{ site.language[page.lang].homepage-top-section-content }}</p>
         </div>
         <div class="hidden sm:block transform translate-x-20">
@@ -21,11 +21,11 @@
             </svg>
 
             <div class="mt-4">
-                <h2 class="font-extrabold text-4xl mb-2">{{ site.language[page.lang].homepage-top-section-templates }}<span class="text-orange">.</span></h2>
+                <h2 class="font-title font-extrabold text-4xl mb-2">{{ site.language[page.lang].homepage-top-section-templates }}<span class="text-orange">.</span></h2>
                 <p class="mb-4">{{ site.language[page.lang].homepage-top-section-templates-text }}</p>
             </div>
 
-            <form action="" class="mx-auto">
+            <form action="#header-templates" class="mx-auto">
                 <input type="hidden" name="menu[category]" value="{{ site.language[page.lang].homepage-all-templates }}" />
                 <input type="submit" value="{{ site.language[page.lang].homepage-top-section-templates-button }}" class="menu-cta-button text-white block mx-auto my-6 py-3 px-16 tracking-base leading-none text-xl md:text-2xl cursor-pointer" />
             </form>
@@ -36,11 +36,11 @@
             </svg>
 
             <div class="mt-4">
-                <h2 class="font-extrabold text-4xl mb-2">{{ site.language[page.lang].homepage-top-section-extensions }}<span class="text-orange">.</span></h2>
+                <h2 class="font-title font-extrabold text-4xl mb-2">{{ site.language[page.lang].homepage-top-section-extensions }}<span class="text-orange">.</span></h2>
                 <p class="mb-4">{{ site.language[page.lang].homepage-top-section-extensions-text }}</p>
             </div>
 
-            <form action="" class="mx-auto">
+            <form action="#header-extensions" class="mx-auto">
                 <input type="hidden" name="menu[extension_category]" value="{{ site.language[page.lang].homepage-all-extensions }}" />
                 <input type="submit" value="{{ site.language[page.lang].homepage-top-section-extensions-button }}" class="menu-cta-button text-white block mx-auto my-6 py-3 px-16 tracking-base leading-none text-xl md:text-2xl cursor-pointer" />
             </form>
