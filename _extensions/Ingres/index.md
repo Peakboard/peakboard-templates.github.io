@@ -7,10 +7,11 @@ description:
   - Diese Extension ermöglicht es, Ingres Datenbanken als Datenquelle in Peakboard anzubinden und die Daten mittels SQL-Statements aus der Ingres Datenbank auszulesen.
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: ingres
 image: Ingres_Extention_Logo.png
 image_thumbnail: Ingres_Extention_Logo_thumbnail.png
+repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Ingres
 download: PeakboardExtensionIngres.zip
 extension_category:
   - Alle

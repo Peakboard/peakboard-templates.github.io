@@ -11,11 +11,16 @@ layout: base
         </div>
         <div class="sm:col-span-2 article-content">
             <img class="lightbox-ignore cursor-default" src="{{ page.image }}" alt="Peakboard Extension: {{ page.title_text }}">
-            <div>
-                <button class="menu-cta-button block mx-auto my-12 py-3 px-10 tracking-base leading-none text-xl md:text-2xl">
-                    <a class="no-underline" href="{{ page.download }}">{{ site.language[page.lang].extensions-link-text-download }}</a>
-                </button>
-            </div>
+            {% if page.repository and page.download %}
+                {% capture download_link %}{{ page.repository | replace_first: "tree", "raw" }}/Binary/{{ page.download }}{% endcapture %}
+            {% elsif page.download_ext %}
+                {% assign download_link = page.download_ext %}
+            {% elsif page.download %}
+                {% assign download_link = page.download %}
+            {% endif %}
+            <form action="{{ download_link }}">
+                <input type="submit" value="{{site.language[page.lang].extensions-link-text-download}}" class="menu-cta-button block mx-auto my-12 py-3 px-10 tracking-base leading-none text-xl md:text-2xl cursor-pointer" />
+            </form>
         </div>
         <div class="sm:col-span-3 my-4">
             <h1 class="text-3xl font-extrabold">{{ page.title_text }}</h1>
@@ -45,18 +50,29 @@ layout: base
                 <p class="">{{ item | split: "|" | last }}</p>
             {% endfor %}
             </div>
-            <p class="font-extrabold mt-8 mb-2">{{ site.language[page.lang].extensions-section-screenshots }}</p>
-            <div class="grid grid-cols-2 gap-x-8 article-content">
-            {% for item in page.screenshots %}
-                <div class="border border-gray-400 my-4">
-                    <img src="{{ item }}" alt="Screenshot for Peakboard Extension: {{ page.title_text }}" style="margin: 0;">
+            {% if page.screenshots %}
+                <p class="font-extrabold mt-8 mb-2">{{ site.language[page.lang].extensions-section-screenshots }}</p>
+                <div class="grid grid-cols-2 gap-x-8 article-content">
+                {% for item in page.screenshots %}
+                    <div class="border border-gray-400 my-4">
+                        <img src="{{ item }}" alt="Screenshot for Peakboard Extension: {{ page.title_text }}" style="margin: 0;">
+                    </div>
+                {% endfor %}
                 </div>
-            {% endfor %}
-            </div>
+            {% endif %}
             <div class="mt-6">
-                <a target="_blank" href="{{ site.language[page.lang].extensions-link-how-to }}" class="inline-block my-4 border-b-2 border-orange font-semibold text-dark-black hover:text-orange focus:text-orange">
-                    <span>{{ site.language[page.lang].extensions-link-text-how-to }} <i class="right-arrow"></i></span>
-                </a>
+                <div>
+                    <a target="_blank" href="{{ site.language[page.lang].extensions-link-how-to }}" class="inline-block my-2 border-b-2 border-orange font-semibold text-dark-black hover:text-orange focus:text-orange">
+                        <span>{{ site.language[page.lang].extensions-link-text-how-to }} <i class="right-arrow"></i></span>
+                    </a>
+                </div>
+                {% if page.repository %}
+                    <div>
+                        <a target="_blank" href="{{ page.repository }}" class="inline-block my-2 border-b-2 border-orange font-semibold text-dark-black hover:text-orange focus:text-orange">
+                            <span>{{ site.language[page.lang].extensions-link-text-source-code }} <i class="right-arrow"></i></span>
+                        </a>
+                    </div>
+                {% endif %}
             </div>
         </div>
     </div>

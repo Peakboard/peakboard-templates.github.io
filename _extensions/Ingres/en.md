@@ -7,10 +7,11 @@ description:
   - This extension allows you to connect Ingres databases as a data source in Peakboard and read the data from the Ingres database using SQL statements.
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: ingres
 image: Ingres_Extention_Logo.png
 image_thumbnail: Ingres_Extention_Logo_thumbnail.png
+repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Ingres
 download: PeakboardExtensionIngres.zip
 extension_category:
   - All

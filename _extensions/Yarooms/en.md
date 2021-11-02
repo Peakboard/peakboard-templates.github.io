@@ -7,10 +7,11 @@ description:
   - This extension allows you to connect the Yarooms room booking system as a data source in Peakboard. This way you can read data on the booking of the created rooms and, for example, design a dashboard that shows the occupancy of a specific room.
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: yarooms
 image: Yarooms_Extention_Logo.png
 image_thumbnail: Yarooms_Extention_Logo_thumbnail.png
+repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Yarooms
 download: PeakboardExtensionYarooms.zip
 extension_category:
   - All
