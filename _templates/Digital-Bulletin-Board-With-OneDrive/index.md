@@ -18,9 +18,8 @@ download: Digitales-Schwarzes-Brett-mit-OneDrive.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
----
 
-# Mögliche Datenquellen
+## Mögliche Datenquellen
 
 Das Template wurde beispielhaft mit Hilfe von Bildern und einer Excel Datei erstellt, die in einem OneDrive Verzeichnis liegen. Viele weitere Datenquellen sind denkbar, wie z.B. Google Spreadsheet, RSS-Feed, JSON, XML, CSV, OData, Web Services, REST-API, Microsoft Excel, Google Docs, MS SharePoint Lists, Dropbox, Microsoft OneDrive, Google Drive, Microsoft,SharePoint Document Libraries, Microsoft Teams Files, ein lokaler Dateiserver und [mehr](https://peakboard.com/datenanbindungen/).
 ---
@@ -45,7 +44,7 @@ Nachdem du die Dateien in deinem gewünschten Ordner abgelegt und angepasst hast
 
 Nachdem du diesen Dialog geschlossen hast und alle benötigten Datenquellen und Ressourcen aktualisiert sind, solltest du deine Daten nach Drücken des ‘Vorschau’-Buttons sehen können.
 
-# Wetter Widget aktualisieren
+## Wetter Widget aktualisieren
 Wenn du das Wetter Widget nicht verwenden möchtest, kannst du das Element im Peakboard Designer einfach aus der Visualisierung löschen. Wähle es dafür mit einem Rechtsklick aus und klicke auf ‘Löschen’.
 
 Wenn du das Wetter Widget verwenden möchtest, kannst du dir dein eigenes Widget mit deiner Stadt unter folgender Adresse erstellen: [https://weatherwidget.io/](https://weatherwidget.io/).
