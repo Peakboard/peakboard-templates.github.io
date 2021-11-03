@@ -13,6 +13,32 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 
 var main = {
     init: function init() {
+        var urlVars = getUrlVars();
+        if(urlVars) {
+            var urlTemplateCategory = decodeURIComponent(urlVars["menu%5Bcategory%5D"]);
+            var urlExtensionCategory = decodeURIComponent(urlVars["menu%5Bextension_category%5D"]);
+            var urlQuery = decodeURIComponent(urlVars["query"]);
+
+            if(urlTemplateCategory && urlTemplateCategory !== "undefined") {
+                // if template category in url when loading page, set as category
+                localStorage.setItem('type', 'template');
+                localStorage.setItem('category', urlTemplateCategory);
+            } else if(urlExtensionCategory && urlExtensionCategory !== "undefined") {
+                // if extension category in url when loading page, set as category
+                localStorage.setItem('type', 'extension');
+                localStorage.setItem('category', urlExtensionCategory);
+            } else if(urlQuery && urlQuery !== "undefined") {
+                // if query in url when loading page, set search query
+                localStorage.setItem('type', 'search');
+                localStorage.setItem('category', undefined);
+            } else {
+                // if no query or category in url when loading page, set to default type template and category all
+                localStorage.setItem('type', 'template');
+                var category = document.getElementById('all-templates').innerHTML;
+                localStorage.setItem('category', category);
+            }
+        }
+
         // general settings for instant search
         var search = instantsearch({
             searchClient: algoliasearch('XEVVIEZWKI', 'a2863cd9e238db68f660bcd8137888df'),
@@ -69,6 +95,9 @@ var main = {
 
                     // add event listener for input
                     input.addEventListener('input', function(event) {
+                        setHeader('search');
+                        localStorage.setItem('type', 'search');
+
                         refine(event.target.value);
 
                         // reset filters
@@ -134,16 +163,14 @@ var main = {
             transformItems: function transformItems(items) {
                 return items.map(function (item) {
                     return _objectSpread({}, item, {
-                        imageUrl: item.url.substr(0, item.url.lastIndexOf("/")) + '/' + (item.image_thumbnail ? item.image_thumbnail : item.image)
+                        imageUrl: item.url.substr(0, item.url.lastIndexOf("/")) + '/' + (item.image_thumbnail ? item.image_thumbnail : item.image),
+                        type: item.collection.slice(0, -1)
                     });
                 });
             }
         }));
 
 
-        var currentlySelected = getUrlVars()["menu%5Bcategory%5D"] ? decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]) : document.getElementById('all-templates').innerHTML;
-        var typeSelected = "template";
-        var switched = false;
         var renderMenuTemplates = instantsearch.connectors.connectMenu(function (_ref, isFirstRender) {
             var refine = _ref.refine,
                 widgetParams = _ref.widgetParams;
@@ -159,33 +186,29 @@ var main = {
             // obtain name for 'Featured' category, functioning as a reset
             var featuredTemplates = document.getElementById('featured-templates').innerHTML;
 
-            var currentCategoryInUrl = decodeURIComponent(getUrlVars()["menu%5Bcategory%5D"]);
-
-            // set the type to template if there is an template selected initially when url loads or when type switches
-            if(getUrlVars()["menu%5Bcategory%5D"] !== undefined) {
-                typeSelected = "template";
-
-                // hide other header and show this one
-                document.getElementById('header-templates').classList.remove("hidden");
-                document.getElementById('header-extensions').classList.add("hidden");
-            }
+            // set the type to template in localStorage
+            if(localStorage.getItem('type') === 'template') setHeader('templates');
 
             // if value of url param 'menu[category]' does not exist in itemsSimpleArray, add it. (also check on Featured as it's added later too)
             // this is to add a category in case it doesn't originally exist in the category list, but it clicked on from an article.
-            if (getUrlVars()["menu%5Bcategory%5D"] !== undefined
-                && itemsSimpleArray.indexOf(currentCategoryInUrl.toLowerCase().substring(0, currentCategoryInUrl.indexOf('#'))) === -1
+            /*var check = currentCategoryInUrl.indexOf('?');
+            var currentCategory = currentCategoryInUrl.substring(0, check !== -1 ? check : currentCategoryInUrl.length);
+            currentCategory = currentCategory.toLowerCase();
+            if (localStorage.getItem('type') === 'template'
+                && itemsSimpleArray.indexOf(currentCategory) === -1
                 && currentCategoryInUrl !== document.getElementById('featured-templates').innerHTML) {
 
+                setHeader('templates');
                 itemsSimpleArray.push(currentCategoryInUrl.toLowerCase());
-                currentlySelected = currentCategoryInUrl;
-            }
+                localStorage.setItem('category', currentCategoryInUrl.toLowerCase());
+            }*/
 
             // iterate through list of items, making them into an object
             for (var i = 0; i < itemsSimpleArray.length; i++) {
                 itemsArray.push({
                     label: itemsSimpleArray[i],
                     value: itemsSimpleArray[i],
-                    isSelected: (currentlySelected === itemsSimpleArray[i] && typeSelected === 'template')
+                    isSelected: (localStorage.getItem('category') === itemsSimpleArray[i] && localStorage.getItem('type') === 'template')
                 });
             }
 
@@ -218,13 +241,11 @@ var main = {
                     document.getElementById('clear').click();
                     document.getElementById('resetSearchBox').click();
 
-                    // hide other header and show this one
-                    document.getElementById('header-templates').classList.remove("hidden");
-                    document.getElementById('header-extensions').classList.add("hidden");
+                    setHeader('templates');
 
                     // refine value and save it as selected
-                    currentlySelected = event.currentTarget.dataset.value;
-                    typeSelected = "template";
+                    localStorage.setItem('type', 'template');
+                    localStorage.setItem('category', event.currentTarget.dataset.value);
                     refine(event.currentTarget.dataset.value);
                 });
             });
@@ -236,7 +257,6 @@ var main = {
             itemsList: document.getElementById('visible-templates').innerHTML
         })]);
 
-        currentlySelected = getUrlVars()["menu%5Bextension_category%5D"] ? decodeURIComponent(getUrlVars()["menu%5Bextension_category%5D"]) : currentlySelected;
         var renderMenuExtensions = instantsearch.connectors.connectMenu(function (_ref5, isFirstRender) {
             var items = _ref5.items,
                 refine = _ref5.refine,
@@ -249,37 +269,29 @@ var main = {
             // obtain name for 'All' extensions, functioning as a reset
             var allExtensions = document.getElementById('all-extensions').innerHTML;
 
-            var currentCategoryInUrl = decodeURIComponent(getUrlVars()["menu%5Bextension_category%5D"]);
-
-            // set the type to extension if there is an extension selected initially when url loads
-            if(getUrlVars()["menu%5Bextension_category%5D"] !== undefined) {
-                typeSelected = "extension";
-
-                // hide other header and show this one
-                document.getElementById('header-templates').classList.add("hidden");
-                document.getElementById('header-extensions').classList.remove("hidden");
-            }
+            // set the type to extension in localStorage
+            if(localStorage.getItem('type') === 'extension') setHeader('extensions');
 
             // if value of url param 'menu[extension_category]' does not exist in itemsSimpleArray, add it. (also check on Featured as it's added later too)
             // this is to add a category in case it doesn't originally exist in the category list, but it clicked on from an article.
-            if (getUrlVars()["menu%5Bextension_category%5D"] !== undefined
-                && itemsSimpleArray.indexOf(currentCategoryInUrl.toLowerCase().substring(0, currentCategoryInUrl.indexOf('#'))) === -1) {
+            /*var check = currentCategoryInUrl.indexOf('?');
+            var currentCategory = currentCategoryInUrl.substring(0, check !== -1 ? check : currentCategoryInUrl.length);
+            currentCategory = currentCategory.toLowerCase();
+            if (localStorage.getItem('type') === 'extension'
+                && itemsSimpleArray.indexOf(currentCategory)  === -1) {
 
-                // hide other header and show this one
-                document.getElementById('header-templates').classList.add("hidden");
-                document.getElementById('header-extensions').classList.remove("hidden");
-
-                typeSelected = 'extension';
+                setHeader('extensions');
                 itemsSimpleArray.push(currentCategoryInUrl.toLowerCase());
-                currentlySelected = currentCategoryInUrl;
-            }
+                localStorage.setItem('category', currentCategoryInUrl.toLowerCase());
+                console.log("2: " + currentCategoryInUrl.toLowerCase())
+            }*/
 
             // iterate through list of items, making them into an object
             for (var i = 0; i < itemsSimpleArray.length; i++) {
                 itemsArray.push({
                     label: itemsSimpleArray[i],
                     value: itemsSimpleArray[i],
-                    isSelected: (currentlySelected === itemsSimpleArray[i] && typeSelected === 'extension')
+                    isSelected: (localStorage.getItem('category') === itemsSimpleArray[i] && localStorage.getItem('type') === 'extension')
                 });
             }
 
@@ -309,13 +321,11 @@ var main = {
                     document.getElementById('clear').click();
                     document.getElementById('resetSearchBox').click();
 
-                    // hide other header and show this one
-                    document.getElementById('header-templates').classList.add("hidden");
-                    document.getElementById('header-extensions').classList.remove("hidden");
+                    setHeader('extensions');
 
                     // refine value and save it as selected
-                    currentlySelected = event.currentTarget.dataset.value;
-                    typeSelected = "extension";
+                    localStorage.setItem('type', 'extension');
+                    localStorage.setItem('category', event.currentTarget.dataset.value);
                     refine(event.currentTarget.dataset.value);
                 });
             });
@@ -363,7 +373,7 @@ function getUrlVars() {
     for (var i = 0; i < hashes.length; i++) {
         hash = hashes[i].split('=');
         vars.push(hash[0]);
-        vars[hash[0]] = hash[1];
+        if(hash[1]) vars[hash[0]] = hash[1].split('#')[0];
     }
 
     return vars;
@@ -373,15 +383,21 @@ function addClass(el, className) {
     if (el.classList) el.classList.add(className);else if (!hasClass(el, className)) el.className += " " + className;
 }
 
-function removeClass(el, className) {
-    if (el.classList) el.classList.remove(className);else if (hasClass(el, className)) {
-        var reg = new RegExp('(\\s|^)' + className + '(\\s|$)');
-        el.className = el.className.replace(reg, ' ');
-    }
-}
-
 function hasClass(element, className) {
     return (' ' + element.className + ' ').indexOf(' ' + className+ ' ') > -1;
+}
+
+function setHeader(visibleHeader) {
+    // all headers in array
+    var headers = ['templates','extensions','search'];
+    // remove visible header from array
+    headers = headers.filter(e => e !== visibleHeader);
+    // show this header
+    document.getElementById('header-' + visibleHeader).classList.remove("hidden");
+    // hide all other headers
+    for(var i = 0; i < headers.length; i++) {
+        document.getElementById('header-' + headers[i]).classList.add("hidden");
+    }
 }
 
 document.addEventListener('DOMContentLoaded', main.init);
