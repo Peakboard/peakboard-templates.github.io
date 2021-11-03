@@ -1,6 +1,6 @@
 ---
 layout: article
-title: digitales schwarzes brett mit onedrive anbindung
+title: Digitales schwarzes Brett mit OneDrive Anbindung.
 description: 
   - Schwarzes Brett 2.0. Mitarbeiter auf einem digitalen Infoboard automatisiert auf dem Laufenden halten. Egal ob es dabei um allgemeine Mitarbeiterinformationen, einen Newsticker, den Speiseplan in der Mensa, Schichtpläne, Ankündigungen oder aber Raumbelegungspläne am Empfang geht, du bleibst hinsichtlich der Medienformate, Darstellung und Inhalte völlig flexibel. Alle News, Bilder und PDF-Dokumente können über einen OneDrive Ordner verwaltet werden. Mit diesem Template steht deiner individuellen Digital Signage Anwendung nichts mehr im Weg.
 lang: de
@@ -20,11 +20,12 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# mögliche datenquellen
+# Mögliche Datenquellen
 
 Das Template wurde beispielhaft mit Hilfe von Bildern und einer Excel Datei erstellt, die in einem OneDrive Verzeichnis liegen. Viele weitere Datenquellen sind denkbar, wie z.B. Google Spreadsheet, RSS-Feed, JSON, XML, CSV, OData, Web Services, REST-API, Microsoft Excel, Google Docs, MS SharePoint Lists, Dropbox, Microsoft OneDrive, Google Drive, Microsoft,SharePoint Document Libraries, Microsoft Teams Files, ein lokaler Dateiserver und [mehr](https://peakboard.com/datenanbindungen/).
+---
 
-# so funktioniert's
+# So Funktioniert's
 
 [Hier](https://peakboard.rocks/erste-schritte) findest du eine allgemeine Einführung in Peakboard. Wenn du wissen möchtest, wie du den Peakboard Designer mit deiner Peakboard Box verbindest und deine Visualisierung überträgst, hilft dir folgender [Artikel](https://peakboard.rocks/anschliessen) weiter. Hier kannst du dir den [Peakboard Designer](https://peakboard.com/peakboard-designer/?utm_campaign=templates&utm_medium=description_link&utm_source=templates_overview) kostenlos herunterladen.
 
@@ -44,7 +45,7 @@ Nachdem du die Dateien in deinem gewünschten Ordner abgelegt und angepasst hast
 
 Nachdem du diesen Dialog geschlossen hast und alle benötigten Datenquellen und Ressourcen aktualisiert sind, solltest du deine Daten nach Drücken des ‘Vorschau’-Buttons sehen können.
 
-## wetter widget aktualisieren
+# Wetter Widget aktualisieren
 Wenn du das Wetter Widget nicht verwenden möchtest, kannst du das Element im Peakboard Designer einfach aus der Visualisierung löschen. Wähle es dafür mit einem Rechtsklick aus und klicke auf ‘Löschen’.
 
 Wenn du das Wetter Widget verwenden möchtest, kannst du dir dein eigenes Widget mit deiner Stadt unter folgender Adresse erstellen: [https://weatherwidget.io/](https://weatherwidget.io/).
@@ -62,7 +63,7 @@ In der weiteren Sidebar auf der rechten Seite findest du nun einige Parameter zu
 ![image_live](img/web_widget_code.png)
 
 
-## bildnachweis
+## Bildnachweis
 
 Die verwendeten Bilder stammen von [Freepik](http://freepik.com/) und [Unsplash](https://unsplash.com/). 
 
