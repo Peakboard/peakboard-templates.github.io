@@ -1,6 +1,6 @@
 ---
 layout: article
-title: gesamtstatus deiner produktionslinie – alle informationen auf einem dashboard
+title: Gesamtstatus deiner Produktionslinie auf einem Dashboard.
 description: 
   - Mit diesem Template zeigst du wichtige Produktionskennzahlen einer einzelnen Produktionslinie leicht verständlich an. Beleuchte kinderleicht relevante Informationen zu deinen Maschinen auf Bildschirmen und habe so Produktions- und Steuerungsdaten sowie Kennzahlen wie KPIs direkt im Blick! Echtzeit-Daten sorgen für mehr Transparenz in deiner Fertigung, verkürzen Produktionsausfälle und helfen dir so dein Produktionsvolumen zu maximieren. Jetzt herunterladen und loslegen!
 lang: de
@@ -22,7 +22,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# mögliche datenquellen
+# Mögliche Datenquellen
 
 Dieses Template verwendet einfache Variablenlisten als Datenquelle. Wenn du dir daraus dein eigenes Board erstellst, wirst du diese durch deine persönlichen Datenquellen und Systeme ersetzen. Dafür gibt es zahlreiche Möglichkeiten. 
 
