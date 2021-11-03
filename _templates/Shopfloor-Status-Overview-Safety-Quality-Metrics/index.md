@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Dein digitales Shopfloor Management Board für den Gesamtstatus einer Produktionslinie
+title: Dein digitales Shopfloor Management Board für den Gesamtstatus einer Produktionslinie.
 description: 
   - Wichtige Informationen über deine Produktion intelligent für alle Mitarbeiter aufbereitet, genau dort wo sie benötigt werden! Mit diesem Template sieht du den Gesamtstatus deiner Produktionslinie im Überblick, sowie zu erledigende Aufgaben und Kennzahlen zu Sicherheit und Qualitätsniveau – besonders verständlich dargestellt durch das Sicherheitskreuz und das Qualitäts-Q! Die effiziente Kommunikation relevanter Informationen auf deinem Shopfloor trägt zum kontinuierlichen Verbesserungsprozess bei und sichert dir so die Wettbewerbsfähigkeit. Jetzt direkt herunterladen!
 lang: de
