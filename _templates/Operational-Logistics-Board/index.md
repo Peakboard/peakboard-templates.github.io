@@ -1,6 +1,6 @@
 ---
 layout: article
-title: dein logistikcontrolling dashboard – kennzahlen in der operativen lagerlogistik jederzeit im blick behalten
+title: Dein Logistikcontrolling Dashboard für Kennzahlen aus der operativen Lagerlogistik.
 description: 
   - Logistikmanagement leicht gemacht! Mit diesem Template erhalten Mitarbeiter eine schnelle Übersicht über den aktuellen Stand einzelner Aufträge in der Warenausgangszone. Lagerkennzahlen wie der aktuelle Status für das Manuelle, Kleinteile- und Hochregallager werden leicht verständlich und übersichtlich angezeigt. Auch ausstehende Posten des einzelnen Auftrages werden aufgelistet. Zusätzlich können noch ausstehende und bereits behobene Fehler angezeigt werden um so Prozesse ganz leicht zu optimieren und langfristig Logistikkosten zu senken. Jetzt herunterladen!
 lang: de
