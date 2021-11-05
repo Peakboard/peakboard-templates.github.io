@@ -7,7 +7,7 @@ layout: base
 <div class="max-w-2xl my-8 mx-auto">
     <div class="grid grid-cols-1 sm:grid-cols-5 gap-x-24 mx-4">
         <div class="sm:col-span-5 my-4 article-content">
-            <a class="font-medium" onclick="history.back(-1)">< {{ site.language[page.lang].extensions-link-text-return-to-overview }}</a>
+            <a class="font-medium cursor-pointer" onclick="history.back(-1)">< {{ site.language[page.lang].extensions-link-text-return-to-overview }}</a>
         </div>
         <div class="sm:col-span-2 article-content">
             <img class="lightbox-ignore cursor-default" src="{{ page.image }}" alt="Peakboard Extension: {{ page.title_text }}">
