@@ -4,8 +4,7 @@ title: OData V4 - Peakboard Extension
 title_text: OData V4
 by: Peakboard
 description: 
-  - The Peakboard Designer natively supports older versions of the OData protocol. To connect services with the OData V4 protocol as a data source in Peakboard, you can use this extension.
-OData is an open protocol that allows you to create and use RESTful APIs. With our extension, you can read the APIs that return the data in JSON format.
+  - The Peakboard Designer natively supports older versions of the OData protocol. To connect services with the OData V4 protocol as a data source in Peakboard, you can use this extension. OData is an open protocol that allows you to create and use RESTful APIs. With our extension, you can read the APIs that return the data in JSON format.
 lang: en
 weight: 1000
 isDraft: true
