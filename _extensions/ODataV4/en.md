@@ -8,7 +8,7 @@ description:
   - OData is an open protocol that allows you to create and use RESTful APIs. With our extension, you can read the APIs that return the data in JSON format.
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: odatav4
 image: OdataV4_Extension_Logo.png
 image_thumbnail: OdataV4_Extension_Logo_thumbnail.png
