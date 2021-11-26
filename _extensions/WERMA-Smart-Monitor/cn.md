@@ -20,5 +20,5 @@ extension_category:
   - 车间一线
 
 version_history:
-  - Version 1.0 on 05 June 2021 | Initial release
+  - 2021年6月5日 —— 1.0版本 | 首次发布
 ---

@@ -17,5 +17,5 @@ extension_category:
   - 所有
 
 version_history:
-  - Version 1.0 on 18 June 2021 | Initial release
+  - 2021年6月18日 —— 1.0版本 | 首次发布
 ---

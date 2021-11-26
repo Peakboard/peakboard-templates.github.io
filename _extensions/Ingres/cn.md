@@ -18,5 +18,5 @@ extension_category:
   - 数据库
 
 version_history:
-  - Version 1.0 on 26 April 2020 | Initial release
+  - 2020年4月26日 —— 1.0版本 | 首次发布
 ---

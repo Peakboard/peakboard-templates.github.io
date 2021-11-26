@@ -18,5 +18,5 @@ extension_category:
   - 物联网
 
 version_history:
-  - Version 1.0 | Initial release
+  - 1.0版本 | 首次发布
 ---
