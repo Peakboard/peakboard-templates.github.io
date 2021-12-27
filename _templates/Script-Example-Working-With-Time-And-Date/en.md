@@ -1,6 +1,6 @@
 ---
 layout: article
-title: script example for working with time and date
+title: Script example for working with time and date
 description: 
   - This template shows you how to work with time objects. Learn how to add, manipulate, compare, or format a date.
 lang: en
