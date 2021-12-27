@@ -1,8 +1,8 @@
 ---
 layout: article
-title: script-beispiel für automatisches scrollen einer liste mit hilfe eines dataflows
+title: Skript für automatisches Scrollen durch eine Liste mithilfe eines Dataflows
 description: 
-  - Diese Vorlage zeigt ein Script-Beispiel, welche zum Filtern einer Datenquelle mit Hilfe eines Dataflows gedacht ist. Dies wird alle 5 Sekunden ausgeführt. Sobald alle Einträge angezeigt wurden, beginnt die Liste von vorne.
+  - Diese Vorlage zeigt ein Beispiel, welches zum Filtern einer Datenquelle mithilfe eines Dataflows genutzt werden kann. Dies wird alle 5 Sekunden ausgeführt. Sobald alle Einträge angezeigt wurden, beginnt die Liste von vorne.
 lang: de
 weight: 50
 isDraft: false
