@@ -1,8 +1,8 @@
 ---
 layout: article
-title: script-beispiel für das verarbeiten von tastatureingaben
+title: Script-Beispiel für das Verarbeiten von Tastatureingaben
 description: 
-  - Diese Vorlage zeigt, wie Sie in Peakboard mit Tastatureingaben umgehen können.
+  - Diese Vorlage zeigt, wie du in Peakboard mit Tastatureingaben umgehen kannst.
 lang: de
 weight: 50
 isDraft: false
