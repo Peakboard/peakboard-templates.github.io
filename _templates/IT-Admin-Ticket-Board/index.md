@@ -1,6 +1,6 @@
 ---
 layout: article
-title: IT ticket system – die wichtigsten tickets in echtzeit anzeigen und priorisieren lassen
+title: IT Ticket System – die wichtigsten Tickets in Echtzeit anzeigen und priorisieren lassen
 description: 
   - Du arbeitest in der IT-Abteilung und möchtest einen schnellen Überblick über den aktuellen Soll/Ist-Status der geschlossenen und offenen Support-Tickets? Oder du möchtest eine Ticket-Übersicht der letzten 12 Monate, z.B. mittels eines Balkendiagramms? Mit diesem Template kein Problem. Einfach an das eigene Ticketsystem anbinden und alle Supportanfragen und Serviceanfragen jederzeit im Blick behalten. Du weißt über alle Vorgänge Bescheid und wichtige Tickets fallen nicht mehr unter den Tisch. Ticketverwaltung ganz einfach. Das Template ist selbstverständlich um viele weitere Visualisierungsmöglichkeiten erweiterbar. Einfach herunterladen und loslegen!
 lang: de
