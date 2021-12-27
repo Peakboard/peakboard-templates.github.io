@@ -1,6 +1,6 @@
 ---
 layout: article
-title: immer einen schritt voraus – so vermeidest du fehlproduktion mithilfe von KI
+title: Immer einen Schritt voraus – so vermeidest du Fehlproduktion mithilfe von KI
 description: 
   - Dieses Template verwendet ein KI-Modell in der Azure Cloud, um zu erkennen, wenn eine Anomalie in der Produktion auftritt, wodurch die Wahrscheinlichkeit einer Fehlproduktion erhöht wird. Dazu werden zwei Messwerte an ein KI-Modell gesendet und über die JSON-Datenquelle auf Anomalien geprüft. Dieser Wert dient als Indikator für die Qualität der Produktion und ermöglicht es dir, Fehlproduktionen rechtzeitig zu erkennen und zu vermeiden. Das Dashboard zeigt dir auftretende negative Werte leicht verständlich und auf einen Blick an, so dass Mitarbeiter und Mitarbeiterinnen selbstständig und umgehend reagieren können, um fehlerhafte Produktionsteile zu vermeiden. Spare Zeit und Kosten in deiner Produktion und lade dir das Template kostenlos herunter.
 lang: de
