@@ -1,8 +1,8 @@
 ---
 layout: article
-title: script-beispiel für einen automatisierten seitenwechsel von pdf dateien
+title: Skript-Beispiel für einen automatisierten Seitenwechsel von PDF Dateien
 description: 
-  - Dieses Template zeigt wie Sie mit PDF Dateien arbeiten können.
+  - Dieses Template zeigt, wie du mit PDF Dateien arbeitest.
 lang: de
 weight: 50
 isDraft: false
