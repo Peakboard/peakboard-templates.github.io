@@ -1,6 +1,6 @@
 ---
 layout: article
-title: einfaches retrofitting deiner bestehenden maschine mit einer lichtschranke und Peakboard Edge
+title: Einfaches Retrofitting deiner bestehenden Maschine mit einer Lichtschranke und Peakboard Edge
 description: 
   - Digitalisierung ist dir zu teuer und aufwändig? Rüste deine alten Maschinen ganz einfach nach! Du benötigst dafür lediglich Peakboard Edge in Kombination mit Peakboard Enterprise und eine handelsübliche Lichtschranke mit einem Relais-Ausgang. Mit diesem Template visualisierst du im Anschluss die anfallenden Daten um sie so unmittelbar zu kommunizieren. Jetzt herunterladen!
 lang: de
