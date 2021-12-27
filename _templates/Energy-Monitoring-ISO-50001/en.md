@@ -1,6 +1,6 @@
 ---
 layout: article
-title: overview of energy consumption – simple energy management system according to ISO 50001
+title: Overview of energy consumption – simple energy management system according to ISO 50001
 description: 
   - This template offers you more transparency for your energy management. It is used to monitor the largest consumers of energy in your company, improve energy efficiency and save resources. It lets you keep an eye on the most important energy consumers and you can optimize your energy use in terms of climate protection, to make the most of your energy use. The aim is to ensure a high level of energy efficiency and to quickly identify problems in energy management to reduce energy costs. In addition to power consumption, other important key figures such as air volumes or system pressure can also be displayed. All this helps you to achieve the legal requirements of an ISO 50001 standard more easily.
 lang: en
