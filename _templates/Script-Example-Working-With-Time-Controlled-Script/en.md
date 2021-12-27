@@ -1,6 +1,6 @@
 ---
 layout: article
-title: script example for working with a time-controlled script
+title: Script example for working with a time-controlled script
 description: 
   - In this template, you'll learn how to use a time-controlled script that displays different values depending on the time of day.
 lang: en
