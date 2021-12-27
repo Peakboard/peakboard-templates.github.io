@@ -1,6 +1,6 @@
 ---
 layout: article
-title: warehouse management dashboard – order picking of small parts with SQL connection
+title: Warehouse management dashboard – order picking of small parts with SQL connection
 description: 
   - With this template you have a better overview of the current workload of your warehouse! A SQL data source is used for this purpose. In order to use the template for your purposes, the Microsoft SQL-Server Native Client must be installed. Download the template now for free and start visualizing SQL data in real-time!
 lang: en
