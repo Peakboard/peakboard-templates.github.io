@@ -1,6 +1,6 @@
 ---
 layout: article
-title: easy production monitoring on a dashboard – your production lines at a glance
+title: Easy production monitoring on a dashboard – your production lines at a glance
 description: 
   - With this template you can easily display relevant production data of your plant in a customized way. Connect your data sources - for example from your machine's ERP systems - and display important key figures such as KPIs, production times, downtimes and other important information such as target/actual comparisons at any time. Using the 'Conditional Formatting' feature, your dashboard displays the status of your machines in real time and you can quickly react to errors on your shopfloor. Download now and keep track of your production!
 lang: en
