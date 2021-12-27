@@ -1,6 +1,6 @@
 ---
 layout: article
-title: digital bulletin board with onedrive connection
+title: Digital bulletin board with OneDrive connection
 description: 
   - Bulletin board 2.0 – keeping employees up to date with an electronic bulletin board. Whether it's general internal communication, the weather, the cafeteria menu, shift schedules, announcements, notices or room allocation plans, you remain completely flexible with regards to media formats, documents and messages. All news, photos and PDF documents can be managed via a OneDrive file. Digital signage made easy.
 lang: en
