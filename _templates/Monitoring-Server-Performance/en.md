@@ -1,6 +1,6 @@
 ---
 layout: article
-title: keeping an eye on the server performance – your server monitoring dashboard
+title: Keeping an eye on the server performance – your server monitoring dashboard
 description: 
   - Your template for easy server monitoring! Visualize all important key figures about the status of your server on an individually configurable dashboard, in real time! Keep relevant information such as server performance and utilization, CPU and RAM, as well as downtimes in view at all times. Peakboard integrates seamlessly into your existing IT infrastructure. Download template now.
 lang: en
