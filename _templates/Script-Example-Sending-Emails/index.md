@@ -1,8 +1,8 @@
 ---
 layout: article
-title: script-beispiel für das versenden von e-mails
+title: Skript-beispiel für das Versenden von E-Mails
 description: 
-  - Diese Vorlage zeigt Ihnen, wie Sie direkt über die Peakboard Box eine E-Mail an Ihre E-Mail-Adresse versenden können. Hierfür müssen Sie eine Tastatur an die Peakboard Box anschließen und gegebenenfalls eine Maus.
+  - Diese Vorlage zeigt dir, wie du direkt über die Peakboard Box eine E-Mail an deine E-Mail-Adresse versendest. Schließe dafür eine Tastatur und ggf. eine Maus an die Peakboard Box an.
 lang: de
 weight: 50
 isDraft: false
