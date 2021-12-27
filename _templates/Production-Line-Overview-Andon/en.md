@@ -1,6 +1,6 @@
 ---
 layout: article
-title: digital andon system with machine data – your production line overview on one dashboard
+title: Digital andon system with machine data – your production line overview on one dashboard
 description: 
   - "This template gives you an overview of a production line and its individual production stations. The visualization shows you in real time exactly the information that is needed on the shopfloor: GAE values, messages of the last incidents, malfunctions and downtimes at the machines, KPIs and the respective shift performance in percent. Decide for yourself which production data is relevant for you. To use the template, you only have to replace the timer scripts with your individual data sources. Download now!"
 lang: en
