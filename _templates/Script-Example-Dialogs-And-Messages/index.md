@@ -1,8 +1,8 @@
 ---
 layout: article
-title: script-beispiel für dialoge und meldungen
+title: sSkript für Dialoge und Meldungen
 description: 
-  - Mit diesem Script-Beispiel können Sie unterschiedliche Dialoge und Meldungen erstellen und verwenden.
+  - Mit diesem Skript kannst du unterschiedliche Dialoge und Meldungen erstellen und verwenden.
 lang: de
 weight: 50
 isDraft: false
