@@ -1,6 +1,6 @@
 ---
 layout: article
-title: IT server monitoring – serverüberwachung in echtzeit
+title: IT Server Monitoring – Serverüberwachung in Echtzeit
 description: 
   - Mit diesem Template behältst du die Serverschränke in deinem Serverraum jederzeit im Blick. So hast du ein übersichtliches Monitoring-Tool zur Darstellung der aktuellen Serverauslastung. Überwache ganz einfach alle genutzten Server, reagiere viel schneller auf potentielle Probleme und steigere dadurch die Verfügbarkeit. Über Sensoren kannst du dir außerdem die Temperatur anzeigen lassen, ebenso ist die Integration eines Alarmsystems möglich.
 lang: de
