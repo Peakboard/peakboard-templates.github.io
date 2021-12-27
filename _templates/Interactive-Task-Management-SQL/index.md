@@ -1,6 +1,6 @@
 ---
 layout: article
-title: dein interaktives produktions-dashboard zur verfolgung des fortschritts von herstellungsprozessen
+title: Dein interaktives Produktionsdashboard zur Verfolgung des Fortschritts von Herstellungsprozessen
 description: 
   - Dieses Template basiert auf einer SQL Datenbank und zeigt den aktuellen Status einer Maschine in Echtzeit. Dadurch können Mitarbeiter ihren Fortschritt im Produktionsprozess nachverfolgen und haben die Möglichkeit mithilfe eines Touchscreens abgeschlossene Arbeitsschritte als erledigt zu markieren. Über ein Script schreibt das Template beim Bedienen des Touchscreens zurück in die SQL Datenbank und meldet so den Abschluss eines Arbeitsschrittes.
 lang: de
