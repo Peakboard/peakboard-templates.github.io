@@ -1,6 +1,6 @@
 ---
 layout: article
-title: digital andon board – the status of your production lines and current OEE values at a glance
+title: Digital andon board – the status of your production lines and current OEE values at a glance
 description: 
   - With this template you can create a digital Andon Board to easily display important key figures of your production lines in real time. Production staff can automatically see important information such as a customer's current order, overall equipment effectiveness (OEE) and the production status at a glance. With real-time visualization of problems in typical Andon Board signal colors, you can keep an eye on problem messages and respond by correcting the fault at lightning speed - increasing productivity and reducing material waste. Download now and get started!
 lang: en
