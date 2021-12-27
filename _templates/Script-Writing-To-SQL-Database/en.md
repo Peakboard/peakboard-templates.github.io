@@ -1,6 +1,6 @@
 ---
 layout: article
-title: writing data to a sql database
+title: Writing data to an SQL database
 description: 
   - This template illustrates how to write data to an SQL Server from your Peakboard Box.
 lang: en
