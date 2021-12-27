@@ -1,6 +1,6 @@
 ---
 layout: article
-title: visualization of machine data – dashboard for an overview of your production line
+title: Visualization of machine data – dashboard for an overview of your production line
 description: 
   - With this template you can monitor your machines in real time! The freely configurable visualization offers you the possibility to display machine data of a single production line in a flexible, automated, and easy-to-use way. With a quick glance at the dashboard you know, for example, the quality level of the current cycle, the cycle length, or the overall system effectiveness (OEE). By replacing the timer script as well as the variables, you can customize the template according to your needs. Download now!
 lang: en
