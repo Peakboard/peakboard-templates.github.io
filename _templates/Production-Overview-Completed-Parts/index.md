@@ -1,6 +1,6 @@
 ---
 layout: article
-title: dein dashboard für die lean management produktion ― übersicht über fertiggestellte teile
+title: Dein Dashboard für die Lean-Produktion ― Übersicht über Fertiggestellte Teile
 description: 
   - Das Dashboard für kontinuierliche Verbesserung in der Lean Produktion!  Dieses Template liefert eine nützliche Übersicht über deine Produktionsprozesse! Lasse dir im Soll-ist-Vergleich die Menge der bereits fertiggestellten Teile und die Zielmenge anzeigen. Zusätzlich können Durchlauf- und Ausfallzeiten, GAE Werte, Auftragsdaten und andere Metainformationen beleuchtet werden. Lade dir das Template direkt herunter und passe es ganz nach deinen Bedürfnissen an.
 lang: de
