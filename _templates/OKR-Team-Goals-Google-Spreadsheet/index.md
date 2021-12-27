@@ -1,6 +1,6 @@
 ---
 layout: article
-title: teamziele einfach und in echtzeit im blick behalten – dein OKR dashboard zur mitarbeitermotivation
+title: Teamziele einfach und in Echtzeit im Blick behalten – dein OKR Dashboard zur Mitarbeitermotivation
 description: 
   - Bei der englischen Bezeichnung OKR handelt es sich um eine Management Methode, die die Ziele eines einzelnen Mitarbeiters mit den Unternehmenszielen verbindet. Dieses Template zeigt bis zu vier Objectives und je drei Key Results an. Hierfür werden die Daten aus einer Variablenliste geladen, die aber auch durch eine andere Datenquelle, wie z.B. Google Spreadsheet oder Excel ersetzt werden kann. Durch die transparente Darstellung der Aufgaben und die Messbarkeit ihres Fortschritts erkennen deine Mitarbeiter, dass sie aktiv zum Erfolg des Unternehmens beitragen und werden so nachhaltig motiviert. Jetzt herunterladen und ganz nach den Bedürfnissen deines Teams individualisieren.
 lang: de
