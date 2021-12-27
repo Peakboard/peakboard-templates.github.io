@@ -1,8 +1,8 @@
 ---
 layout: article
-title: daten in eine sql datenbank schreiben
+title: Daten in eine SQL Datenbank schreiben
 description: 
-  - Dieses Template veranschaulicht, wie Sie Daten in einen SQL Server von Ihrem Peakboard Box aus schreiben können.
+  - Dieses Template veranschaulicht, wie du Daten in einen SQL-Server von deiner Peakboard Box aus zurückschreiben kannst.
 lang: de
 weight: 200
 isDraft: false
