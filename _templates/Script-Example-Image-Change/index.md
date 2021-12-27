@@ -1,8 +1,8 @@
 ---
 layout: article
-title: script-beispiel für einen bilderwechsel
+title: Skript-beispiel für einen Bilderwechsel
 description: 
-  - Dieses Script-Beispiel zeigt, wie Sie interaktiv Bilder aus lokalen oder Web-Quellen austauschen können.
+  - Dieses Skript-Beispiel zeigt, wie du interaktiv Bilder aus lokalen oder Web-Quellen austauschen kannst.
 lang: de
 weight: 50
 isDraft: false
