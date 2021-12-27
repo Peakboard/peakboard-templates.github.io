@@ -1,6 +1,6 @@
 ---
 layout: article
-title: climate protection with Peakboard and Carployee – form carpools and save CO2
+title: Climate protection with Peakboard and Carployee – form carpools and save CO2
 description: 
   - With Carployee's solution, companies effectively support their employees in building car pools. They reduce their environmental footprint by lowering CO2 emissions, as well as reducing traffic jams and saving parking spaces. The generated data is then made visible with a dashboard from Peakboard to communicate the success to all employees, which motivates other employees to join in and also contribute to climate protection. Download the template now and improve your company's mobility behavior sustainably!
 lang: en
