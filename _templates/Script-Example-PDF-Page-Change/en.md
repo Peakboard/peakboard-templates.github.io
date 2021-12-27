@@ -1,8 +1,8 @@
 ---
 layout: article
-title: script example for automatic pdf page change
+title: Script example for automatic PDF page change
 description: 
-  - This board shows a Scripting Example for a PDF data source
+  - This board shows a scripting example for a PDF data source
 lang: en
 weight: 50
 isDraft: false
