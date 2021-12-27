@@ -1,6 +1,6 @@
 ---
 layout: article
-title: script example for automatic scrolling of a list using a dataflow
+title: Script example for automatic scrolling through a list using a dataflow
 description: 
   - This template shows a script example which is intended to filter a data source using a dataflow. Every 5 seconds it will be executed. As soon as all entries have been displayed, the list starts from the beginning.
 lang: en
