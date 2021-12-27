@@ -1,8 +1,8 @@
 ---
 layout: article
-title: script-beispiel für einen interaktiven bildschirmwechsel
+title: Scriptbeispiel für einen interaktiven Bildschirmwechsel
 description: 
-  - In dieser Vorlage zeigen wir Ihnen, wie Sie mit Hilfe von Buttons zwischen mehreren Bildschirmen hin und her wechseln können.
+  - In dieser Vorlage zeigen wir dir, wie du mithilfe von Buttons zwischen mehreren Bildschirmen hin und her wechseln kannst.
 lang: de
 weight: 50
 isDraft: false
