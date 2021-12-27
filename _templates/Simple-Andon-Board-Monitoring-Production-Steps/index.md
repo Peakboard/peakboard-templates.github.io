@@ -1,6 +1,6 @@
 ---
 layout: article
-title: dein digitales andon-board – überwache produktionsschritte mit dem lampensystem
+title: Dein digitales Andon-Board – überwache Produktionsschritte mit dem Lampensystem
 description: 
   - Dieses Template zeigt eine Übersicht der Abläufe einzelner Produktionsschritte eines Auftrags. Ob bei den einzelnen Arbeitsschritten alles planmäßig läuft, wird mittels übersichtlicher Andon-Board Anzeige im typischen Ampelfarbschema angezeigt. Bei Störungen genügt ein kurzer Blick auf den Monitor und die „rote Lampe“ verrät ob es ein Problem gibt, wo es das Problem gibt und seit wann. Das sorgt für Transparenz am Arbeitsplatz, steigert die Motivation und verkürzt Reaktionszeiten. Zusätzlich wird der Auftragsstatus in Echtzeit abgebildet. Lade dir das Template kostenlos herunter, entfernen das hinterlegte Timer Script und füge deine Datenquelle hinzu, um die Visualisierung für deine Zwecke verwenden zu können. 
 lang: de
