@@ -1,6 +1,6 @@
 ---
 layout: article
-title: your logistics controlling dashboard – keep key figures in operational warehouse logistics in view
+title: Your logistics controlling dashboard – keep key figures in operational warehouse logistics in view
 description: 
   - Logistics management made easy! This template provides employees with a quick overview of the current status of individual orders in the goods issue zone. Warehouse key figures such as the current status for the manual, small parts and high-rack warehouse are displayed in an easily understandable and efficient manner. Outstanding items of individual orders are also listed. In addition, current and already corrected errors can be displayed in order to optimize logistics processes easily and reduce logistics costs in the long run. Download now!
 lang: en
