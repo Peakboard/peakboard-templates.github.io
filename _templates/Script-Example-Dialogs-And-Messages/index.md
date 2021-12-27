@@ -1,6 +1,6 @@
 ---
 layout: article
-title: sSkript für Dialoge und Meldungen
+title: Skript für Dialoge und Meldungen
 description: 
   - Mit diesem Skript kannst du unterschiedliche Dialoge und Meldungen erstellen und verwenden.
 lang: de
