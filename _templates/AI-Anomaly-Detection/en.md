@@ -1,6 +1,6 @@
 ---
 layout: article
-title: stay one step ahead – how to avoid misproduction using AI
+title: Stay one step ahead – how to avoid misproduction using AI
 description: 
   - This template uses an AI model in the Azure Cloud to detect when an anomaly occurs in production, increasing the likelihood of a misproduction. To do this, two measured values are sent to an AI model and checked for anomalies using the JSON data source. This value serves as an indicator for the quality of the production and allows you to detect and avoid misproduction in time. The Dahsboard shows you negative values in an easily understandable way and at a glance, so that employees and co-workers can react independently and immediately to avoid faulty production parts. Save time and costs in your production and download our template for free.
 lang: en
