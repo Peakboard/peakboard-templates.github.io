@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Skript für eines einfachen Taschenrechner
+title: Skript für einen einfachen Taschenrechner
 description: 
   - Diese Vorlage zeigt, wie du einen einfachen Taschenrechner (Addition und Subtraktion) erstellst und verwenden kannst.
 lang: de
