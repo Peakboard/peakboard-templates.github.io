@@ -2,7 +2,7 @@
 layout: article
 title: Skriptbeispiel für ein Navigationsmenü
 description: 
-  - Dieses Scriptbeispiel zeigt, wie du eine einfache Navigationsleiste einbauen kannst, um zwischen unterschiedlichen Screens hin und her zu wechseln.
+  - Dieses Skriptbeispiel zeigt, wie du eine einfache Navigationsleiste einbauen kannst, um zwischen unterschiedlichen Screens hin und her zu wechseln.
 lang: de
 weight: 50
 isDraft: false
