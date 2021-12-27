@@ -1,6 +1,6 @@
 ---
 layout: article
-title: produktionsstatus deiner abfüllanlagen – dashboard mit Peakboard Edge
+title: Produktionsstatus deiner Abfüllanlagen – Dashboard mit Peakboard Edge
 description: 
   - Mit diesem Template hast du den Durchsatz deiner Abfüllanlagen jederzeit im Blick und kannst den Fortschritt deiner Produktion ganz leicht verfolgen. Binde zusätzlich weitere relevante Daten, z. B. aus ERP-Systemen ganz einfach an und hilf deinen Mitarbeitern die aktuelle Produktion in Echtzeit zu überblicken. Du benötigst dafür lediglich Peakboard Edge in Kombination mit Peakboard Enterprise und eine handelsübliche Lichtschranke mit einem Relais-Ausgang. Mit diesem Template visualisierst du im Anschluss die anfallenden Daten, um sie so unmittelbar im praktischen Soll-Ist-Vergleich zu kommunizieren. Jetzt herunterladen!
 lang: de
