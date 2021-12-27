@@ -1,6 +1,6 @@
 ---
 layout: article
-title: dashboard für eine produktionsfabrik – übersicht über den status mehrerer produktionshallen eines standortes
+title: Dashboard für eine Produktionsfabrik – Übersicht über den Status mehrerer Produktionshallen eines Standortes
 description: 
   - Mit diesem Template kannst du einfach und effizient wichtige Kennzahlen des Produktionsprozesses in mehreren Produktionshallen überwachen. Es beinhaltet Informationen zum Status der einzelnen Linien, sowie KPIs und Metainformationen zu den aktuellen Aufträgen. Mitarbeiter können außerdem den Soll-Ist-Vergleich der einzelnen Produktionslinien in einem anschaulichen Diagramm sehen, was die Motivation und Produktivität erhöhen und dadurch bei der Optimierung der Produktionsprozesse helfen kann. Das Template ist  frei konfigurierbar, lade es also direkt herunter und passe es individuell an die Bedürfnisse deines Fertigungsunternehmens an.
 lang: de
