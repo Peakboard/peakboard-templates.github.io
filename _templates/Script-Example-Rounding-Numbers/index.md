@@ -1,8 +1,8 @@
 ---
 layout: article
-title: script-beispiel zum runden von zahlen
+title: Skript zum Runden von Zahlen
 description: 
-  - Dieses Beispiel zeigt, wie Sie mit Zahlen arbeiten, diese Runden und in einer Tabelle anzeigen können.
+  - Dieses Beispiel zeigt, wie du mit Zahlen arbeitest, wie du sie rundest und in einer Tabelle anzeigen kannst.
 lang: de
 weight: 50
 isDraft: false
