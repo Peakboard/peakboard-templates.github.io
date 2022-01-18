@@ -1,23 +1,18 @@
 ---
 layout: article
-title: OEE dashboard – overview your production line
+title: Fleet Management Dashboard for real-time information about your fleet
 description: 
-  - With this template you can visualize important information of a single production line. Display classic key figures of your machines such as target / actual comparisons of quantities, overall system effectiveness (OEE) or downtimes in real-time. Download this template so you can quickly and clearly see the current status of an order as well as the development of the OEE.  Improve your production processes and save resources in production. Get started now and download for free!
+  - This useful dashboard gives you real-time information about your fleet and makes your fleet management easier! Keep an eye on how many vehicles are available for your drivers and which ones are currently in use or in the workshop. Additionally, this Fleet Management Dashboard shows you when exactly the next appointments for the workshop or customer service are scheduled. Other important key figures such as the costs for fuel, maintenance or insurance as well as the kilometers driven are also presented in a clear manner - in comprehensible diagrams and, of course, in real time.
 lang: en
 weight: 1000
 isDraft: true
-ref: Overview-Of-Single-Production-Line
+ref: Fleet-Management
 category:
   - All
-  - Production
-  - Serial Production
-  - Car
-  - Warning
-  - Error
-  - Shopfloor
+  - Logistics
 image: Overview-Of-Single-Production-Line.png
 image_thumbnail: Overview-Of-Single-Production-Line_thumbnail.png
-download: Overview-Of-Single-Production-Line.pbmx
+download: Fleet-Management.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
