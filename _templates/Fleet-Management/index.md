@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Fleet Management Dashboard for real-time information about your fleet
+title: Fleet Management Dashboard für die Echtzeit-Informationen zu deinem Fuhrpark
 description: 
-  - This useful dashboard gives you real-time information about your fleet and makes your fleet management easier! Keep an eye on how many vehicles are available for your drivers and which ones are currently in use or in the workshop. Additionally, this Fleet Management Dashboard shows you when exactly the next appointments for the workshop or customer service are scheduled. Other important key figures such as the costs for fuel, maintenance or insurance as well as the kilometers driven are also presented in a clear manner - in comprehensible diagrams and, of course, in real time.
+  - Dieses nützliche Dashboard gibt dir Echtzeit-Auskunft über deine Flotte und erleichtert dir so dein Flottenmanagement! Behalte jederzeit im Blick, wie viele Fahrzeuge für deine Fahrer und Fahrerinnen verfügbar, bzw. welche gerade im Einsatz oder in der Werkstatt sind. Außerdem zeigt dir dieses Fleet Management Dashboard, wann genau die nächsten Termine für die Werkstatt oder den Kundendienst geplant sind. Weitere wichtige Kennzahlen wie beispielsweise die Kosten für Sprit, Wartung oder Versicherung sowie die zurückgelegten Kilometer werden ebenfalls übersichtlich dargestellt - in verständlichen Diagrammen und natürlich in Echtzeit.
 lang: de
 weight: 1000
 isDraft: true
