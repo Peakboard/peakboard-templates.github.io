@@ -1,22 +1,22 @@
 ---
 layout: article
-title: Fleet Management Dashboard für die Echtzeit-Informationen zu deinem Fuhrpark
+title: Serverlose Maschinendaten-Visualisierung ― Dashboard zur Übersicht deiner Produktionslinie
 description: 
-  - Dieses nützliche Dashboard gibt dir Echtzeit-Auskunft über deine Flotte und erleichtert dir so dein Flottenmanagement! Behalte jederzeit im Blick, wie viele Fahrzeuge für deine Fahrer und Fahrerinnen verfügbar, bzw. welche gerade im Einsatz oder in der Werkstatt sind. Außerdem zeigt dir dieses Fleet Management Dashboard, wann genau die nächsten Termine für die Werkstatt oder den Kundendienst geplant sind. Weitere wichtige Kennzahlen wie beispielsweise die Kosten für Sprit, Wartung oder Versicherung sowie die zurückgelegten Kilometer werden ebenfalls übersichtlich dargestellt – in verständlichen Diagrammen und natürlich in Echtzeit.
+  - Mit diesem Template überwachst du deine Maschinen in Echtzeit! Die frei konfigurierbare Visualisierung bietet dir die Möglichkeit Maschinendaten einer einzelnen Produktionslinie flexibel, automatisiert und unkompliziert abzubilden. Mit einem kurzen Blick auf das Dashboard kennst du so z. B. das Qualitätslevel des aktuellen Zyklus, die Zykluslänge oder die Gesamtanlageneffektivität. Durch das Ersetzen des Timer-Scripts sowie der Variablen, kannst du das Template ganz nach deinen Bedürfnissen anpassen. Jetzt herunterladen!
 lang: de
-weight: 500
+weight: 1000
 isDraft: false
-ref: Fleet-Management
+ref: Overview-Production-Line-Status-And-Quality
 category:
   - Alle
-  - Produktion
-  - Lean Management
-  - OEE / GAE
+  - Empfohlen
   - Serienfertigung
+  - OEE / GAE
+  - Lean Management
   - Shopfloor
-image: Uebersicht-Ueber-Fertigungslinie.png
-image_thumbnail: Uebersicht-Ueber-Fertigungslinie_thumbnail.png
-download: Uebersicht-Ueber-Fertigungslinie.pbmx
+image: Uebersicht-Produktionslinie-Status-Qualitaet.png
+image_thumbnail: Uebersicht-Produktionslinie-Status-Qualitaet_thumbnail.png
+download: Uebersicht-Produktionslinie-Status-Qualitaet.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
