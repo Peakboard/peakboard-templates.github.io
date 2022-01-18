@@ -1,22 +1,19 @@
 ---
 layout: article
-title: Serverlose Maschinendaten-Visualisierung ― Dashboard zur Übersicht deiner Produktionslinie
+title: Fleet Management Dashboard für die Echtzeit-Informationen zu deinem Fuhrpark
 description: 
-  - Mit diesem Template überwachst du deine Maschinen in Echtzeit! Die frei konfigurierbare Visualisierung bietet dir die Möglichkeit Maschinendaten einer einzelnen Produktionslinie flexibel, automatisiert und unkompliziert abzubilden. Mit einem kurzen Blick auf das Dashboard kennst du so z. B. das Qualitätslevel des aktuellen Zyklus, die Zykluslänge oder die Gesamtanlageneffektivität. Durch das Ersetzen des Timer-Scripts sowie der Variablen, kannst du das Template ganz nach deinen Bedürfnissen anpassen. Jetzt herunterladen!
+  - Dieses nützliche Dashboard gibt dir Echtzeit-Auskunft über deine Flotte und erleichtert dir so dein Flottenmanagement! Behalte jederzeit im Blick, wie viele Fahrzeuge für deine Fahrer und Fahrerinnen verfügbar, bzw. welche gerade im Einsatz oder in der Werkstatt sind.
+ - Außerdem zeigt dir dieses Fleet Management Dashboard, wann genau die nächsten Termine für die Werkstatt oder den Kundendienst geplant sind. Weitere wichtige Kennzahlen wie beispielsweise die Kosten für Sprit, Wartung oder Versicherung sowie die zurückgelegten Kilometer werden ebenfalls übersichtlich dargestellt – in verständlichen Diagrammen und natürlich in Echtzeit.
 lang: de
 weight: 1000
-isDraft: false
-ref: Overview-Production-Line-Status-And-Quality
+isDraft: true
+ref: Fleet-Management
 category:
   - Alle
-  - Empfohlen
-  - Serienfertigung
-  - OEE / GAE
-  - Lean Management
-  - Shopfloor
-image: Uebersicht-Produktionslinie-Status-Qualitaet.png
-image_thumbnail: Uebersicht-Produktionslinie-Status-Qualitaet_thumbnail.png
-download: Uebersicht-Produktionslinie-Status-Qualitaet.pbmx
+  - Logistik
+image: Flottenmanagement.png
+image_thumbnail: Flottenmanagement_thumbnail.png
+download: Fleet-Management.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
