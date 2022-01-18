@@ -1,23 +1,21 @@
 ---
 layout: article
-title: 单一生产线概览
+title: Fleet Management Dashboard for real-time information about your fleet
 description: 
-  - 模板展示了单一生产线多个常用指标，例如目标/实际对比和设备综合效率，让您能快速、清楚地获得订单当前状态概览以及设备综合效率的发展变化。
+  - This useful dashboard gives you real-time information about your fleet and makes your fleet management easier! Keep an eye on how many vehicles are available for your drivers and which ones are currently in use or in the workshop. Additionally, this Fleet Management Dashboard shows you when exactly the next appointments for the workshop or customer service are scheduled. Other important key figures such as the costs for fuel, maintenance or insurance as well as the kilometers driven are also presented in a clear manner - in comprehensible diagrams and, of course, in real time.
 lang: cn
 weight: 1000
 isDraft: true
-ref: Overview-Of-Single-Production-Line
+ref: Fleet-Management
 category:
-  - 所有
-  - 生产制造
-  - Serial Production
-  - Car
-  - Warning
-  - Error
-image: Overview-Of-Single-Production-Line_CN.png
-image_thumbnail: Overview-Of-Single-Production-Line_CN_thumbnail.png
-download: Overview-Of-Single-Production-Line_CN.pbmx
+  - All
+  - Logistics
+image: Fleet-Management_CN.png
+image_thumbnail: Fleet-Management_CN_thumbnail.png
+download: Fleet-Management.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# possible data sources
+This template uses Excel as fictitious data sources. In a real scenario you could connect your systems instead. Data for the different areas of this board could come from completely different systems, you can find an overview [here](https://peakboard.com/en/interfaces/).
