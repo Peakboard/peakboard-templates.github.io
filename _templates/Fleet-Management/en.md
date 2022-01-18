@@ -10,8 +10,8 @@ ref: Fleet-Management
 category:
   - All
   - Logistics
-image: Overview-Of-Single-Production-Line.png
-image_thumbnail: Overview-Of-Single-Production-Line_thumbnail.png
+image: Fleet-Management.png
+image_thumbnail: Fleet-Management.png_thumbnail.png
 download: Fleet-Management.pbmx
 overview_description:
 overview_benefits:
