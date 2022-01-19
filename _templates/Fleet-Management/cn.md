@@ -18,4 +18,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # 可使用的数据源
-模板使用Excel作为虚拟数据源。在真实场景中，您可以连接自己的数据系统。模板不同区域的数据可从完全不同的系统中获取，请在此[here](https://peakboard.com/en/interfaces/)查看总览。
+模板使用Excel作为虚拟数据源。在真实场景中，您可以连接自己的数据系统。模板不同区域的数据可从完全不同的系统中获取，请[在此](https://peakboard.com/en/interfaces/)查看总览。
