@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Fleet Management Dashboard for real-time information about your fleet
+title: 车队管理看板 —— 实时掌控车队信息
 description: 
-  - This useful dashboard gives you real-time information about your fleet and makes your fleet management easier! Keep an eye on how many vehicles are available for your drivers and which ones are currently in use or in the workshop. Additionally, this Fleet Management Dashboard shows you when exactly the next appointments for the workshop or customer service are scheduled. Other important key figures such as the costs for fuel, maintenance or insurance as well as the kilometers driven are also presented in a clear manner - in comprehensible diagrams and, of course, in real time.
+  - 看板可为您提供车队实时信息，让车队管理更容易！随时掌握司机可用车辆的数量以及哪些车辆在途或在站。另外，它还展示了下一个工作坊或客户服务的具体预约时间。其他关键数据，例如燃油、保养或保险成本以及已行驶公里数也通过全面的图表实时展现，一目了然。
 lang: cn
 weight: 1000
 isDraft: true
@@ -17,5 +17,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
-This template uses Excel as fictitious data sources. In a real scenario you could connect your systems instead. Data for the different areas of this board could come from completely different systems, you can find an overview [here](https://peakboard.com/en/interfaces/).
+# 可使用的数据源
+模板使用Excel作为虚拟数据源。在真实场景中，您可以连接自己的数据系统。模板不同区域的数据可从完全不同的系统中获取，请在此[here](https://peakboard.com/en/interfaces/)查看总览。
