@@ -12,7 +12,7 @@ category:
   - Logistics
 image: Fleet-Management_CN.png
 image_thumbnail: Fleet-Management_CN_thumbnail.png
-download: Fleet-Management.pbmx
+download: Fleet-Management_CN.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

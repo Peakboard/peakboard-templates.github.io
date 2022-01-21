@@ -12,7 +12,7 @@ category:
   - Logistik
 image: Flottenmanagement.png
 image_thumbnail: Flottenmanagement_thumbnail.png
-download: Fleet-Management.pbmx
+download: Flottenmanagement.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
