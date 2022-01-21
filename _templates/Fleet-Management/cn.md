@@ -5,7 +5,7 @@ description:
   - 看板可为您提供车队实时信息，让车队管理更容易！随时掌握司机可用车辆的数量以及哪些车辆在途或在站。另外，它还展示了下一个工作坊或客户服务的具体预约时间。其他关键数据，例如燃油、保养或保险成本以及已行驶公里数也通过全面的图表实时展现，一目了然。
 lang: cn
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Fleet-Management
 category:
   - All
