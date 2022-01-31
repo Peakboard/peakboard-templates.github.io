@@ -160,3 +160,11 @@
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
 }
+
+/* Add orange full stop (dot) */
+h1:after,
+h2:after,
+h3:after{
+  color: #ffa500;
+  content: ".";
+}
