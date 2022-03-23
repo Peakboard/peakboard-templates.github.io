@@ -8,7 +8,7 @@ Die mithilfe des Touchscreens erfassten Daten werden in einer Liste in Peakboard
 Lade dir das Template jetzt kostenlos herunter und passe es an deine individuellen Bedürfnisse oder das Corporate Design deines Unternehmens an. Für eine noch einfachere Bedienbarkeit wurden alle Skripte in dieser Vorlage mit Peakboard Building Blocks, unserem Low-Code-Skripteditor, erstellt. TEST
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Test
 category:
   - Alle
@@ -22,3 +22,6 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+# mögliche datenquellen
+Dieses Template verwendeten eine Peakboard Hub Liste als zentrale Datenquelle. Die Daten, die mithilfe des Touchscreens erfasst werden, werden dabei in eine Peakboard Hub Liste geschrieben, die dann für die Datenvisualisierung ausgelesen wird. Alternativ können hierfür andere Datenbanken wie SQL, Oracle oder ODBC genutzt werden.
