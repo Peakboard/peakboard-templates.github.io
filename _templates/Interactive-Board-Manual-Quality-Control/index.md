@@ -8,7 +8,7 @@ Die mithilfe des Touchscreens erfassten Daten werden in einer Liste in Peakboard
 Lade dir das Template jetzt kostenlos herunter und passe es an deine individuellen Bedürfnisse oder das Corporate Design deines Unternehmens an. Für eine noch einfachere Bedienbarkeit wurden alle Skripte in dieser Vorlage mit Peakboard Building Blocks, unserem Low-Code-Skripteditor, erstellt. TEST
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Interactive-Board-Manual-Quality-Control
 category:
   - Alle
