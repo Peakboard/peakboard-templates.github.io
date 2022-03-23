@@ -9,7 +9,7 @@ Lade dir das Template jetzt kostenlos herunter und passe es an deine individuell
 lang: de
 weight: 1000
 isDraft: false
-ref: Test
+ref: Interactive-Board-Manual-Quality-Control
 category:
   - Alle
   - Produktion
