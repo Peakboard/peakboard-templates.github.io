@@ -9,10 +9,12 @@ isDraft: true
 ref: Interactive-Board-Manual-Quality-Control
 category:
   - Alle
-  - Logistik
-image: Flottenmanagement.png
-image_thumbnail: Flottenmanagement_thumbnail.png
-download: Flottenmanagement.pbmx
+  - Produktion
+  - Shopfloor
+  - Interaktion
+image: Interaktives-Board-Manuelle-Qualitaetskontrolle.png
+image_thumbnail: Interaktives-Board-Manuelle-Qualitaetskontrolle_thumbnail.png
+download: Interaktives-Board-Manuelle-Qualitaetskontrolle.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
