@@ -33,3 +33,13 @@ Um dieses Template  vollumfänglich nutzen zu könnten, benötigst du den Peakbo
 Wähle als als Namen der Liste “QualityData” und selektiere die zuvor heruntergeladene Datei.
 
 ![](img/peakboard-hub-import-list.png)
+
+ Öffne nun den Peakboard Designer und stelle wie [hier](https://help.peakboard.com/hub/de-hub_connectpbdesigner.html) erklärt, eine Verbindung zum Peakboard Hub her. Öffne nun dieses Template im Peakboard Designer und gehe erneut in die Peakboard Hub Einstellungen.
+
+ ![](img/peakboard-designer-hub-settings.png)
+
+Klicke auf den “Überschreiben” Button um die Hub Connection des Templates mit deinen eigenen Anmeldedaten zu überschreiben.
+
+ ![](img/peakboard-designer-overwrite-credentials.png)
+
+ Nun ist alles Bereit und das Template schreibt die erfassten Daten in die entsprechende Liste im Peakboard Hub.
