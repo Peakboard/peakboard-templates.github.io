@@ -1,8 +1,11 @@
 ---
 layout: article
-title: Fleet Management Dashboard for real-time information about your fleet
+title: Operational data acquisition made easy - your interactive dashboard for quality control
 description: 
-  - This useful dashboard gives you real-time information about your fleet and makes your fleet management easier! Keep an eye on how many vehicles are available for your drivers and which ones are currently in use or in the workshop. Additionally, this Fleet Management Dashboard shows you when exactly the next appointments for the workshop or customer service are scheduled. Other important key figures such as the costs for fuel, maintenance or insurance as well as the kilometers driven are also presented in a clear manner - in comprehensible diagrams and, of course, in real time.
+  - This template serves as an interactive dashboard for manual operational data acquisition in quality control. Through a touchscreen display, workers can interact with the dashboard and make entries on the items inspected. If an item is without defects, the worker can log this by pressing the "OK" button. If an item is faulty, the error can be specified in more detail using the corresponding buttons.
+  - Based on this data, the dashboard provides your employees with an overview of their own and neighboring production lines. Thanks to the real-time visualization, they also see immediately if a certain error has become disproportionately frequent. This allows them to react quickly and optimize the corresponding production process immediately.
+  - All the data collected through the touchscreen is stored and persisted in a list in Peakboard Hub. This allows you to use the data not only for a real-time overview, but also for historical analysis. The long-term analysis can be performed either via the dashboard itself or using a BI tool such as Power BI, Tableau or Click.
+  - Download the template now for free and customize it to your individual needs or your company's corporate design. For even easier usability, all scripts in this template were created using Peakboard Building Blocks, our low-code script editor.
 lang: en
 weight: 1000
 isDraft: true
@@ -20,4 +23,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # possible data sources
-This template uses Excel as fictitious data sources. In a real scenario you could connect your systems instead. Data for the different areas of this board could come from completely different systems, you can find an overview [here](https://peakboard.com/en/interfaces/).
+This template uses a Peakboard Hub list as the central data source. The data collected using the touchscreen is written to a Peakboard Hub list, which is then read out for the data visualization. Alternatively, you can use other databases such as SQL, Oracle or ODBC for this purpose.
