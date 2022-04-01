@@ -1,0 +1,1 @@
+[{"Name":"Day","OriginalName":"Day","Type":1},{"Name":"State","OriginalName":"State","Type":3},{"Name":"Line","OriginalName":"Line","Type":3}]

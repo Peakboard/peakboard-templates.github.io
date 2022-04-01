@@ -25,3 +25,11 @@ overview_data_sources:
 # mögliche datenquellen
 Dieses Template verwendeten eine Peakboard Hub Liste als zentrale Datenquelle. Die Daten, die mithilfe des Touchscreens erfasst werden, werden dabei in eine Peakboard Hub Liste geschrieben, die dann für die Datenvisualisierung ausgelesen wird. Alternativ können hierfür andere Datenbanken wie SQL, Oracle oder ODBC genutzt werden.
 
+# so funktioniert's
+
+Dieses Template verwendet die FORCAM FORCE™ [Bridge API](https://docs.forcebridge.io/).
+
+
+Um dieses Template  vollumfänglich nutzen zu könnten, benötigst du den Peakboard Hub. Wie du diesen installierst, erfährst du [hier](https://help.peakboard.com/hub/de-hub_installation.html).
+
+
