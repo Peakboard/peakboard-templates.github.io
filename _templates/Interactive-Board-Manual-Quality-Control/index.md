@@ -26,10 +26,8 @@ overview_data_sources:
 Dieses Template verwendeten eine Peakboard Hub Liste als zentrale Datenquelle. Die Daten, die mithilfe des Touchscreens erfasst werden, werden dabei in eine Peakboard Hub Liste geschrieben, die dann für die Datenvisualisierung ausgelesen wird. Alternativ können hierfür andere Datenbanken wie SQL, Oracle oder ODBC genutzt werden.
 
 # so funktioniert's
+Um dieses Template  vollumfänglich nutzen zu könnten, benötigst du den Peakboard Hub. Wie du diesen installierst, erfährst du [hier](https://help.peakboard.com/hub/de-hub_installation.html). Öffnen den Peakboard Hub, wähle im Menü “Lists” und importiere mithilfe des Import Buttons folgende [Datei](peakboard-templates.github.io/_templates/Interactive-Board-Manual-Quality-Control/QualityData.txt) mit der Tabellenstruktur. Gebe als Namen der Liste “QualityData” ein.
 
-Dieses Template verwendet die FORCAM FORCE™ [Bridge API](https://docs.forcebridge.io/).
+![](img/peakboard-hub-lists.png)
 
-
-Um dieses Template  vollumfänglich nutzen zu könnten, benötigst du den Peakboard Hub. Wie du diesen installierst, erfährst du [hier](https://help.peakboard.com/hub/de-hub_installation.html).
-
-
+![](img/peakboard-hub-import-list.png)
