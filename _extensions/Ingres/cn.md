@@ -7,7 +7,7 @@ description:
   - 拓件能让您在Peakboard中连接Ingres数据库，将其作为数据源，并使用SQL语句从中读取数据。
 lang: cn
 weight: 1000
-isDraft: false
+isDraft: true
 ref: ingres
 image: Ingres_Extention_Logo.png
 image_thumbnail: Ingres_Extention_Logo_thumbnail.png

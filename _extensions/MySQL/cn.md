@@ -7,7 +7,7 @@ description:
   - 拓件能让您在Peakboard中连接MySQL数据库，并将其作为数据源。您可以使用SQL语句从中读取数据。
 lang: cn
 weight: 1000
-isDraft: false
+isDraft: true
 ref: mysql
 image: MYSQL_Extention_Logo.png
 image_thumbnail: MYSQL_Extention_Logo_thumbnail.png

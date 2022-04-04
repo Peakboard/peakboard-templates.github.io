@@ -8,7 +8,7 @@ description:
   - OData是一个开放的协议，能让您创建并使用RESTful API。在本拓件的帮助下，您就可以读取返回JSON格式数据的API。
 lang: cn
 weight: 1000
-isDraft: false
+isDraft: true
 ref: odatav4
 image: OdataV4_Extension_Logo.png
 image_thumbnail: OdataV4_Extension_Logo_thumbnail.png
