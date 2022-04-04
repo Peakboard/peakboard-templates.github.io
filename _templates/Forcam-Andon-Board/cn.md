@@ -5,7 +5,7 @@ description:
   - 在生产领域，安东板通常用作车间监控工具，对组装线或生产系统的生产状态进行可视化处理。该模板通过连接富勘FORCE™ —— 富勘为工业物联网（IIOT）设计的IT平台，轻松地优化了生产进程。看板实时可视化展示了三个工作站。进程数据以及设备总体效率（OEE）数据均通过富勘FORCE™ bridge API获取，并可视化在安东板上。
 lang: cn
 weight: 1800
-isDraft: false
+isDraft: true
 ref: Forcam-Andon-Board
 category:
   - 所有

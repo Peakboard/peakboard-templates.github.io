@@ -5,7 +5,7 @@ description:
   - 模板展示了在Peakboard中如何处理键盘输入。
 lang: cn
 weight: 50
-isDraft: false
+isDraft: true
 ref: Script_Key_Inputs
 category:
   - 所有

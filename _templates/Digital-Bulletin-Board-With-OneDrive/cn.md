@@ -5,7 +5,7 @@ description:
   - 布告板2.0 —— 使用电子布告板帮助员工了解最新信息。无论是一般的内部沟通、天气、咖啡馆菜单、排班表、通知、备注或房间分配计划，您都可以非常灵活地选择媒体格式、文件和消息。所有的新闻、图片和PDF文件都可以通过一个OneDrive文件进行管理。电子信息板从此变得简单。
 lang: cn
 weight: 1900
-isDraft: false
+isDraft: true
 ref: Digital-Bulletin-Board-With-OneDrive
 category:
   - 所有

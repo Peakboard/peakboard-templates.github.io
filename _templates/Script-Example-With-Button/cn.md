@@ -5,7 +5,7 @@ description:
   - 通过该脚本，您可以了解到如何在Peakboard中使用按钮。
 lang: cn
 weight: 50
-isDraft: false
+isDraft: true
 ref: Script_Button_Example
 category:
   - 所有

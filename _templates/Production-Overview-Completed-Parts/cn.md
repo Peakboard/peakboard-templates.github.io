@@ -5,7 +5,7 @@ description:
   - 模板以概览的方式展示已完成的零件，并将其与订单数量对比。另外，它也显示出OEE（设备整体效率）值、订单原始信息以及下线时间。
 lang: cn
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Production-Overview-Completed-Parts
 category:
   - 所有

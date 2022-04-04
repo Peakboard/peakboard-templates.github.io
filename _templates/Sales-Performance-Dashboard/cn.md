@@ -5,7 +5,7 @@ description:
   - 您可以用该模板创建自己的销售看板，用直观的指标帮助您营造竞争氛围。
 lang: cn
 weight: 500
-isDraft: false
+isDraft: true
 ref: Sales-Performance-Dashboard
 category:
   - 所有

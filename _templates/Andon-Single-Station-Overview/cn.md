@@ -5,7 +5,7 @@ description:
   - 模板为您提供了多个工作站概览，让您对任一工作站中可能出现的问题都能作出快速反应。 它可用于生产（订单处理生产）和组装线。
 lang: cn
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Andon-Single-Station-Overview
 category:
   - 所有

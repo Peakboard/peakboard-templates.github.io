@@ -5,7 +5,7 @@ description:
   - 脚本展示了应如何添加一个简单的切换栏，从而在不同的屏幕看板之间切换。
 lang: cn
 weight: 50
-isDraft: false
+isDraft: true
 ref: Script_Navigation_Menu
 category:
   - 所有

@@ -5,7 +5,7 @@ description:
   - 在此模板中，您可以了解到如何使用时间控制脚本。根据所在的当天时间段，脚本会显示不同的值。
 lang: cn
 weight: 50
-isDraft: false
+isDraft: true
 ref: Script_Timer_Text
 category:
   - 所有

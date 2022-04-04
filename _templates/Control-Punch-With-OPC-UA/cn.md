@@ -5,7 +5,7 @@ description:
   - 模板展示了如何轻松使用OPC UA在Peakboard和冲压机之间建立通信。它能为您和公司员工实时提供有关当前生产订单的重要信息，让您随时了解订单数据，例如已完成和未完成的数量，目标/实际对比以及用加载条显示的进度情况，轻松易懂。我们的可视化软件，Peakboard Designer对用户非常友好；并且，看板的高度个性化能让您随心所欲地呈现机器数据。下载模板，即可根据您的需要对其进行个性化设计。
 lang: cn
 weight: 500
-isDraft: false
+isDraft: true
 ref: Control-Punch-OPCA-UA
 category:
   - 所有

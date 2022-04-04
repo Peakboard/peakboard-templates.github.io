@@ -5,7 +5,7 @@ description:
   - 模板展示了PDF数据源的脚本示例。
 lang: cn
 weight: 50
-isDraft: false
+isDraft: true
 ref: Script_PDF_Viewer
 category:
   - 所有

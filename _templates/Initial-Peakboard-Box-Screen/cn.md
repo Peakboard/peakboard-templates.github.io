@@ -5,7 +5,7 @@ description:
   -  使用新 Peakboard Box时，就会显示该模板。它会一步步地指导您将Box连接至Peakboard Designer软件，您还可以使用鼠标或触摸屏为Box设置无线网。
 lang: cn
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Initial-Peakboard-Box-Screen
 category:
   - 所有

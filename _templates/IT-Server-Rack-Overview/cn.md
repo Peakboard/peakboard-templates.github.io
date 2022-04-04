@@ -5,7 +5,7 @@ description:
   - 利用该模板随时管控服务器室内的服务器机架。将其用作一个高效的监控系统，展示服务器当前负荷。监控所有正在运行的服务器，对潜在问题作出更快反应并提高可用时间。使用传感器测量温度，或集成报警系统。
 lang: cn
 weight: 1000
-isDraft: false
+isDraft: true
 ref: IT-Server-Rack-Overview
 category:
   - 所有

@@ -5,7 +5,7 @@ description:
   - 利用西门子S7控制器，模板展示了如何轻松地在Peakboard与冲压机之间建立通信。马上下载模板，配置自己的个性化看板！Peakboard功能丰富，整合了各种不同的交互界面，能为您提供极大的灵活性。
 lang: cn
 weight: 500
-isDraft: false
+isDraft: true
 ref: Control-Punching-Machine-Siemens-S7
 category:
   - 所有

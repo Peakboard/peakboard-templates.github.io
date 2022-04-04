@@ -5,7 +5,7 @@ description:
   - 数字化改造对您来说既昂贵又耗费时间？您可以直接升级已有的旧设备！只需一个搭配Peakboard Edge的企业版Peakboard Box和一个可输出数据的标准光栅。您可以利用该模板可视化收集的数据，并直接将其传达给相关人员。马上下载吧！
 lang: cn
 weight: 1400
-isDraft: false
+isDraft: true
 ref: Edge-Lightgate-Counter-Retrofitting
 category:
   - 所有

@@ -5,7 +5,7 @@ description:
   - 模板展示了拥有多个工作站的单一生产线概览。另外，它还提供不同班组表现、最近动态报告和设备总体效率（OEE）等信息。使用时，只需用您自己的数据源替代模板中的定时器脚本。
 lang: cn
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Production-Line-Overview-Andon
 category:
   - 所有

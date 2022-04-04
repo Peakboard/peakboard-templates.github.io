@@ -5,7 +5,7 @@ description:
 - 借助Peakboard Edge，模板展示了应如何计算一个罐装工厂的生产量。另外，您还可以掌握每条产线的当前状态。其他系统中的数据，例如ERP，也可以帮助员工了解当前的生产情况。您只需一个配备Peakboard Edge的企业版Peakboard Box，以及一个带有信号输出的标准光栅。然后，您就可以使用该模板可视化所获得的数据，直接将其传达给相关人员。立刻下载吧！
 lang: cn
 weight: 1800
-isDraft: false
+isDraft: true
 ref: Edge-Lightgate-Multiple-Counters
 redirect_from:
   - /Edge-Lightgate-Mutliple-Counters/cn

@@ -5,7 +5,7 @@ description:
   - 您可以使用该脚本示例了解如何在Peakboard中使用动画。
 lang: cn
 weight: 50
-isDraft: false
+isDraft: true
 ref: Script_Animate
 category:
   - 所有

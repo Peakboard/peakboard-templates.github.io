@@ -6,7 +6,7 @@ description:
   - 免费下载模板，实现电子化接收订单；确保生产过程的流畅，长期来看还可最小化等待时间。 
 lang: cn
 weight: 1823
-isDraft: false
+isDraft: true
 ref: Intralogistics-Receive-Orders-via-MQTT
 category:
   - 所有

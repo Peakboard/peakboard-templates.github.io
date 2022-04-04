@@ -5,7 +5,7 @@ description:
   - 模板展示了如何创建并使用简易的计算器（加法和减法）。
 lang: cn
 weight: 50
-isDraft: false
+isDraft: true
 ref: Script_Calculator
 category:
   - 所有

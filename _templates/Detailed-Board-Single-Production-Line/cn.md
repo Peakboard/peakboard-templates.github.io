@@ -5,7 +5,7 @@ description:
   - 利用该模板，您可以一种轻松易懂的方式展示单条生产线关键生产数据。轻松地将机器设备数据、生产和控制数据以及关键数据（例如KPI）直接显示在屏幕上。实时数据能让您更加了解生产状态，减少下线时间，从而助您达到产量最大化。马上下载使用吧！
 lang: cn
 weight: 2100
-isDraft: false
+isDraft: true
 carousel: true
 ref: Detailed-Board-Single-Production-Line
 category:

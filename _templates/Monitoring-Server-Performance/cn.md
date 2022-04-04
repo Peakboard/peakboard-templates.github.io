@@ -5,7 +5,7 @@ description:
   - 使用该模板实时可视化服务器表现和使用情况的各项指标。
 lang: cn
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Monitoring-Server-Performance
 category:
   - 所有

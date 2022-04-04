@@ -5,7 +5,7 @@ description:
   - 该看板提供单个车间生产进程的详细概览。它使用FORCAM FORCE™数据源 —— FORCAM为工业物联网（IIOT）打造的IT平台。它通过FORCAM FORCE™ Bridge API获取生产数据，并融合其他参数，例如每小时速率和单价，获得完整的订单状态概览并实时监控车间运行。此外，当出现由机器故障导致的损失，您也可以了然于胸。该模板能帮助您优化进程，从而提高利润率。 
 lang: cn
 weight: 1800
-isDraft: false
+isDraft: true
 ref: Forcam-Costs-Overview
 category:
   - 所有

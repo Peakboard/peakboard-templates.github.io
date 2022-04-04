@@ -6,7 +6,7 @@ description:
   - 免费下载模板，将其用作交互式电子订单列表；员工可以利用触摸屏对其进行操作，向仓库请求缺少的生产零件。这样就可确保生产过程的顺畅，尽可能地减少等待时间，非常高效。 
 lang: cn
 weight: 1824
-isDraft: false
+isDraft: true
 ref: Intralogistics-Order-Parts-with-MQTT
 category:
   - 所有

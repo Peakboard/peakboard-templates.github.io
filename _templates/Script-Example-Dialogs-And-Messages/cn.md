@@ -5,7 +5,7 @@ description:
   - 您可以使用该脚本创建并使用不同的对话和消息。
 lang: cn
 weight: 50
-isDraft: false
+isDraft: true
 ref: Script_Dialogs_and_Messages
 category:
   - 所有

@@ -5,7 +5,7 @@ description:
   - 模板演示了如何从Peakboard Box中向SQL Server写数据。
 lang: cn
 weight: 200
-isDraft: false
+isDraft: true
 ref: Example_Write_into_SQL
 category:
   - 所有

@@ -5,7 +5,7 @@ description:
   - 利用Carployee解决方案，公司可以有效地帮助员工组织拼车。通过降低二氧化碳排放、缓解交通拥堵和节省停车位，减少对环境的影响。然后，利用Peakboard将产生的数据制作成看板，向所有员工展示所取得的成就，从而激励其他员工加入并为气候保护作出贡献。马上下载模板，让公司的出行方案更具可持续性！
 lang: cn
 weight: 1700
-isDraft: false
+isDraft: true
 ref: Carployee-Carpooling-Dashboard
 category:
   - 所有

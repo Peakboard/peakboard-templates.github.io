@@ -5,7 +5,7 @@ description:
   - 利用这一便利的模板，您可以迅速了解多个工作站的状态，从而监控每一工序，帮追您提升整个过程的效率。另外，您还可以快速应对员工出现的问题以及工作站的机器故障，有效地最小化浪费。该看板可用于生产，例如零件生产、组装线生产以及安装。马上下载模板，轻松优化生产进程！
 lang: cn
 weight: 1600
-isDraft: false
+isDraft: true
 ref: Andon-Single-Stations-Workflow
 category:
   - 所有

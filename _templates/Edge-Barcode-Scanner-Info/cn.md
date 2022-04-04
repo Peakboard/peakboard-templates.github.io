@@ -5,7 +5,7 @@ description:
   - 模板展示了如何使用连接Peakboard Edge设备的扫描仪从其他数据源获取信息。每位员工均配备一个Peakboard Edge设备和扫描仪，扫描产品之后，Peakboard Edge设备就会从另一个数据源采集相关元数据。示例使用的是Excel文件，但您也可以采用SQL、SAP等系统中的信息。
 lang: cn
 weight: 2000
-isDraft: false
+isDraft: true
 ref: Edge-Barcode-Scanner-Info
 category:
   - 所有

@@ -5,7 +5,7 @@ description:
   - 该模板以SQL数据库为基础，展示了机器的当前状态。它可以跟踪机器目前的进展；当完成一个工作步骤时，员工也可以通过触摸屏发送反馈。
 lang: cn
 weight: 1500
-isDraft: false
+isDraft: true
 ref: Interactive-Task-Management-SQL
 category:
   - 所有

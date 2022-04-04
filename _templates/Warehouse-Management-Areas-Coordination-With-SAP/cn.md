@@ -6,7 +6,7 @@ description:
   - 员工可以直观地看到哪一区域当前需要支持，然后自主前往相关区域，帮助同事完成当日目标。马上优化您的物流进程——因为只有了解情况的员工才能作出明智的决定！
 lang: cn
 weight: 1600
-isDraft: false
+isDraft: true
 carousel: true
 ref: Warehouse-Management-Areas-Coordination-With-SAP
 category:

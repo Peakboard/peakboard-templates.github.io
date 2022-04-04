@@ -5,7 +5,7 @@ description:
   - 该脚本能让您通过点击交互式表中的单元格，管理多个可视化看板，并相互之间进行切换。
 lang: cn
 weight: 50
-isDraft: false
+isDraft: true
 ref: Script_Cell_Tab
 category:
   - 所有

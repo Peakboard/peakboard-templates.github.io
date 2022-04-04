@@ -5,7 +5,7 @@ description:
   - 使用该模板实时跟踪监测多条生产线。这一总控看板以SQL数据库为基础创建，能为班组负责人提供所有生产线的概览。在此，您可以快速地了解到每个生产线所处的阶段。
 lang: cn
 weight: 1900
-isDraft: false
+isDraft: true
 ref: Simple-Status-Display-Several-Lines-SQL
 category:
   - 所有

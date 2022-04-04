@@ -5,7 +5,7 @@ description:
   - 模板展示了如何利用其交互式功能，在本地图片或网页资源之间切换。
 lang: cn
 weight: 50
-isDraft: false
+isDraft: true
 ref: Script_Change_Image
 category:
   - 所有

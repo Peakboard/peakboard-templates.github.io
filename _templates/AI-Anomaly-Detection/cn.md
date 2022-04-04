@@ -5,7 +5,7 @@ description:
   - 模板使用Azure Cloud中的AI模型探测生产异常。出现异常情况时，生产出缺陷产品的概率会极大地提高。为此，模板采用JSON数据源，将测量出的两个数值输送给AI模型，并进行异常检测。这些数值作为体现生产质量的指标，能让您及时探测并由此避免不良产品的生产。看板会以负值的形式进行展示，简单易懂，一目了然；然后，员工和同事就可以立即独自地处理，从而避免生产缺陷部件。马上免费下载看板，节省生产时间和成本！
 lang: cn
 weight: 1700
-isDraft: false
+isDraft: true
 ref: AI-Anomaly-Detection
 category:
   - 所有

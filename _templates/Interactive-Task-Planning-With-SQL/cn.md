@@ -5,7 +5,7 @@ description:
   - 利用这一实用的看板，员工可以随时总览所有未处理的任务，更加高效地管理订单或项目。此外，看板还会展示即将完成的任务；员工也可直接了解到该任务的计划完成时间。如果将Peakboard Box与触摸屏相连，还可以记录完成一项任务的所用时间。点击触摸屏，即可将信息保存在SQL服务器；从长远来看，这能帮助您优化各类进程。马上下载，完全免费哦！ 
 lang: cn
 weight: 1700
-isDraft: false
+isDraft: true
 ref: Interactive-Task-Planning-With-SQL
 category:
   - 所有

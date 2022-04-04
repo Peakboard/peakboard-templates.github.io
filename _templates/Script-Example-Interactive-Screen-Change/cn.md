@@ -5,7 +5,7 @@ description:
   - 在此模板中，我们会向您展示如何通过按钮，在数个屏幕之间来回切换。
 lang: cn
 weight: 50
-isDraft: false
+isDraft: true
 ref: Script_Screen_Changer
 category:
   - 所有

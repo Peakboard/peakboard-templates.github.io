@@ -5,7 +5,7 @@ description:
   - 跟踪观察服务器当前数据。模板至多可显示三台服务器的关键指标，例如CPU、内存、RAM和网络使用情况，以及上次重启时间和备份时间。您可以从服务器日志中读取数据，也可以直接通过已有的API。
 lang: cn
 weight: 1100
-isDraft: false
+isDraft: true
 ref: Multiple-Server-Metrics-Overview
 carousel: false
 category:

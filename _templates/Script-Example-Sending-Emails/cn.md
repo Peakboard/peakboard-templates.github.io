@@ -5,7 +5,7 @@ description:
   - 模板演示了如何直接从Peakboard Box向您的电子邮箱发送邮件。为此，您必须将Peakboard Box与键盘相连；如果需要的话，还可以连一个鼠标。
 lang: cn
 weight: 50
-isDraft: false
+isDraft: true
 ref: Script_Email
 category:
   - 所有
