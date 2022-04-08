@@ -1,0 +1,22 @@
+---
+layout: article
+title: Your design kit for the Peakboard Designer!
+description: 
+  - If you lack the right template or the necessary inspiration for your Peakboard Dashboard, this design kit will help you. It offers you a selection of predefined elements and colours, various design grids, as well as colour schemes including matching signal colours, font formats and diagrams for your first dashboard project with the Peakboard Designer. Download this design kit in a bright design and build your individual dashboard - according to your needs.
+lang: en
+weight: 1000
+isDraft: true
+ref: Design-Kit-Light
+category:
+  - All
+  - Design Kit
+image: Design-Kit-Light.png
+image_thumbnail: Design-Kit-Light_thumbnail.png
+download: Design-Kit-Light.pbmx
+overview_description:
+overview_benefits:
+overview_data_sources:
+---
+
+# how it works
+Um...
