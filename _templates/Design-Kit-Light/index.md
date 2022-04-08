@@ -20,9 +20,15 @@ overview_data_sources:
 
 # so funktioniert's
 
-Diese kannst du hier [hier](Fonts.pbsx) herunterladen. 
+Um dieses Template vollumfänglich nutzen zu könnten, benötigst du eine Font-Datei die du [hier](Fonts.pbsx) findest. Öffne den Peakboard Designer und wähle im Ribbon Menü “Schriften”.
+
+![](img/Ribbon_Bar_Fonts.png)
+
+Klicke dann auf das drei Punkte Icon unten links.
+
+![](img/Fontmanager.png)
 
 
+Klicke jetzt auf “importieren”, nun wählst du noch die zuvor heruntergeladene Font-Datei aus und kannst schon loslegen.
 
-![](img/peakboard-hub-lists.png)
-
+![](img/Fontmanager_Import.png)

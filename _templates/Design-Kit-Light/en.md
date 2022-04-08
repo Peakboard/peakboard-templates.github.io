@@ -19,4 +19,15 @@ overview_data_sources:
 ---
 
 # how it works
-Um...
+
+To fully use this template, you need a font file which you can find [here](Fonts.pbsx). Open the Peakboard Designer and select "Fonts" from the ribbon menu.
+
+![](img/Ribbon_Bar_Fonts.png)
+
+Then click on the three dots icon at the bottom left.
+
+![](img/Fontmanager.png)
+
+Now click on "import", select the previously downloaded font file and you're ready to go.
+
+![](img/Fontmanager_Import.png)
