@@ -26,7 +26,7 @@ overview_data_sources:
 This template uses a Peakboard Hub list as the central data source. The data collected using the touchscreen is written to a Peakboard Hub list, which is then read out for the data visualization. Alternatively, you can use other databases such as SQL, Oracle or ODBC for this purpose.
 
 # how it works
-To be able to use this template to its full extent, you need Peakboard Hub. You can find out how to install it [here](https://help.peakboard.com/hub/de-hub_installation.html). Open Peakboard Hub, select "Lists" in the menu and click on the "Import" button to import the required table structure. You can download it here  <a href="QualityData.txt" class="inline" download>hier</a>.
+To be able to use this template to its full extent, you need Peakboard Hub. You can find out how to install it [here](https://help.peakboard.com/hub/de-hub_installation.html). Open Peakboard Hub, select "Lists" in the menu and click on the "Import" button to import the required table structure. You can download it <a href="QualityData.txt" class="inline" download>here</a>.
 
 ![](img/peakboard-hub-lists.png)
 
