@@ -26,20 +26,21 @@ overview_data_sources:
 This template uses a Peakboard Hub list as the central data source. The data collected using the touchscreen is written to a Peakboard Hub list, which is then read out for the data visualization. Alternatively, you can use other databases such as SQL, Oracle or ODBC for this purpose.
 
 # how it works
-Um dieses Template vollumfänglich nutzen zu könnten, benötigst du den Peakboard Hub. Wie du diesen installierst, erfährst du [hier](https://help.peakboard.com/hub/de-hub_installation.html). Öffnen den Peakboard Hub, wähle im Menü “Lists” und klicke auf den "Import" Button um die benötigte Tabellenstruktur zu importieren. Diese kannst du hier <a href="QualityData.txt" class="inline" download>hier</a> herunterladen. 
+To be able to use this template to its full extent, you need Peakboard Hub. You can find out how to install it [here](https://help.peakboard.com/hub/de-hub_installation.html). Open Peakboard Hub, select "Lists" in the menu and click on the "Import" button to import the required table structure. You can download it here  <a href="QualityData.txt" class="inline" download>hier</a>.
 
 ![](img/peakboard-hub-lists.png)
 
-Das Feld "Name" solltest du mit “QualityData” ausfüllen und darunter die zuvor heruntergeladene Datei selektieren.
+Fill in the "Name" field with "QualityData" and select the previously downloaded file.
 
 ![](img/peakboard-hub-import-list.png)
 
- Öffne nun den Peakboard Designer und stelle wie [hier](https://help.peakboard.com/hub/de-hub_connectpbdesigner.html) erklärt, eine Verbindung zum Peakboard Hub her. Öffne nun dieses Template im Peakboard Designer und gehe erneut in die Peakboard Hub Einstellungen unter Projekt/Project > Peakboard Hub.
+ 
+ Next, open the Peakboard Designer and setup a connection to Peakboard Hub as explained [here](https://help.peakboard.com/hub/de-hub_connectpbdesigner.html). Now open this template within the Peakboard Designer and go back to the Peakboard Hub settings under Project > Peakboard Hub.
 
  ![](img/peakboard-designer-hub-settings.png)
 
-Klicke auf den “Überschreiben/Overwrite” Button um die Hub Connection des Templates mit deinen eigenen Anmeldedaten zu überschreiben.
+Click on "Overwrite" to replace the Peakboard Hub Connection of the template with your own credentials.
 
  ![](img/peakboard-designer-overwrite-credentials.png)
 
- Nun ist alles Bereit und das Template schreibt die erfassten Daten in die angelegte Liste im Peakboard Hub.
+ Now you are ready and the template automatically writes the collected data to the created list in Peakboard Hub.
