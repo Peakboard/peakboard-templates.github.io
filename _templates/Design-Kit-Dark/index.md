@@ -5,7 +5,7 @@ description:
    - Wenn dir das passende Template oder die nötige Inspiration für dein Peakboard Dashboard fehlt, hilft dir dieses Design Kit weiter. Sie bietet dir für dein erstes Dashboard Projekt mit dem Peakboard Designer eine Auswahl an vordefinierten Elementen und Farben, verschiedene Gestaltungsraster, sowie Farbschemen inklusive passender Signalfarben, Schriftformate und Diagramme. Lade dir dieses Design Kit im dunklen Design herunter und baue dir dein individuelles Dashboard – ganz nach deinen Bedürfnissen.
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Design-Kit-Dark
 category:
   - Alle
