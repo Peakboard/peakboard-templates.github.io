@@ -18,7 +18,7 @@ layout: base
     </p>
 
     {% for descriptionPart in page.description %}
-        <p>{{ descriptionPart }}
+    <p>{{ descriptionPart | markdownify }}</p>
     {% endfor %}
 
     {% if page.image %}
