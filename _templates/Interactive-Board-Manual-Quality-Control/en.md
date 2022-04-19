@@ -8,7 +8,7 @@ description:
   - Download the template now for free and customize it to your individual needs or your company's corporate design. For even easier usability, all scripts in this template were created using Peakboard Building Blocks, our low-code script editor.
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Interactive-Board-Manual-Quality-Control
 category:
   - All
