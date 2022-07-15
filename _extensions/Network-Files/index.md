@@ -4,10 +4,10 @@ title: Network Files - Peakboard Extension
 title_text: Network Files
 by: Peakboard
 description: 
-  - Diese Extension ermöglicht es, PostgreSQL Datenbanken als Datenquelle in Peakboard anzubinden. Mittels SQL-Statements können die Daten aus der PostgreSQL Datenbank ausgelesen werden.
+  - Diese Extension ermöglicht es, die Dateinamen aller Dateien auszulesen, die in einem bestimmten UNC Netzwerkpfad liegen. Dadurch kannst du Datenquellen und Ressourcen dynamisch, basierend auf deren Dateinamen zum Peakboard Designer hinzuzufügen.
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: network-files
 image: Network_Files_Extension_Logo.png
 image_thumbnail: Network_Files_Extension_Logo_thumbnail.png
