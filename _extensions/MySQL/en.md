@@ -12,7 +12,7 @@ ref: mysql
 image: MYSQL_Extention_Logo.png
 image_thumbnail: MYSQL_Extention_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/MySQL
-download: PeakboardExtensionMySql.zip
+download: MySQLExtension.zip
 extension_category:
   - All
   - Database
