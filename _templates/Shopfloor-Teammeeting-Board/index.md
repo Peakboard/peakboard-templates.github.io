@@ -2,10 +2,10 @@
 layout: article
 title: Dein Teamboard für ein effizientes Shopfloormeeting
 description: 
-   - Dieses voll funktionsfähige interaktive Dashboard hilft dir, die Shopfloormeetings deines Teams zu digitalisieren. Dabei behältst du stets den Überblick über alle offenen Aufgaben deines Teams. Mit dem Dashboard kannst du neue Aufgaben anlegen und diese einzelnen Teammitgliedern zuordnen, bestehende Aufgaben anpassen, wenn diese sich beispielsweise in einem neuen Bearbeitungsstatus befinden sowie Aufgaben abschließen oder löschen. Das Dashboard wird dabei mit Maus und Tastatur, welche an die Peakboard Box angeschlossen werden, bedient. Die erfassten Daten werden in einer Liste in Peakboard Hub gespeichert und persistiert. So können die erfassten Daten auch für langfristige Auswertungen herangezogen werden.
-
-  - Über ein Menü auf der linken Seite kannst du außerdem zu weiteren Screens navigieren, welche beliebige weitere wichtige Inhalte für dein Shopfloormeeting anzeigen können. Im Template wurden hier exemplarisch zwei weitere Screens mit Informationen zu Sicherheits- & Qualitätskennzahlen sowie OEE Werten umgesetzt. 
-
+  - This template serves as an interactive dashboard for manual operational data acquisition in quality control. Through a touchscreen display, workers can interact with the dashboard and make entries on the items inspected. If an item is without defects, the worker can log this by pressing the "OK" button. If an item is faulty, the error can be specified in more detail using the corresponding buttons.
+  - Based on this data, the dashboard provides your employees with an overview of their own and neighboring production lines. Thanks to the real-time visualization, they also see immediately if a certain error has become disproportionately frequent. This allows them to react quickly and optimize the corresponding production process immediately.
+  - All the data collected through the touchscreen is stored and persisted in a list in Peakboard Hub. This allows you to use the data not only for a real-time overview, but also for historical analysis. The long-term analysis can be performed either via [this](https://templates.peakboard.com/Overview-Quality-Control/en) dashboard or using a BI tool such as Power BI, Tableau or Click.
+  - Download the template now for free and customize it to your individual needs or your company's corporate design. For even easier usability, all scripts in this template were created using Peakboard Building Blocks, our low-code script editor.
 lang: de
 weight: 1000
 isDraft: true
