@@ -2,10 +2,12 @@
 layout: article
 title: Dein Teamboard für ein effizientes Shopfloormeeting
 description: 
-   - Dieses Template dient als interaktives Dashboard für die manuelle Betriebsdatenerfassung in der Qualitätskontrolle. Über ein Touchscreen-Display können die Mitarbeitenden mit dem Dashboard interagieren und Eingaben zu den geprüften Artikeln machen. Ist ein Artikel fehlerfrei, kann der Werker oder die Werkerin das durch Drücken des "OK"-Buttons festhalten. Bei Ausschuss wiederum, kann der Fehler über die entsprechenden Buttons näher spezifiziert werden. 
-   - Auf Basis dieser Daten liefert das Dashboard deinen Mitarbeitern und Mitarbeiterinnen einen Überblick über die eigene und die benachbarten Produktionslinien. Dank der Echtzeit-Visualisierung sehen sie zudem sofort, wenn sich ein bestimmter Fehler überproportional gehäuft hat. So können sie schnell reagieren und den entsprechenden Produktionsprozess umgehend optimieren. 
-   - Die mithilfe des Touchscreens erfassten Daten werden in einer Liste in Peakboard Hub gespeichert und persistiert. Das bietet den Vorteil, dass die Daten nicht nur für einen Echtzeit-Überblick, sondern auch für historische Analysen verwendet werden können. Die Langzeit Analyse kann dabei entweder über [dieses](https://templates.peakboard.com/Overview-Quality-Control/index) Dashboard oder über ein BI-Tool wie Power BI, Tableau oder Click durchgeführt werden. 
-   - Lade dir das Template jetzt kostenlos herunter und passe es an deine individuellen Bedürfnisse oder das Corporate Design deines Unternehmens an. Für eine noch einfachere Bedienbarkeit wurden alle Skripte in dieser Vorlage mit Peakboard Building Blocks, unserem Low-Code-Skripteditor, erstellt.
+   - Dieses voll funktionsfähige interaktive Dashboard hilft dir, die Shopfloormeetings deines Teams zu digitalisieren. Dabei behältst du stets den Überblick über alle offenen Aufgaben deines Teams. Mit dem Dashboard kannst du neue Aufgaben anlegen und diese einzelnen Teammitgliedern zuordnen, bestehende Aufgaben anpassen, wenn diese sich beispielsweise in einem neuen Bearbeitungsstatus befinden sowie Aufgaben abschließen oder löschen. Das Dashboard wird dabei mit Maus und Tastatur, welche an die Peakboard Box angeschlossen werden, bedient. Die erfassten Daten werden in einer Liste in Peakboard Hub gespeichert und persistiert. So können die erfassten Daten auch für langfristige Auswertungen herangezogen werden.
+
+  - Über ein Menü auf der linken Seite kannst du außerdem zu weiteren Screens navigieren, welche beliebige weitere wichtige Inhalte für dein Shopfloormeeting anzeigen können. Im Template wurden hier exemplarisch zwei weitere Screens mit Informationen zu Sicherheits- & Qualitätskennzahlen sowie OEE Werten umgesetzt. 
+
+  - Natürlich umfasst dieses Template nicht alle Funktionen und Möglichkeiten, welche eine professionelle digitale Shopfloor Management Software mit sich bringt. Doch mit Peakboard hast du die Möglichkeit, ohne großen IT-Aufwand und Vorwissen dieses Template speziell auf die Anforderungen deines Teams maßzuschneidern. Unser [Consulting-Team](https://peakboard.com/produkt/consulting/) unterstützt dich hierbei gerne.
+
 lang: de
 weight: 1000
 isDraft: true
