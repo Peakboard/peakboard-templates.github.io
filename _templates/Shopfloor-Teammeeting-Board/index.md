@@ -6,8 +6,6 @@ description:
 
   - Über ein Menü auf der linken Seite kannst du außerdem zu weiteren Screens navigieren, welche beliebige weitere wichtige Inhalte für dein Shopfloormeeting anzeigen können. Im Template wurden hier exemplarisch zwei weitere Screens mit Informationen zu Sicherheits- & Qualitätskennzahlen sowie OEE Werten umgesetzt. 
 
-  - Natürlich umfasst dieses Template nicht alle Funktionen und Möglichkeiten, welche eine professionelle digitale Shopfloor Management Software mit sich bringt. Doch mit Peakboard hast du die Möglichkeit, ohne großen IT-Aufwand und Vorwissen dieses Template speziell auf die Anforderungen deines Teams maßzuschneidern. Unser [Consulting-Team](https://peakboard.com/produkt/consulting/) unterstützt dich hierbei gerne.
-
 lang: de
 weight: 1000
 isDraft: true
