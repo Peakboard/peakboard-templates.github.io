@@ -5,7 +5,7 @@ description:
   - Dieses Template wird bei einer neuen Peakboard Box angezeigt. Es führt durch die ersten Schritte, um die Peakboard Box mit dem Peakboard-Designer zu verbinden. Dabei kann das WLAN für die Peakboard Box mittels einer Maus oder eines Touchscreens eingerichtet werden.
 lang: de
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Initial-Peakboard-Box-Screen
 category:
   - Alle

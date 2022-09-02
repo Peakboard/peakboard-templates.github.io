@@ -5,7 +5,7 @@ description:
   - Mit diesem Template als praktisches Sales Dashboard siehst du die Umsätze verschiedener Firmenstandorte im direkten Vergleich. Dank der verständlichen Visualisierung der Umsätze der jeweiligen Standorte im Soll-Ist-Vergleich, sehen deine Vertriebsmitarbeiter, wo sie gerade stehen und wo sie stehen sollten, wodurch ihr Ehrgeiz geweckt und der Wettbewerb angekurbelt wird. Als Datenbasis dient hier eine einfache Excel Tabelle, die die täglichen Umsätze der drei Standorte beinhaltet, aber auch ein CRM oder Vertriebstool könnte hier angebunden werden. Dieses Template ist außerdem ein schönes Beispiel dafür, wie man solche Daten mit Dataflows für seine Zwecke auswertet und nutzbar macht. Jetzt herunterladen und den Vertrieb ankurbeln!
 lang: de
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Sales-Dashboard-Multiple-Locations
 category:
   - Alle

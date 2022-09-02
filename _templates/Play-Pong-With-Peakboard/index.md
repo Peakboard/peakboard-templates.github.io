@@ -5,7 +5,7 @@ description:
   - Das klassische Pong Spiel, welches zum ersten weltweit beliebten Videospiel wurde, kann auch mit Peakboard umgesetzt werden. Hierfür verwendet der linke Spielende die Tasten "w", um den Schläger nach oben zu bewegen und "s", um diesen nach unten zu bewegen. Der rechte Spielende verwenden entsprechend die Pfeiltasten "oben" und "unten".
 lang: de
 weight: 200
-isDraft: false
+isDraft: true
 ref: Play-Pong-With-Peakboard
 category:
   - Alle

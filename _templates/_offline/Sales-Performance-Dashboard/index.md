@@ -5,7 +5,7 @@ description:
   - Mit diesem Template kannst du ganz leicht dein eigenes Vertriebsdashboard bauen. Neben ihrem Namen und einem persönlichen Foto sehen deine Vertriebsmitarbeiter so wichtige Kennzahlen wie Ziele, Umsätze sowie das Delta daraus. Durch die Überwachung dieser Vertriebskennzahlen und die Sichtbarkeit der Vertriebsziele sehen alle Mitarbeiter wo sie stehen und wie viele Geschäftsabschlüsse sie noch vor sich haben, was die Motivation steigert und den Wettbewerb fördert. Lade dir das Template direkt kostenlos herunter und gestalte dein ganz individuelles Vertriebsdashboard!
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Sales-Performance-Dashboard
 category:
   - Alle

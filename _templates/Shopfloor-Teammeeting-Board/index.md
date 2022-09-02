@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Dein Teamboard für ein effizientes Shopfloormeeting
+title: Dein Teamboard für ein effizientes Shopfloor Management Meeting
 description: 
   - Dieses interaktive Dashboard hilft dir die Shopfloormeetings deines Teams zu digitalisieren und so deine Shopfloor Management Prozesse zu verbessern. Dabei behältst du stets den Überblick über alle offenen Aufgaben deines Teams. Mit dem Dashboard kannst du neue Aufgaben anlegen und diese einzelnen Teammitgliedern zuordnen, bestehende Aufgaben anpassen, wenn diese sich beispielsweise in einem neuen Bearbeitungsstatus befinden, sowie Aufgaben abschließen oder löschen. Das Dashboard wird dabei mit Maus und Tastatur, welche an die Peakboard Box angeschlossen werden, bedient. Die erfassten Daten werden in einer Liste in Peakboard Hub gespeichert und persistiert. So können die erfassten Daten auch für langfristige Auswertungen deiner Produktion herangezogen werden.
   - Über ein Menü auf der linken Seite kannst du außerdem zu weiteren Screens navigieren, welche beliebige wichtige Produktionskennzahlen für dein Shopfloormeeting anzeigen. Im Template wurden diese Screens exemplarisch mit wichtigen KPIs aus der Produktion, wie z.B. Sicherheits- & Qualitätskennzahlen sowie OEE Werten versehen.
