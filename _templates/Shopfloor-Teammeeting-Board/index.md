@@ -21,13 +21,5 @@ overview_benefits:
 overview_data_sources:
 ---
 # mögliche datenquellen
-Dieses Template verwendet eine Peakboard Hub Liste als zentrale Datenquelle. Die Daten, die mithilfe einer an die Peakboard Box angeschlossenen Maus und Tastatur erfasst werden, werden dabei in eine Peakboard Hub Liste geschrieben, die dann für die Datenvisualisierung ausgelesen wird. Alternativ können hierfür andere Datenbanken wie SQL, Oracle oder ODBC genutzt werden. Auch die Namen der Teammitglieder sind in einer Liste im Peakboard Hub gespeichert.
+Dieses Template verwendet eine Peakboard Hub Liste als zentrale Datenquelle. Die Daten, die mithilfe einer an die Peakboard Box angeschlossenen Maus und Tastatur erfasst werden, werden dabei in eine Peakboard Hub Liste geschrieben, die dann für die Datenvisualisierung ausgelesen wird. Alternativ können hierfür andere Datenbanken wie SQL, Oracle oder ODBC genutzt werden. Auch die Namen der Teammitglieder sind in einer Liste in Peakboard Hub gespeichert. Falls du dieses Template mit deinem eigenen Peakboard Hub nutzen möchtest, findest du <a href="QualityData.txt" class="inline" download>hier</a> die Tabellenstruktur der Aufgabenliste und <a href="QualityData.txt" class="inline" download>hier</a> die Struktur der Teamliste. Importiere diese in deinen Peakboard Hub und passe dann die Datenquellen im Template entsprechend an.
 
-# so funktioniert's
-Um dieses Template vollumfänglich nutzen zu können, benötigst du Peakboard Hub. Wie du diesen installierst, erfährst du [hier](https://help.peakboard.com/hub/de-hub_installation.html). Öffne Peakboard Hub, wähle im Menü “Lists” und klicke auf "Import", um die benötigte Tabellenstruktur zu importieren. Diese kannst du <a href="QualityData.txt" class="inline" download>hier</a> herunterladen. 
-
-![](img/peakboard-hub-lists.png)
-
-Wähle einen passenden Namen für die Liste und darunter die zuvor heruntergeladene Datei.  
-
-![](img/peakboard-hub-import-list.png)

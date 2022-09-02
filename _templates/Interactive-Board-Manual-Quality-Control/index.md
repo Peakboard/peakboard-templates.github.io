@@ -38,7 +38,7 @@ Das Feld "Name" solltest du mit “QualityData” ausfüllen und darunter die zu
 
  ![](img/peakboard-designer-hub-settings.png)
 
-Klicke auf den “Überschreiben” Button, um die Peakboard Hub Connection des Templates mit deinen eigenen Anmeldedaten zu überschreiben.
+Klicke auf den “Überschreiben / Overwrite” Button, um die Peakboard Hub Connection des Templates mit deinen eigenen Anmeldedaten zu überschreiben.
 
  ![](img/peakboard-designer-overwrite-credentials.png)
 
