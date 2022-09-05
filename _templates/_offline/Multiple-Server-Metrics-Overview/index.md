@@ -6,7 +6,7 @@ description:
   - Lade dir das Template als praktische remote Monitoring Solution herunter, und lass dir Meldungen deines Servers oder gegebenenfalls auch einen Alarm in Echtzeit anzeigen. Außerdem ist es möglich, eine Benachrichtigung per E-Mail einzurichten, die dir Probleme meldet. Für mehr Sicherheit im Serverraum Template jetzt herunterladen
 lang: de
 weight: 1100
-isDraft: false
+isDraft: true
 ref: Multiple-Server-Metrics-Overview
 carousel: false
 category:

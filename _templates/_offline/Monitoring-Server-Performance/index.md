@@ -5,7 +5,7 @@ description:
   - Dein Template für die einfache Serverüberwachung! Visualisiere alle wichtigen Kennzahlen zum Status deines Servers auf einem individuell konfigurierbaren Dashboard, und zwar in Echtzeit! Behalte relevante Informationen wie die Serverleistung und -auslastung, CPU und RAM, sowie Ausfälle jederzeit im Blick. Peakboard fügt sich dabei nahtlos in deine bestehende IT-Infrastruktur ein. Jetzt Template herunterladen und den Server Raum ganz leicht im Blick haben!
 lang: de
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Monitoring-Server-Performance
 category:
   - Alle

@@ -5,7 +5,7 @@ description:
   - Your template for easy server monitoring! Visualize all important key figures about the status of your server on an individually configurable dashboard, in real time! Keep relevant information such as server performance and utilization, CPU and RAM, as well as downtimes in view at all times. Peakboard integrates seamlessly into your existing IT infrastructure. Download template now.
 lang: en
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Monitoring-Server-Performance
 category:
   - All

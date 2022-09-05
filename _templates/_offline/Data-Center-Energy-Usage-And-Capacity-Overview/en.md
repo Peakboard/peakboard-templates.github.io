@@ -5,7 +5,7 @@ description:
   - With this template, data center operators can keep an eye on important key figures of their data center, such as energy consumption, at all times and no matter where in the world the data centers are located. Thanks to real-time data, this dashboard provides a quick overview of key figures relevant to data centers, such as energy consumption, capacity, waste heat, computing power, workload. A visual alarm can be triggered when certain threshold values are reached. This increases availability, improves energy efficiency, and helps to detect problems early. Download now!
 lang: en
 weight: 1600
-isDraft: false
+isDraft: true
 ref: Data-Center-Energy-Usage-And-Capacity-Overview
 category:
   - All

@@ -5,7 +5,7 @@ description:
   - Mit diesem Template haben Rechenzentrumsbetreiber wichtige Kennzahlen ihres Rechenzentrums, wie z. B. den Stromverbrauch jederzeit im Blick. Dabei spielt es keine Rolle wo auf der Welt das Rechenzentrum liegt. Dank Echtzeitdaten liefert dieses Dashboard einen schnellen Überblick über für Rechenzentren relevante Kennzahlen wie Strombedarf, Energieverbrauch, Abwärme, Rechenleistung oder Auslastung. Beim Erreichen bestimmter Grenzwerte kann ein visueller Alarm ausgelöst werden. Dies steigert die Verfügbarkeit, erhöht die Energieeffizienz und hilft, Probleme rechtzeitig zu erkennen.
 lang: de
 weight: 1600
-isDraft: false
+isDraft: true
 ref: Data-Center-Energy-Usage-And-Capacity-Overview
 category:
   - Alle

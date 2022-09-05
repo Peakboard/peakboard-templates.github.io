@@ -5,7 +5,7 @@ description:
   - Mit diesem Template behältst du die Serverschränke in deinem Serverraum jederzeit im Blick. So hast du ein übersichtliches Monitoring-Tool zur Darstellung der aktuellen Serverauslastung. Überwache ganz einfach alle genutzten Server, reagiere viel schneller auf potentielle Probleme und steigere dadurch die Verfügbarkeit. Über Sensoren kannst du dir außerdem die Temperatur anzeigen lassen, ebenso ist die Integration eines Alarmsystems möglich.
 lang: de
 weight: 1000
-isDraft: false
+isDraft: true
 ref: IT-Server-Rack-Overview
 category:
   - Alle

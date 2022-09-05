@@ -6,7 +6,7 @@ description:
   - Download the template as a handy remote monitoring solution, and display messages from your server or even an alarm in real-time. It is also possible to set up an e-mail notification to notify you of problems or issues with your IT infrastructure. For more security in the server room download the template now
 lang: en
 weight: 1100
-isDraft: false
+isDraft: true
 ref: Multiple-Server-Metrics-Overview
 carousel: false
 category:
