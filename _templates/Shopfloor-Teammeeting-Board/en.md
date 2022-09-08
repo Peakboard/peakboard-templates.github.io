@@ -21,6 +21,6 @@ overview_benefits:
 overview_data_sources:
 ---
 # possible data sources
-This template uses a Peakboard Hub list as the central data source. The data collected using the touchscreen is written to a Peakboard Hub list, which is then read out for the data visualization. Alternatively, you can use other databases such as SQL, Oracle or ODBC for this purpose. The names of the team members are also stored in a list in Peakboard Hub. To use this template with your own Peakboard Hub, you can download the table structure of the task list <a href="Tasks.txt" class="inline" download>here</a> and the structure of the team list <a href="Team.txt" class="inline" download>here</a>. Import them into your Peakboard Hub and then adjust the data sources in the template accordingly.
+This template uses a Peakboard Hub list as a central data source. Data that is collected using a mouse and keyboard connected to the Peakboard Box is written to a Peakboard Hub list, which is then read for the data visualization. Alternatively, you can use other databases such as SQL, Oracle or ODBC for this purpose. The names of the team members are also stored in a list in Peakboard Hub. To use this template with your own Peakboard Hub, you can download the table structure of the task list <a href="Tasks.txt" class="inline" download>here</a> and the structure of the team list <a href="Team.txt" class="inline" download>here</a>. Import them into your Peakboard Hub and then adjust the data sources in the template accordingly.
 
 
