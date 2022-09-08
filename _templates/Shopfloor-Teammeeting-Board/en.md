@@ -7,7 +7,7 @@ description:
   - Although professional digital shopfloor management softwares offer many more functions and possibilities than this template, Peakboard gives you the opportunity to quickly customize your shopfloor board to the specific requirements of your team without a major IT effort and prior knowledge. Our consulting team will be happy to support you.
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Shopfloor-Teammeeting-Board
 category:
   - All
