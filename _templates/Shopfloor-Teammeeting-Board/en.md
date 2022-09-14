@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Your Teamboard for an Efficient Shop Floor Management Meeting
+title: Your Teamboard for an Efficient Shopfloor Management Meeting
 description: 
   - This interactive dashboard helps you to digitalize your team's shopfloor meetings and thus optimize your shopfloor management processes. This way, you always have an overview of all the outstanding tasks of your team. Using the dashboard, you can not only create new tasks and assign them to individual team members, but also edit existing tasks, for example, if they have reached a new processing status. Also, tasks can be completed or deleted. You operate the dashboard using a mouse and keyboard, which are simply connected to the Peakboard Box. The collected data is stored and persisted in a list in Peakboard Hub and can thus also be used for long-term evaluations of your production.
   - Via a menu on the left side, you can also navigate to additional screens that display relevant production key figures for your shopfloor meeting. In the template, these screens have been provided with information on important KPIs in production, such as safety and quality indicators and OEE values.
