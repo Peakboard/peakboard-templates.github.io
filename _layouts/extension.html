@@ -30,7 +30,7 @@ layout: base
             {% for item in page.extension_category %}
                 {% if item != 'All' and item != "Alle" %}
                 <div class="border border-gray-400 rounded-lg px-1 text-gray-400 text-sm">
-                    <a href="{{ site.url }}{% if page.lang == 'en' %}/en/{% endif %}{% if page.lang == 'cn' %}/cn/{% endif %}?menu%5Bextension_category%5D={{ item | downcase }}&fromArticle=true">
+                    <a href="{{ site.url }}{% if page.lang == 'en' %}/en/{% endif %}?menu%5Bextension_category%5D={{ item | downcase }}&fromArticle=true">
                         {{ item }}
                     </a>
                 </div>
