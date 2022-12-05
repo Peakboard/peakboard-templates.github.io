@@ -13,9 +13,11 @@
                                     {% if page.layout == 'home' %}
                                         <a href="https://github.com/Peakboard/peakboard-templates.github.io/tree/master/_templates" class="text-white no-underline hover:underline font-light" target="_blank">{{ text.footer-github-text }}</a>
                                     {% elsif page.extension_category %}
-                                        <a href="{% include github-link.html extensions=true %}" class="text-white no-underline hover:underline font-light" target="_blank">{{ text.footer-github-text }}</a>
-                                {% else %}
-                                        <a href="{% include github-link.html %}" class="text-white no-underline hover:underline font-light" target="_blank">{{ text.footer-github-text }}</a>
+                                        {% assign base = site.language[page.lang].footer-extensions-github-url %}
+                                        <a href="{% include github-link.html base=base %}" class="text-white no-underline hover:underline font-light" target="_blank">{{ text.footer-github-text }}</a>
+                                    {% else %}
+                                        {% assign base = site.language[page.lang].footer-templates-github-url %}
+                                        <a href="{% include github-link.html base=base %}" class="text-white no-underline hover:underline font-light" target="_blank">{{ text.footer-github-text }}</a>
                                     {% endif %}
                             </p>
                         </div>
