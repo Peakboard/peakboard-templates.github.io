@@ -1,3 +1,7 @@
 {% assign path_splitted = page.path | split: '/' %}
 {% assign folder_name = path_splitted[1] %}
-{{ site.language[page.lang].footer-github-url }}{{ folder_name | strip }}
+{% if include.extensions == 'true' %}
+    {{ site.language[page.lang].footer-extensions-github-url }}{{ folder_name | strip }}
+{$ else %}
+    {{ site.language[page.lang].footer-templates-github-url }}{{ folder_name | strip }}
+{% endif %}
