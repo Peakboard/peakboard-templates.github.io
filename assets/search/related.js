@@ -8,12 +8,12 @@ var main = {
         // general settings for instant search
         const search = instantsearch({
             searchClient: algoliasearch(
-                'XEVVIEZWKI',
-                'a2863cd9e238db68f660bcd8137888df'
+                '2XY771TXDR',
+                'c82c049e37ffd8c7b7ae85376cd49911'
             ),
-            appId: 'XEVVIEZWKI',
-            apiKey: 'a2863cd9e238db68f660bcd8137888df',
-            indexName: 'PEAKBOARD_EPIC_BOARDS',
+            appId: '2XY771TXDR',
+            apiKey: 'c82c049e37ffd8c7b7ae85376cd49911',
+            indexName: 'peakboard-templates',
             routing: true,
             searchParameters: {
                 filters: 'NOT search-ignore:true AND NOT isDraft:true AND lang:"' + document.querySelector('#language').innerHTML + '"'

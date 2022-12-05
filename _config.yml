@@ -189,8 +189,8 @@ language:
     extensions-section-version-history: "Versionshistorie"
     extensions-section-screenshots: "Screenshots"
 algolia:
-  application_id: 'XEVVIEZWKI'
-  index_name: PEAKBOARD_EPIC_BOARDS
+  application_id: '2XY771TXDR'
+  index_name: peakboard-templates
   settings:
     attributesForFaceting: ['title', 'searchable(search-ignore)', 'searchable(lang)', 'searchable(category)', 'searchable(isDraft)', 'searchable(extension_category)']
     searchableAttributes: ['title','unordered(content)','description','search-ignore', 'lang', 'category', 'isDraft', 'extension_category']
