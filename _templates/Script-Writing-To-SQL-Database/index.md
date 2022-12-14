@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Script für das Schreiben von Daten in eine SQL Datenbank 
+title: Skript für das Schreiben von Daten in eine SQL Datenbank 
 description: 
   - Dieses Template veranschaulicht, wie du Daten in einen SQL-Server von deiner Peakboard Box aus zurückschreiben kannst.
 lang: de
