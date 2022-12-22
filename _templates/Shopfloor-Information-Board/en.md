@@ -8,14 +8,14 @@ description:
 lang: en
 weight: 1000
 isDraft: true
-ref: Shopfloor-Teammeeting-Board
+ref: Shopfloor-Information-Board
 category:
   - All
   - Shopfloor
   - Interaction
-image: Shopfloor-Teammeeting-Board.png
-image_thumbnail: Shopfloor-Teammeeting-Board_thumbnail.png
-download: Shopfloor-Teammeeting-Board.pbmx
+image: Shopfloor-Information-Board.png
+image_thumbnail: Shopfloor-Information-Board_thumbnail.png
+download: Shopfloor-Information-Board.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
