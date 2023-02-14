@@ -10,11 +10,11 @@ ref: Simple-Andon-Board-Monitoring-Production-Steps
 carousel: false
 category:
   - Alle
-  - Empfohlen
   - Produktion
   - Andon
   - Warnung
   - Prozess
+  - MQTT
 image: Einfaches-Andon-Board-Zur-Ueberwachung-Von-Produktionsschritten.png
 image_thumbnail: Einfaches-Andon-Board-Zur-Ueberwachung-Von-Produktionsschritten_thumbnail.png
 download: Einfaches-Andon-Board-Zur-Ueberwachung-Von-Produktionsschritten.pbmx
@@ -23,4 +23,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # mögliche datenquellen
-Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als fiktive Datenquellen. In einem echten Szenario könntest du stattdessen deine Systeme anbinden. Zum Beispiel Maschinennahe Kommunikationsmethoden wie: MQTT, OPC UA, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation oder MT Connect. Es gibt viele Datenquellen die du für dieses Board verwenden könntest, eine Übersicht findest du [hier](https://peakboard.com/schnittstellen/).
+Dieses Template verwendet MQTT als Datenquelle. Alternativ kannst du auch andere maschinennahe Kommunikationsmethoden verwenden, wie zum Beispiel: OPC UA, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation oder MT Connect. Eine Übersicht über alle möglichen Datenquellen findest du [hier](https://peakboard.com/schnittstellen/).
