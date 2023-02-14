@@ -5,7 +5,7 @@ description:
   - Mit diesem Template hast du einen besseren Überblick über die aktuelle Auslastung deines Lagers! Hierfür wird eine SQL-Datenquelle verwendet. Damit du das Template für deine Zwecke verwenden kannst, muss der Microsoft SQL-Server Native Client installiert sein. Lade dir das Template jetzt kostenlos herunter und beginne mit deiner Daten Visualisierung von SQL-Daten, und zwar in Echtzeit!
 lang: de
 weight: 800
-isDraft: false
+isDraft: true
 ref: Small-Parts-Picking-SQL-Connection
 category:
   - Alle
