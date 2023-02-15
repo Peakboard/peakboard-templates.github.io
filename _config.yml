@@ -184,7 +184,7 @@ language:
     cookie-box-change-preferences-button-save: "Speichern"
     extensions-link-text-return-to-overview: "Gallery / Extensions"
     extensions-link-text-download: "extension herunterladen"
-    extensions-link-how-to: "https://help.peakboard.com/data_sources/Extension/de-Extension.html"
+    extensions-link-how-to: "https://help.peakboard.com/data_sources/Extension/de-ManageExtension.html"
     extensions-link-text-how-to: "So installierst du eine Peakboard Extension"
     extensions-link-text-source-code: "Zum Quellcode auf GitHub"
     extensions-section-description: "Beschreibung"
