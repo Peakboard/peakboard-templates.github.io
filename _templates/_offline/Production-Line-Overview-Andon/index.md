@@ -5,7 +5,7 @@ description:
   - "Dieses Template gibt dir einen Überblick über eine Produktionslinie und ihre einzelnen Stationen in der Fertigung. Die Visualisierung zeigt dir in Echtzeit genau die Informationen, die auf dem Shopfloor benötigt werden: GAE Werte, Meldungen der letzten Vorfälle, Störungen und Stillstände an den Maschinen, KPIs sowie die jeweilige Schichtleistung in Prozent. Entscheide dabei selbst, welche Produktionsdaten für dich relevant sind. Um das Template verwenden zu können, musst du nur die Timer Skripte durch deine individuellen Datenquellen ersetzen. Jetzt herunterladen!"
 lang: de
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Production-Line-Overview-Andon
 category:
   - Alle
