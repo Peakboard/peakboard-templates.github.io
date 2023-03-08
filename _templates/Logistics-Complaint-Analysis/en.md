@@ -5,7 +5,7 @@ description:
   - Download this dashboard and keep track of your company's customer complaints. It provides your logistics staff with an important real-time overview of the complaint rates and reasons for the current and previous week. In addition, your employees can also directly see the most frequent error types and locations. Your team gets a transparent insight into their own performance and is motivated to avoid errors. Efficiently analyze the individual components of the complaints and thus reduce your costs.
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Logistics-Complaint-Analysis
 category:
   - All

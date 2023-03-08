@@ -6,7 +6,7 @@ description:
 
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Logistics-Complaint-Analysis
 category:
   - Alle
