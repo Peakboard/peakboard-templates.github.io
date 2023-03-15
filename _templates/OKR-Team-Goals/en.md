@@ -7,7 +7,7 @@ description:
 lang: en
 weight: 1000
 isDraft: false
-ref: OKR-Team-Goals-Google-Spreadsheet
+ref: OKR-Team-Goals
 category:
   - All
   - Lean Management
