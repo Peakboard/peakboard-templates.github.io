@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: Fritz Smart Home - Peakboard Extension
+title: Fritz Smart Home
 title_text: Fritz Smart Home
 by: Peakboard
 description: 

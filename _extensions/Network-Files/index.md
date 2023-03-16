@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: Network Files - Peakboard Extension
+title: Network Files
 title_text: Network Files
 by: Peakboard
 description: 

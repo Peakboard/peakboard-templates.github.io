@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: PostgreSQL - Peakboard Extension
+title: PostgreSQL
 title_text: PostgreSQL
 by: Peakboard
 description: 

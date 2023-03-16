@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: OData V4 - Peakboard Extension
+title: OData V4
 title_text: OData V4
 by: Peakboard
 description: 

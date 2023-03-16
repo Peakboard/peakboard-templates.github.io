@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: MySQL - Peakboard Extension
+title: MySQL
 title_text: MySQL
 by: Peakboard
 description: 

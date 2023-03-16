@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: Werma Smart Monitor - Peakboard Extension
+title: Werma Smart Monitor
 title_text: WERMA Smart Monitor
 by: Peakboard
 description: 

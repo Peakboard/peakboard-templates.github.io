@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: Yarooms - Peakboard Extension
+title: Yarooms
 title_text: Yarooms
 by: Peakboard
 description: 

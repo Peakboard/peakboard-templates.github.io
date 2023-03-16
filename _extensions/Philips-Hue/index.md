@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: Philips Hue - Peakboard Extension
+title: Philips Hue
 title_text: Philips Hue
 by: Peakboard
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: SICK - Peakboard Extension
+title: SICK
 title_text: SICK RFID Reader
 by: Peakboard
 description: 

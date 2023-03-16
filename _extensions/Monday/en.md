@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: Monday.com - Peakboard Extension
+title: Monday.com
 title_text: Monday.com
 by: Peakboard
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: DB2 - Peakboard Extension
+title: DB2
 title_text: DB2
 by: Peakboard
 description: 

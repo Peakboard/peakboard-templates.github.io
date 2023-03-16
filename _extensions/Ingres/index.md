@@ -1,6 +1,6 @@
 ---
 layout: extension
-title: Ingres - Peakboard Extension
+title: Ingres
 title_text: Ingres
 by: Peakboard
 description: 
