@@ -6,7 +6,7 @@ description:
   - Über ein Menü auf der linken Seite kannst du außerdem zu weiteren Screens navigieren, welche relevante Produktionskennzahlen für dein Shopfloor Meeting anzeigen. Im Template wurden exemplarisch diese Screens mit Informationen zu wichtigen KPIs in der Produktion, wie z. B. Sicherheits- & Qualitätskennzahlen sowie OEE-Werten versehen.
   - Während professionelle digitale Shopfloor Management Software zahlreiche Zusatzfunktionen bietet, besticht Peakboard durch seine vielfältigen Einsatzmöglichkeiten und einfache Bedienung. Denn Peakboard bietet die Möglichkeit, dein individuelles Shopfloor Board ohne großen IT-Aufwand und Vorkenntnisse speziell auf die Anforderungen deines Teams maßzuschneidern. Unser [Consulting-Team](https://peakboard.com/produkt/consulting/) unterstützt dich hierbei gerne.
 lang: de
-weight: 1000
+weight: 2500
 isDraft: false
 ref: Shopfloor-Teammeeting-Board
 category:
