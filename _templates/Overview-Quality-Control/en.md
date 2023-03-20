@@ -5,7 +5,7 @@ description:
   - This template offers a complete overview of the relevant quality key figures in your production. The dashboard shows a real-time overview of the current day and offers the possibility to display historical data over a certain period, which can be selected via a drop-down list.
   - This allows for deeper analysis of the metrics and strategic decisions can be made accordingly. The data comes from a list in Peakboard Hub and is collected using this interactive dashboard. Download the template now for free and customize it to your individual needs or your company's corporate design. For even easier usability, all scripts in this template were created using Peakboard Building Blocks, our low-code script editor.
 lang: en
-weight: 1000
+weight: 2000
 isDraft: false
 ref: Overview-Quality-Control
 category:
