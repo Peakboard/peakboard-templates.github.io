@@ -5,7 +5,7 @@ description:
   - Dieses Template zeigt, wie du die Kommunikation zwischen Peakboard und einer Stanze, mithilfe von OPC UA, ganz einfach einrichten kannst. Lasse dir und deinen Mitarbeitern in Echtzeit wichtig Informationen zum laufenden Fertigungsauftrag anzeigen.So siehst du deine Auftragsdaten, zum Beispiel erledigte und offene Stückzahlen, oder den Fortschritt im Soll-Ist-Vergleich, dargestellt als verständlicher Ladebalken, auf einen Blick. Unsere Visualisierungssoftware, der Peakboard Designer, ist dabei besonders benutzerfreundlich und der hohe Individualisierungsgrad der Dashboards lässt so gut wie jede beliebige Darstellung deiner Maschinendaten zu. Lade dir das Template herunter und gestalte dein Dashboard ganz nach deinen Bedürfnissen.
 lang: de
 weight: 500
-isDraft: false
+isDraft: true
 ref: Control-Punch-OPCA-UA
 category:
   - Alle

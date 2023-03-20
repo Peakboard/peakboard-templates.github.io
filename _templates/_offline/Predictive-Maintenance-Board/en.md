@@ -5,7 +5,7 @@ description:
   - "This template simplifies the maintenance of your production facilities. It makes the monitoring of your machines more efficient and provides reliable information about machine running times, the production process and also shows you possible failures so that you can take preventive action: In combination with a Predictive Maintenance Tool, this dashboard informs you about the time of the next expected machine failure and possible maintenance work to be carried out. It also displays current sensor data, such as temperature or vibrations per line in real-time. On the right hand side the current and future audits are listed. Download now and keep an eye on the next maintenance!"
 lang: en
 weight: 2000
-isDraft: false
+isDraft: true
 ref: Predictive-Maintenance-Board
 category:
   - All

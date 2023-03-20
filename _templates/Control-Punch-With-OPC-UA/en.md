@@ -5,7 +5,7 @@ description:
   - This template shows how you can easily set up the communication between Peakboard and a punch using OPC UA. It provides you and your staff with important real-time information about the current production order, so you can keep track of order data such as completed and open quantities, the target/actual comparison and the progress, displayed as an understandable loading bar. Our visualization software, the Peakboard Designer, is particularly user-friendly and the high degree of individualization of the dashboards allows almost any representation of your machine data. Download the template and customize your dashboard according to your needs.
 lang: en
 weight: 500
-isDraft: false
+isDraft: true
 ref: Control-Punch-OPCA-UA
 category:
   - All
