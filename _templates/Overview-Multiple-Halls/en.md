@@ -5,7 +5,7 @@ description:
   - With this template you can easily and efficiently monitor important key figures of the production process in several production halls. It contains information on the status of the individual lines, as well as KPIs and meta-information on the current orders. Employees can also see the target/actual comparison of the individual production lines in a clear diagram, which can increase motivation and productivity and thus help to optimize production processes. The template is freely configurable, so download it directly and adapt it to the individual needs of your manufacturing company.
 lang: en
 weight: 1100
-isDraft: false
+isDraft: true
 ref: Overview-Multiple-Halls
 category:
   - All

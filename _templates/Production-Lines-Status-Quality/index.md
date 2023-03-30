@@ -5,7 +5,7 @@ description:
   - Dieses Template bietet dir eine praktische Visualisierung wichtiger MES Daten deiner Anlagen. Es liefert eine Übersicht über Produktionsdaten, zeigt die bereits produzierte Stückzahl sowie Abweichungen zur Soll-Menge an. Durch Störungsmeldungen in Echtzeit und die Anzeige von Fehlproduktionen kann es außerdem zur Qualitätskontrolle genutzt werden. Der hohe Individualisierungsgrad unserer Templates bietet dir ein Höchstmaß an Flexibilität in deiner Werkshalle. Jetzt herunterladen!
 lang: de
 weight: 1100
-isDraft: false
+isDraft: true
 ref: Production-Lines-Status-Quality
 category:
   - Alle

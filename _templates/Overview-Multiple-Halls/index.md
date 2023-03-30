@@ -5,7 +5,7 @@ description:
   - Mit diesem Template kannst du einfach und effizient wichtige Kennzahlen des Produktionsprozesses in mehreren Produktionshallen überwachen. Es beinhaltet Informationen zum Status der einzelnen Linien, sowie KPIs und Metainformationen zu den aktuellen Aufträgen. Mitarbeiter können außerdem den Soll-Ist-Vergleich der einzelnen Produktionslinien in einem anschaulichen Diagramm sehen, was die Motivation und Produktivität erhöhen und dadurch bei der Optimierung der Produktionsprozesse helfen kann. Das Template ist  frei konfigurierbar, lade es also direkt herunter und passe es individuell an die Bedürfnisse deines Fertigungsunternehmens an.
 lang: de
 weight: 1100
-isDraft: false
+isDraft: true
 ref: Overview-Multiple-Halls
 category:
   - Alle

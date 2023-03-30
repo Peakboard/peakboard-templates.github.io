@@ -5,7 +5,7 @@ description:
   - This template offers you a practical visualization of important MES data of your machines. It provides an overview of production data, shows the number of pieces already produced and deviations from the target quantity. It can also be used for quality control through real-time error messages and the display of faulty production and downtimes. The high degree of individualization of our templates offers you a maximum of flexibility in your factory. Download now!
 lang: en
 weight: 1100
-isDraft: false
+isDraft: true
 ref: Production-Lines-Status-Quality
 category:
   - All
