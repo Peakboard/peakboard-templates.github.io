@@ -7,7 +7,7 @@ description:
   - Download the template now and customize it to your individual needs without any IT effort or previous knowledge. Our [consulting team](https://peakboard.com/produkt/consulting/) would also be happy to assist.
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Shopfloor-Information-Board
 category:
   - All

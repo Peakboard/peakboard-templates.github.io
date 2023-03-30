@@ -7,7 +7,7 @@ description:
   - Lade dir das Template jetzt herunter und passe es ohne großen IT-Aufwand und Vorkenntnisse speziell an deine individuellen Bedürfnisse an. Unser [Consulting-Team](https://peakboard.com/produkt/consulting/) unterstützt dich hierbei gerne.
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Shopfloor-Information-Board
 category:
   - Alle
