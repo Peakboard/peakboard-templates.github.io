@@ -25,7 +25,7 @@ Dieses Template verwendet eine Peakboard Hub Liste als zentrale Datenquelle. Die
 
 # Weitere Anzeigen
 
-Ansicht zur Erstellung des Schichtplans: 
+Ansicht zur Erstellung und Bearbeitung des Schichtplans: 
 ![image_live](Shopfloor-Schwarzes-Brett-Schichtplan.png)
 
 
