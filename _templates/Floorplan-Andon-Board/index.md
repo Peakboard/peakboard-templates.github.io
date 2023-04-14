@@ -17,8 +17,8 @@ category:
   - Produktion
   - Peakboard Hub
   - OPC UA
-image: Shopfloor-Schwarzes-Brett.png
-image_thumbnail: Shopfloor-Schwarzes-Brett_thumbnail.png
+image: Hallenplan-Andon-Board.png
+image_thumbnail: Hallenplan-Andon-Board_thumbnail.png
 download: Hallenplan-Andon-Board.pbmx
 overview_description:
 overview_benefits:
@@ -31,5 +31,5 @@ Dieses Template verwendet OPC UA als Datenquelle. Du kannst stattdessen auch and
 # detailanalyse im pop-up fenster
 
 Mit einem Klick auf eine Kachel kannst du eine detaillierte Fehlerübersicht der entsprechenden Maschine öffnen: 
-![image_live](Shopfloor-Schwarzes-Brett-Schichtplan.png)
+![image_live](Hallenplan-Andon-Board-PopUp.png)
 
