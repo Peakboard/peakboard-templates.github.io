@@ -4,10 +4,10 @@ title: Microsoft Graph
 title_text: Microsoft Graph API
 by: Peakboard
 description: 
-  - Diese Extension ermöglicht es, ...
+  - Diese Extension ermöglicht es, Daten aus der Microsoft Graph API als Datenquelle in Peakboard anzubinden um unter anderem E-Mails oder Kalendereinträge auszulesen oder zu erstellen. So kannst du ein interaktives Dashboards erstellen um beispielsweise deine E-Mails anzuzeigen oder E-Mails zu versenden.
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: microsoft-graph
 image: Microsoft_Graph_Extension_Logo.png
 image_thumbnail: Microsoft_Graph_Extension_Logo_thumbnail.png
