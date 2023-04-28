@@ -4,7 +4,7 @@ title: Microsoft Graph
 title_text: Microsoft Graph API
 by: Peakboard
 description: 
-  - This extension allows you to connect data from the Microsoft Graph API as a data source in Peakboard to read or create emails or calendar entries, among other things. This way you can create an interactive dashboard to display your emails or send emails, for instance.
+  - This extension allows you to connect data from the Microsoft Graph API as a data source in Peakboard and thus read data from various Microsoft 365 products. For example, you can display your calendar or Emails on your dashboard and create calendar entries or send Emails via an interactive dashboard.
 lang: en
 weight: 1000
 isDraft: false
