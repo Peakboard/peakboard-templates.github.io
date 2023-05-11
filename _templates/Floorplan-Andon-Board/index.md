@@ -8,7 +8,7 @@ description:
   - Lade dir das Template jetzt kostenlos herunter und passe es ohne Programmieraufwand auf die Produktionsumgebung deines Unternehmens an. Für eine noch einfachere Bedienbarkeit wurden alle Skripte in diesem Template mit Peakboard Building Blocks, unserem Low-Code-Skripteditor, erstellt. 
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Floorplan-Andon-Board
 category:
   - Alle
