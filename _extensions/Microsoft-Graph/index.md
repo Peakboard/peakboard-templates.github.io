@@ -4,7 +4,7 @@ title: Microsoft Graph
 title_text: Microsoft Graph API
 by: Peakboard
 description: 
-  - Diese Extension ermöglicht es, Daten aus der Microsoft Graph API als Datenquelle in Peakboard anzubinden und damit Daten aus verschiedenen Microsoft 365 Produkten auszulesen. So kannst du auf deinem Dashboard beispielsweise deinen Kalender oder E-mails anzeigen und über ein interaktives Dashboard Kalendereinträge angelegen oder E-mails versenden.
+  - Diese Extension ermöglicht es, Daten aus der Microsoft Graph API als Datenquelle in Peakboard anzubinden und damit Daten aus verschiedenen Microsoft 365 Produkten auszulesen. So kannst du auf deinem Dashboard beispielsweise deinen Kalender oder E-Mails anzeigen und über ein interaktives Dashboard Kalendereinträge angelegen oder E-Mails versenden.
 lang: de
 weight: 1000
 isDraft: false
