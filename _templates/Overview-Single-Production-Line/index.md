@@ -13,6 +13,9 @@ category:
   - Produktion
   - OEE / GAE
   - Shopfloor
+  - OPC UA
+  - SQL
+  - Peakboard Hub
 image: Uebersicht-Ueber-Einzelne-Produktionslinie.png
 image_thumbnail: Uebersicht-Ueber-Einzelne-Produktionslinie_thumbnail.png
 download: Uebersicht-Ueber-Einzelne-Produktionslinie.pbmx
@@ -21,4 +24,6 @@ overview_benefits:
 overview_data_sources:
 ---
 # mögliche datenquellen
-Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als fiktive Datenquellen. In einem echten Szenario könntest du stattdessen deine Systeme anbinden. Daten für die verschiedenen Bereiche dieses Boards könnten aus ganz unterschiedlichen Systemen kommen. ERP Systeme wie: abas ERP, proALPHA ERP, Epicor ERP, Comarch ERP, QAD Adaptive ERP, SAP oder viele mehr. Es könnten auch MES Systeme wie z.B.: AIS Automation FabEagle MES, camLine InFrame Synapse MES, DELMIA Apriso MES, DE DESC, FASTEC 4 PRO, Felten PILOT:MES oder Forcam Force angebunden werden. Oder auch Maschinennahe Kommunikationsmethoden wie: MQTT, OPC UA, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation oder MT Connect. Es gibt viele Datenquellen die du für dieses Board verwenden könntest, eine Übersicht findest du [hier](https://peakboard.com/schnittstellen/).
+Dieses Template verwendet OPC UA als Quelle der Maschinendaten und eine SQL Datenbank für die Auftragsdaten. Für eine historische Auswertung werden die OEE Werte in einer Peakboard Hub Liste gespeichert. Für deinen Use Case kannst du natürlich deine Systeme verwenden, denn Peakboard ist kompatibel mit unzähligen Vorsystemen. Eine detailierte Auflistung findest du [hier](https://peakboard.com/schnittstellen/).
+
+
