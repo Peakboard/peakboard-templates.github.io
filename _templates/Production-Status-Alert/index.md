@@ -11,9 +11,9 @@ category:
   - Alle
   - Produktion
   - Serienfertigung
-  - Automobil
-  - Warnung
   - Fehlermeldung
+  - Andon
+  - OPC UA
 image: Produktionsstatus-Warntafel.png
 download: Produktionsstatus-Warntafel.pbmx
 overview_description:
@@ -21,4 +21,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # mögliche datenquellen
-Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als fiktive Datenquellen. In einem echten Szenario könntest du stattdessen deine Systeme anbinden. Zum Beispiel Maschinennahe Kommunikationsmethoden wie: MQTT, OPC UA, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation oder MT Connect. Es gibt viele Datenquellen die du für dieses Board verwenden könntest, eine Übersicht findest du [hier](https://peakboard.com/schnittstellen/).
+Dieses Template verwendet OPC UA als Quelle der Maschinendaten. Du kannst stattdessen auch andere maschinennahe Kommunikationsmethoden wie: MQTT, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation oder MT Connect anbinden. Es gibt viele Datenquellen die du für dieses Board verwenden könntest, eine Übersicht findest du [hier](https://peakboard.com/schnittstellen/).
