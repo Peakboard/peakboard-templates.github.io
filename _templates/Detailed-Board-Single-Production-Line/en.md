@@ -16,6 +16,8 @@ category:
   - Production
   - Shopfloor
   - Series Production
+  - JSON
+  - OPC UA
 image: Detailed-Board-Single-Production-Line.png
 image_thumbnail: Detailed-Board-Single-Production-Line_thumbnail.png
 download: Detailed-Board-Single-Production-Line.pbmx
@@ -25,4 +27,10 @@ overview_data_sources:
 ---
 # possible data sources
 
-This template uses simple variable lists as data source. If you create your own board from these, you will replace them with your personal data sources and systems. There are many ways to do this. On the one hand, ERP systems such as abas ERP, proALPHA ERP, Epicor ERP, Comarch ERP, QAD Adaptive ERP or SAP can be connected to Peakboard. On the other hand, MES also make sense with this board, with Peakboard you can connect these among many others: FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite or PSIpenta MES. Simple data could also be connected via standards like XML, SQL Server, MongoDB, JSON, XML, Excel. Other protocols are also possible (MQTT, OPC UA, Siemens S7). Just have a look [here](https://peakboard.com/en/interfaces/), your system will surely be included. Otherwise let us know.
+This template uses multiple data sources. The order data comes from a REST API and is connected via the JSON data source, the machine data via OPC UA. To customize the template to your own needs and systems, there are numerous other data sources available.
+
+On the one hand, ERP systems such as abas ERP, proALPHA ERP, Epicor ERP, Comarch ERP, QAD Adaptive ERP or SAP can be connected to Peakboard. 
+
+On the other hand, MES also make sense with this board, in Peakboard you can connect them among many others: FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite or PSIpenta MES. 
+
+You could also connect basic data via standards like XML, MongoDB, JSON, XML, Excel. Just look [here](https://peakboard.com/en/interfaces/), your system is surely included. If not, please let us know.
