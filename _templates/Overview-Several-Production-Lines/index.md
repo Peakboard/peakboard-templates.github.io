@@ -15,6 +15,8 @@ category:
   - Lean Management
   - Shopfloor
   - Serienfertigung
+  - OPC UA
+  - SQL
 image: Uebersicht-Mehrere-Produktionslinien.png
 image_thumbnail: Uebersicht-Mehrere-Produktionslinien_thumbnail.png
 download: Uebersicht-Mehrere-Produktionslinien.pbmx
@@ -23,4 +25,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # Mögliche Datenquellen
-Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als Datenquelle. Für deinen Use Case kannst du natürlich deine Systeme verwenden. Hier könnten besonders MES interessant sein, wie z.B.: AIS Automation FabEagle MES, camLine InFrame Synapse MES, DELMIA Apriso MES, DE DESC, FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite, PSIpenta MES oder [viele mehr](https://peakboard.com/schnittstellen/).
+Dieses Template verwendet OPC UA als Quelle der Maschinendaten und eine SQL Datenbank für die Auftragsdaten. Für deinen Use Case kannst du natürlich deine Systeme verwenden, denn Peakboard ist kompatibel mit unzähligen Vorsystemen. Eine detailierte Auflistung findest du [hier](https://peakboard.com/schnittstellen/).
