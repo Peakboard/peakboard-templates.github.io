@@ -15,6 +15,7 @@ category:
   - Andon
   - OPC UA
 image: Produktionsstatus-Warntafel.png
+image_thumbnail: Produktionsstatus-Warntafel_thumbnail.png
 download: Produktionsstatus-Warntafel.pbmx
 overview_description:
 overview_benefits:

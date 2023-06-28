@@ -15,6 +15,7 @@ category:
   - Andon
   - OPC UA
 image: Production-Status-Alert.png
+image_thumbnail: Production-Status-Alert_thumbnail.png
 download: Production-Status-Alert.pbmx
 overview_description:
 overview_benefits:
