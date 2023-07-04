@@ -1,11 +1,15 @@
 ---
 layout: article
-title: Echtzeit Andon Board – Effektive Überwachung deiner Produktion aus der Vogelperspektive
+title: Werkerassistenzsystem
 description: 
-  - Dieses Andon Board zeigt deine Produktionshalle aus der Vogelperspektive und visualisiert den aktuellen Status jeder deiner Maschinen anhand einer Andon-Ampel in Echtzeit. Grün signalisiert, dass die Maschine in Betrieb ist, gelb bedeutet, dass die Maschine gerade gerüstet wird und rot weist auf einen Fehler hin. Im Falle eines Fehlers wird dessen Grund zusätzlich direkt angezeigt. So kannst du Abweichungen und Störungen sofort erkennen und zeitnah auf Probleme reagieren, was zu einer höheren Produktivität und einer besseren Qualität deiner Produktion führt.
-  - Darüber hinaus speichert die Anwendung alle aufkommenden Fehler in eine Peakboard Hub Liste. Die persistieren Daten werden im rechten Bereich des Dashboards angezeigt. Hier werden sowohl die kürzlich aufgetretenen Probleme als auch die Gesamtzahl der Vorfälle am jeweiligen Tag angezeigt.
-  - Mittels eines Touchscreens oder einer an die Peakboard Box angeschlossene Maus kann auf die Kacheln im rechten unteren Bereich geklickt werden. Daraufhin öffnet sich ein Fenster, welches eine detaillierte Fehlerliste und Analyse der jeweiligen Maschine anzeigt. Durch die kontinuierliche Überwachung, Dokumentation und Analyse der Fehler lassen sich Ursachen identifizieren und langfristige Verbesserungen im Produktionsprozess erzielen.
-  - Lade dir das Template jetzt kostenlos herunter und passe es ohne Programmieraufwand an die Produktionsumgebung deines Unternehmens an. Für eine noch einfachere Bedienbarkeit wurden alle Skripte in diesem Template mit Peakboard Building Blocks, unserem Low-Code-Skripteditor, erstellt. 
+  - Diese Anwendung dient als Werkerassistenzsystem und ermöglicht eine effiziente und fehlerfreie Montage. Das interaktive Dashboard bietet zunächst einen Überblick über den Fortschritt aller offenen Montageaufträge. Wird mittels eines Touchscreens oder einer an die Peakboard Box angeschlossenen Maus ein Auftrag über einen Klick auf die jeweilige Kachel ausgewählt, erhält der Werker eine schrittweise Anleitung zur Montage des jeweiligen Produkts. Die Anweisungen werden durch Beschreibungstexte, Bilder, technische Zeichnungen sowie einer Materialliste unterstützt. 
+
+  - Während der Montage werden verschiedene Parameter erfasst, um den Produktionsprozess zu überwachen und zu bewerten. Dazu gehört die Erfassung der benötigten Zeit sowie die Zählung der OK- und NOK-Teile am Ende der Montage. Diese Daten dienen der Qualitätskontrolle und ermöglichen es, deinen Produktionsablauf zu optimieren und mögliche Verbesserungen schneller vorzunehmen.
+
+  - Darüber hinaus bietet das Dashboard die Möglichkeit, benötigte Materialien in der internen Lagerlogistik direkt nachzubestellen oder Probleme an Produktionsverantwortliche zu melden.
+
+  - Mit diesem Dashboard können Werker ihre Produktivität steigern, Fehler minimieren und eine reibungslose Montage sicherstellen. Ebenso können neue Mitarbeitende im Unternehmen jetzt ohne großen Einlernaufwand direkt mit der Montage loslegen. 
+
 lang: de
 weight: 1000
 isDraft: true
@@ -16,6 +20,7 @@ category:
   - Produktion
   - Interaktion
   - Montage
+  - Einzelfertigung
   - Peakboard Hub
 image: Montage-Anleitung-Board.png
 image_thumbnail: Montage-Anleitung-Board_thumbnail.png
