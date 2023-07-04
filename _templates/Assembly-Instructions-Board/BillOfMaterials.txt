@@ -1,0 +1,1 @@
+[{"Name":"ProductID","OriginalName":"ProductID","Type":3},{"Name":"MaterialID","OriginalName":"MaterialID","Type":3},{"Name":"Qty","OriginalName":"Qty","Type":3}]
