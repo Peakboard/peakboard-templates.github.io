@@ -9,10 +9,10 @@ description:
   - In addition, the dashboard offers the option of directly reordering required materials in internal warehouse logistics or reporting problems to those responsible for production.
 
   - With this dashboard, workers can increase their productivity, minimize errors, and ensure smooth assembly. Likewise, new company employees can now get started in assembly without a great deal of training. 
-  
+
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Assembly-Instructions-Board
 category:
   - All
@@ -28,7 +28,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
+# Possible data sources
 This template uses four different Peakboard Hub lists as the data source. The "Products" list contains master data for all products that your company manufactures. The "Materials" list contains master data for all materials that are kept in your warehouse and that are required to manufacture your products. The “Bill of materials” list contains data on the materials from which the individual products are made. The "Assembly steps" list contains data on the individual assembly steps of all products. To use this template with your own Peakboard Hub, you can download the table structure of the particular lists via the following links: <a href="Products.txt" class="inline" download>Products</a> , <a href="Materials.txt" class="inline" download>Materials</a> , <a href="BillOfMaterials.txt" class="inline" download>Bill of materials</a> , <a href="Assembly_Steps.txt" class="inline" download>Assembly steps</a>. Import these into Peakboard Hub and then adjust the data sources in the template accordingly. As an alternative to Peakboard Hub lists, this data could also come from one or more databases.
 
 # Overview of current assembly jobs

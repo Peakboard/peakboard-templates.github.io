@@ -12,7 +12,7 @@ description:
 
 lang: de
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Assembly-Instructions-Board
 category:
   - Alle
