@@ -3,9 +3,13 @@ layout: article
 title: Your worker assistance system for efficient assembly 
 description: 
   - This application acts as a operator assistance system and enables efficient and error-free assembly. The interactive dashboard initially provides an overview of the progress of all open assembly orders. When an order is selected by clicking on its tile using a touchscreen or a mouse connected to the Peakboard Box, the worker receives step-by-step instructions for assembling the particular product. The instructions are conveyed by descriptive text, images, technical drawings, and a list of materials. 
+
   - Various parameters are recorded during assembly to monitor and evaluate the production process. This includes recording the time required and counting the OK and NOK parts at the end of assembly. This data is used for quality control and makes it possible to optimize your production process and make possible improvements more quickly.
+
   - In addition, the dashboard offers the option of directly reordering required materials in internal warehouse logistics or reporting problems to those responsible for production.
+
   - With this dashboard, workers can increase their productivity, minimize errors, and ensure smooth assembly. Likewise, new company employees can now get started in assembly without a great deal of training. 
+  
 lang: en
 weight: 1000
 isDraft: true
