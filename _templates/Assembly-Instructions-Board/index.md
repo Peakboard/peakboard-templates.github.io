@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Werkerassistenzsystem
+title: Dein Werkerassistenzsystem für eine effiziente Montage
 description: 
   - Diese Anwendung dient als Werkerassistenzsystem und ermöglicht eine effiziente und fehlerfreie Montage. Das interaktive Dashboard bietet zunächst einen Überblick über den Fortschritt aller offenen Montageaufträge. Wird mittels eines Touchscreens oder einer an die Peakboard Box angeschlossenen Maus ein Auftrag über einen Klick auf die jeweilige Kachel ausgewählt, erhält der Werker eine schrittweise Anleitung zur Montage des jeweiligen Produkts. Die Anweisungen werden durch Beschreibungstexte, Bilder, technische Zeichnungen sowie einer Materialliste unterstützt. 
 
