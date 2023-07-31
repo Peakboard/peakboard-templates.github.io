@@ -7,7 +7,7 @@ description:
   - Du kannst diese Erweiterung nutzen, um Fragen an GPT 3.5 zu schreiben.
   - Die Datenquelle liefert die Antworten von GPT.
   - Für den Parameter "Token" musst du einen AccessToken von GPT angeben. Diesen erhältst du im API-Bereich von OpenAI.
-lang: de
+lang: en
 weight: 1000
 isDraft: false
 ref: GPT
