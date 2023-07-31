@@ -4,9 +4,9 @@ title: GPT
 title_text: GPT
 by: Peakboard
 description: 
-  - Du kannst diese Erweiterung nutzen, um Fragen an GPT 3.5 zu schreiben.
-  - Die Datenquelle liefert die Antworten von GPT.
-  - Für den Parameter "Token" musst du einen AccessToken von GPT angeben. Diesen erhältst du im API-Bereich von OpenAI.
+  - You can use this extension to write questions to GPT 3.5.
+  - The data source provides the answers from GPT.
+  - For the token parameter, you need to provide an AccessToken from GPT. You can obtain this in the API section of OpenAI.
 lang: de
 weight: 1000
 isDraft: false
