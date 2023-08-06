@@ -10,7 +10,7 @@ lang: de
 weight: 1000
 isDraft: false
 ref: GPT
-image: Trello_Extension_Logo_Logo.png
+image: Trello_Extension_Logo.png
 image_thumbnail: Trello_Extension_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Trello
 download: Peakboard.Extensions.Trello.zip
