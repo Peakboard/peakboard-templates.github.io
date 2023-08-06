@@ -15,7 +15,7 @@ image_thumbnail: Trello_Extension_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Trello
 download: Peakboard.Extensions.Trello.zip
 extension_category:
-  - Alle
+  - All
 
 version_history:
   - Version 1.0 on 31 July 2023 | Initial release
