@@ -15,6 +15,7 @@ repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Microso
 download: PeakboardExtensionMicrosoftDynamics365.zip
 extension_category:
   - Alle
+  - Cloud Services
 
 version_history:
   - Version 1.0 on 18 June 2021 | Initial release
