@@ -17,5 +17,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
+# Possible data sources
 This template uses Excel as fictitious data sources. In a real scenario you could connect your systems instead. Data for the different areas of this board could come from completely different systems, you can find an overview [here](https://peakboard.com/en/interfaces/).
