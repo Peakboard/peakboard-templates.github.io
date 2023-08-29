@@ -25,7 +25,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
+# Possible data sources
 
 This template uses multiple data sources. The order data comes from a REST API and is connected via the JSON data source, the machine data via OPC UA. To customize the template to your own needs and systems, there are numerous other data sources available.
 
