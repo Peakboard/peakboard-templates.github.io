@@ -20,11 +20,11 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# possible data sources
+# Possible data sources
 
 The template was created using images and an Excel file in a OneDrive directory. Many other data sources are possible, such as Google Spreadsheet, RSS Feed, JSON, XML, CSV, OData, Web Services, REST API, Microsoft Excel, Google Docs, MS SharePoint Lists, Dropbox, Microsoft OneDrive, Google Drive, Microsoft,SharePoint Document Libraries, Microsoft Teams Files, a local file server and [more](https://peakboard.com/en/data-connections/).
 
-# how it works
+# How it works
 
 Find a general introduction to Peakboard [here](https://peakboard.rocks/get-started). If you want to know how to connect the Peakboard Designer to your Peakboard Box and how to transfer your visualization accordingly, the following [article](https://peakboard.rocks/connect) will help you. Download the [Peakboard Designer](https://peakboard.com/en/peakboard-designer/?utm_campaign=templates&utm_medium=description_link&utm_source=templates_overview) for free.
 
