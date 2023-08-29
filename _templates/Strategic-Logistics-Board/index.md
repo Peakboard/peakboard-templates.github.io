@@ -20,5 +20,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# mögliche datenquellen
+# Mögliche Datenquellen
 Dieses Template verwendet Excel als Datenquelle. Alternativ könnten die Daten auch aus einem WMS oder anderen Logistikprogrammen kommen. Einige Beispiele die du anbinden könntest: SAP EWM, Oracle NetSuite, PSIwms, Erhardt + Partner LFS, IBM Sterling WMS, Epicor WMS, JDA WMS, Fishbowl Inventory oder SSI Schäfer WAMAS. Auch Standardschnittstellen wie: JSON, XML, CSV, OData, Rest-APIs oder auch Google Docs könnten verwendet werden. Eine Übersicht über mögliche Schnittstellen in Peakboard findest du [hier](https://peakboard.com/schnittstellen/).
