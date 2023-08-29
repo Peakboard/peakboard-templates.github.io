@@ -20,5 +20,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# mögliche datenquellen
+# Mögliche Datenquellen
 Dieses Template verwendet eine SQL Datenbank als Datenquelle der Auftragsdaten und OPC UA für die Produktionsdaten. Alternativ gibt es viele Datenquellen die du für dieses Board verwenden könntest, eine Übersicht findest du [hier](https://peakboard.com/schnittstellen/).
