@@ -21,6 +21,6 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# mögliche datenquellen
+# Mögliche Datenquellen
 
 Dieses Template verwendet eine SQL Datenbank. Es zeigt auch wie Daten in eine Datenbank geschrieben werden können. Es könnten aber auch andere Systeme verwendet werden, wie z.B. ODBC, MS SQL Server, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL, MongoDB, Teradata oder Wintool. Auch ein ERP Systeme könnte sich dafür eignen. Eine Auflistung an möglichen Datenquellen findest du [hier](https://peakboard.com/schnittstellen/).
