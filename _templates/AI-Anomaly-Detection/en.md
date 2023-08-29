@@ -18,7 +18,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# how it works
+# How it works
 
 This template uses an AI model from [Paiqo](https://paiqo.com/de/). This model runs in the Azure cloud. 
 
