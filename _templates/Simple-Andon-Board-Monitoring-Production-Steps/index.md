@@ -22,5 +22,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# mögliche datenquellen
+# Mögliche Datenquellen
 Dieses Template verwendet MQTT als Datenquelle. Alternativ kannst du auch andere maschinennahe Kommunikationsmethoden verwenden, wie zum Beispiel: OPC UA, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation oder MT Connect. Eine Übersicht über alle möglichen Datenquellen findest du [hier](https://peakboard.com/schnittstellen/).
