@@ -20,7 +20,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# this is how it works 
+# This is how it works 
 
 In this example, you can easily customize the tasks to your needs using the TasksMetadata list.
 
@@ -31,6 +31,6 @@ If you want to build the template with your database, you can simply create a ta
 Now quickly adjust the connection data to the SQL server in the data sources “CurrentTasks” and “TodayTasks” to your SQL server. Everything else is done by your Peakboard Box!
 
 
-# possible data sources
+# Possible data sources
 
 This template uses a SQL database. It also shows how to write back data into a database. But other systems could be used as well, such as ODBC, MS SQL Server, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL, MongoDB, Teradata or Wintool. An ERP system could also be suitable for this. A list of possible data sources can be found [here](https://peakboard.com/en/interfaces/).
