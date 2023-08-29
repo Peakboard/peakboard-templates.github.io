@@ -19,6 +19,6 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# mögliche datenquellen
+# Mögliche Datenquellen
 
 Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als Datenquelle. Für deinen Use Case kannst du natürlich deine Systeme verwenden. Hier könnten besonders MES interessant sein, wie z.B.: AIS Automation FabEagle MES, camLine InFrame Synapse MES, DELMIA Apriso MES, DE DESC, FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite, PSIpenta MES oder [viele mehr](https://peakboard.com/schnittstellen/). Um die aktuellen Werte mit den Zielwerten abzugleichen kannst du auch noch ein ERP System anbinden wie z.B. abas ERP, proALPHA ERP, Epicor ERP, Comarch ERP, QAD Adaptive ERP, MS Dynamics AX Axapta, MS Dynamics NAV oder SAP.
