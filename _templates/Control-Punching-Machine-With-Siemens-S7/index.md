@@ -20,7 +20,7 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# so funktioniert’s
+# So funktioniert’s
 Dieses Template funktioniert nur in Verbindung mit einer S7 Steuerung. Es soll lediglich als Beispiel dienen, wie eine solche Verbindung aussehen könnte. Wie genau dieses Template funktioniert und wie du es selbst aufbauen kannst, erfährst du in diesem YouTube Video:
 
 {% include video.html image='img/Siemens-S7-Steuerung-Visualsieren-Peakboard.jpg' video_id='w8jRp6st180' %}
