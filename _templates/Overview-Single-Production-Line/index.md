@@ -23,7 +23,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# mögliche datenquellen
+# Mögliche Datenquellen
 Dieses Template verwendet OPC UA als Quelle der Maschinendaten und eine SQL Datenbank für die Auftragsdaten. Für eine historische Auswertung werden die OEE Werte in einer Peakboard Hub Liste gespeichert. Für deinen Use Case kannst du natürlich deine Systeme verwenden, denn Peakboard ist kompatibel mit unzähligen Vorsystemen. Eine detailierte Auflistung findest du [hier](https://peakboard.com/schnittstellen/).
 
 
