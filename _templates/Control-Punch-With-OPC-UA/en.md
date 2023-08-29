@@ -20,7 +20,7 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# how it works
+# How it works
 How exactly this template works and how you can build it yourself, you can find out in this YouTube Video:
 
 {% include video.html image='img/OPC-UA-Data-Visualized-Peakboard.jpg' video_id='YpfEJrFriBU' %}
