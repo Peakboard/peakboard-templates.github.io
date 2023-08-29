@@ -22,5 +22,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
+# Possible data sources
 This template uses Peakboard [variable lists](https://help.peakboard.com/scripting/en-variables.html) as fictitious data sources. In a real scenario you could connect your systems instead. There could also be MES such as AIS Automation FabEagle MES, camLine InFrame Synapse MES, DELMIA Apriso MES, DE DESC, FASTEC 4 PRO, Felten PILOT:MES or Forcam Force connected. Or databases such as: MS SQL Server, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL or MongoDB. Or also machine-oriented communication methods such as: MQTT, OPC UA, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation or MT Connect. There are many data sources you could use for this board, you can find an overview [here](https://peakboard.com/en/interfaces/).
