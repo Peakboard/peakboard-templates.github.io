@@ -21,6 +21,6 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# possible data sources
+# Possible data sources
 
 This template uses a SQL database. It also shows how to write back data into a database. But other systems could be used as well, such as ODBC, MS SQL Server, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL, MongoDB, Teradata or Wintool. An ERP system could also be suitable for this. A list of possible data sources can be found [here](https://peakboard.com/en/interfaces/).
