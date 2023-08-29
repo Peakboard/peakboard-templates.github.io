@@ -20,6 +20,6 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# mögliche datenquellen
+# Mögliche Datenquellen
 Dieses Template verwendet eine Peakboard Hub Liste als zentrale Datenquelle. Die Daten, die mithilfe einer an die Peakboard Box angeschlossenen Maus und Tastatur erfasst werden, werden dabei in eine Peakboard Hub Liste geschrieben, die dann für die Datenvisualisierung ausgelesen wird. Alternativ können hierfür andere Datenbanken wie SQL, Oracle oder ODBC genutzt werden. Auch die Namen der Teammitglieder sind in einer Liste in Peakboard Hub gespeichert. Um dieses Template mit deinem eigenen Peakboard Hub zu nutzen, kannst du <a href="Tasks.txt" class="inline" download>hier</a> die Tabellenstruktur der Aufgabenliste und <a href="Team.txt" class="inline" download>hier</a> die Struktur der Teamliste herunterladen. Importiere diese in deinen Peakboard Hub und passe anschließend die Datenquellen im Template entsprechend an.
 
