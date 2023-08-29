@@ -20,5 +20,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
+# Possible data sources
 This template uses a SQL database as data source of the order data and OPC UA for the production data. Alternatively there are various data sources you could use for this board, an overview can be found [here](https://peakboard.com/schnittstellen/).
