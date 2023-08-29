@@ -22,5 +22,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
+# Possible data sources
 This template uses OPC UA as data source, but can alternatively be used with numerous other data sources. Peakboard supports among others the following protocols: MQTT, Modbus, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation, MT Connect, WAGO or [many other data sources](https://peakboard.com/en/interfaces/).
