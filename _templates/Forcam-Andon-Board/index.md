@@ -20,7 +20,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# so funktioniert's
+# So funktioniert's
 
 Dieses Template verwendet die FORCAM FORCE™ [Bridge API](https://docs.forcebridge.io/). Passe bei den API Calls die jeweilige URL an dein System an (in Summe sind es 9 API Calls). 
 
