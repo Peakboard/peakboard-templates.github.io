@@ -21,10 +21,10 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# mögliche datenquellen
+# Mögliche Datenquellen
 Dieses Template verwendet eine Peakboard Hub Liste als zentrale Datenquelle. Die Daten in der Peakboard Hub Liste werden hierbei über [dieses](https://templates.peakboard.com/Interactive-Board-Manual-Quality-Control/index) interaktive Dashboard erfasst. Alternativ können hierfür auch andere Datenbanken wie SQL, Oracle oder ODBC genutzt werden.
 
-# so funktioniert's
+# So funktioniert's
 Um dieses Template vollumfänglich nutzen zu können, benötigst du Peakboard Hub. Wie du diesen installierst, erfährst du [hier](https://help.peakboard.com/hub/de-hub_installation.html). Öffne Peakboard Hub, wähle im Menü “Lists” und klicke auf "Import", um die benötigte Tabellenstruktur zu importieren. Diese kannst du <a href="QualityData.txt" class="inline" download>hier</a> herunterladen. 
 
 ![](img/peakboard-hub-lists.png)
