@@ -19,7 +19,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# mögliche datenquellen
+# Mögliche Datenquellen
 Dieses Template verwendet eine Excel Tabelle als Datenquelle. Alternativ könnten die Daten auch aus einem ERP-System oder CRM-System kommen, oder auch andere Datenbanken wie SQL, Oracle oder ODBC genutzt werden.
 
 
