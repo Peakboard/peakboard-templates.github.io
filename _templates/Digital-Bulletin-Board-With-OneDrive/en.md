@@ -44,7 +44,7 @@ After you have placed the files in your desired folder and customized them accor
 
 After you have closed this dialog and all required data sources and resources are updated, you should be able to see your data after pressing the 'Preview' button.
 
-## weather widget update
+## Weather widget update
 If you do not want to use the weather widget, simply delete the element from the visualization in the Peakboard Designer by selecting it with a right-click and clicking on 'Delete'.
 
 If you want to use the weather widget, create your own widget with your city at the following address: [https://weatherwidget.io/](https://weatherwidget.io/).
@@ -61,7 +61,7 @@ In the sidebar on the right side you will find some parameters for this element.
 
 ![image_live](img/web_widget_code.png)
 
-## picture credits
+## Picture credits
 
 The used images and graphics are from [Freepik](http://freepik.com/) and [Unsplash](https://unsplash.com/). 
 
