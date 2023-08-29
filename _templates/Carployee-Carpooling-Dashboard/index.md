@@ -21,7 +21,7 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# so funktioniert's
+# So funktioniert's
 
 Das Dashoard arbeitet mit Beispieldaten aus Variablenlisten. Wenn du richtige Daten verwenden möchtest, brauchst du einen [Carployee](https://www.carployee.com/) Account.
 
