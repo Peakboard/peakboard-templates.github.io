@@ -21,6 +21,6 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
+# Possible data sources
 This template uses a Microsoft Excel spreadsheet as data source. For your use case you can of course use your own systems. Here databases or Google Spreadsheet could be interesting. But also standards like: JSON, XML, CSV, OData, Web Services, REST-API, ODBC, MS SQL Server, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL, MongoDB could be considered. Or you could also solve the whole thing via an ERP system. Peakboard offers many options: abas ERP, proALPHA ERP, Epicor ERP, Comarch ERP, QAD Adaptive ERP, SAP ERP or [many more](https://peakboard.com/schnittstellen/).
 
