@@ -18,16 +18,16 @@ download: Intralogistics-Receive-Orders-via-MQTT.pbmx
 ---
 ![](img/peakboard-mqtt-dashboards.gif)
 
-# how it works
+# How it works
 
 How exactly this template works and how you can build it yourself, you can find out in this YouTube Video:
 {% include video.html image='img/youtube_en.jpg' video_id='UFPcmPQRG-4' %}
 
-# possible data sources
+# Possible data sources
 
 This template uses MQTT for the communication between the different screens. You could also use another technology or write the data into a database such as ODBC, MS SQL Server, Oracle, MySQL, PostgreSQL, MongoDB and [many more](https://peakboard.com/en/interfaces/). 
 
-# related template
+# Related template
 
 This template works in connection with [this template](https://templates.peakboard.com/Intralogistics-Order-Parts-with-MQTT/en). Which creates new orders.
 
