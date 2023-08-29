@@ -20,5 +20,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# mögliche datenquellen
+# Mögliche Datenquellen
 Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als fiktive Datenquellen. Alternativ könnten die Daten auch aus einem WMS oder anderen Logistikprogrammen kommen. Einige Beispiele die du anbinden könntest: SAP EWM, Oracle NetSuite, PSIwms, Erhardt + Partner LFS, IBM Sterling WMS, Epicor WMS, JDA WMS, Fishbowl Inventory, SSI Schäfer WAMAS und [viele mehr](https://peakboard.com/schnittstellen/).
