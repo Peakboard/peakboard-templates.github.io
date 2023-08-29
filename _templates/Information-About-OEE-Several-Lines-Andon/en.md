@@ -24,7 +24,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
+# Possible data sources
 This template uses a XML REST API as data source of the order data and OPC UA for the production data. In your usecase the data could also come from a MES system. With Peakboard you could connect your visualization with the following systems: AIS Automation FabEagle MES, camLine InFrame Synapse MES, DELMIA Apriso MES, DE DESC, FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite, PSIpenta MES and [many more](https://peakboard.com/en/interfaces/).
 
 
