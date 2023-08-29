@@ -21,7 +21,7 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# how it works
+# How it works
 
 The dashboard works with sample data from variable lists. If you want to use real data, you need a [Carployee](https://www.carployee.com/?lang=en) account. 
 
