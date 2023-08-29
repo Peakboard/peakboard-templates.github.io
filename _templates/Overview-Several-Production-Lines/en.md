@@ -24,5 +24,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
+# Possible data sources
 This template uses OPC UA as the source of the machine data and a SQL database for the order data. For your use case, you can of course use your systems, as Peakboard is compatible with countless pre-systems. A detailed list can be found [here](https://peakboard.com/en/interfaces/).
