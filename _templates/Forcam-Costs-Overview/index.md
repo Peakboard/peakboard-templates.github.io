@@ -19,7 +19,7 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# so funktioniert's
+# So funktioniert's
 
 Passe zunächst die URLs der JSON Calls an die [FORCAM API](https://docs.forcebridge.io/) an, um das Dashboard mit deinem FORCAM System zu verbinden. Wiederhole diesen Schritt für alle 5 Calls. Der Call ‘Current_Times’ (3) ist deaktiviert, da er erst die Operation ID von einem anderen Call benötigt. Erst dann kann der Call ausgeführt werden.
 
