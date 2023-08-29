@@ -17,5 +17,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# mögliche datenquellen
+# Mögliche Datenquellen
 Dieses Template verwendet Excel als fiktive Datenquellen. In einem echten Szenario könntest du stattdessen deine Systeme anbinden. Daten für die verschiedenen Bereiche dieses Boards könnten aus ganz unterschiedlichen Systemen kommen, eine Übersicht findest du [hier](https://peakboard.com/schnittstellen/).
