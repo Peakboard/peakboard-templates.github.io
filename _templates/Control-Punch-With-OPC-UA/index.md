@@ -20,7 +20,7 @@ overview_benefits:
 overview_data_sources:
 ---
 
-# so funktioniert’s
+# So funktioniert’s
 
 Wie genau dieses Template funktioniert und wie du es selbst aufbauen kannst, erfährst du in diesem YouTube Video:
 
