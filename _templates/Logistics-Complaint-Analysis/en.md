@@ -18,7 +18,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
+# Possible data sources
 This template uses an Excel spreadsheet as data source. Alternatively, the data could also come from an ERP system or CRM system, or other databases such as SQL, Oracle or ODBC could be used.
 
 
