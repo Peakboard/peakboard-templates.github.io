@@ -20,5 +20,5 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
+# Possible data sources
 This template uses Peakboard [variable lists](https://help.peakboard.com/scripting/en-variables.html) as fictitious data sources. Alternatively, the data could also come from a WMS or other logistics programs. Some examples you could connect to: SAP EWM, Oracle NetSuite, PSIwms, Erhardt + Partner LFS, IBM Sterling WMS, Epicor WMS, JDA WMS, Fishbowl Inventory, SSI Schäfer WAMAS and [many more](https://peakboard.com/en/interfaces/).
