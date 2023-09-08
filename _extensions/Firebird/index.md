@@ -8,7 +8,7 @@ description:
 lang: de
 weight: 1000
 isDraft: false
-ref: db2
+ref: firebird
 image: Firebird_Extention_Logo.png
 image_thumbnail: DB2_Extention_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Firebird
