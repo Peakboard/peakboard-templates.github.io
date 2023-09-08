@@ -10,7 +10,7 @@ weight: 1000
 isDraft: false
 ref: mpdv
 image: MPDV_Extention_Logo.png
-image_thumbnail: DB2_Extention_Logo_thumbnail.png
+image_thumbnail: MPDV_Extention_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/MPDV
 download: MPDV.zip
 extension_category:
