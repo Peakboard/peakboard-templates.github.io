@@ -10,7 +10,7 @@ weight: 1000
 isDraft: false
 ref: firebird
 image: Firebird_Extention_Logo.png
-image_thumbnail: DB2_Extention_Logo_thumbnail.png
+image_thumbnail: Firebird_Extention_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Firebird
 download: Firebird.zip
 extension_category:
