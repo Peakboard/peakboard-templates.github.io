@@ -14,7 +14,7 @@ image_thumbnail: Databricks_Extention_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Databricks
 download: Databricks.zip
 extension_category:
-  - All
+  - Alle
 
 version_history:
   - Version 1.0 on 13 March 2021 | Initial release
