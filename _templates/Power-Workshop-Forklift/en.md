@@ -1,20 +1,20 @@
 ---
 layout: article
-title: Power Workshop Production line
+title: Power Workshop Production Forklift
 description: 
-  - Power Workshop Dashboard 1. 
+  - Power Workshop Dashboard 2. 
 lang: en
 weight: 1000
 isDraft: false
-ref: Power-Workshop-Production-Line
+ref: Power-Workshop-Forklift
 category:
   - All
   - Power Workshop
-  - Production
+  - Logistics
   - Interactive
-image: Power-Workshop-Produktionslinie.png
-image_thumbnail: Power-Workshop-Produktionslinie_thumbnail.png
-download: Power-Workshop-Produktionslinie.pbmx
+image: Power-Workshop-Gabelstapler.png
+image_thumbnail: Power-Workshop-Gabelstapler_thumbnail.png
+download: Power-Workshop-Gabelstapler.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
