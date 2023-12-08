@@ -8,9 +8,9 @@ description:
 lang: en
 weight: 1000
 isDraft: false
-ref: sick
-image: SICK_Extension_Logo.png
-image_thumbnail: SICK_Extension_Logo_thumbnail.png
+ref: tableau
+image: Tableau_Extension_Logo.png
+image_thumbnail: Tableau_Extension_logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/TableauTokenGenerator
 download: Peakboard.Extensions.TableauTokenGenerator.zip
 extension_category:
