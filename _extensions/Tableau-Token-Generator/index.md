@@ -10,7 +10,7 @@ weight: 1000
 isDraft: false
 ref: tableau
 image: Tableau_Extension_Logo.png
-image_thumbnail: Tableau_Extension_Logo_thumbnail.png
+image_thumbnail: Tableau_Extension_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/TableauTokenGenerator
 download: Peakboard.Extensions.TableauTokenGenerator.zip
 extension_category:
