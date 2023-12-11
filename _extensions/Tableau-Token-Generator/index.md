@@ -14,7 +14,7 @@ image_thumbnail: Tableau_Extension_logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/TableauTokenGenerator
 download: Peakboard.Extensions.TableauTokenGenerator.zip
 extension_category:
-  - All
+  - Alle
 
 version_history:
   - Version 1.0 on 8 December 2023 | Initial release
