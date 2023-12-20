@@ -4,7 +4,7 @@ title: Tableau
 title_text: Tableau Token Generator
 by: Peakboard
 description: 
-  - Mit dieser Erweiterung können Sie ein Token erstellen, das für die Verbindung zu einem Tableau Dashboard in Peakboard benötigt wird.
+  - Mit dieser Erweiterung kannst du ein Token erstellen, das für die Verbindung zu einem Tableau Dashboard in Peakboard benötigt wird.
 lang: de
 weight: 1000
 isDraft: false
