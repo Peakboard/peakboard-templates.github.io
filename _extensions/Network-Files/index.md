@@ -19,8 +19,3 @@ extension_category:
 version_history:
   - Version 1.0 on 07 July 2022 | Initial release
 ---
-
-Weitere Resourcen:
-
-* [Mastering dynamic file loading - How to load CSV files without knowing their names
-](https://how-to-dismantle-a-peakboard-box.com/Mastering-dynamic-file-loading-How-to-load-CSV-files-without-knowing-their-name.html)
