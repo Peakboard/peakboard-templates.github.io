@@ -15,6 +15,7 @@ repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Yarooms
 download: PeakboardExtensionYarooms.zip
 extension_category:
   - Alle
+  - Cloud Services
 
 version_history:
   - Version 1.0 on 09 April 2020 | Initial release

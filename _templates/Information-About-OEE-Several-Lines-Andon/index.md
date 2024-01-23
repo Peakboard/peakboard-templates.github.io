@@ -15,6 +15,8 @@ category:
   - OEE / GAE
   - KPI
   - Serienfertigung
+  - OPC UA
+  - XML
 image: GAE-Werte-Mehrere-Produktionslinien-Andon.png
 image_thumbnail: GAE-Werte-Mehrere-Produktionslinien-Andon_thumbnail.png
 download: GAE-Werte-Mehrere-Produktionslinien-Andon.pbmx
@@ -23,4 +25,5 @@ overview_benefits:
 overview_data_sources:
 ---
 # Mögliche Datenquellen
-Dieses Template verwendet eine Peakboard [Variablenliste](https://help.peakboard.com/scripting/de-variables.html) als Datenquelle. In der Realität würden die Daten aus einem MES kommen. Mit Peakboard könnten sie unter anderem folgende Systeme anbinden: AIS Automation FabEagle MES, camLine InFrame Synapse MES, DELMIA Apriso MES, DE DESC, FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite, PSIpenta MES und [viele mehr](https://peakboard.com/schnittstellen/).
+Dieses Template verwendet eine XML REST API als Datenquelle der Auftragsdaten und OPC UA für die Produktionsdaten. In deinem Usecase könnten die Daten jedoch auch aus einem MES stammen. Mit Peakboard kannst du unter anderem folgende Systeme anbinden: AIS Automation FabEagle MES, camLine InFrame Synapse MES, DELMIA Apriso MES, DE DESC, FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite, PSIpenta MES und [viele mehr](https://peakboard.com/schnittstellen/).
+

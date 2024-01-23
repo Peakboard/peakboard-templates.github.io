@@ -1,14 +1,18 @@
 ---
 layout: article
-title: Real-time andon board – Effective monitoring of your production from a bird's eye view 
+title: Your worker assistance system for efficient assembly
 description: 
-  - This andon board provides a bird’s eye view of your production facility and uses an andon traffic light to visualize the current status of each of your machines in real time. Green shows that the machine is running, yellow means that the machine is being configured, and red indicates an error. In the event of an error, the reason for it is also displayed directly. This way, you can immediately identify deviations and malfunctions and react to problems swiftly, which leads to higher productivity and better quality in your production.
-  - In addition, the application saves all occurring errors in a Peakboard Hub list. The persistent data is displayed in the right pane of the dashboard. This shows both the recent issues and the total number of incidents for that day.
-  - Using a touchscreen or a mouse connected to the Peakboard Box, you can click on the tiles in the lower right area. This opens a window displaying a detailed list of errors and analysis of the respective machine. The continuous monitoring, documentation, and analysis of errors let you identify the causes and achieve long-term improvements in the production process.
-  - Download the template now for free and adapt it to your company's production environment without any programming effort. For even easier usability, all scripts in this template were created with Peakboard Building Blocks, our low-code script editor. 
+  - This application acts as a operator assistance system and enables efficient and error-free assembly. The interactive dashboard initially provides an overview of the progress of all open assembly orders. When an order is selected by clicking on its tile using a touchscreen or a mouse connected to the Peakboard Box, the worker receives step-by-step instructions for assembling the particular product. The instructions are conveyed by descriptive text, images, technical drawings, and a list of materials. 
+
+  - Various parameters are recorded during assembly to monitor and evaluate the production process. This includes recording the time required and counting the OK and NOK parts at the end of assembly. This data is used for quality control and makes it possible to optimize your production process and make possible improvements more quickly.
+
+  - In addition, the dashboard offers the option of directly reordering required materials in internal warehouse logistics or reporting problems to those responsible for production.
+
+  - With this dashboard, workers can increase their productivity, minimize errors, and ensure smooth assembly. Likewise, new company employees can now get started in assembly without a great deal of training. 
+
 lang: en
 weight: 1000
-isDraft: true
+isDraft: false
 ref: Assembly-Instructions-Board
 category:
   - All
@@ -24,8 +28,8 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
-This template uses OPC UA as the source of the machine data. You can use other low-level communication methods instead, such as: Connect MQTT, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation, or MT Connect. Any errors that occur are saved in a Peakboard Hub list and read out from there to the dashboard. As an alternative, you can use other databases for this, such as SQL, Oracle, or ODBC. The template also uses a Peakboard Hub list with the error codes and error description of each machine. To use this template with your own Peakboard Hub, you can download the table structure of the error list <a href="ErrorsList.txt" class="inline" download>here </a> and the error codes <a href="ErrorsMapping.txt" class="inline" download>here</a>. Import these into your Peakboard Hub and then adjust the data sources in the template accordingly.
+# Possible data sources
+This template uses four different Peakboard Hub lists as the data source. The "Products" list contains master data for all products that your company manufactures. The "Materials" list contains master data for all materials that are kept in your warehouse and that are required to manufacture your products. The “Bill of materials” list contains data on the materials from which the individual products are made. The "Assembly steps" list contains data on the individual assembly steps of all products. To use this template with your own Peakboard Hub, you can download the table structure of the particular lists via the following links: <a href="Products.txt" class="inline" download>Products</a> , <a href="Materials.txt" class="inline" download>Materials</a> , <a href="BillOfMaterials.txt" class="inline" download>Bill of materials</a> , <a href="Assembly_Steps.txt" class="inline" download>Assembly steps</a>. Import these into Peakboard Hub and then adjust the data sources in the template accordingly. As an alternative to Peakboard Hub lists, this data could also come from one or more databases.
 
 # Overview of current assembly jobs
 The dashboard provides an overview of all open assembly orders. Clicking on the respective tile opens the corresponding assembly instruction.

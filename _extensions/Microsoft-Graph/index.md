@@ -16,6 +16,7 @@ download: GraphExtension.zip
 extension_category:
   - Alle
   - Microsoft
+  - Cloud Services
 
 version_history:
   - Version 1.0 on 24 April 2023 | Initial release

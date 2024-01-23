@@ -4,7 +4,7 @@ title: Network Files
 title_text: Network Files
 by: Peakboard
 description: 
-  - This extension allows you to read the filenames of all files located in a specific UNC network path. This allows you to dynamically add data sources and resources to Peakboard Designer based on their file names.
+  - This extension allows you to read the filenames of all files located in a specific UNC network path. This allows you to dynamically add data sources and resources to Peakboard Designer based on their file names. 
 lang: en
 weight: 1000
 isDraft: false

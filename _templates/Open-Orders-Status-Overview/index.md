@@ -24,4 +24,4 @@ overview_data_sources:
 
 # mögliche datenquellen
 
-Dieses Template verwendet Peakboard [Variablenlisten](https://help.peakboard.com/scripting/de-variables.html) als Datenquelle. Für deinen Use Case kannst du natürlich deine Systeme verwenden. Hier könnten besonders Datenbank interessant sein, wie z.B.: ODBC, MS SQL Server, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL, MongoDB, Teradata oder [viele mehr](https://peakboard.com/schnittstellen/).
+Dieses Template verwendet Peakboard eine SQL Datenbank als Datenquelle. Für deinen Use Case kannst du natürlich deine Systeme verwenden. Hier könnten auch andere Datenbanken interessant sein, wie z.B.: ODBC, MS Access, MS Azure SQL, Oracle Database, IBM DB2, MySQL, PostgreSQL, MongoDB, Teradata oder [viele mehr](https://peakboard.com/schnittstellen/).
