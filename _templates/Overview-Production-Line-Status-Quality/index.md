@@ -4,7 +4,7 @@ title: Serverlose Maschinendaten-Visualisierung ― Dashboard zur Übersicht dei
 description: 
   - Mit diesem Template überwachst du deine Maschinen in Echtzeit! Die frei konfigurierbare Visualisierung bietet dir die Möglichkeit Maschinendaten einer einzelnen Produktionslinie flexibel, automatisiert und unkompliziert abzubilden. Mit einem kurzen Blick auf das Dashboard kennst du so z. B. das Qualitätslevel des aktuellen Zyklus, die Zykluslänge oder die Gesamtanlageneffektivität. Durch das Ersetzen des Timer-Scripts sowie der Variablen, kannst du das Template ganz nach deinen Bedürfnissen anpassen. Jetzt herunterladen!
 lang: de
-weight: 1000
+weight: 455
 isDraft: false
 ref: Overview-Production-Line-Status-And-Quality
 category:

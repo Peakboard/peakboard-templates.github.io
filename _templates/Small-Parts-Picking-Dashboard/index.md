@@ -4,7 +4,7 @@ title: Kleinteilekommisionierung – dein praktisches Logistik Dashboard
 description: 
   - Dieses Template dient zur Überwachung der aktuellen Auslastung deines Lagers. Die praktische Visualisierung zeigt dir dabei wichtige Kennzahlen wie z. B. Vorratsbestände und Informationen zu Aufträgen in Echtzeit an. Optimiere so kinderleicht deine Logistik Prozesse und steigere deine Lagerbestandsgenauigkeit. Denn nur informierte Mitarbeiter können fundierte Entscheidungen treffen!In diesem Template werden Variablen als Beispieldaten verwendet und ein Skript wird ausgeführt, um eine Aktion anzuzeigen. Ersetze die Variablen durch deine eigenen Datenquellen und entferne das Skript, um das Template für deinen individuellen Anwendungsfall zu konfigurieren.
 lang: de
-weight: 600
+weight: 460
 isDraft: false
 ref: Small-Parts-Picking
 category:

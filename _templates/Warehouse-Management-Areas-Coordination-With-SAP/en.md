@@ -5,7 +5,7 @@ description:
   - Download this dashboard and use it for worker management in commissioning in the various warehouse areas. The dashboard shows in a target/actual comparison where the workers in the individual areas of the warehouse are currently standing in completing the orders and where they should actually already be standing. 
   - The employees can see directly in which areas of the warehouse support is currently needed and then independently switch to these areas to help their colleagues achieve the daily target. Optimize your logistics processes now - because only informed employees can make informed decisions!
 lang: en
-weight: 1600
+weight: 465
 isDraft: false
 carousel: true
 ref: Warehouse-Management-Areas-Coordination-With-SAP
