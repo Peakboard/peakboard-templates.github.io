@@ -4,7 +4,7 @@ title: Andon-System für die Fließbandfertigung ― einzelne Arbeitsschritte au
 description: 
   - Mit diesem praktischen Template siehst du mehrere Arbeitsstationen auf einen Blick. So siehst du die Abläufe einzelner Arbeitsschritte, was zur Verbesserung deiner Prozesse beiträgt. Außerdem kannst du blitzschnell auf mögliche Probleme deiner Werker und Störungen der Maschinen an einem einzelnen Arbeitsplatz reagieren, um Verschwendung effizient zu minimieren. Dieses Template kann sowohl in der Produktion, z. B. in der Einzelfertigung oder Fließbandfertigung, als auch in der Montage verwendet werden. Jetzt Template herunterladen und ganz einfach Produktionsprozesse nachhaltig optimieren!
 lang: de
-weight: 1600
+weight: 500
 isDraft: false
 ref: Andon-Single-Stations-Workflow
 category:

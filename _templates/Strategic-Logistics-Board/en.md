@@ -4,7 +4,7 @@ title: Your dashboard for strategic warehouse management – key figures of your
 description: 
   - With this dashboard for digital warehouse management, you have up-to-date information, KPIs such as delivery reliability, complaint rate, tonnage, or throughput as well as error messages in the warehouse logistics at all times and in real time! From incoming goods to outgoing goods – thanks to up-to-date data you can easily manage your inventory. In addition, the simple visualization makes reasons for complaints quickly apparent and problems can be addressed directly. A warehouse management system to suit your taste, individually tailored to your intralogistics. Download now and get started right away!
 lang: en
-weight: 2500
+weight: 490
 isDraft: false
 ref: Strategic-Logistics-Board
 category:

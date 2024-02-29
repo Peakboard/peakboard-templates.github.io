@@ -4,7 +4,7 @@ title: Your digital shopfloor management dashboard – dashboard for the overall
 description: 
   - Important information about your production intelligently presented to all employees, exactly where they need it! With this template you can see the overall status of your production line at a glance, as well as tasks to be completed and key figures on safety and quality level - especially comprehensible through the safety cross and the quality Q! The efficient communication of relevant information on your shopfloor contributes to the continuous improvement process, increases productivity and thus ensures your competitiveness. Download directly now!
 lang: en
-weight: 2300
+weight: 515
 isDraft: false
 ref: Shopfloor-Status-Overview-Safety-Quality-Metrics
 category:

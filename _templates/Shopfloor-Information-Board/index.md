@@ -6,7 +6,7 @@ description:
   - Auch das Ausdrucken und Anbringen wichtiger Aushänge oder des wöchentlichen Speiseplans sind mithilfe dieser digitalen Lösung Geschichte. Mit Peakboard legst du die anzuzeigenden PDF Dokumente z.B. auf einem Netzlaufwerk, einem SharePoint oder auf OneDrive ab und tauscht diese dort bei Bedarf entsprechend einfach aus. Das digitale schwarze Brett aktualisiert die Anzeige dann vollautomatisch.
   - Lade dir das Template jetzt herunter und passe es ohne großen IT-Aufwand und Vorkenntnisse speziell an deine individuellen Bedürfnisse an. Unser [Consulting-Team](https://peakboard.com/produkt/consulting/) unterstützt dich hierbei gerne.
 lang: de
-weight: 1000
+weight: 520
 isDraft: false
 ref: Shopfloor-Information-Board
 category:

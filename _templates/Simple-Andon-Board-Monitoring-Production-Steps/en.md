@@ -4,7 +4,7 @@ title: Your digital andon light system – easily monitor production steps
 description: 
   - This template shows an overview of the sequences of individual production steps of an order. With this Dashboard you can display in a typical traffic light color scheme whether everything is running according to plan for the individual production steps. In the event of faults, a quick glance at the monitor and the "red light" tells you if and where there is a problem. This provides transparency at the workplace, increases motivation and shortens reaction times. In addition, the order status is displayed in real time.
 lang: en
-weight: 500
+weight: 505
 isDraft: false
 ref: Simple-Andon-Board-Monitoring-Production-Steps
 carousel: false

@@ -6,7 +6,7 @@ description:
   - Via a menu on the left side, you can also navigate to additional screens that display relevant production key figures for your shopfloor meeting. In the template, these screens have been provided with information on important KPIs in production, such as safety and quality indicators and OEE values.
   - While professional digital store floor management software offers numerous additional functions, Peakboard impresses with its versatile application possibilities and simple usability. Peakboard offers the possibility to tailor your individual Shopfloor Board to the requirements of your team without any IT effort or prior knowledge. Our consulting team will be happy to support you.
 lang: en
-weight: 400
+weight: 525
 isDraft: false
 ref: Shopfloor-Teammeeting-Board
 category:

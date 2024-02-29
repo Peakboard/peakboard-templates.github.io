@@ -4,7 +4,7 @@ title: Production order status clearly displayed – your dashboard with SQL dat
 description: 
   - This template gives you a practical overview of the status of several production lines and is based on a SQL database. It shows the progress of the production lines as well as of the individual operations and indicates which steps of the process are finished and which still have to be completed. For easy monitoring of your production orders download the template now!
 lang: en
-weight: 1900
+weight: 495
 isDraft: false
 ref: Simple-Status-Display-Several-Lines-SQL
 category:

@@ -6,7 +6,7 @@ description:
   - This digital solution also makes having to physically print out and post important notices or the weekly menu a thing of the past. With Peakboard, just load the PDF documents to be displayed on a network drive, SharePoint, or OneDrive, for example. You can easily swap out the files to be displayed as needed. The digital bulletin board will then update the display fully automatically.
   - Download the template now and customize it to your individual needs without any IT effort or previous knowledge. Our [consulting team](https://peakboard.com/produkt/consulting/) would also be happy to assist.
 lang: en
-weight: 1000
+weight: 520
 isDraft: false
 ref: Shopfloor-Information-Board
 category:

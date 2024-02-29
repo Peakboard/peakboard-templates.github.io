@@ -5,7 +5,7 @@ description:
   - Dieses Template bietet dir mehr Transparenz für dein Energiemanagement. 
   - Es dient der Überwachung der größten Energieverbraucher in deinem Unternehmen, der Verbesserung der Energieeffizienz und der Einsparung von Ressourcen. So behältst du die wichtigsten Energieverbraucher immer im Blick, kannst eine Energienutzung im Sinne des Klimaschutzes sicherstellen und Probleme im Energiemanagement schnell erkennen um eine Reduzierung der Energiekosten zu erreichen. In diesem Beispiel werden Live Daten der Leistung, des Stromverbrauchs, sowie den Druck von drei Maschinen gezeigt. Die Leistungs-Daten der letzten Stunde werden in einem Diagramm veranschaulicht. Jetzt Template herunterladen und leichter die gesetzlichen Vorgaben einer ISO 50001 Normung erreichen.
 lang: de
-weight: 2000
+weight: 480
 isDraft: false
 ref: Energy-Monitoring-ISO-50001
 category:

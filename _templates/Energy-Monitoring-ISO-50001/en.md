@@ -4,7 +4,7 @@ title: Overview of energy consumption – simple energy management system accord
 description: 
   - This template offers you more transparency for your energy management. It is used to monitor the largest consumers of energy in your company, improve energy efficiency and save resources. It lets you keep an eye on the most important energy consumers and you can optimize your energy use in terms of climate protection, to make the most of your energy use. The aim is to ensure a high level of energy efficiency and to quickly identify problems in energy management to reduce energy costs. In this example we display power, energy consumption and pressure live data of 3 machines. A chart shows the power data over the course of the last hour. All this helps you to achieve the legal requirements of an ISO 50001 standard more easily.
 lang: en
-weight: 2000
+weight: 480
 isDraft: false
 ref: Energy-Monitoring-ISO-50001
 category:
