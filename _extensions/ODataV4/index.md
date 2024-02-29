@@ -7,7 +7,7 @@ description:
   - Der Peakboard Designer unterstüzt nativ ältere Versionen des OData Protokolls. Um auch Services mit dem OData V4 Protokoll als Datenquelle in Peakboard anzubinden, hilft dir diese Extension. 
   - OData ist ein offenes Protokoll, über das RESTful APIs erstellt und genutzt werden können. Mithilfe unserer Extension kannst du die APIs auslesen, die die Daten im JSON Format zurückliefern.
 lang: de
-weight: 1000
+weight: 35
 isDraft: false
 ref: odatav4
 image: OdataV4_Extension_Logo.png

@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Binde MPDV Hydra als Datenquelle in Peakboard mithilfe dieser Extension an.
 lang: de
-weight: 1000
+weight: 50
 isDraft: false
 ref: mpdv
 image: MPDV_Extention_Logo.png

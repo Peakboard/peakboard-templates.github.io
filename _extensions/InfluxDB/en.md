@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - This extension allows you to connect data from InfluxDB buckets as a data source in Peakboard. This way you can read time-based data from InfluxDB as well as write it back to InfluxDB.
 lang: en
-weight: 1000
+weight: 75
 isDraft: false
 ref: influxdb
 image: InfluxDB_Extension_Logo.png

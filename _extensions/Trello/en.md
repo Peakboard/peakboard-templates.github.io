@@ -7,7 +7,7 @@ description:
   - You can use this extension to read and write from and to Trello boards.
   - For AppKey (ApiKey) and User Token please go to https://trello.com/app-key
 lang: en
-weight: 1000
+weight: 10
 isDraft: false
 ref: Trello
 image: Trello_Extension_Logo.png

@@ -8,7 +8,7 @@ description:
   - The data source provides the answers from GPT.
   - For the token parameter, you need to provide an AccessToken from GPT. You can obtain this in the API section of OpenAI.
 lang: en
-weight: 1000
+weight: 80
 isDraft: false
 ref: GPT
 image: Chat_GPT_Extension_Logo.png

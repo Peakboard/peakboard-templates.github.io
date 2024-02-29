@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - This extension allows to connect a Microsoft Dynamics 365 CRM system as a data source in Peakboard. With the data source you can select tables and columns from the CRM system and read the data directly from the system.
 lang: en
-weight: 1000
+weight: 65
 isDraft: false
 ref: microsoft-dynamics-365
 image: MS_Dynamics_365_Extention_Logo.png

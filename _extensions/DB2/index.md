@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Binde IBM DB2 Datenbanken als Datenquelle in Peakboard mithilfe dieser Extension an. Mittels SQL-Statements können die Daten aus der DB2 Datenbank auch ausgelesen werden.
 lang: de
-weight: 1000
+weight: 100
 isDraft: false
 ref: db2
 image: DB2_Extention_Logo.png

@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Using this extension, you can connect WERMA SmartMONITOR signal lights as a data source in Peakboard. This allows you to read out and change the status of a signal light. In addition, a timestamped history of the status can also be read out.
 lang: en
-weight: 1000
+weight: 5
 isDraft: false
 ref: werma-smart-monitor
 image: Werma_Smart_Monitor_Extention_Logo.png

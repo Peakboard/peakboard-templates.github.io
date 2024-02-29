@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Connect Databricks datasets as a data source in Peakboard using this extension.
 lang: en
-weight: 1000
+weight: 105
 isDraft: false
 ref: databricks
 image: Databricks_Extention_Logo.png

@@ -7,7 +7,7 @@ description:
   - Mit dieser Extension kannst du Trello Boards lesen und beschreiben.
   - AppKey (ApiKey) und User Token gibt's unter https://trello.com/app-key
 lang: de
-weight: 1000
+weight: 10
 isDraft: false
 ref: Trello
 image: Trello_Extension_Logo.png

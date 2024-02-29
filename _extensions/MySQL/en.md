@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - This extension allows to connect MySQL databases as a data source in Peakboard. Using SQL statements, the data can be read from the MySQL database.
 lang: en
-weight: 1000
+weight: 45
 isDraft: false
 ref: mysql
 image: MYSQL_Extention_Logo.png

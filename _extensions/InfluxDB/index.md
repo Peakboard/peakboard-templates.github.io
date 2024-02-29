@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Diese Extension ermöglicht es, Daten aus InfluxDB Buckets als Datenquelle in Peakboard anzubinden. So kannst du zeitbasierten Daten aus InfluxDB sowohl auslesen als auch in InfluxDB zurückschreiben. 
 lang: de
-weight: 1000
+weight: 75
 isDraft: false
 ref: influxdb
 image: InfluxDB_Extension_Logo.png

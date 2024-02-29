@@ -8,7 +8,7 @@ description:
   - Die Datenquelle liefert die Antworten von GPT.
   - Für den Parameter "Token" musst du einen AccessToken von GPT angeben. Diesen erhältst du im API-Bereich von OpenAI.
 lang: de
-weight: 1000
+weight: 80
 isDraft: false
 ref: GPT
 image: Chat_GPT_Extension_Logo.png

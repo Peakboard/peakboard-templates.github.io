@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Connect IBM DB2 databases as a data source in Peakboard using this extension. You can also read the data from the DB2 database using SQL statements.
 lang: en
-weight: 1000
+weight: 100
 isDraft: false
 ref: db2
 image: DB2_Extention_Logo.png

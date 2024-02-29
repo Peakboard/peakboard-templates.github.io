@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Diese Extension ermöglicht es, FRITZ! Smart-Home-Geräte des Herstellers AVM als Datenquelle in Peakboard anzubinden, um aktuelle Temperaturwerte der smarten Heizkörperthermostate auszulesen und zurückzuschreiben. So kannst du beispielsweise ein interaktives Dashboard zur Anzeige und Steuerung der Raumtemperatur erstellen.
 lang: de
-weight: 1000
+weight: 85
 isDraft: false
 ref: fritz-smart-home
 image: Fritz_Smart_Home_Extention_Logo.png

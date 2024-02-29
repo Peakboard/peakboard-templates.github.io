@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Binde Firebird Datenbanken als Datenquelle in Peakboard mithilfe dieser Extension an.
 lang: de
-weight: 1000
+weight: 90
 isDraft: false
 ref: firebird
 image: Firebird_Extention_Logo.png

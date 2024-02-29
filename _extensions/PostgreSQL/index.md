@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Diese Extension ermöglicht es, PostgreSQL Datenbanken als Datenquelle in Peakboard anzubinden. Mittels SQL-Statements können die Daten aus der PostgreSQL Datenbank ausgelesen werden.
 lang: de
-weight: 1000
+weight: 25
 isDraft: false
 ref: postgresql
 image: PostgreSQL_Extension_Logo.png

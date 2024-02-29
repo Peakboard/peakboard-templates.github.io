@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Diese Extension ermöglicht es, die Dateinamen aller Dateien auszulesen, die in einem bestimmten UNC Netzwerkpfad liegen. Dadurch kannst du Datenquellen und Ressourcen dynamisch, basierend auf deren Dateinamen zum Peakboard Designer hinzuzufügen. 
 lang: de
-weight: 1000
+weight: 40
 isDraft: false
 ref: network-files
 image: Network_Files_Extension_Logo.png

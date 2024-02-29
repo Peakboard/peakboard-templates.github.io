@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Binde Databricks Datensets als Datenquelle in Peakboard mithilfe dieser Extension an.
 lang: de
-weight: 1000
+weight: 105
 isDraft: false
 ref: databricks
 image: Databricks_Extention_Logo.png

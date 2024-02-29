@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Mit dieser Erweiterung kannst du ein Token erstellen, das für die Verbindung zu einem Tableau Dashboard in Peakboard benötigt wird.
 lang: de
-weight: 1000
+weight: 15
 isDraft: false
 ref: tableau
 image: Tableau_Extension_Logo.png

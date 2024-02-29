@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Connect Firebird databases as a data source in Peakboard using this extension.
 lang: en
-weight: 1000
+weight: 90
 isDraft: false
 ref: firebird
 image: Firebird_Extention_Logo.png

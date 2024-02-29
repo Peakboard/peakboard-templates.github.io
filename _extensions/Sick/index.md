@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Diese Extension ermöglicht es, RFID-Reader der Marke SICK als Datenquelle in Peakboard anzubinden. Dadurch kannst du einen SICK RFID-Reader verwenden um mit Peakboard NFC-Tags zu beschreiben und auszulesen.
 lang: de
-weight: 1000
+weight: 20
 isDraft: false
 ref: sick
 image: SICK_Extension_Logo.png

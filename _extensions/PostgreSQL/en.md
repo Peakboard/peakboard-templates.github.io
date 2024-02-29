@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - This extension allows to connect PostgreSQL databases as a data source in Peakboard. Using SQL statements, the data can be read from the PostgreSQL database.
 lang: en
-weight: 1000
+weight: 25
 isDraft: false
 ref: postgresql
 image: PostgreSQL_Extension_Logo.png

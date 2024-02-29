@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Diese Extension ermöglicht es, WERMA SmartMONITOR Signalleuchten als Datenquelle in Peakboard anzubinden. Dadurch kannst du den aktuellen Status einer Signalleuchte auslesen und verändern. Zusätzlich kann eine mit Zeitstempeln versehene Historie der Status ausgelesen werden.
 lang: de
-weight: 1000
+weight: 5
 isDraft: false
 ref: werma-smart-monitor
 image: Werma_Smart_Monitor_Extention_Logo.png
