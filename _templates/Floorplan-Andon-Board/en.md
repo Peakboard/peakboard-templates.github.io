@@ -7,7 +7,7 @@ description:
   - Using a touchscreen or a mouse connected to the Peakboard Box, you can click on the tiles in the lower right area. This opens a window displaying a detailed list of errors and analysis of the respective machine. The continuous monitoring, documentation, and analysis of errors let you identify the causes and achieve long-term improvements in the production process.
   - Download the template now for free and adapt it to your company's production environment without any programming effort. For even easier usability, all scripts in this template were created with Peakboard Building Blocks, our low-code script editor. 
 lang: en
-weight: 1000
+weight: 580
 isDraft: false
 ref: Floorplan-Andon-Board
 category:

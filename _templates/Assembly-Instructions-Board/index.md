@@ -11,7 +11,7 @@ description:
   - Mit diesem Dashboard können Werker ihre Produktivität steigern, Fehler minimieren und eine reibungslose Montage sicherstellen. Ebenso können neue Mitarbeitende im Unternehmen jetzt ohne großen Einlernaufwand direkt mit der Montage loslegen. 
 
 lang: de
-weight: 1000
+weight: 575
 isDraft: false
 ref: Assembly-Instructions-Board
 category:

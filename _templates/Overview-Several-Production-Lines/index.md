@@ -4,7 +4,7 @@ title: Produktionsdaten auf einem Dashboard visualisieren und Produktionslinien 
 description: 
   - Mit diesem Template zeigst du relevante Produktionsdaten deines Werks ganz einfach und benutzerdefiniert an. Binde deine Datenquellen - zum Beispiel aus ERP-systemen - an und lasse dir zu jeder Zeit wichtige Kennzahlen wie KPIs, Produktionszeiten und weitere wichtige Informationen wie Soll-Ist-Vergleiche anzeigen. Mithilfe der Funktion 'Bedingte Formatierung' zeigt dein Dashboard in Echtzeit den Status deiner Maschinen an und du kannst schnell auf Fehler auf deinem Shopfloor reagieren. Jetzt herunterladen und den Überblick über deine Fertigung behalten!
 lang: de
-weight: 2000
+weight: 550
 isDraft: false
 ref: Overview-Several-Production-Lines
 category:

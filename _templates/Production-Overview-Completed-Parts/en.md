@@ -4,7 +4,7 @@ title: Lean production dashboard – target/actual comparison in manufacturing
 description: 
   - The dashboard for continuous improvement in your lean production! This template provides a useful overview of your production processes! It shows you the quantity of finished parts and the target quantity in a target/actual comparison. In addition, you can view throughput and downtimes, GAE values, orders and other meta-information. Download the template directly and customize it according to your needs.
 lang: en
-weight: 1000
+weight: 545
 isDraft: false
 ref: Production-Overview-Completed-Parts
 category:

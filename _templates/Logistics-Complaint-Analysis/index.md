@@ -5,7 +5,7 @@ description:
   - Lade dir dieses Dashboard herunter und behalte die Kundenreklamationen deines Unternehmens stets im Auge. Es liefert den Mitarbeitenden deiner Logistikabteilung einen wichtigen Echtzeit Überblick über die Reklamationsquoten und -gründe der aktuellen und vorherigen Woche. Zudem sehen deine Mitarbeitenden direkt auch die häufigsten Fehlerarten und -orte. Dein Team erhält einen transparenten Einblick in die eigene Leistung und wird motiviert, Fehler zu vermeiden. Analysiere effizient die einzelnen Bestandteile der Reklamationen und reduziere so deine Kosten.
 
 lang: de
-weight: 1000
+weight: 565
 isDraft: false
 ref: Logistics-Complaint-Analysis
 category:

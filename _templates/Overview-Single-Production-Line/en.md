@@ -4,7 +4,7 @@ title: OEE dashboard – overview your production line
 description: 
   - With this template you can visualize important information of a single production line. Display classic key figures of your machines such as target / actual comparisons of quantities, overall system effectiveness (OEE) or downtimes in real-time. Download this template so you can quickly and clearly see the current status of an order as well as the development of the OEE.  Improve your production processes and save resources in production. Get started now and download for free!
 lang: en
-weight: 1000
+weight: 540
 isDraft: false
 ref: Overview-Of-Single-Production-Line
 category:

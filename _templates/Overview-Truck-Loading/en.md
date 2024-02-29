@@ -4,7 +4,7 @@ title: Your dashboard for truck loading at the loading gate
 description: 
   - This template gives you the most important information about the current truck loading directly at the loading gate. It shows details about the truck, the carrier, the destination as well as its scheduled arrival and departure times. The dashboard enables your logistics staff to keep track of the current status of each truck and efficiently manage logistics operations. This allows you not only to ensure smooth logistics processing, but also to prevent incorrect loadings and thus ensure that the right goods arrive at the right customer on time.
 lang: en
-weight: 1000
+weight: 570
 isDraft: false
 ref: Overview-Truck-Loading
 category:

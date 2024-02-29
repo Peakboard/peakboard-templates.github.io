@@ -7,7 +7,7 @@ description:
   - All the data collected through the touchscreen is stored and persisted in a list in Peakboard Hub. This allows you to use the data not only for a real-time overview, but also for historical analysis. The long-term analysis can be performed either via [this](https://templates.peakboard.com/Overview-Quality-Control/en) dashboard or using a BI tool such as Power BI, Tableau or Click.
   - Download the template now for free and customize it to your individual needs or your company's corporate design. For even easier usability, all scripts in this template were created using Peakboard Building Blocks, our low-code script editor.
 lang: en
-weight: 2000
+weight: 591
 isDraft: false
 ref: Interactive-Board-Manual-Quality-Control
 category:

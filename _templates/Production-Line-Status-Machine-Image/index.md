@@ -4,7 +4,7 @@ title: Übersicht über eine Produktionslinie im Querschnitt
 description: 
   - Dieses Template bietet eine digitale Übersicht über eine gesamte Produktionslinie in der Fertigung und sorgt für mehr Transparenz am Arbeitsplatz. Das Hintergrundbild dieses Dashboard ist eine generische Zeichnung der Maschine, an der einzelne Arbeitsschritte beleuchtet werden können. Dadurch kann der aktuelle Status von verschiedenen Arbeitsschritten angezeigt und eventuelle Fehler schneller behoben werden, was die Effizienz auf dem Shopfloor steigert sowie Monitoring und Maintenance der Anlage deutlich vereinfacht. Lade dir das Template direkt herunter und binde deine individuellen Datenquellen ganz einfach an!
 lang: de
-weight: 2000
+weight: 535
 isDraft: false
 ref: Production-Line-Status-Machine-Image
 category:

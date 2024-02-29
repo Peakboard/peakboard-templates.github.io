@@ -4,7 +4,7 @@ title: Overview of a production line in cross section – your manufacturing pla
 description: 
   - This template provides a digital real-time overview of an entire production line in production and ensures greater transparency at the workplace. The background image of this dashboard is a generic drawing of the machine on which individual work steps can be illuminated. This visualization displays the current status of various work steps. It also allows employees to react to problems more quickly, which increases efficiency and productivity on the shopfloor, and makes monitoring and maintenance of the system much easier. Download the template directly and connect your individual data sources easily!
 lang: en
-weight: 2000
+weight: 535
 isDraft: false
 ref: Production-Line-Status-Machine-Image
 category:

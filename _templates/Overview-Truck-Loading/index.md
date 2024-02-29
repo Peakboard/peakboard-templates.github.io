@@ -4,7 +4,7 @@ title: Dein Dashboard für die LKW-Beladung am Verladetor
 description: 
   - Dieses Template bietet dir die wichtigsten Informationen über die aktuelle LKW-Beladung direkt am Verladetor. Es zeigt Details über den LKW, den Spediteur, das Ziel sowie dessen geplante Ankunfts- und Abfahrtszeiten. Das Dashboard ermöglicht deinen Mitarbeitenden in der Logistik, den aktuellen Status jedes LKWs im Blick zu behalten und die Logistikabläufe effizient zu steuern. Dadurch kannst du nicht nur eine reibungslose Logistikabwicklung sicherstellen, sondern auch Fehlbeladungen verhindern und stellst damit sicher, dass die richtigen Waren termingerecht beim richtigen Kunden ankommen. 
 lang: de
-weight: 1000
+weight: 570
 isDraft: false
 ref: Overview-Truck-Loading
 category:

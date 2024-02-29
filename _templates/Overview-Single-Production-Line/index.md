@@ -4,7 +4,7 @@ title: Übersicht über eine einzelne Produktionslinie ― dein OEE-Dashboard in
 description: 
   - Mit diesem Template visualisierst du wichtige Informationen einer einzelnen Produktionslinie. Lasse dir leicht klassische Kennzahlen deiner Maschinen wie z. B. Soll-Ist-Vergleiche von Stückzahlen, Gesamtanlageneffektivität oder Stillstände in Echtzeit anzeigen. So kannst du schnell und übersichtlich den aktuellen Status eines Auftrags sowie die Entwicklung der GAE, überblicken, was zur Verbesserung deiner Produktionsprozesse beiträgt und Ressourcen in der Fertigung einspart. Jetzt loslegen und Template herunterladen!
 lang: de
-weight: 1000
+weight: 540
 isDraft: false
 ref: Overview-Of-Single-Production-Line
 category:
