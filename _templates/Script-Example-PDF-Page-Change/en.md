@@ -4,7 +4,7 @@ title: Script example for automatic PDF page change
 description: 
   - This board shows a scripting example for a PDF data source
 lang: en
-weight: 50
+weight: 230
 isDraft: false
 ref: Script_PDF_Viewer
 category:

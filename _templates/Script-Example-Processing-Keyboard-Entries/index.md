@@ -4,7 +4,7 @@ title: Skript-Beispiel für das Verarbeiten von Tastatureingaben
 description: 
   - Diese Vorlage zeigt, wie du in Peakboard mit Tastatureingaben umgehen kannst.
 lang: de
-weight: 50
+weight: 235
 isDraft: false
 ref: Script_Key_Inputs
 category:

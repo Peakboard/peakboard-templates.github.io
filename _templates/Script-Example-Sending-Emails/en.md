@@ -4,7 +4,7 @@ title: Script example for sending e-mails
 description: 
   - This template demonstrates how to send an e-mail to your e-mail address directly from the Peakboard Box. To do this, you must connect a keyboard to the Peakboard Box and, if necessary, a mouse.
 lang: en
-weight: 50
+weight: 250
 isDraft: false
 ref: Script_Email
 category:

@@ -4,7 +4,7 @@ title: Skript für einen einfachen Taschenrechner
 description: 
   - Diese Vorlage zeigt, wie du einen einfachen Taschenrechner (Addition und Subtraktion) erstellst und verwenden kannst.
 lang: de
-weight: 50
+weight: 255
 isDraft: false
 ref: Script_Calculator
 category:

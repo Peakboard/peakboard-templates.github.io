@@ -4,7 +4,7 @@ title: Scripting example for creating a simple calculator
 description: 
   - This template shows how to create and use a simple calculator (addition and subtraction).
 lang: en
-weight: 50
+weight: 255
 isDraft: false
 ref: Script_Calculator
 category:

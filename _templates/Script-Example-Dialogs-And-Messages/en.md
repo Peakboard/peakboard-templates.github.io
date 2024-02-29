@@ -4,7 +4,7 @@ title: Script example for dialogs and messages
 description: 
   - With this script example you can create and use different dialogs and messages.
 lang: en
-weight: 50
+weight: 205
 isDraft: false
 ref: Script_Dialogs_and_Messages
 category:

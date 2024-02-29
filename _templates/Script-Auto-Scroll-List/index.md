@@ -4,7 +4,7 @@ title: Skript für automatisches Scrollen durch eine Liste mithilfe eines Datafl
 description: 
   - Diese Vorlage zeigt ein Beispiel, welches zum Filtern einer Datenquelle mithilfe eines Dataflows genutzt werden kann. Dies wird alle 5 Sekunden ausgeführt. Sobald alle Einträge angezeigt wurden, beginnt die Liste von vorne.
 lang: de
-weight: 50
+weight: 200
 isDraft: false
 ref: Script-Auto-Scroll-List
 category:

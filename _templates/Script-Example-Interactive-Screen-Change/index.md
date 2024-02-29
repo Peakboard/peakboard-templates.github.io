@@ -4,7 +4,7 @@ title: Skript für einen interaktiven Bildschirmwechsel
 description: 
   - In dieser Vorlage zeigen wir dir, wie du mithilfe von Buttons zwischen mehreren Bildschirmen hin und her wechseln kannst.
 lang: de
-weight: 50
+weight: 215
 isDraft: false
 ref: Script_Screen_Changer
 category:

@@ -4,7 +4,7 @@ title: Skript-Beispiel für einen automatisierten Seitenwechsel von PDF Dateien
 description: 
   - Dieses Template zeigt, wie du mit PDF Dateien arbeitest.
 lang: de
-weight: 50
+weight: 230
 isDraft: false
 ref: Script_PDF_Viewer
 category:

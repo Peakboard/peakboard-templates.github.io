@@ -4,7 +4,7 @@ title: Script example for using and creating buttons
 description: 
   - With this script example you can learn how to work with a button in Peakboard.
 lang: en
-weight: 50
+weight: 265
 isDraft: false
 ref: Script_Button_Example
 category:

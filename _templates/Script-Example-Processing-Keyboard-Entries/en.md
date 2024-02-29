@@ -4,7 +4,7 @@ title: Script example for processing keyboard entries
 description: 
   - This template shows how to handle keyboard entries in Peakboard.
 lang: en
-weight: 50
+weight: 235
 isDraft: false
 ref: Script_Key_Inputs
 category:

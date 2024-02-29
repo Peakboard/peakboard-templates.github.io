@@ -4,7 +4,7 @@ title: Skript-Beispiel für das Arbeiten mit einem zeitgesteuerten Skript
 description: 
   - In dieser Vorlage lernen Sie, wie Sie ein zeitgesteuertes Script verwenden, das abhängig von der Tageszeit unterschiedliche Werte wiedergibt.
 lang: de
-weight: 50
+weight: 275
 isDraft: false
 ref: Script_Timer_Text
 category:

@@ -4,7 +4,7 @@ title: Script example for a navigation menu
 description: 
   - This script example shows how you can add a simple navigation bar to switch between different screens. 
 lang: en
-weight: 50
+weight: 225
 isDraft: false
 ref: Script_Navigation_Menu
 category:

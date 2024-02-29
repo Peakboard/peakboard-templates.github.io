@@ -4,7 +4,7 @@ title: Script example for working with a time-controlled script
 description: 
   - In this template, you'll learn how to use a time-controlled script that displays different values depending on the time of day.
 lang: en
-weight: 50
+weight: 275
 isDraft: false
 ref: Script_Timer_Text
 category:

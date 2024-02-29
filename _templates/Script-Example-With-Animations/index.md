@@ -4,7 +4,7 @@ title: Skript-Beispiel mit Animationen
 description: 
   - Mit diesem Skript-Beispiel lernst du, wie du in Peakboard Animationen verwendest.
 lang: de
-weight: 50
+weight: 260
 isDraft: false
 ref: Script_Animate
 category:

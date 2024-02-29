@@ -4,7 +4,7 @@ title: Skript für Dialoge und Meldungen
 description: 
   - Mit diesem Skript kannst du unterschiedliche Dialoge und Meldungen erstellen und verwenden.
 lang: de
-weight: 50
+weight: 205
 isDraft: false
 ref: Script_Dialogs_and_Messages
 category:
