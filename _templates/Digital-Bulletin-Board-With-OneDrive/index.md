@@ -4,7 +4,7 @@ title: Digitales schwarzes Brett mit OneDrive Anbindung
 description: 
   - Schwarzes Brett 2.0. Mitarbeiter auf einem digitalen Infoboard automatisiert auf dem Laufenden halten. Egal ob es dabei um allgemeine Mitarbeiterinformationen, einen Newsticker, den Speiseplan in der Mensa, Schichtpläne, Ankündigungen oder aber Raumbelegungspläne am Empfang geht, du bleibst hinsichtlich der Medienformate, Darstellung und Inhalte völlig flexibel. Alle News, Bilder und PDF-Dokumente können über einen OneDrive Ordner verwaltet werden. Mit diesem Template steht deiner individuellen Digital Signage Anwendung nichts mehr im Weg.
 lang: de
-weight: 1900
+weight: 440
 isDraft: false
 ref: Digital-Bulletin-Board-With-OneDrive
 category:
