@@ -4,7 +4,7 @@ title: Dein Alarm Monitor – den Produktionsstatus im Blick behalten
 description: 
   - Mit diesem Template behältst du ganz einfach den Status deiner Produktion im Blick. Nutze es zum effizienten Monitoring deiner Maschinen und lass dir Störungen, sowie die Art der Fehlermeldung in Echtzeit anzeigen. Durch die blitzschnelle Kommunikation des Problems und die eindeutige Darstellung der Alarmierung in Signalfarben werden Probleme schneller behoben und Ausfallzeiten verkürzt, was kostbare Ressourcen spart. Template jetzt herunterladen und Produktionsprozesse optimieren!
 lang: de
-weight: 500
+weight: 539
 isDraft: false
 ref: Production-Status-Alert
 category:

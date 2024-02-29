@@ -4,7 +4,7 @@ title: Easily track machine status to monitor your production
 description: 
   - With this template you can easily keep track of the status of your production and manufacturing failures. Use it to efficiently monitor your machines and display malfunctions and the cause of equipment failure in real time. The lightning-fast communication of the problem and the clear display of the alarm in signal colors help you to solve problems faster and reduce downtime, which saves valuable resources. Download template now and optimize production processes!
 lang: en
-weight: 500
+weight: 539
 isDraft: false
 ref: Production-Status-Alert
 category:
