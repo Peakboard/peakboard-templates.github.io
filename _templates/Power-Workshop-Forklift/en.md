@@ -5,7 +5,7 @@ description:
   - Power Workshop Dashboard 2. 
 lang: en
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Power-Workshop-Forklift
 category:
   - All

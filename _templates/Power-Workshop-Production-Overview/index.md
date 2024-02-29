@@ -5,7 +5,7 @@ description:
   - Power Workshop Dashboard 3. 
 lang: de
 weight: 1000
-isDraft: false
+isDraft: true
 ref: Power-Workshop-Production-Overview
 category:
   - Alle
