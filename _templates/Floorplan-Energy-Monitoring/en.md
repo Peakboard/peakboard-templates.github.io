@@ -1,8 +1,10 @@
 ---
 layout: article
-title: English Headline
+title: Optimize your energy efficiency - monitor power consumption and process temperature in real time
 description: 
-  - English Description
+  - This template provides you with a comprehensive overview of the energy consumption in your production hall. It shows the energy consumed by individual machines and the process temperature for selected machines. For further analysis, you receive precise information in real time about the total consumption of the current day and the current month, as well as the change compared to the previous month.
+  - By visualizing energy consumption, you can always keep an eye on how much energy each system is consuming. This not only helps you to sensitize your employees to use electricity sparingly, but also enables you to take measures to save energy. You now have the possibility to adjust the machine settings more specifically to avoid wasting energy. With this dashboard, you can not only reduce costs, but also contribute to environmental protection by optimizing your energy consumption and supporting sustainable production practices.
+  - Download the template now for free and tailor it to your individual needs. For even better customizability, we have implemented all required scripts with our low-code editor and building blocks.
 lang: en
 weight: 681
 isDraft: true
@@ -21,4 +23,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # possible data sources
-This template uses OPC UA as the source of the machine data. You can use other low-level communication methods instead, such as: Connect MQTT, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation, or MT Connect. Any errors that occur are saved in a Peakboard Hub list and read out from there to the dashboard. As an alternative, you can use other databases for this, such as SQL, Oracle, or ODBC. The template also uses a Peakboard Hub list with the error codes and error description of each machine. To use this template with your own Peakboard Hub, you can download the table structure of the power consumption list <a href="Consumption.txt" class="inline" download>here </a>. Import these into your Peakboard Hub and then adjust the data sources in the template accordingly.
+This template receives the data on current power consumption and process temperature from an OPC UA data source. Instead, you can also use other machine-oriented communication methods such as MQTT, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation or MT Connect. The consumption data is then written to the <a href="https://peakboard.com/en/product/peakboard-hub/" class="inline" download>Peakboard Hub list</a>, stored there and read out for the overview on the left side of the application. To use this template with your own Peakboard Hub account, you can download the table structure of the consumption list <a href="Consumption.txt" class="inline" download>here </a>. Import this into Peakboard Hub and then adjust the data sources in the template accordingly. Alternatively, you can also use other databases such as SQL, Oracle or ODBC.
