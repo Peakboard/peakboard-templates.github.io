@@ -7,7 +7,7 @@ description:
 - Lade dir das Template jetzt kostenlos herunter und passe es auf deine individuellen Bedürfnisse an. Für eine noch bessere Anpassbarkeit haben wir alle benötigten Scripte mit unserem Low-Code-Editor und Building Blocks umgesetzt.
 lang: de
 weight: 681
-isDraft: true
+isDraft: false
 ref: Floorplan-Energy-Monitoring
 category:
   - Alle

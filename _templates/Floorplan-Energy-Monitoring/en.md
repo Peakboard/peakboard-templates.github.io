@@ -7,7 +7,7 @@ description:
   - Download the template now for free and tailor it to your individual needs. For even better customizability, we have implemented all required scripts with our low-code editor and building blocks.
 lang: en
 weight: 681
-isDraft: true
+isDraft: false
 ref: Floorplan-Energy-Monitoring
 category:
   - All
