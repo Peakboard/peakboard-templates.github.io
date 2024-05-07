@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Echtzeit Andon Board – Effektive Überwachung deiner Produktion aus der Vogelperspektive
+title: Softing echtzeit Andon Board – Effektive Überwachung deiner Produktion aus der Vogelperspektive
 description: 
   - Dieses Andon Board zeigt deine Produktionshalle aus der Vogelperspektive und visualisiert den aktuellen Status jeder deiner Maschinen anhand einer Andon-Ampel in Echtzeit. Grün signalisiert, dass die Maschine in Betrieb ist, gelb bedeutet, dass die Maschine gerade gerüstet wird und rot weist auf einen Fehler hin. Im Falle eines Fehlers wird dessen Grund zusätzlich direkt angezeigt. So kannst du Abweichungen und Störungen sofort erkennen und zeitnah auf Probleme reagieren, was zu einer höheren Produktivität und einer besseren Qualität deiner Produktion führt.
   - Darüber hinaus speichert die Anwendung alle aufkommenden Fehler in eine Peakboard Hub Liste. Die persistieren Daten werden im rechten Bereich des Dashboards angezeigt. Hier werden sowohl die kürzlich aufgetretenen Probleme als auch die Gesamtzahl der Vorfälle am jeweiligen Tag angezeigt.
