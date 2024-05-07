@@ -6,7 +6,7 @@ description:
 lang: en
 weight: 536
 isDraft: true
-ref: Production-Line-Status-Machine-Image
+ref: Production-Line-Status-Machine-Image-Softing
 category:
   - All
   - Recommended

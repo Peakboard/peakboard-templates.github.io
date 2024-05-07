@@ -6,7 +6,7 @@ description:
 lang: en
 weight: 561
 isDraft: true
-ref: Detailed-Board-Single-Production-Line
+ref: Detailed-Board-Single-Production-Line-Softing
 category:
   - All
   - KPI
