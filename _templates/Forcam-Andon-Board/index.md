@@ -13,6 +13,7 @@ category:
   - Produktion
   - Andon
   - OEE / GAE
+  - Partner
 image: Forcam-Andon-Board.png
 image_thumbnail: Forcam-Andon-Board_thumbnail.png
 download: Forcam-Andon-Board.pbmx

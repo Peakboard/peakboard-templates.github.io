@@ -11,6 +11,7 @@ category:
   - All
   - Forcam
   - Production
+  - Partner
 image: Forcam-Costs-Overview.png
 image_thumbnail: Forcam-Costs-Overview_thumbnail.png
 download: Forcam-Costs-Overview.pbmx
