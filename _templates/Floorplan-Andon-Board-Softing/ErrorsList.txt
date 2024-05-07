@@ -1,0 +1,1 @@
+[{"Name":"Timestamp","OriginalName":"Timestamp","Type":1},{"Name":"Workstation","OriginalName":"Workstation","Type":3},{"Name":"ErrorCode","OriginalName":"ErrorCode","Type":3},{"Name":"Error","OriginalName":"Error","Type":1}]
