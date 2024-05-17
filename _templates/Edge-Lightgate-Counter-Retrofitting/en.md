@@ -5,7 +5,7 @@ description:
   - Digitalization is too expensive and time-consuming for you? Simply retrofit your old machines! All you need is Peakboard Edge in combination with Peakboard Enterprise and a standard light barrier with a relay output. With this template you can visualize the collected data and communicate them directly. Download it now!
 lang: en
 weight: 420
-isDraft: false
+isDraft: true
 ref: Edge-Lightgate-Counter-Retrofitting
 category:
   - All
