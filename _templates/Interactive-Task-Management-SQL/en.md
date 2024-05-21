@@ -10,6 +10,7 @@ ref: Interactive-Task-Management-SQL
 category:
   - All
   - Production
+  - SQL
   - Lean Management
   - Interaction
   - Job Production

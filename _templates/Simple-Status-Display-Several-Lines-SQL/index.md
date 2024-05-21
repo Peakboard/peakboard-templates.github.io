@@ -10,6 +10,7 @@ ref: Simple-Status-Display-Several-Lines-SQL
 category:
   - Alle
   - Produktion
+  - SQL
   - Lean Management
   - Einzelfertigung
 image: Uebersichtliche-Statusanzeige-mit-SQL.png

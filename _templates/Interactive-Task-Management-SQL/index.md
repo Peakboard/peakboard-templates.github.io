@@ -10,6 +10,7 @@ ref: Interactive-Task-Management-SQL
 category:
   - Alle
   - Produktion
+  - SQL
   - Lean Management
   - Interaktion
   - Einzelfertigung
