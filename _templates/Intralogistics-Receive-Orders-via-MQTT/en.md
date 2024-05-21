@@ -12,6 +12,7 @@ category:
   - All
   - Logistics
   - Warehouse
+  - MQTT
 image: Intralogistics-Receive-Orders-via-MQTT.png
 image_thumbnail: Intralogistics-Receive-Orders-via-MQTT_thumbnail.png
 download: Intralogistics-Receive-Orders-via-MQTT.pbmx

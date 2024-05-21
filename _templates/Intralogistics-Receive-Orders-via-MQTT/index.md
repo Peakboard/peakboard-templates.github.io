@@ -12,6 +12,7 @@ category:
   - Alle
   - Logistik
   - Lager
+  - MQTT
 image: Intralogistik-Bestellungen-Empfangen-ueber-MQTT.png
 image_thumbnail: Intralogistik-Bestellungen-Empfangen-ueber-MQTT_thumbnail.png
 download: Intralogistik-Bestellungen-Empfangen-ueber-MQTT.pbmx
