@@ -9,9 +9,8 @@ isDraft: false
 ref: Edge-Status-Overview
 category:
   - All
-  - Edge
-  - Interaction
-  - Job Production
+  - MQTT
+  - Shopfloor
 image: Edge-Status-Overview.png
 image_thumbnail: Edge-Status-Overview_thumbnail.png
 download: Edge-Status-Overview.pbmx

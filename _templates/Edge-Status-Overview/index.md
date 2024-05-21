@@ -9,8 +9,8 @@ isDraft: false
 ref: Edge-Status-Overview
 category:
   - Alle
-  - Edge
-  - Interaktion
+  - MQTT
+  - Shopfloor
   - Einzelfertigung
 image: Edge-Status-Uebersicht.png
 image_thumbnail: Edge-Status-Uebersicht_thumbnail.png
