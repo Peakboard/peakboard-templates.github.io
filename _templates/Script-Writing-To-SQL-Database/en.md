@@ -4,7 +4,7 @@ title: Script example for writing data to an SQL database
 description: 
   - This template illustrates how to write data to an SQL Server from your Peakboard Box.
 lang: en
-weight: 211
+weight: 111
 isDraft: false
 ref: Example_Write_into_SQL
 category:
