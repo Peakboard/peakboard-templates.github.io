@@ -10,6 +10,7 @@ ref: Fleet-Management
 category:
   - All
   - Logistics
+  - Excel
 image: Fleet-Management.png
 image_thumbnail: Fleet-Management_thumbnail.png
 download: Fleet-Management.pbmx

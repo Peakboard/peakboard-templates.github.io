@@ -10,6 +10,7 @@ ref: Fleet-Management
 category:
   - Alle
   - Logistik
+  - Excel
 image: Flottenmanagement.png
 image_thumbnail: Flottenmanagement_thumbnail.png
 download: Flottenmanagement.pbmx
