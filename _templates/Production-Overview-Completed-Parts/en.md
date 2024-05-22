@@ -13,6 +13,8 @@ category:
   - Lean Management
   - OEE
   - Series Production
+  - SQL
+  - OPC UA
 image: Production-Overview-Completed-Parts.png
 image_thumbnail: Production-Overview-Completed-Parts_thumbnail.png
 download: Production-Overview-Completed-Parts.pbmx

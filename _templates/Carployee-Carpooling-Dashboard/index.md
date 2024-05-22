@@ -5,7 +5,7 @@ description:
   - Mithilfe der Lösung von Carployee unterstützen Unternehmen ihre Mitarbeiter dabei Fahrgemeinschaften zu bilden. Sie senken dadurch effektiv ihren ökologischen Fußabdruck, denn es wird nicht nur der CO2-Ausstoß reduziert, sondern auch die Entstehung von Staus bekämpft und Parkplätze eingespart. Die Daten werden anschließend mit einem Dashboard von Peakboard sichtbar gemacht, um den Erfolg an alle Mitarbeiter und Mitarbeiterinnen zu kommunizieren. Das motiviert weitere Angestellte mitzumachen und ebenfalls zum Klimaschutz beizutragen. Template jetzt herunterladen und das Mobilitätsverhalten deines Unternehmens nachhaltig verbessern!
 lang: de
 weight: 435
-isDraft: false
+isDraft: true
 ref: Carployee-Carpooling-Dashboard
 category:
   - Alle

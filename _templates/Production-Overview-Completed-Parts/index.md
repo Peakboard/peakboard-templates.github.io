@@ -13,6 +13,8 @@ category:
   - Lean Management
   - OEE / GAE
   - Serienfertigung
+  - SQL
+  - OPC UA
 image: Produktion-Uebersicht-Erledigter-Teile.png
 image_thumbnail: Produktion-Uebersicht-Erledigter-Teile_thumbnail.png
 download: Produktion-Uebersicht-Erledigter-Teile.pbmx
