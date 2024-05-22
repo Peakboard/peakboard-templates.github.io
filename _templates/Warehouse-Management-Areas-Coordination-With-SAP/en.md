@@ -15,6 +15,7 @@ category:
   - Logistics
   - Lean Management
   - Warehouse
+  - SAP
 image: Warehouse-Management-Areas-Coordination-With-SAP.png
 image_thumbnail: Warehouse-Management-Areas-Coordination-With-SAP_thumbnail.png
 download: Warehouse-Management-Areas-Coordination-With-SAP.pbmx

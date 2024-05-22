@@ -14,6 +14,7 @@ category:
   - Logistik
   - Lean Management
   - Lager
+  - SAP
 image: Lagermanagement-Bereichskoordinierung-Mit-SAP.png
 image_thumbnail: Lagermanagement-Bereichskoordinierung-Mit-SAP_thumbnail.png
 download: Lagermanagement-Bereichskoordinierung-Mit-SAP.pbmx
