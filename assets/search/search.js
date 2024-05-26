@@ -161,11 +161,16 @@ var main = {
                 empty: document.querySelector('#no-results-template').innerHTML
             },
             transformItems: function transformItems(items) {
-                return items.map(function (item) {
+                const transformedItems = items.map(function (item) {
                     return _objectSpread({}, item, {
                         imageUrl: item.url.substr(0, item.url.lastIndexOf("/")) + '/' + (item.image_thumbnail ? item.image_thumbnail : item.image),
                         type: item.collection.slice(0, -1)
                     });
+                });
+
+                // return as above, but also sort by item.weight (numerical, sort ascending)
+                return transformedItems.sort(function (a, b) {
+                    return b.weight - a.weight;
                 });
             }
         }));
