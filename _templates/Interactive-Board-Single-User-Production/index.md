@@ -4,7 +4,7 @@ title: Dein interaktives Dashboard für die Fertigung – interaktive Visualisie
 description: 
   - Dieses Template dient als interaktives Dashboard für die Einzelplatzfertigung. Durch die Verwendung eines interaktiven Bildschirms in Form eines Touchscreens an dem entsprechenden Arbeitsplatz, kann der jeweilige Mitarbeiter Probleme melden, Montagezeiten stoppen und sieht gleichzeitig, wie viele Teile für einen bestimmten Auftrag noch fertiggestellt werden müssen, und zwar in Echtzeit! Diese Informationen können an anderer Stelle zentral überblickt werden, um so die Produktion zu optimieren. Auf diese Weise kann eine Betriebsdatenerfassung (BDE) sehr einfach und zuverlässig realisiert werden. Lade dir das Template direkt herunter und binde eine Vielzahl an individuellen Schnittstellen an. Für deine flexible Visualisierung wichtiger Unternehmenskennzahlen!
 lang: de
-weight: 1500
+weight: 690
 isDraft: false
 ref: Interactive-Board-For-Single-User-Production
 carousel: true

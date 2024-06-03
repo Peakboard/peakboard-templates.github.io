@@ -4,7 +4,7 @@ title: Interactive manufacturing dashboard – communication via touchscreen
 description: 
   - This template serves as an interactive dashboard for manual production. By using an interactive screen in the form of a touch screen at the workstation, the worker can report problems, stop assembly times and at the same time see how many parts still need to be completed for a specific order - in real time! This information can then be reviewed elsewhere to optimize production. In this way, production data acquisition (PDA) can be implemented very easily and reliably. Download the template directly and connect a variety of individual interfaces. For your flexible visualization of important company key figures! Download template and optimize your manufacturing processes.
 lang: en
-weight: 1500
+weight: 690
 isDraft: false
 ref: Interactive-Board-For-Single-User-Production
 carousel: true

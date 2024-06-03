@@ -11,7 +11,7 @@ description:
   - With this dashboard, workers can increase their productivity, minimize errors, and ensure smooth assembly. Likewise, new company employees can now get started in assembly without a great deal of training. 
 
 lang: en
-weight: 575
+weight: 589
 isDraft: false
 ref: Assembly-Instructions-Board
 category:
