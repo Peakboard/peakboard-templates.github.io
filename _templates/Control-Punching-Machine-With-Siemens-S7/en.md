@@ -4,7 +4,7 @@ title: Your Siemens S7 dashboard – controlling a punching machine with Siemens
 description: 
   - This template shows how you can easily set up the communication between Peakboard and a punching machine using a Siemens S7 controller. Download the template now and configure it for your individual visualization! Peakboard's numerous functionalities and the integration of various interfaces offer you a maximum of flexibility.
 lang: en
-weight: 445
+weight: 406
 isDraft: false
 ref: Control-Punching-Machine-Siemens-S7
 category:
