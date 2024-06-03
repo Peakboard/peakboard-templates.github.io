@@ -5,7 +5,7 @@ description:
   - OKR is a management method that connects the goals of each individual employee with the company's goals. This template displays up to four objectives and three key results each. The data is retrieved from an Excel sheet but this can also be replaced by another data source, such as Google Spreadsheet.
   - Download now and customize it according to the needs of your team. Through the transparent presentation of the tasks and the measurability of their progress, your employees will realize that they are actively contributing to the success of the company and will be motivated in a sustainable way.
 lang: en
-weight: 475
+weight: 481
 isDraft: false
 ref: OKR-Team-Goals
 category:

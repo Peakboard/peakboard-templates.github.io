@@ -7,7 +7,7 @@ description:
   - Mittels eines Touchscreens oder einer an die Peakboard Box angeschlossene Maus kann auf die Kacheln im rechten unteren Bereich geklickt werden. Daraufhin öffnet sich ein Fenster, welches eine detaillierte Fehlerliste und Analyse der jeweiligen Maschine anzeigt. Durch die kontinuierliche Überwachung, Dokumentation und Analyse der Fehler lassen sich Ursachen identifizieren und langfristige Verbesserungen im Produktionsprozess erzielen.
   - Lade dir das Template jetzt kostenlos herunter und passe es ohne Programmieraufwand an die Produktionsumgebung deines Unternehmens an. Für eine noch einfachere Bedienbarkeit wurden alle Skripte in diesem Template mit Peakboard Building Blocks, unserem Low-Code-Skripteditor, erstellt. 
 lang: de
-weight: 581
+weight: 579
 isDraft: false
 ref: Floorplan-Andon-Board-Softing
 category:
