@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Your real-time manufacturing dashboard for work status – with Peakboard Edge all workstations in view
+title: Your real-time manufacturing dashboard for the work status of your workstations
 description: 
-  - "With this template and Peakboard Edge the status of different workstations can be displayed in real time. Different colors are used to quickly create transparency about the productivity of the individual workstations: Green means everything is ok, blue means a planned break and red means there is a problem at this workstation. Download now!"
+  - "This template can be used to display the status of different workstations in real time. Different colours are used to create transparency about the productivity of the individual workstations: Green means everything is OK and red means there is a problem at this workstation. Download now!"
 lang: en
 weight: 415
 isDraft: false
@@ -20,9 +20,5 @@ overview_data_sources:
 ---
 # possible data sources
 
-This template uses the Peakboard Edge data source. Peakboard Edge can directly input and output information about external devices. Peakboard Edge does not communicate via a display, but is always connected to a Peakboard Box. [Here you can learn more about Peakboard Edge](https://peakboard.com/en/product/peakboard-edge/).
+This template uses MQTT as data source, but can alternatively be used with numerous other data sources. Peakboard supports among others the following protocols: OPC UA, Modbus, Siemens S7, Azure Event & IoT Hub, Werma, Mitsubishi Electric, Beckhoff Automation, Bosch IoT Gateway, Rockwell Automation, MT Connect, WAGO or [many other data sources](https://peakboard.com/en/interfaces/).
 
-
-# how it works
-
-![image_live](edge-use-case-production.gif)
