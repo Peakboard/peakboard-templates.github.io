@@ -5,8 +5,8 @@ description:
 - Dieses interaktive Kanban Board bietet eine einfache und effektive Lösung zur Visualisierung und Verwaltung von Aufgaben. Das Kanban Board besteht aus vier Spalten, in denen Karten übersichtlich organisiert werden können. Die Karten lassen sich mittels Drag-and-Drop flexibel verschieben, um den Fortschritt von Aufgaben schnell und intuitiv darzustellen. Neue Karten können problemlos angelegt werden, wobei für jede Karte ein Titel, eine Beschreibung und eine Farbe vergeben werden können, um die Aufgaben individuell zu kennzeichnen und zu priorisieren. Dieses Kanban Board ermöglicht es Teams, ihre Aufgaben visuell zu verfolgen und zu verwalten, was die Transparenz und Effizienz im Arbeitsprozess erheblich steigert.
 - Lade dir das Template jetzt kostenlos herunter und passe es auf deine individuellen Bedürfnisse an. Für eine noch bessere Anpassbarkeit haben wir alle benötigten Scripte mit unserem Low-Code-Editor und Building Blocks umgesetzt.
 lang: de
-weight: 681
-isDraft: true
+weight: 682
+isDraft: false
 ref: Interactive-Kanban-Board
 category:
   - Alle
