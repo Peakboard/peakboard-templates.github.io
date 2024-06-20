@@ -2,7 +2,7 @@
 layout: article
 title: Interactive Kanban Board – Visualise and manage tasks effectively
 description: 
-  - This interactive Andon Board offers a simple and effective solution for visualizing and managing tasks. The Kanban Board consists of four columns, where cards can be neatly organized. The cards can be flexibly moved using drag and drop, allowing for quick and intuitive representation of task progress. New cards can be easily created, with each card assigned a title, description, and color to individually label and prioritize tasks. This Kanban Board enables teams to visually track and manage their tasks, significantly enhancing transparency and efficiency in the workflow.
+  - This interactive Kanban Board offers a simple and effective solution for visualizing and managing tasks. The Kanban Board consists of four columns, where cards can be neatly organized. The cards can be flexibly moved using drag-and-drop, allowing for quick and intuitive representation of task progress. New individual cards can be easily created: just assign a title, description and color to each card in order to individually identify and prioritize the tasks. This Kanban Board enables teams to visually track and manage their tasks, significantly enhancing transparency and efficiency in the workflow.
   - Download the template now for free and tailor it to your individual needs. For even better customizability, we have implemented all required scripts with our low-code editor and building blocks.
 lang: en
 weight: 681
