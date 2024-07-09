@@ -2,10 +2,14 @@
 layout: article
 title: Overview of a production line in cross section – your manufacturing plant dashboard
 description: 
-  - This template provides a digital real-time overview of an entire production line in production and ensures greater transparency at the workplace. The background image of this dashboard is a generic drawing of the machine on which individual work steps can be illuminated. This visualization displays the current status of various work steps. It also allows employees to react to problems more quickly, which increases efficiency and productivity on the shopfloor, and makes monitoring and maintenance of the system much easier. Download the template directly and connect your individual data sources easily!
+ - This template offers an innovative solution for a digital call system in industrial environments in combination with the call system hardware from Lee-Tech. The system enables efficient communication and fast problem solving directly from the workstations. Using a physical pushbutton with four buttons installed at different workstations, employees can send a signal and switch a traffic light to different colors to indicate status. The colors of the traffic light signal different types of problems or conditions that require immediate attention.
+
+- The Peakboard dashboard lists all workstations that currently have a problem. This visual representation makes it possible to centrally monitor the current problem status at the various workstations at a glance and take immediate action. As soon as a problem is reported, the Peakboard application sends a signal to a pager carried by the department manager. These real-time notifications ensure that problems can be quickly identified and resolved, minimizing downtime and increasing efficiency.
+
+- With this template, the buttons and pagers can be easily and flexibly assigned to the respective departments and workstations. This individual configuration ensures that each department is notified in a specific and targeted manner. Communication within the system takes place via MQTT. This ensures a stable and secure connection between the devices and the Peakboard application. Download the template now, customize it to your company and add further Lee-Tech buttons and pagers.
 lang: en
-weight: 535
-isDraft: true
+weight: 536
+isDraft: false
 ref: Digital-Call-System-Leetech
 category:
   - All
