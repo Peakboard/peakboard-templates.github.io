@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Overview of a production line in cross section – your manufacturing plant dashboard
+title: Digital call system in cooperation with Lee-Tech
 description: 
  - This template offers an innovative solution for a digital call system in industrial environments in combination with the call system hardware from Lee-Tech. The system enables efficient communication and fast problem solving directly from the workstations. Using a physical pushbutton with four buttons installed at different workstations, employees can send a signal and switch a traffic light to different colors to indicate status. The colors of the traffic light signal different types of problems or conditions that require immediate attention.
 
