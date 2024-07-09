@@ -2,7 +2,7 @@
 layout: article
 title: Digital call system in cooperation with Lee-Tech
 description: 
- - This template offers an innovative solution for a digital call system in industrial environments in combination with the call system hardware from Lee-Tech. The system enables efficient communication and fast problem solving directly from the workstations. Using a physical pushbutton with four buttons installed at different workstations, employees can send a signal and switch a traffic light to different colors to indicate status. The colors of the traffic light signal different types of problems or conditions that require immediate attention.
+- This template offers an innovative solution for a digital call system in industrial environments in combination with the call system hardware from Lee-Tech. The system enables efficient communication and fast problem solving directly from the workstations. Using a physical pushbutton with four buttons installed at different workstations, employees can send a signal and switch a traffic light to different colors to indicate status. The colors of the traffic light signal different types of problems or conditions that require immediate attention.
 
 - The Peakboard dashboard lists all workstations that currently have a problem. This visual representation makes it possible to centrally monitor the current problem status at the various workstations at a glance and take immediate action. As soon as a problem is reported, the Peakboard application sends a signal to a pager carried by the department manager. These real-time notifications ensure that problems can be quickly identified and resolved, minimizing downtime and increasing efficiency.
 
