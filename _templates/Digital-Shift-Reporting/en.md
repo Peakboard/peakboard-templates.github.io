@@ -24,6 +24,14 @@ overview_data_sources:
 
 # Possible data sources
 
-This template uses [Peakboard Hub] lists (https://peakboard.com/en/product/peakboard-hub/) lists as the central data source, but other databases such as SQL, Oracle or ODBC can be used. Employee names, shift names, positions, as well as categories and their color coding are stored in Peakboard Hub lists. To use this template with your own Peakboard Hub, you can download the table structures here. Import these into your Peakboard Hub and then adjust the data sources in the template.
+This template uses [Peakboard Hub] lists (https://peakboard.com/en/product/peakboard-hub/) lists as the central data source, but other databases such as SQL, Oracle or ODBC can be used. Employee names, shift names, positions, as well as categories and their color coding are stored in Peakboard Hub lists. To use this template with your own Peakboard Hub, you can download the table structures:
+- <a href="Template_Digital_Shift_Report_Shift.csv" class="inline" download>Shift structure</a> 
+- <a href="Template_Digital_Shift_Report_Position.csv" class="inline" download>Position structure</a>
+- <a href="Template_Digital_Shift_Report_Staff.csv" class="inline" download>Staff structure</a>
+- <a href="Template_Digital_Shift_Report_Category.csv" class="inline" download>Category structure</a>
+- <a href="Template_Digital_Shift_Report_Combined.csv" class="inline" download>Structure for new entries</a>
+- <a href="Template_Digital_Shift_Report_Comments.csv" class="inline" download>Structure for new comments</a>
+
+- Import these into your Peakboard Hub and input team members, shift names, positions, categories and colors and adjust the data sources in the template.
 
 
