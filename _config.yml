@@ -55,8 +55,8 @@ language:
     homepage-all-extensions: "all"
     homepage-menu-title-templates: "Peakboard Templates"
     homepage-menu-title-extensions: "Peakboard Extensions"
-    homepage-visible-templates: ["All","Recommended","Andon","Kpi","Lean management","Logistics","Oee","Production","Scripting","Interaction", "Shopfloor", "Mqtt", "Opc Ua", "Sql", "Partner"]
-    homepage-visible-extensions: ["All","Database","Iot","Cloud services"]
+    homepage-visible-templates: ["All","Recommended","Andon","KPI","Lean management","Logistics","OEE","Production","Scripting","Interaction", "Shopfloor", "MQTT", "OPC UA", "SQL", "Partner"]
+    homepage-visible-extensions: ["All","Database","IOT","Cloud services"]
     top-menu-cta-button-text: "Get started for free!"
     top-menu-cta-button-url: "https://peakboard.com/en/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
     page-top-overview-text: "< Gallery / Templates"
@@ -134,8 +134,8 @@ language:
     homepage-all-extensions: "alle"
     homepage-menu-title-templates: "Peakboard Templates"
     homepage-menu-title-extensions: "Peakboard Extensions"
-    homepage-visible-templates: ["Alle","Empfohlen","Andon","Kpi","Lean management","Logistik","Oee / gae","Produktion","Scripting","Interaktion", "Shopfloor", "Mqtt", "Opc Ua", "Sql", "Partner"]
-    homepage-visible-extensions: ["Alle","Datenbank","Iot","Cloud services"]
+    homepage-visible-templates: ["Alle","Empfohlen","Andon","KPI","Lean Management","Logistik","OEE / GAE","Produktion","Scripting","Interaktion", "Shopfloor", "MQTT", "OPC UA", "SQL", "Partner"]
+    homepage-visible-extensions: ["Alle","Datenbank","IOT","Cloud services"]
     top-menu-cta-button-text: "Kostenlos starten!"
     top-menu-cta-button-url: "https://peakboard.com/peakboard-designer/?utm_source=templates_overview&utm_medium=get_started_button&utm_campaign=templates"
     page-top-overview-text: "< Gallery / Templates"
