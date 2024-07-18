@@ -23,9 +23,9 @@ overview_data_sources:
 
 # Mögliche Datenquellen
 Dieses Template verwendet Peakboard Hub Listen als zentrale Datenquelle, allerdings können hierfür andere Datenbanken wie SQL, Oracle oder ODBC genutzt werden. Die Namen der Mitarbeitenden, Bezeichnungen der Schichten, Positionen, sowie Kategorien und deren Farbcodierung sind in Peakboard Hub Listen gespeichert. Um dieses Template mit deinem eigenen Peakboard Hub zu nutzen, kannst du hier die Tabellenstrukturen herunterladen. Importieren diese in deinen Peakboard Hub und geben Sie Teammitglieder, Schichtnamen, Positionen, Kategorien und Farben ein und passe  die Datenquellen im Template an.
-<a href="Template_Digital_Shift_Report_Shift.csv" class="inline" download>Schichten Struktur</a> 
-<a href="Template_Digital_Shift_Report_Position.csv" class="inline" download>Position Struktur</a>
-<a href="Template_Digital_Shift_Report_Staff.csv" class="inline" download>Staff Struktur</a>
-<a href="Template_Digital_Shift_Report_Category.csv" class="inline" download>Category Struktur</a>
-<a href="Template_Digital_Shift_Report_Combined.csv" class="inline" download>Struktur für neue Einträge</a>
-<a href="Template_Digital_Shift_Report_Comments.csv" class="inline" download>Struktur für neue Kommentare</a>
+*<a href="Template_Digital_Shift_Report_Shift.csv" class="inline" download>Schichten Struktur</a> 
+*<a href="Template_Digital_Shift_Report_Position.csv" class="inline" download>Position Struktur</a>
+*<a href="Template_Digital_Shift_Report_Staff.csv" class="inline" download>Staff Struktur</a>
+*<a href="Template_Digital_Shift_Report_Category.csv" class="inline" download>Category Struktur</a>
+*<a href="Template_Digital_Shift_Report_Combined.csv" class="inline" download>Struktur für neue Einträge</a>
+*<a href="Template_Digital_Shift_Report_Comments.csv" class="inline" download>Struktur für neue Kommentare</a>
