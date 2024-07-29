@@ -4,7 +4,7 @@ title: "Script example for restart and shutdown of a Peakboard Box"
 description: 
   - This template provides two buttons with scripts to restart or shut down the Peakboard Box.
 lang: en
-weight: 1
+weight: 112
 isDraft: false
 ref: Script-Example-Restart-Shutdown
 category:

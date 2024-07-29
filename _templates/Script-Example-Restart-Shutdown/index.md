@@ -4,7 +4,7 @@ title: "Skript zum Neustart und Herunterfahren der Peakboard Box"
 description: 
   - Diese Template bietet zwei Buttons mit Skripten zum Neustart oder Herunterfahren der Peakboard Box.
 lang: de
-weight: 1
+weight: 112
 isDraft: false
 ref: Script-Example-Restart-Shutdown
 category:
