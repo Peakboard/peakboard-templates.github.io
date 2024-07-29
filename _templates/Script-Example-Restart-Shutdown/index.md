@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Script example for restart and shutdown of a Peakboard Box"
+title: "Skript zum Neustart und Herunterfahren der Peakboard Box"
 description: 
   - Diese Template bietet zwei Buttons mit Skripten zum Neustart oder Herunterfahren der Peakboard Box.
 lang: de
