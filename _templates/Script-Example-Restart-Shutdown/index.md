@@ -8,7 +8,7 @@ weight: 1
 isDraft: false
 ref: Script-Example-Restart-Shutdown
 category:
-  - All
+  - Alle
   - Scripting
 image: Script-Example-Restart-Shutdown_DE.png
 image_thumbnail: Script-Example-Restart-Shutdown_DE_thumbnail.png
