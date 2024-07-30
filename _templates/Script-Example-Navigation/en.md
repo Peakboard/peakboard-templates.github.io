@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Script Example for Screen Navigation in Peakboard"
+title: Script example for a navigation menu
 description: 
   - This script example shows how you can add a simple navigation bar and a function to switch between different screens.
 lang: en

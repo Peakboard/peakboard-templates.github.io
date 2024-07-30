@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Script Example for Screen Navigation in Peakboard"
+title: Skript-Beispiel für ein Navigationsmenü
 description: 
   - Dieses Skriptbeispiel zeigt, wie du eine einfache Navigationsleiste und Funktion erstellen kannst, um zwischen unterschiedlichen Bildschirmen hin und her zu wechseln.
 lang: de
