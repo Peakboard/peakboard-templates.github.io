@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Skriptbeispiel zum interaktiven Ändern eines Bildes und einer PDF-Datei 
+title: Skript-Beispiel zum interaktiven Ändern eines Bildes und einer PDF-Datei 
 description: 
   - Dieses Template zeigt, wie du mittels eines Skripts interaktiv Bilder oder PDF Dokumente aus einer Ressource austauschen kannst.
 lang: de
