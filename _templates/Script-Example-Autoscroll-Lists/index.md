@@ -2,7 +2,7 @@
 layout: article
 title: Skript für automatisches Scrollen durch eine Liste mithilfe eines Dataflows
 description: 
-  - Dies Template scrollt mithilfe eines Scripts und Dataflows automatisch durch eine Liste. Am Ende der Liste angekommen, beginnt die Liste von vorne.
+  - Dieses Template scrollt mithilfe eines Scripts und Dataflows automatisch durch eine Liste. Am Ende der Liste angekommen, beginnt die Liste von vorne.
 lang: de
 weight: 120
 isDraft: false
