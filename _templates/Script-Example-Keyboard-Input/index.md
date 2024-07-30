@@ -2,7 +2,7 @@
 layout: article
 title: Skript-Beispiel für das Verarbeiten von Tastatureingaben
 description: 
-  - Dieses Template zeigt, wie du wie du mithilfe von Skripten Tastatureingaben verarbeiten kannst.
+  - Dieses Template zeigt, wie du mithilfe von Skripten Tastatureingaben verarbeiten kannst.
 lang: de
 weight: 117
 isDraft: false
