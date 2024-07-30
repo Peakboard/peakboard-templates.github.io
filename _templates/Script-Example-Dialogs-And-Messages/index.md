@@ -4,7 +4,7 @@ title: Skript für Dialoge und Meldungen
 description: 
   - Dieses Template beinhaltet unterschiedliche Skripte zur Anzeige verschiedener Dialoge und Meldungen.
 lang: de
-weight: 121
+weight: 122
 isDraft: false
 ref: Script-Example-Dialogs-And-Messages
 category:

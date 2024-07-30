@@ -4,7 +4,7 @@ title: Script example for dialogs and messages
 description: 
   - This template contains different scripts for displaying various dialogues and messages.
 lang: en
-weight: 121
+weight: 122
 isDraft: false
 ref: Script-Example-Dialogs-And-Messages
 category:
