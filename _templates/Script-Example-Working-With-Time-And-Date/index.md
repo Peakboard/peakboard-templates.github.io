@@ -1,18 +1,18 @@
 ---
 layout: article
-title: Skript-Beispiel zum Arbeiten mit Zeit und Datum
+title: Skript-Beispiel für das Verarbeiten von Datums- und Zeitwerten
 description: 
-  - Diese Vorlage zeigt dir, wie du mit Zeitobjekten arbeiten kannst. Lerne, wie du ein Datum hinzufügst, manipulierst, vergleichst oder formatierst.
+  - Dieses Template zeigt, wie du mithilfe von Skripten Datum- und Zeitwerte verarbeiten, manipulieren und speichern kannst.
 lang: de
-weight: 270
+weight: 119
 isDraft: false
-ref: Script_Working_with_Dates
+ref: Script-Example-Working-With-Time-And-Date
 category:
   - Alle
-  - Script
   - Scripting
-image: Script_Working_with_Dates_EN.png
-download: Script_Working_with_Dates_EN.pbmx
+image: Script-Example-Working-With-Time-And-Date_DE.png
+image_thumbnail: Script-Example-Working-With-Time-And-Date_DE_thumbnail.png
+download: Script-Example-Working-With-Time-And-Date.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

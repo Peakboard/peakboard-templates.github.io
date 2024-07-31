@@ -1,18 +1,18 @@
 ---
 layout: article
-title: Script example for automatic PDF page change
+title: Script example for an automatic and manual page change of PDF files
 description: 
-  - This board shows a scripting example for a PDF data source
+  - This template contains a script that automatically changes the pages of a PDF control. In addition, the pages can also be changed back and forth manually using buttons.
 lang: en
-weight: 230
+weight: 118
 isDraft: false
-ref: Script_PDF_Viewer
+ref: Script-Example-PDF-Page-Change
 category:
   - All
-  - Script
   - Scripting
-image: Script_PDF_Viewer_EN.png
-download: Script_PDF_Viewer_EN.pbmx
+image: Script-Example-PDF-Page-Change.png
+thumbnail: Script-Example-PDF-Page-Change_thumbnail.png
+download: Script-Example-PDF-Page-Change.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

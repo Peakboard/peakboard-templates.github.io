@@ -1,18 +1,18 @@
 ---
 layout: article
-title: Skript-Beispiel für einen automatisierten Seitenwechsel von PDF Dateien
+title: Skript-Beispiel für einen automatischen und manuellen Seitenwechsel von PDF Dateien
 description: 
-  - Dieses Template zeigt, wie du mit PDF Dateien arbeitest.
+  - Dieses Template enthält ein Skript, welches automatisch die Seiten eines PDF Controls ändert. Zusätzlich können die Seiten auch manuell über Buttons vor und zurück gewechselt werden.
 lang: de
-weight: 230
+weight: 118
 isDraft: false
-ref: Script_PDF_Viewer
+ref: Script-Example-PDF-Page-Change
 category:
   - Alle
-  - Script
   - Scripting
-image: Script_PDF_Viewer_EN.png
-download: Script_PDF_Viewer_EN.pbmx
+image: Script-Example-PDF-Page-Change_DE.png
+thumbnail: Script-Example-PDF-Page-Change_DE_thumbnail.png
+download: Script-Example-PDF-Page-Change.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:

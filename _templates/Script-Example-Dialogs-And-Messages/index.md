@@ -2,17 +2,17 @@
 layout: article
 title: Skript für Dialoge und Meldungen
 description: 
-  - Mit diesem Skript kannst du unterschiedliche Dialoge und Meldungen erstellen und verwenden.
+  - Dieses Template beinhaltet unterschiedliche Skripte zur Anzeige verschiedener Dialoge und Meldungen.
 lang: de
-weight: 205
+weight: 122
 isDraft: false
-ref: Script_Dialogs_and_Messages
+ref: Script-Example-Dialogs-And-Messages
 category:
   - Alle
-  - Script
   - Scripting
-image: Script_Dialogs_and_Messages_EN.png
-download: Script_Dialogs_and_Messages_EN.pbmx
+image: Script-Example-Dialogs-And-Messages_DE.png
+image_thumbnail: Script-Example-Dialogs-And-Messages_DE_thumbnail.png
+download: Script-Example-Dialogs-And-Messages.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
