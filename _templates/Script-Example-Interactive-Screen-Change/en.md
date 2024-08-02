@@ -5,7 +5,7 @@ description:
   - In this template we will show you how to switch back and forth between several screens with the help of buttons.
 lang: en
 weight: 215
-isDraft: false
+isDraft: true
 ref: Script_Screen_Changer
 category:
   - All
