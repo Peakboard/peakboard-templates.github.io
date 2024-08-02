@@ -5,7 +5,7 @@ description:
   - This example shows how to work with numbers, how to do these, and how to display them in a table.
 lang: en
 weight: 245
-isDraft: false
+isDraft: true
 ref: Script_Round_Table
 category:
   - All
