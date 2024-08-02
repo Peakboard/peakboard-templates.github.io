@@ -5,7 +5,7 @@ description:
   - Diese Vorlage zeigt, wie du einen einfachen Taschenrechner (Addition und Subtraktion) erstellst und verwenden kannst.
 lang: de
 weight: 255
-isDraft: false
+isDraft: true
 ref: Script_Calculator
 category:
   - Alle
