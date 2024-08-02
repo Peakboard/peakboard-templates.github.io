@@ -10,6 +10,7 @@ ref: Script-Example-MQTT
 category:
   - All
   - Scripting
+  - Mqtt
 image: Script-Example-MQTT.png
 image_thumbnail: Script-Example-MQTT_thumbnail.png
 download: Script-Example-MQTT.pbmx
