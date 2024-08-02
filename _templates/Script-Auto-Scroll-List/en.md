@@ -5,7 +5,7 @@ description:
   - This template shows a script example which is intended to filter a data source using a dataflow. Every 5 seconds it will be executed. As soon as all entries have been displayed, the list starts from the beginning.
 lang: en
 weight: 200
-isDraft: false
+isDraft: true
 ref: Script-Auto-Scroll-List
 category:
   - All
