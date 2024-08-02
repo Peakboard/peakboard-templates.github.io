@@ -5,7 +5,7 @@ description:
   - Dieses Beispiel zeigt, wie du mit Zahlen arbeitest, wie du sie rundest und in einer Tabelle anzeigen kannst.
 lang: de
 weight: 245
-isDraft: false
+isDraft: true
 ref: Script_Round_Table
 category:
   - Alle
