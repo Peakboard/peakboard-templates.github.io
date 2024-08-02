@@ -5,7 +5,7 @@ description:
   - This template shows how to handle keyboard entries in Peakboard.
 lang: en
 weight: 235
-isDraft: false
+isDraft: true
 ref: Script_Key_Inputs
 category:
   - All
