@@ -5,7 +5,7 @@ description:
   - With this script example you can learn how to use animations in Peakboard.
 lang: en
 weight: 260
-isDraft: false
+isDraft: true
 ref: Script_Animate
 category:
   - All
