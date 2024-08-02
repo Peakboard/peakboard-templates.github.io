@@ -5,7 +5,7 @@ description:
   - Mit diesem Beispiel lernst du, wie du in Peakboard mit einem Button arbeitest.
 lang: de
 weight: 265
-isDraft: false
+isDraft: true
 ref: Script_Button_Example
 category:
   - Alle
