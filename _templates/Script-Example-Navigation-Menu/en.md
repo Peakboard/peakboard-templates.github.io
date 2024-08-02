@@ -5,7 +5,7 @@ description:
   - This script example shows how you can add a simple navigation bar to switch between different screens. 
 lang: en
 weight: 225
-isDraft: false
+isDraft: true
 ref: Script_Navigation_Menu
 category:
   - All
