@@ -5,7 +5,7 @@ description:
   - Dieses Skript-Beispiel zeigt, wie du interaktiv Bilder aus lokalen oder Web-Quellen austauschen kannst.
 lang: de
 weight: 210
-isDraft: false
+isDraft: true
 ref: Script_Change_Image
 category:
   - Alle
