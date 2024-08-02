@@ -5,7 +5,7 @@ description:
   - In dieser Vorlage zeigen wir dir, wie du mithilfe von Buttons zwischen mehreren Bildschirmen hin und her wechseln kannst.
 lang: de
 weight: 215
-isDraft: false
+isDraft: true
 ref: Script_Screen_Changer
 category:
   - Alle
