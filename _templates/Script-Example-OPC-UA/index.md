@@ -10,6 +10,7 @@ ref: Script-Example-OPC-UA
 category:
   - Alle
   - Scripting
+  - Opc Ua
 image: Script-Example-OPC-UA_DE.png
 image_thumbnail: Script-Example-OPC-UA_DE_thumbnail.png
 download: Script-Example-OPC-UA.pbmx
