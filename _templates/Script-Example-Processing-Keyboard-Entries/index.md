@@ -5,7 +5,7 @@ description:
   - Diese Vorlage zeigt, wie du in Peakboard mit Tastatureingaben umgehen kannst.
 lang: de
 weight: 235
-isDraft: false
+isDraft: true
 ref: Script_Key_Inputs
 category:
   - Alle
