@@ -5,7 +5,7 @@ description:
   - Dieses Template veranschaulicht, wie du Daten in einen SQL-Server von deiner Peakboard Box aus zurückschreiben kannst.
 lang: de
 weight: 214
-isDraft: false
+isDraft: true
 ref: Example_Write_into_SQL
 category:
   - Alle
