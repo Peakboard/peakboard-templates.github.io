@@ -5,7 +5,7 @@ description:
   - This template shows how to create and use a simple calculator (addition and subtraction).
 lang: en
 weight: 255
-isDraft: false
+isDraft: true
 ref: Script_Calculator
 category:
   - All
