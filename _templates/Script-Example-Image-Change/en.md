@@ -5,7 +5,7 @@ description:
   - This template shows how you can interactively exchange images from local or web resources.
 lang: en
 weight: 210
-isDraft: false
+isDraft: true
 ref: Script_Change_Image
 category:
   - All
