@@ -5,7 +5,7 @@ description:
   - This script example allows you to switch between and manage multiple screens by clicking an interactive table cell.
 lang: en
 weight: 220
-isDraft: false
+isDraft: true
 ref: Script_Cell_Tab
 category:
   - All
