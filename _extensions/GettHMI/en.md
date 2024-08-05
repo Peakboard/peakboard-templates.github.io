@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - This extension...
 lang: en
-weight: 82
+weight: 83
 isDraft: true
 ref: GettHMI
 image: GettHMI_Extension_Logo.png
