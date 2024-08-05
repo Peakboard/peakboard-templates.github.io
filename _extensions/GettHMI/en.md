@@ -7,7 +7,7 @@ description:
   - This extension...
 lang: en
 weight: 82
-isDraft: false
+isDraft: true
 ref: GettHMI
 image: GettHMI_Extension_Logo.png
 image_thumbnail: GettHMI_Extension_Logo_thumbnail.png
