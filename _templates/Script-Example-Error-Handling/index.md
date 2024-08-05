@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Fehlerbehandlung
+title: Skript-Beispiel für die Fehlerbehandlung von Skriptfehlern
 description: 
   - Dieses Template zeigt, wie du mittels eines Skripts Skriptfehler abfangen und Fehlermeldungen ausgeben kannst.
 lang: de

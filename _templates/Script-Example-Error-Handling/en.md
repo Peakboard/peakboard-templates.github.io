@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Error handling
+title: Script-Example for handling script errors
 description: 
   - This template shows how you can use a script to catch script errors and output error messages.
 lang: en
