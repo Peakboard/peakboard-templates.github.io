@@ -6,13 +6,13 @@ description:
 lang: en
 weight: 141
 isDraft: false
-ref: Script-Example-Peakboard-Hub-List
+ref: Script-Example-Metadata
 category:
   - All
   - Scripting
-image: Script-Example-Peakboard-Hub-List.png
-image_thumbnail: Script-Example-Peakboard-Hub-List_thumbnail.png
-download: Script-Example-Peakboard-Hub-List.pbmx
+image: Script-Example-Metadata.png
+image_thumbnail: Script-Example-Metadata_thumbnail.png
+download: Script-Example-Metadata.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
