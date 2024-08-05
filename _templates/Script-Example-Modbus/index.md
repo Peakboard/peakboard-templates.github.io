@@ -4,7 +4,7 @@ title: Skript-Beispiel für das Schreiben von Daten via Modbus
 description: 
   - Dieses Template zeigt, wie du mittels eines Skripts Daten via Modbus schreiben kannst.
 lang: de
-weight: 131
+weight: 137
 isDraft: false
 ref: Script-Example-Modbus
 category:
