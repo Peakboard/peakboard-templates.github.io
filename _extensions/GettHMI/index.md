@@ -4,10 +4,10 @@ title: GettHMI
 title_text: GettHMI
 by: Peakboard
 description: 
-  - Diese Extension bietet...
+  - Diese Extension ermöglicht dir die nahtlose Integration und Steuerung von Tasten auf GETT Human Machine Interfaces (HMIs). 
 lang: de
 weight: 83
-isDraft: true
+isDraft: false
 ref: GettHMI
 image: GettHMI_Extension_Logo.png
 image_thumbnail: GettHMI_Extension_Logo_thumbnail.png
