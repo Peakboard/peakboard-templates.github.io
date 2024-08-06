@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Skript-Beispielt für den Datenexport als CSV Datei
+title: Skript-Beispiel für den Datenexport als CSV Datei
 description: 
   - Dieses Template zeigt, wie du mittels eines Skripts deine Daten als CSV Datei exportieren kannst.
 lang: de
