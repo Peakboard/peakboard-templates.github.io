@@ -4,8 +4,8 @@ title: Skript-Beispiel für das manuelle Nachladen von Daten
 description: 
   - Dieses Template zeigt, wie du mittels eines Skripts Datenquellen, Dataflows und Reload flows manuell nachladen kannst.
 lang: de
-weight: 145
-isDraft: true
+weight: 146
+isDraft: false
 ref: Script-Example-Trigger-Data-Reload
 category:
   - Alle
