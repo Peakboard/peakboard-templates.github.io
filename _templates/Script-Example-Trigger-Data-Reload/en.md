@@ -4,7 +4,7 @@ title: Script example for manual data reloading
 description: 
   - This template shows how you can manually reload Data sources, Dataflows and Reload flows using a script.
 lang: en
-weight: 146
+weight: 145
 isDraft: false
 ref: Script-Example-Trigger-Data-Reload
 category:
