@@ -18,5 +18,6 @@ extension_category:
   - HMI
 
 version_history:
+  - Version 2.0 on 14 August 2024 | Different fixes and improvements
   - Version 1.0 on 05 August 2024 | Initial release
 ---
