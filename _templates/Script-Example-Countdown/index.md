@@ -17,3 +17,8 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+# So funktioniert’s
+Eine detailierte Anleitung zu diesem Template findest du auf unserer [Helpsite](https://templates.peakboard.com/Script-Example-Countdown/index) sowie in diesem YouTube Video:
+
+{% include video.html image='11-peakboard-thumbnail-countdown_DE.png' video_id='P7iX0XxB_Ls' %}
