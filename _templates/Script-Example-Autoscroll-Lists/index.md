@@ -19,6 +19,6 @@ overview_data_sources:
 ---
 
 # So funktioniert’s
-Eine detailierte Anleitung zu diesem Template findest du auf unserer [Helpsite](https://help.peakboard.com/scripting/Script%20Templates/de-auto-scroll.html) sowie in diesem YouTube Video:
+Eine detaillierte Anleitung zu diesem Template findest du auf unserer [Helpsite](https://help.peakboard.com/scripting/Script%20Templates/de-auto-scroll.html) sowie in diesem YouTube Video:
 
 {% include video.html image='01-peakboard-thumbnail-scripting-autoscroll_DE.png' video_id='9TRzWSmkLhI' %}
