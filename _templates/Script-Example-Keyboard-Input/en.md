@@ -17,3 +17,9 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+
+# How it works
+You can find detailed instructions for this template on our [Helpsite](https://help.peakboard.com/scripting/Script%20Templates/en-keyboard-input.html) and in this YouTube video.
+
+{% include video.html image='07-peakboard-thumbnail-scripting-tastatureingaben_EN.png' video_id='CDNkdnCtbkM' %}
