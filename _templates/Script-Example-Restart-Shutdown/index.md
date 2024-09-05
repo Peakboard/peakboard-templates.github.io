@@ -21,5 +21,5 @@ overview_data_sources:
 # So funktioniert’s
 Eine detaillierte Anleitung zu diesem Template findest du auf unserer [Helpsite](https://help.peakboard.com/scripting/Script%20Templates/de-shutdown-restart.html) sowie in diesem YouTube Video:
 
-{% include video.html image='17-peakboard-thumbnail-restart-shutdown_DE.png' video_id='sJALihmM0Mg' %}
+{% include video.html image='17-peakboard-thumbnail-restart-shutdown_DE.png' video_id='5gNvrI-Xyd0' %}
 
