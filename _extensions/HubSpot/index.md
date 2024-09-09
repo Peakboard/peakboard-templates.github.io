@@ -4,10 +4,10 @@ title: HubSpot
 title_text: HubSpot
 by: Peakboard
 description: 
-  - Diese Extension ermöglicht...
+  - Diese Extension ermöglicht einfachen Zugang zu der API von HubSpot. Damit können Tickets aus HubSpot abgerufen und ausgelesen werden. 
 lang: de
 weight: 84
-isDraft: true
+isDraft: false
 ref: HubSpot
 image: Hubspot_Extension_Logo.png
 image_thumbnail: Hubspot_Extension_Logo.png
@@ -18,5 +18,5 @@ extension_category:
   - Cloud services
 
 version_history:
-  - Version 1.0 on 29 April 2024 | Initial release
+  - Version 1.0 on 09 September 2024 | Initial release
 ---
