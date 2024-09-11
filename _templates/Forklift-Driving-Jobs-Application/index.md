@@ -1,8 +1,12 @@
 ---
 layout: article
-title: ...
+title: Effizientes Fahrauftragsmanagement für Gabelstapler
 description: 
-  - ...
+  - Dieses Peakboard Template wurde speziell für den Einsatz auf einem Touchscreen an einem Gabelstapler entwickelt und optimiert den Arbeitsablauf von Fahrern erheblich. Fahrer können sich bequem an ihrem Fahrzeug anmelden und erhalten sofort eine übersichtliche Liste mit offenen Fahraufträgen, die sie auswählen können. Die Anwendung zeigt den Abhol- und Zielort grafisch auf einer Karte an und liefert zusätzlich wichtige Informationen zum jeweiligen Auftrag, wie etwa die Anzahl der erforderlichen Fahrten. Besonders praktisch ist die Möglichkeit, Fahraufträge nach Erledigung mit einem Kommentar abzuschließen oder Probleme direkt zu melden. Neue Fahraufträge können über [diese](https://templates.peakboard.com/Forklift-Driving-Jobs-Planner/index) Anwendung erstellt werden.
+
+  - Dies sorgt für eine effizientere Kommunikation und reduziert Verzögerungen in der Logistik. Diese Anwendung vereinfacht nicht nur die Navigation für Fahrer, sondern trägt auch zur besseren Koordination und Vermeidung von Missverständnissen bei, was letztlich der Produktivität und Effizienz in deinem Lager oder auf dem Betriebsgelände zugute kommt.
+
+  - Lade dir das Template jetzt kostenlos herunter und passe es ohne Programmieraufwand an die Anforderungen deiner internen Logistik an. Für eine noch einfachere Bedienbarkeit wurden alle Skripte in diesem Template mit Peakboard Building Blocks, unserem Low-Code-Skripteditor, erstellt.
 
 lang: de
 weight: 701
@@ -22,7 +26,7 @@ overview_benefits:
 overview_data_sources:
 ---
 # Mögliche Datenquellen
-Dieses Template verwendet vier verschiedene Peakboard Hub Listen als Datenquelle. Die Liste "Products" enthält Stammdaten zu allen Produkten die dein Unternehmen fertigt. Die Liste "Materials" enthält Stammdaten zu allen Materialien, die in deinem Lager geführt werden und die benötigt werden, um deine Produkte fertigen zu können. Die Liste "Bill of materials" enthält Daten darüber, aus welchen Materialen die einzelnen Produkte gefertigt werden. Die Liste "Assembly steps" enthält Daten zu den einzelnen Montageschritten aller Produkte. Um dieses Template mit deinem eigenen Peakboard Hub zu nutzen, kannst du über die folgenden Links die Tabellenstruktur der jeweiligen Listen herunterladen: <a href="Products.txt" class="inline" download>Products</a> , <a href="Materials.txt" class="inline" download>Materials</a> , <a href="BillOfMaterials.txt" class="inline" download>Bill of materials</a> , <a href="Assembly_Steps.txt" class="inline" download>Assembly steps</a>. Importiere diese in Peakboard Hub und passe anschließend die Datenquellen im Template entsprechend an. Alternativ zu Peakboard Hub Listen könnten diese Daten auch aus einer oder mehreren Datenbanken stammen. 
+Dieses Template verwendet verschiedene Peakboard Hub Listen als Datenquelle für die Stamm- und Bewegungsdaten. Alternativ zu Peakboard Hub Listen könnten diese Daten auch aus einer oder mehreren Datenbanken stammen. 
 
 # Melden eines Problems
 Die Anwendung bietet eine einfache Möglichkeit, Probleme an die Verantwortlichen Personen zu melden.
