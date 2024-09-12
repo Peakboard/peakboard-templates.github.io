@@ -31,3 +31,8 @@ Screen for shift planning:
 
 Screen with weekly lunch plan:
 ![image_live](Shopfloor-Information-Board-Lunch.png)
+
+# How it works
+You can find detailed instructions for this template in this YouTube video.
+
+{% include video.html image='EN_thumbnail.png' video_id='vCMKm2M3fRU' %}

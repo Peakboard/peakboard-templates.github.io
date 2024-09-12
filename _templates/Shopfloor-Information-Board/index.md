@@ -31,3 +31,12 @@ Ansicht zur Erstellung und Bearbeitung des Schichtplans:
 
 Anzeige des wöchentlichen Speiseplans:
 ![image_live](Shopfloor-Schwarzes-Brett-Speiseplan.png)
+
+
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du in diesem YouTube Video:
+
+{% include video.html image='DE_thumbnail.png' video_id='HwJ1qtOw0Ng' %}
+
+
+
