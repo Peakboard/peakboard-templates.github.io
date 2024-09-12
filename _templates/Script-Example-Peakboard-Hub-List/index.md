@@ -18,3 +18,10 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du auf unserer [Helpsite](https://help.peakboard.com/scripting/de-publish-external.html) sowie in diesem YouTube Video:
+
+{% include video.html image='21-peakboard-thumbnail-scripting-peakboard-hub_DE.png' video_id='cpPWCXFx9AQ' %}
+

@@ -18,3 +18,9 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du auf unserer [Helpsite](https://help.peakboard.com/scripting/Script%20Templates/de_rockwell.html) sowie in diesem YouTube Video:
+
+{% include video.html image='22-peakboard-thumbnail-scripting-rockwell_DE.png' video_id='xgi3fE8CuDI' %}
+
