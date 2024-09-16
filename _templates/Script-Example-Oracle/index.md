@@ -18,3 +18,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du auf unserer [Helpsite]() sowie in diesem YouTube Video:
+
+{% include video.html image='31-peakboard-thumbnail-scripting-oracle_DE.png' video_id='jI4MG8wO-iA' %}
