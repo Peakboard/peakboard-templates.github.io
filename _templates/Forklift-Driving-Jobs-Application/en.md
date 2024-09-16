@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Efficient Task Management for Forklifts
+title: Efficient task management for forklifts
 description: 
   - This template was specifically designed for use on a forklift touchscreen and significantly optimizes drivers' workflows. Drivers can conveniently log in to their vehicle and immediately receive a clear list of open driving tasks, which they can select from. The application displays the pickup and destination locations graphically on a map and also provides important information about the task, such as the number of required trips. Particularly useful is the ability to complete tasks with a comment or report issues directly, once finished. New driving jobs can be created via [this](https://templates.peakboard.com/Forklift-Driving-Jobs-Planner/en) application.
 
