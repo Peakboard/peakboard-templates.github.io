@@ -28,6 +28,6 @@ overview_data_sources:
 # Possible data sources
 This template uses various Peakboard Hub lists as the data source for master and transaction data. Alternatively, these data could also come from one or more databases.
 
-# Report issues
+# Further screens
 The application offers an easy way to report issues to the responsible persons.
 ![image_live](Forklift-Driving-Jobs-Application-Report-Issue.png)

@@ -28,7 +28,7 @@ overview_data_sources:
 # Mögliche Datenquellen
 Dieses Template verwendet verschiedene Peakboard Hub Listen als Datenquelle für die Stamm- und Bewegungsdaten. Alternativ zu Peakboard Hub Listen könnten diese Daten auch aus einer oder mehreren Datenbanken stammen. 
 
-# Melden eines Problems
+# Weitere Anzeigen
 Die Anwendung bietet eine einfache Möglichkeit, Probleme an die Verantwortlichen Personen zu melden.
 ![image_live](Gabelstapler-Fahrauftraege-Anwendung-Problem-Melden.png)
 
