@@ -2,7 +2,7 @@
 layout: article
 title: Digitale Fahrauftragsplanung für Gabelstapler in deiner Lagerlogistik
 description: 
-  - Mit diesem Template kannst du Fahraufträge für deine Logistikprozesse einfach und effizient erstellen und verwalten. Die Anwendung ermöglicht dir das Anlegen neuer Fahraufträge für deine Gabelstapler-Flotte und bietet eine Übersicht über alle aktuell offenen Fahraufträge. Zusätzlich kannst du abgeschlossene Aufträge dieser Woche einsehen, um den Fortschritt zu überwachen. Eine weitere Funktion ist die Problemübersicht. Hier werden alle von den Fahrerinnen und Fahrern gemeldeten Störungen angezeigt, und du hast die Möglichkeit, diese als gelöst zu markieren. Dieses Template sorgt für eine nahtlose Koordination deiner Fahraufträge und verbessert die Transparenz und Nachverfolgbarkeit in deiner Intralogistik.
+  - Mit diesem Template kannst du Fahraufträge in deiner Logistik einfach und effizient erstellen und verwalten. Die Anwendung ermöglicht dir das Anlegen neuer Fahraufträge für deine Gabelstapler-Flotte und bietet eine Übersicht über alle aktuell offenen Fahraufträge. Zusätzlich kannst du abgeschlossene Aufträge dieser Woche einsehen, um den Fortschritt zu überwachen. Eine weitere Funktion ist die Problemübersicht. Hier werden alle von den Fahrerinnen und Fahrern gemeldeten Störungen angezeigt, und du hast die Möglichkeit, diese als gelöst zu markieren. Dieses Template sorgt für eine nahtlose Koordination deiner Fahraufträge und verbessert die Transparenz und Nachverfolgbarkeit in deiner Intralogistik.
   
   - Die zugehörige interaktive Anwendung für die Nutzung direkt auf dem Gabelstapler findest du [hier](https://templates.peakboard.com/Forklift-Driving-Jobs-Application/index).
 
