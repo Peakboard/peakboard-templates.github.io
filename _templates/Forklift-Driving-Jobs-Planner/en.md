@@ -2,7 +2,7 @@
 layout: article
 title: Digital drive order planning for forklifts in your warehouse logistics
 description: 
-  - This template helps you to easily and efficiently create and manage driving jobs for your logistics processes. The application allows you to set up new driving jobs for your forklift fleet and provides an overview of all currently open driving jobs. Additionally, you can review completed jobs for the current week to monitor progress. Another key feature is the problem overview, where all issues reported by drivers are displayed, and you have the option to mark them as resolved. This template ensures seamless coordination of your driving jobs and enhances transparency and traceability in your intralogistics.
+  - This template helps you to easily and efficiently create and manage driving orders in your logistics. The application allows you to set up new driving jobs for your forklift fleet and provides an overview of all currently open driving jobs. Additionally, you can review completed assignments for the current week to monitor progress. Another key feature is the problem overview, where all issues reported by drivers are displayed, and you have the option to mark them as resolved. This template ensures seamless coordination of your driving jobs and enhances transparency and traceability in your intralogistics.
   - You can find the related interactive application for use directly on the forklift [here](https://templates.peakboard.com/Forklift-Driving-Jobs-Application/en).
 lang: en
 weight: 700
