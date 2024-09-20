@@ -17,3 +17,10 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du auf unserer [Helpsite](https://help.peakboard.com/scripting/Script%20Templates/de-working-with-text.html) sowie in diesem YouTube Video:
+
+{% include video.html image='30-peakboard-thumbnail-scripting-text_DE.png' video_id='jMDSVbQ4TpQ' %}
+

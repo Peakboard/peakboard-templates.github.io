@@ -17,3 +17,13 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du auf unserer [Helpsite](https://help.peakboard.com/scripting/Script%20Templates/de-working-with-date.html) sowie in diesem YouTube Video:
+
+{% include video.html image='28-peakboard-thumbnail-scripting-date_DE.png' video_id='tQ2-NIi4MHo' %}
+
+
+
+

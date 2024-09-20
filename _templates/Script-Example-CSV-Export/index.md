@@ -18,3 +18,9 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du auf unserer [Helpsite](https://help.peakboard.com/scripting/de-variables.html) sowie in diesem YouTube Video:
+
+{% include video.html image='20-peakboard-thumbnail-scripting-csv-export_DE.png' video_id='LWkMDBLoeXI' %}

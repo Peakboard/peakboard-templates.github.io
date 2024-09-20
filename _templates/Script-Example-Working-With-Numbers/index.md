@@ -17,3 +17,8 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du auf unserer [Helpsite](https://help.peakboard.com/scripting/Script%20Templates/de-working-with-numbers.html) sowie in diesem YouTube Video:
+
+{% include video.html image='29-peakboard-thumbnail-scripting-numbers_DE.png' video_id='nlzwudy4EUo' %}
