@@ -33,3 +33,8 @@ Dieses Template verwendet OPC UA als Quelle der Maschinendaten. Du kannst stattd
 Mit einem Klick auf eine Kachel kannst du eine detaillierte Fehlerübersicht der entsprechenden Maschine öffnen: 
 ![image_live](Hallenplan-Andon-Board-PopUp.png)
 
+
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du in diesem YouTube Video:
+
+{% include video.html image='YT_Thumbnail_DE.png' video_id='Atz3oYxtMe0' %}
