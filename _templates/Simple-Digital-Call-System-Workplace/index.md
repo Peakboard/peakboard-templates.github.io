@@ -9,8 +9,8 @@ description:
   - Das zugehörige Übersichtsdashboard findest du [hier](https://templates.peakboard.com/Simple-Digital-Call-System-Overview/index).
 
 lang: de
-weight: 512
-isDraft: true
+weight: 414
+isDraft: false
 ref: Simple-Digital-Call-System-Workplace
 category:
   - Alle

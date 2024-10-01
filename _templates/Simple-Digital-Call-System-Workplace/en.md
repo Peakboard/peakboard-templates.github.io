@@ -8,8 +8,8 @@ description:
 
 - You can find the corresponding overview dashboard [here](https://templates.peakboard.com/Simple-Digital-Call-System-Overview/en).
 lang: en
-weight: 512
-isDraft: true
+weight: 414
+isDraft: false
 ref: Simple-Digital-Call-System-Workplace
 category:
   - All

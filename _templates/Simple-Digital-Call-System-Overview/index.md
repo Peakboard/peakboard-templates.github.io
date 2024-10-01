@@ -1,35 +1,24 @@
 ---
 layout: article
-title: Digitale Fahrauftragsplanung für Gabelstapler in deiner Lagerlogistik
+title: Einfaches digitales Rufsystem – Shopfloor Übersicht
 description: 
-  - Mit diesem Template kannst du Fahraufträge in deiner Logistik einfach und effizient erstellen und verwalten. Die Anwendung ermöglicht dir das Anlegen neuer Fahraufträge für deine Gabelstapler-Flotte und bietet eine Übersicht über alle aktuell offenen Fahraufträge. Zusätzlich kannst du abgeschlossene Aufträge dieser Woche einsehen, um den Fortschritt zu überwachen. Eine weitere Funktion ist die Problemübersicht. Hier werden alle von den Fahrerinnen und Fahrern gemeldeten Störungen angezeigt, und du hast die Möglichkeit, diese als gelöst zu markieren. Dieses Template sorgt für eine nahtlose Koordination deiner Fahraufträge und verbessert die Transparenz und Nachverfolgbarkeit in deiner Intralogistik.
-  
-  - Die zugehörige interaktive Anwendung für die Nutzung direkt auf dem Gabelstapler findest du [hier](https://templates.peakboard.com/Forklift-Driving-Jobs-Application/index).
+  - Dieses Template ist Teil eines digitalen Rufsystems und bietet einen umfassenden Überblick über alle Arbeitsplätze und deren Produktionsstatus. Auf dem Dashboard werden die Arbeitsplätze mit der Anzahl der gefertigten Teile angezeigt. Sollte an einem Arbeitsplatz ein Problem gemeldet werden, wird dieser rot markiert, sodass Verantwortliche sofort eingreifen können. Mit dieser Übersicht behältst du stets den aktuellen Status der Produktion im Blick, kannst Probleme sofort erkennen und Maßnahmen ergreifen, um die Effizienz und Reaktionszeit in deiner Fertigung zu optimieren.
+
+  - Die zugehörige Anwendung zum Erfassen der Daten findest [hier](https://templates.peakboard.com/Simple-Digital-Call-System-Workplace/index).
 
 lang: de
-weight: 512
-isDraft: true
-ref: Forklift-Driving-Jobs-Planner
+weight: 415
+isDraft: false
+ref: Simple-Digital-Call-System-Overview
 category:
   - Alle
-  - Logistik
+  - Produktion
   - Interaktion
-  - Gabelstapler
-  - Peakboard Hub
-image: Gabelstapler-Fahrauftraege-Planer.png
-image_thumbnail: Gabelstapler-Fahrauftraege-Planer_thumbnail.png
-download: Gabelstapler-Fahrauftraege-Planer.pbmx
+  - Shopfloor
+image: Einfaches-Digitales-Rufsystem-Uebersicht.png
+image_thumbnail: Einfaches-Digitales-Rufsystem-Uebersicht_thumbnail.png
+download: Einfaches-Digitales-Rufsystem-Uebersicht.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# Mögliche Datenquellen
-Dieses Template verwendet verschiedene Peakboard Hub Listen als Datenquelle für die Stamm- und Bewegungsdaten. Alternativ zu Peakboard Hub Listen könnten diese Daten auch aus einer oder mehreren Datenbanken stammen. 
-
-# Weitere Anzeigen
-Die aktuell offenen Fahraufträge werden in einer übersichtlichen Liste dargestellt. Wurde ein Auftrag von einem Fahrer oder einer Fahrerin angenommen und bearbeitet, wird dies in der Liste angezeigt.
-![image_live](Gabelstapler-Fahrauftraege-Planer-Offene-Fahrauftraege.png)
-
-Detailansicht der aktuell gemeldeten Probleme, mit der Möglichkeit, diese als gelöst zu markieren.
-![image_live](Gabelstapler-Fahrauftraege-Planer-Offene-Probleme.png)
-

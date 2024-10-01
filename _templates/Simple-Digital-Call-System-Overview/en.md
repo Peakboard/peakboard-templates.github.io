@@ -1,32 +1,22 @@
 ---
 layout: article
-title: Digital drive order planning for forklifts in your warehouse logistics
+title: Simple digital call system – overview dashboard
 description: 
-  - This template helps you to easily and efficiently create and manage driving orders in your logistics. The application allows you to set up new driving jobs for your forklift fleet and provides an overview of all currently open driving jobs. Additionally, you can review completed assignments for the current week to monitor progress. Another key feature is the problem overview, where all issues reported by drivers are displayed, and you have the option to mark them as resolved. This template ensures seamless coordination of your driving jobs and enhances transparency and traceability in your intralogistics.
-  - You can find the related interactive application for use directly on the forklift [here](https://templates.peakboard.com/Forklift-Driving-Jobs-Application/en).
+  - This template is part of a digital call system and provides a comprehensive overview of all workstations and their production status. The dashboard displays the workstations along with the number of parts produced at each one. If a problem is reported at a workstation, it is marked in red, allowing supervisors to intervene immediately. With this overview, you can always keep track of the current production status, quickly identify issues, and take action to optimize efficiency and response times in your manufacturing process.
+  - The corresponding application for recording the data can be found [here](https://templates.peakboard.com/Simple-Digital-Call-System-Workplace/en).
 lang: en
-weight: 700
-isDraft: true
-ref: Forklift-Driving-Jobs-Planner
+weight: 415
+isDraft: false
+ref: Simple-Digital-Call-System-Overview
 category:
   - All
-  - Logistics
+  - Production
   - Interaction
-  - Forklift
-  - Peakboard Hub
-image: Forklift-Driving-Jobs-Planner.png
-image_thumbnail: Forklift-Driving-Jobs-Planner_thumbnail.png
-download: Forklift-Driving-Jobs-Planner.pbmx
+  - Shopfloor
+image: Simple-Digital-Call-System-Overview.png
+image_thumbnail: Simple-Digital-Call-System-Overview_thumbnail.png
+download: Simple-Digital-Call-System-Overview.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# Possible data sources
-This template uses various Peakboard Hub lists as the data source for master and transaction data. Alternatively, the data could also come from one or more databases.
-
-# Further screens
-The currently open driving jobs are displayed in a well-organized list. If a job has been accepted and processed by a driver, this is indicated in the list.
-![image_live](Gabelstapler-Fahrauftraege-Planer-Offene-Fahrauftraege.png)
-
-Detailed view of the currently reported issues, with the option to mark them as solved.
-![image_live](Gabelstapler-Fahrauftraege-Planer-Offene-Probleme.png)

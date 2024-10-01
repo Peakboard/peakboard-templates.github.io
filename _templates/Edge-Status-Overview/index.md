@@ -5,7 +5,7 @@ description:
   - "Mit diesem Template kann der Status verschiedener Arbeitsplätze in Echtzeit angezeigt werden. Verschiedene Farben sollen dabei Transparenz über die Produktivität der einzelnen Arbeitsplätze schaffen: Grün bedeutet alles ist in Ordnung und rot bedeutet, es gibt an diesem Arbeitsplatz ein Problem. Jetzt herunterladen!"
 lang: de
 weight: 415
-isDraft: false
+isDraft: true
 ref: Edge-Status-Overview
 category:
   - Alle
