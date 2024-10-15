@@ -22,3 +22,8 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du in diesem YouTube Video:
+
+{% include video.html image='YT_Thumbnail_DE.png' video_id='mg6AWiJ928s' %}

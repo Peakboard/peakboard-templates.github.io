@@ -20,3 +20,8 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+# How it works
+You can find detailed instructions for this template in this YouTube video.
+
+{% include video.html image='YT_Thumbnail_EN.png' video_id='9lje-5OWwpU' %}

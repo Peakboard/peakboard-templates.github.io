@@ -28,5 +28,10 @@ overview_data_sources:
 # Mögliche Datenquellen
 Dieses Template verwendet eine Peakboard Box Variable Datenquelle. Über diese werden die erfassten Daten in eine Variablenliste des zugehörigen Übersichtsdashboards geschrieben. 
 
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du in diesem YouTube Video:
+
+{% include video.html image='YT_Thumbnail_DE.png' video_id='mg6AWiJ928s' %}
+
 
 
