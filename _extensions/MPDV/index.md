@@ -4,7 +4,7 @@ title: MPDV
 title_text: MPDV
 by: Peakboard
 description: 
-  - Binde MPDV Hydra als Datenquelle in Peakboard mithilfe dieser Extension an.
+  - Binde MPDV-Systeme (MIP, MES HYDRA und APS FEDRA) als Datenquelle in Peakboard mithilfe dieser Extension an.
 lang: de
 weight: 50
 isDraft: false
