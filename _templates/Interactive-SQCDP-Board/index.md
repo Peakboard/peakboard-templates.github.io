@@ -6,10 +6,9 @@ description:
 
   - Lade dir das Template jetzt kostenlos herunter und passe es an deine individuellen Bedürfnisse an.
 
-
 lang: de
 weight: 571
-isDraft: true
+isDraft: false
 ref: Interactive-SQCDP-Board
 category:
   - Alle

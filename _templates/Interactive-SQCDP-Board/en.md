@@ -7,7 +7,7 @@ description:
   - Download the template now for free and customize it to fit your specific needs.
 lang: en
 weight: 571
-isDraft: true
+isDraft: false
 ref: Interactive-SQCDP-Board
 category:
   - All
