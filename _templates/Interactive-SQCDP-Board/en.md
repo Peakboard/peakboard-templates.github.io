@@ -2,7 +2,7 @@
 layout: article
 title: Your SQCDP board for lean manufacturing – Transparent KPIs and easy data input directly at the board
 description: 
-  - This interactive SQCDP board offers you an ideal and simple solution for effective lean management in your production. It enables you to record and visualize your KPIs in the categories of safety, quality, cost, delivery, and people on a daily basis. The status can be directly entered and updated on the board using a touchscreen or a connected mouse. In addition to the SQCDP view, this template offers an additional screen with a comprehensive yearly overview of all categories. The aggregated data is presented in clear and structured charts, allowing you to conduct an in-depth analysis. This enables you to implement long-term improvements and effectively pursue your lean management goals.
+  - This interactive SQCDP board offers you an ideal and simple solution for effective lean management in your production. It enables you to record and visualize your most important KPIs daily. Alongside the safety cross and quality Q, it also displays values for cost, delivery, and personnel, so you always have all relevant information at a glance. The status can be directly entered and updated on the board using a touchscreen or a connected mouse. In addition to the SQCDP view, this template offers an additional screen with a comprehensive yearly overview of all categories. The aggregated data is presented in clear and structured charts, allowing you to conduct an in-depth analysis. This enables you to implement long-term improvements and effectively pursue your lean management goals.
 
   - Download the template now for free and customize it to fit your specific needs.
 lang: en
