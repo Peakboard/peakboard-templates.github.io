@@ -10,7 +10,7 @@ description:
 
 lang: de
 weight: 701
-isDraft: true
+isDraft: false
 ref: Forklift-Driving-Jobs-Application
 category:
   - Alle

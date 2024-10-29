@@ -6,7 +6,7 @@ description:
   - You can find the related interactive application for use directly on the forklift [here](https://templates.peakboard.com/Forklift-Driving-Jobs-Application/en).
 lang: en
 weight: 700
-isDraft: true
+isDraft: false
 ref: Forklift-Driving-Jobs-Planner
 category:
   - All

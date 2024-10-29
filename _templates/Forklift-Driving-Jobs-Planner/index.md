@@ -8,7 +8,7 @@ description:
 
 lang: de
 weight: 700
-isDraft: true
+isDraft: false
 ref: Forklift-Driving-Jobs-Planner
 category:
   - Alle
