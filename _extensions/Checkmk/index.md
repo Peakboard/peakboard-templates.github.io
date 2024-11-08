@@ -12,7 +12,7 @@ ref: Checkmk
 image: Checkmk_Extension_Logo.png
 image_thumbnail: Checkmk_Extension_Logo.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/CheckMk
-download: CheckMK.zip
+download: CheckMk.zip
 extension_category:
   - Alle
 
