@@ -4,19 +4,18 @@ title: Checkmk
 title_text: Checkmk
 by: Peakboard
 description: 
-  - Diese Extension...
+  - Die CheckMK Extension bietet eine einfache Möglichkeit Fehlermeldungen und Warnungen aller durch CheckMK überwachten Clients via Peakboard abzurufen und ansprechend darzustellen.
 lang: de
-weight: 86
-isDraft: true
+weight: 82
+isDraft: false
 ref: Checkmk
 image: Checkmk_Extension_Logo.png
 image_thumbnail: Checkmk_Extension_Logo.png
-repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Checkmk
-download: Checkmk.zip
+repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/CheckMk
+download: CheckMK.zip
 extension_category:
   - Alle
-  - Cloud services
 
 version_history:
-  - Version 1.0 on 09 September 2024 | Initial release
+  - Version 1.0 on 08 November 2024 | Initial release
 ---
