@@ -9,3 +9,4 @@ npm-debug.log
 _mdwriter.cson
 package-lock.json
 .idea/*
+Gemfile.lock
