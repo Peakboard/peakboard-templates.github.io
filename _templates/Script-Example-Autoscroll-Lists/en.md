@@ -17,3 +17,8 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+# How it works
+You can find detailed instructions for this template on our [Helpsite](https://help.peakboard.com/scripting/Script%20Templates/en-auto-scroll.html) and in this YouTube video.
+
+{% include video.html image='01-peakboard-thumbnail-scripting-autoscroll_EN.png' video_id='bUuSb7szlQw' %}

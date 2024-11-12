@@ -30,3 +30,9 @@ This template uses OPC UA as the source of the machine data. You can use other l
 # detailed analysis in pop-up window
 You can click a tile to open a detailed error overview for the corresponding machine:
 ![image_live](Floorplan-Andon-Board-PopUp.png)
+
+
+# How it works
+You can find detailed instructions for this template in this YouTube video.
+
+{% include video.html image='YT_Thumbnail_EN.png' video_id='P_fbt4ylhlw' %}

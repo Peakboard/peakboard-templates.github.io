@@ -5,7 +5,7 @@ description:
   - "This template can be used to display the status of different workstations in real time. Different colours are used to create transparency about the productivity of the individual workstations: Green means everything is OK and red means there is a problem at this workstation. Download now!"
 lang: en
 weight: 415
-isDraft: false
+isDraft: true
 ref: Edge-Status-Overview
 category:
   - All

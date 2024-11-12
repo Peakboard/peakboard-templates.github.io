@@ -18,3 +18,9 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
+
+
+# How it works
+You can find detailed instructions for this template on our [Helpsite](https://help.peakboard.com/scripting/Script%20Templates/en-database.html) and in this YouTube video.
+
+{% include video.html image='25-peakboard-thumbnail-scripting-sql-database_EN.png' video_id='GGA8ht6yepg' %}

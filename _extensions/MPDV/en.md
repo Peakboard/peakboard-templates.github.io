@@ -4,7 +4,7 @@ title: MPDV
 title_text: MPDV
 by: Peakboard
 description: 
-  - Connect MPDV Hydra as a data source in Peakboard using this extension.
+  - Connect MPDV systems (MIP, MES HYDRA and APS FEDRA) as a data source in Peakboard using this extension.
 lang: en
 weight: 50
 isDraft: false
