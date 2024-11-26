@@ -111,6 +111,11 @@ language:
     extensions-section-description: "Description"
     extensions-section-version-history: "Version History"
     extensions-section-screenshots: "Screenshots"
+    download-dialog-title: "Download Template"
+    download-dialog-text: "To use this template, you need the Peakboard Designer. You can download both the template and the Peakboard Designer for free."
+    download-dialog-button-template: "Download Template"
+    download-dialog-button-designer: "Get Peakboard Designer"
+    designer-download-url: "https://peakboard.com/en/product/peakboard-designer/#download"
   de:
     article-download-button-text: "Template herunterladen"
     article-download-explanation: "Datei mit Peakboard Designer öffnen"
@@ -190,6 +195,11 @@ language:
     extensions-section-description: "Beschreibung"
     extensions-section-version-history: "Versionshistorie"
     extensions-section-screenshots: "Screenshots"
+    download-dialog-title: "Template herunterladen"
+    download-dialog-text: "Um dieses Template zu nutzen, benötigen Sie den Peakboard Designer. Sie können sowohl das Template als auch den Peakboard Designer kostenlos herunterladen."
+    download-dialog-button-template: "Template herunterladen"
+    download-dialog-button-designer: "Peakboard Designer laden"
+    designer-download-url: "https://peakboard.com/produkt/peakboard-designer/#download"
 algolia:
   application_id: '2XY771TXDR'
   index_name: peakboard-templates

@@ -28,15 +28,17 @@ layout: base
     {% endif %}
 
     {% if page.download %}
-    <button class="py-3 px-4 menu-cta-button text-xl tracking-base leading-none">
-        <a class="no-underline" href="{{ page.download }}">{{ site.language[page.lang].article-download-button-text }}</a>
+    <button onclick="showDownloadDialog()" 
+            class="py-3 px-4 menu-cta-button text-xl tracking-base leading-none">
+      {{ site.language[page.lang].article-download-button-text }}
     </button>
-    <span class="block md:inline text-grey py-3 md:px-4 md:py-0">
-        {{ site.language[page.lang].article-download-explanation }}
-    </span>
     {% endif %}
 
 </section>
+
+{% include download-dialog.html 
+    lang=page.lang 
+    download_url=page.download %}
 
 {% if page.overview_description or page.overview_benefits %}
 

@@ -1,0 +1,55 @@
+<div id="downloadDialog" class="fixed inset-0 z-50 hidden">
+  <!-- Overlay -->
+  <div class="absolute inset-0 bg-black opacity-50" onclick="closeDownloadDialog()"></div>
+  
+  <!-- Dialog -->
+  <div class="relative top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white rounded-lg p-8 max-w-xl w-full mx-4">
+    <!-- Content wrapper with flex -->
+    <div class="flex gap-8 items-center">
+      <!-- Computer Icon/Image on left - changed to w-[40%] -->
+      <div class="flex-shrink-0 w-2/5">
+        <img src="/assets/images/peakboard-designer-computer.png" alt="Peakboard Designer" class="w-full lightbox-ignore">
+      </div>
+
+      <!-- Right side content -->
+      <div class="flex-grow">
+        <h2 class="text-2xl font-bold mb-4">{{ site.language[include.lang].download-dialog-title }}</h2>
+        
+        <p class="mb-6">{{ site.language[include.lang].download-dialog-text }}</p>
+        
+        <div class="flex gap-3">
+          <!-- Download Template button -->
+          <a href="{{ include.download_url }}" 
+             class="flex-1 py-3 px-4 menu-cta-button text-lg text-white tracking-base leading-none text-center">
+             {{ site.language[include.lang].download-dialog-button-template }}
+          </a>
+
+          <!-- Get Peakboard Designer button -->
+          <a href="{{ site.language[include.lang].designer-download-url }}" 
+             target="_blank"
+             class="flex-1 py-3 px-4 menu-cta-button text-lg text-white tracking-base leading-none text-center">
+             {{ site.language[include.lang].download-dialog-button-designer }}
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Close button -->
+    <button onclick="closeDownloadDialog()" 
+            class="absolute top-4 right-4 text-gray-400 hover:text-gray-600">
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
+</div>
+
+<script>
+function showDownloadDialog() {
+  document.getElementById('downloadDialog').classList.remove('hidden');
+}
+
+function closeDownloadDialog() {
+  document.getElementById('downloadDialog').classList.add('hidden');
+}
+</script> 
