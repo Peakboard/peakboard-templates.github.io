@@ -198,7 +198,7 @@ language:
     download-dialog-title: "Template herunterladen"
     download-dialog-text: "Um dieses Template zu nutzen, benötigen Sie den Peakboard Designer. Sie können sowohl das Template als auch den Peakboard Designer kostenlos herunterladen."
     download-dialog-button-template: "Template herunterladen"
-    download-dialog-button-designer: "Peakboard Designer laden"
+    download-dialog-button-designer: "Peakboard Designer herunterladen"
     designer-download-url: "https://peakboard.com/produkt/peakboard-designer/#download"
 algolia:
   application_id: '2XY771TXDR'

@@ -19,17 +19,10 @@
         
         <div class="flex gap-3">
           <!-- Download Template button -->
-          <a href="{{ include.download_url }}" 
-             class="flex-1 py-3 px-4 menu-cta-button text-lg text-white tracking-base leading-none text-center">
-             {{ site.language[include.lang].download-dialog-button-template }}
-          </a>
+          <a href="{{ include.download_url }}" class="flex-1 py-3 px-4 menu-cta-button text-lg text-white tracking-base leading-none text-center flex items-center justify-center min-h-[4rem]">{{ site.language[include.lang].download-dialog-button-template }}</a>
 
           <!-- Get Peakboard Designer button -->
-          <a href="{{ site.language[include.lang].designer-download-url }}" 
-             target="_blank"
-             class="flex-1 py-3 px-4 menu-cta-button text-lg text-white tracking-base leading-none text-center">
-             {{ site.language[include.lang].download-dialog-button-designer }}
-          </a>
+          <a href="{{ site.language[include.lang].designer-download-url }}" target="_blank" class="flex-1 py-3 px-4 menu-cta-button text-lg text-white tracking-base leading-none text-center flex items-center justify-center min-h-[4rem]">{{ site.language[include.lang].download-dialog-button-designer }}</a>
         </div>
       </div>
     </div>
