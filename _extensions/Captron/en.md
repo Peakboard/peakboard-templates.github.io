@@ -7,7 +7,7 @@ description:
   - ...
 lang: en
 weight: 83
-isDraft: false
+isDraft: true
 ref: Captron
 image: Captron_Extension_Logo.png
 image_thumbnail: Captron_Extension_Logo.png
