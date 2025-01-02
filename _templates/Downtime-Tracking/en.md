@@ -12,7 +12,7 @@ category:
   - All
   - Production
   - Logistics
-  - SQL
+  - Alert
   - Interaction
  
 image: EN-Downtime-Tracker.png
