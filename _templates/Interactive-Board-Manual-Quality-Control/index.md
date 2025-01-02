@@ -22,10 +22,14 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# mögliche datenquellen
+# Mögliche Datenquellen
 Dieses Template verwendet eine Peakboard Hub Liste als zentrale Datenquelle. Die Daten, die mithilfe des Touchscreens erfasst werden, werden dabei in eine Peakboard Hub Liste geschrieben, die dann für die Datenvisualisierung ausgelesen wird. Alternativ können hierfür andere Datenbanken wie SQL, Oracle oder ODBC genutzt werden.
 
-# so funktioniert's
+# So funktioniert's
+Eine detaillierte Anleitung zu diesem Template findest du in diesem YouTube Video:
+
+{% include video.html image='DE-YT-Thumb.png' video_id='v=gtZzDdqZm4U' %}
+
 Um dieses Template vollumfänglich nutzen zu können, benötigst du Peakboard Hub. Wie du diesen installierst, erfährst du [hier](https://help.peakboard.com/hub/de-hub_installation.html). Öffne Peakboard Hub, wähle im Menü “Lists” und klicke auf "Import", um die benötigte Tabellenstruktur zu importieren. Diese kannst du <a href="QualityData.txt" class="inline" download>hier</a> herunterladen. 
 
 ![](img/peakboard-hub-lists.png)
