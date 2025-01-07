@@ -15,6 +15,7 @@ category:
   - Production
   - Shopfloor
   - Interaction
+  - Peakboard Hub
 image: Interactive-Board-Manual-Quality-Control.png
 image_thumbnail: Interactive-Board-Manual-Quality-Control_thumbnail.png
 download: Interactive-Board-Manual-Quality-Control.pbmx
@@ -23,27 +24,8 @@ overview_benefits:
 overview_data_sources:
 ---
 # Possible data sources
-This template uses a Peakboard Hub list as the central data source. The data collected using the touchscreen is written to a Peakboard Hub list, which is then read out for the data visualization. Alternatively, you can use other databases such as SQL, Oracle or ODBC for this purpose.
+This template uses a Peakboard Hub list as the central data source. The data collected using the touchscreen is written to a Peakboard Hub list, which is then read out for the data visualization. You can download it <a href="Template_Interactive_Board_Manual_Quality_Control.csv" class="inline" download>here</a>. Alternatively, you can use other databases such as SQL, Oracle or ODBC for this purpose.
 
 # How it works
 You can find detailed instructions for this template in this YouTube video.
 {% include video.html image='EN-YT-Thumb.png' video_id='BG0MsmiOYHk' %}
-
-To be able to use this template to its full extent, you need Peakboard Hub. You can find out how to install it [here](https://help.peakboard.com/hub/de-hub_installation.html). Open Peakboard Hub, select "Lists" in the menu and click on the "Import" button to import the required table structure. You can download it <a href="QualityData.txt" class="inline" download>here</a>.
-
-![](img/peakboard-hub-lists.png)
-
-Fill in the "Name" field with "QualityData" and select the previously downloaded file.
-
-![](img/peakboard-hub-import-list.png)
-
- 
- Next, open the Peakboard Designer and setup a connection to Peakboard Hub as explained [here](https://help.peakboard.com/hub/de-hub_connectpbdesigner.html). Now open this template within the Peakboard Designer and go back to the Peakboard Hub settings under Project > Peakboard Hub.
-
- ![](img/peakboard-designer-hub-settings.png)
-
-Click on "Overwrite" to replace the Peakboard Hub Connection of the template with your own credentials.
-
- ![](img/peakboard-designer-overwrite-credentials.png)
-
- Now you are ready and the template automatically writes the collected data to the created list in Peakboard Hub.
