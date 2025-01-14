@@ -6,7 +6,7 @@ by: Peakboard
 description: 
   - Diese Extensions ermöglicht dir, einen MQTT Server auf deiner Peakboard Box zu hosten. Du kannst diesen MQTT Server über die MQTT Datenquelle lokal oder von anderen Peakboard Boxen auslesen. Du kannst den MQTT Server auch nutzen um von Drittsystemen wie Sensoren Daten zu pushen.
 lang: de
-weight: 84
+weight: 74
 isDraft: false
 ref: MQTT-Server
 image: MQTT_Server_Extension_Logo.png
