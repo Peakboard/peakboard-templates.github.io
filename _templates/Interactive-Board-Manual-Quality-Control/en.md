@@ -16,6 +16,7 @@ category:
   - Shopfloor
   - Interaction
   - Peakboard Hub
+  - Quality
 image: Interactive-Board-Manual-Quality-Control.png
 image_thumbnail: Interactive-Board-Manual-Quality-Control_thumbnail.png
 download: Interactive-Board-Manual-Quality-Control.pbmx

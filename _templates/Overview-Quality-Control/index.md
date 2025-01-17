@@ -15,6 +15,7 @@ category:
   - Shopfloor
   - Interaktion
   - Peakboard Hub
+  - Qualität
 image: Uebersicht-Qualitaetskontrolle.png
 image_thumbnail: Uebersicht-Qualitaetskontrolle_thumbnail.png
 download: Uebersicht-Qualitaetskontrolle.pbmx

@@ -14,6 +14,7 @@ category:
   - Shopfloor
   - Interaction
   - Peakboard Hub
+  - Quality
 image: Overview-Quality-Control.png
 image_thumbnail: Overview-Quality-Control_thumbnail.png
 download: Overview-Quality-Control.pbmx
