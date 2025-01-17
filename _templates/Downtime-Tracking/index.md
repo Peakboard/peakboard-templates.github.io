@@ -13,6 +13,7 @@ category:
   - Produktion
   - Fehlermeldung
   - Interaktion
+  - Qualität
 image: DE-Downtime-Tracker.png
 image_thumbnail: DE-Downtime-Tracker-Thumbnail.png
 download: DE_Downtime.pbmx
