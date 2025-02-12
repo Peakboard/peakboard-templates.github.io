@@ -25,7 +25,7 @@ Dieses Template verwendet eine Peakboard Hub Liste als zentrale Datenquelle. Die
 # Weitere Anzeigen
 
 Ansicht Produktionsmenge der Maschinen : 
-![image_live](DE_Simple_SFM_Workstations.png.png)
+![image_live](DE_Simple_SFM_Workstations.png)
 
 
 
