@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Simple Shopfloor Management Board
-
+description: 
   - This template provides an easy-to-use overview of attendance planning and machine performance.
   - The first screen of the application is the Attendance Planning Board. Here, you can see at a glance which workers are present on which day of the week. 
   - The second screen offers a clear overview of five machines, displaying both the current produced parts and the goal production quantity. This information allows you to monitor your machines' performance in real-time and make adjustments as needed to meet your production goals.
@@ -26,7 +26,7 @@ This template uses a Peakboard Hub list as the central data source. The data is 
 # Further screens
 
 Screen for machine performance:
-![image_live](Shopfloor-Information-Board-Shift.png)
+![image_live](EN_Simple_SFM_Workstations.png)
 
 
 
