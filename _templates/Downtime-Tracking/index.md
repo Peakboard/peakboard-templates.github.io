@@ -25,7 +25,7 @@ overview_data_sources:
 # Mögliche Datenquellen
 Dieses template nutzt OPC UA für die Integration von Maschinendaten und verbindet sich mit Peakboard Hub-Listen, um die Historie der Stillstände zu speichern und zu verfolgen. Um das template an deine spezifischen Anforderungen anzupassen, können verschiedene andere Maschinendatenquellen, wie MQTT oder S7-Protokoll, integriert werden. Die Maschinendaten werden in [Peakboard Hub](https://peakboard.com/en/product/peakboard-hub/)-Listen gespeichert. Zusätzlich können auch MES-Systeme für eine umfassendere Überwachung angeschlossen werden. Du kannst auch Basisdaten über Standards wie XML, MongoDB, JSON und Excel integrieren. Erkunde die verschiedenen verfügbaren Optionen, um sicherzustellen, dass dein System kompatibel ist. Wenn du Unterstützung bei weiteren Integrationen benötigst, zögere nicht, dich zu melden!
 
-# Further screens
+# Weitere Bildschirme
 Diese Anwendung bietet die Möglichkeit Stillstände zu bearbeiten und ihnen eine Erklärung anzufügen. 
 ![image_live](DE_Downtime_Bearbeiten.png)
 ![image_live](DE_Downtime_Chart.png)
