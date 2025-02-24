@@ -27,6 +27,10 @@ overview_data_sources:
 This template utilizes OPC UA for machine data integration and connects to Peakboard Hub lists to store and track downtime history. To tailor the template to your specific requirements, various other machine data sources, such as MQTT or S7 Protocol can be incorporated.
 The machine data is stored in [Peakboard Hub](https://peakboard.com/en/product/peakboard-hub/) lists. Additionally, MES systems can also be connected for more comprehensive monitoring.You can also incorporate basic data through standards like XML, MongoDB, JSON, and Excel. Explore the various options available to ensure your system is compatible. If you need assistance with additional integrations, feel free to reach out! 
 
+# Further screens
+The application offers an easy way to report issues to the responsible persons.
+![image_live](EN_Downtime_Edit.png)
+![image_live](EN_Downtime_Chart.png)
 
 
 
