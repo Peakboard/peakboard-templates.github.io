@@ -12,7 +12,7 @@ ref: BACnet
 image: BACnet_Extension_Logo.png
 image_thumbnail: BACnet_Extension_Logo.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/BacNet
-download: BACnet.zip
+download: BacNet.zip
 extension_category:
   - All
   - IoT
