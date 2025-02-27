@@ -5,7 +5,8 @@ title_text: BACnet
 by: Peakboard
 description: 
   - BACnet (Building Automation and Control Network) ist ein offenes Kommunikationsprotokoll für die Gebäudeautomation, das herstellerübergreifend den Datenaustausch zwischen Steuerungssystemen wie Heizungs-, Lüftungs-, Klima- und Sicherheitstechnik ermöglicht.
-weight: 9
+lang: de
+weight: 93
 isDraft: false
 ref: BACnet
 image: BACnet_Extension_Logo.png
