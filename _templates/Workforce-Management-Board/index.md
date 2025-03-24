@@ -7,7 +7,7 @@ description:
 lang: de
 weight: 400
 isDraft: true
-ref: Workforce-Management
+ref: Workforce-Management-Board
 category:
   - Alle
   - Logistik
