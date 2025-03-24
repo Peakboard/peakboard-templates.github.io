@@ -17,7 +17,7 @@ category:
   - Shopfloor
 image: DE_Personaleinsatzplanung.png
 image_thumbnail: DE_Personaleinsatzplanung_thumbnail.png
-download: DE_Personaleinsatzplanung.pbmx
+download: DE_Personal_Einsatzplanung.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
