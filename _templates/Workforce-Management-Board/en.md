@@ -6,16 +6,16 @@ description:
 lang: en
 weight: 400
 isDraft: true
-ref: Workforce-Management
+ref: Workforce-Management-Board
 category:
   - All
   - Logistics
   - Warehouse
   - Interaction
   - Shopfloor
-image: Warning-Message-In-Logistics.png
-image_thumbnail: Warning-Message-In-Logistics_thumbnail.png
-download: Warning-Message-In-Logistics.pbmx
+image: EN_Personaleinsatzplanung.png
+image_thumbnail: EN_Personaleinsatzplanung_thumbnail.png
+download: EN_Personaleinsatzplanung.pbmx
 overview_description:
 overview_benefits:
  overview_data_sources:
