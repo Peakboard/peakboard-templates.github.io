@@ -16,7 +16,7 @@ category:
   - Interaktion
   - Shopfloor
 image: DE_Personaleinsatzplanung.png
-image_thumbnail: DE_Personaleinsatzplanung_thumbnail.png
+image_thumbnail: DE_Personaleinsatzplanung_Thumb.png
 download: DE_Personal_Einsatzplanung.pbmx
 overview_description:
 overview_benefits:
