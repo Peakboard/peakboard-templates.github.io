@@ -18,7 +18,7 @@ image_thumbnail: EN_Personaleinsatzplanung_Thumb.png
 download: EN_Personaleinsatzplanung.pbmx
 overview_description:
 overview_benefits:
- overview_data_sources:
+overview_data_sources:
 ---
 # Possible data sources
 This template uses an Excel list as it's data source. Alternatively, you can use other databases such as SQL, Oracle, or ODBC. 
