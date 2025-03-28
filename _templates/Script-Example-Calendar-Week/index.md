@@ -4,7 +4,7 @@ title: Skript zum Erstellen von Daten einer Kalenderwoche
 description: 
   - Dieses Template zeigt, wie mithilfe eines Skripts eine Liste mit den Daten einer gewählten Kalenderwoche erstellen kannst.
 lang: de
-weight: 137
+weight: 147
 isDraft: false
 ref: Script-Example-Calendar-Week
 category:

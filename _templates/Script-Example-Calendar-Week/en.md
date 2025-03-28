@@ -4,7 +4,7 @@ title: Script for creating data for a calendar week
 description: 
   - This template shows how to create a list with the dates of a selected calendar week using a script.
 lang: en
-weight: 137
+weight: 147
 isDraft: false
 ref: Script-Example-Calendar-Week
 category:

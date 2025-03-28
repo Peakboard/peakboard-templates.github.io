@@ -4,7 +4,7 @@ title: Script for creating data for a calendar month
 description: 
   - This template shows how to create a list with the dates of a selected calendar month using a script.
 lang: en
-weight: 138
+weight: 148
 isDraft: false
 ref: Script-Example-Calendar-Month
 category:
