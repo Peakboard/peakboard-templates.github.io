@@ -4,6 +4,7 @@ title: Interaktive Kalenderansicht zur Produktionsplanung
 
 description: 
   - Dieses interaktive Template hilft dir, einfach den Überblick über deine Produktionskennzahlen zu behalten. Hierfür kannst du täglich die Ist- als auch Soll-Werte erfassen. Die übersichtliche Kalenderansicht zeigt alle relevanten Daten pro Tag und ermöglicht eine schnelle Eingabe sowie Kontrolle der Produktionskennzahlen. Zusätzlich bietet das Template eine Reporting-Ansicht, in der die gesammelten Daten je Kalenderwoche, Monat oder Quartal analysiert werden können. Auf diese Weise hast du jederzeit die Kontrolle über die Performance und kannst Trends sowie Abweichungen schnell erkennen. Das Template ist ideal für Produktionsumgebungen, in denen tägliche Kennzahlen erfasst und ausgewertet werden müssen. Lade das Template jetzt kostenlos herunter und passe es an deine individuelle Produktionsumgebung an.
+  
 lang: de
 weight: 692
 isDraft: false
