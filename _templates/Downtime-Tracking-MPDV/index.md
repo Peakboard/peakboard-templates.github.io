@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Maschinenstillstand in Echtzeit verfolgen – Effizienter Überblick über Maschinendaten
+title: Maschinenstillstand in Echtzeit verfolgen – Effizienter Überblick über Maschinendaten mit MPDV
 description: 
 - Mit diesem Template kannst du Maschinenstillstände in Echtzeit effektiv überwachen und verwalten. Das Template nutzt OPC UA, um kritische Maschinendaten zu erfassen, die nahtlos in einer Peakboard Hub-Liste gespeichert werden. Stillstände werden als zeitlich sortierte Liste von Zuständen nach Maschine oder Arbeitsplatz dargestellt, einschließlich Zeitstempel, aktuellem Zustand, Begründung (falls zutreffend) und der Dauer des Stillstands.
 - Diese Informationen werden in einem Balkenhistogramm visualisiert, das dir einen klaren Überblick über die Stillstände bietet und es dir ermöglicht, Muster und Verbesserungsbereiche zu identifizieren. Du kannst Stillstände direkt im Template einfach bearbeiten und für jeden Vorfall Gründe hinzufügen, um sicherzustellen, dass dein Team den Kontext für eine effektive Fehlersuche hat. Durch die Anzeige relevanter Kennzahlen auf deinen Bildschirmen erhöhst du die Transparenz in deinen Produktionsprozessen, reduzierst unerwartete Stillstände und maximierst letztendlich deine Betriebseffizienz. Lade jetzt herunter und mache den ersten Schritt zu einer optimierten Produktionsumgebung!
@@ -16,8 +16,8 @@ category:
   - Qualität
   - Partner
   - MPDV
-image: DE-Downtime-Tracker-MPDV.png
-image_thumbnail: DE-Downtime-Tracker-MPDV-Thumbnail.png
+image: DE-Downtime-MPDV
+image_thumbnail: DE-Downtime-MPDV_thumbnail.png
 download: DE-Downtime-MPDV.pbmx
 overview_description:
 overview_benefits:
