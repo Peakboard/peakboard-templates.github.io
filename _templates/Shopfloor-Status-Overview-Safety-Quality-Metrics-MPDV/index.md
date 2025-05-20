@@ -6,7 +6,7 @@ description:
 lang: de
 weight: 515
 isDraft: false
-ref: Shopfloor-Status-Overview-Safety-Quality-Metrics
+ref: Shopfloor-Status-Overview-Safety-Quality-Metrics-MPDV
 category:
   - Alle
   - Shopfloor
