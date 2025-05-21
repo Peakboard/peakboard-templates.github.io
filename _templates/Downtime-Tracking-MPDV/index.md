@@ -16,7 +16,7 @@ category:
   - Qualität
   - Partner
   - MPDV
-image: DE-Downtime-MPDV
+image: DE-Downtime-MPDV.png
 image_thumbnail: DE-Downtime-MPDV_thumbnail.png
 download: DE-Downtime-MPDV.pbmx
 overview_description:
