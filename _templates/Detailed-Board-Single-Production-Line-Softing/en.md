@@ -26,7 +26,7 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# Verwendete Datenquellen
+# Possible Data Sources
 
 
 This template uses multiple data sources. The order data comes from a REST API and is connected via the JSON data source, while the machine data is accessed through OPC UA. It is therefore ideally suited for integration with the solution from [Softing](https://www.peakboard.com/en/partnership/softing). The OPC UA server from Softing captures and standardizes data from a wide range of PLC manufacturers and collects it centrally. Especially for larger production environments, an OPC UA server proves to be extremely useful, as it minimizes the demand load by allowing Peakboard to access only the central server instead of individual machine controls.
