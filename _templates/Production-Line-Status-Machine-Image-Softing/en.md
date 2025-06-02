@@ -1,27 +1,27 @@
 ---
 layout: article
-title: Übersicht über eine Produktionslinie im Querschnitt mit Softing
+title: Overview of a production line in cross section – your manufacturing plant dashboard with Softing
 description: 
-  - Dieses Template bietet eine digitale Übersicht über eine gesamte Produktionslinie in der Fertigung und sorgt für mehr Transparenz am Arbeitsplatz. Das Hintergrundbild dieses Dashboard ist eine generische Zeichnung der Maschine, an der einzelne Arbeitsschritte beleuchtet werden können. Dadurch kann der aktuelle Status von verschiedenen Arbeitsschritten angezeigt und eventuelle Fehler schneller behoben werden, was die Effizienz auf dem Shopfloor steigert sowie Monitoring und Maintenance der Anlage deutlich vereinfacht. Lade dir das Template direkt herunter und binde deine individuellen Datenquellen ganz einfach an!
+  - This template provides a digital overview of an entire production line in manufacturing and ensures greater transparency in the workplace. The background image of this dashboard is a generic drawing of the machine, allowing individual work steps to be highlighted. This enables the current status of various work steps to be displayed, and any errors can be resolved more quickly, thereby increasing efficiency on the shop floor and significantly simplifying monitoring and maintenance of the system. Download the template directly and easily connect your individual data sources!
 lang: de
 weight: 534
 isDraft: false
 ref: Production-Line-Status-Machine-Image-Softing
 category:
-  - Alle
+  - All
   - Empfohlen
-  - Produktion
+  - Production
   - Fehlermeldung
   - Serienfertigung
-  - Prozess
+  - Process
   - Partner
   - Softing
-image: Uebersicht-Produktionslinie-Mit-Hintergrundbild-Softing.png
-image_thumbnail: Uebersicht-Produktionslinie-Mit-Hintergrundbild-Softing_thumbnail.png
-download: Uebersicht-Produktionslinie-Mit-Hintergrundbild-Softing.pbmx
+image: Production-Line-Status-Machine-Image-Softing.png
+image_thumbnail: Production-Line-Status-Machine-Image-Softing_thumbnail.png
+download: Production-Line-Status-Machine-Image-Softing.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
 ---
 # Verwendete Datenquellen
-Dieses Template verwendet OPC UA als Quelle der Maschinendaten. Es eignet sich daher optimal für das Zusammenspiel mit der Lösung von [Softing](https://peakboard.com/softing/). Der OPC UA Server von Softing erfasst und standardisiert Daten aus einem breiten Spektrum von SPS-Herstellern und sammelt diese zentralisiert. Insbesondere für größere Produktionsumgebungen erweist sich ein OPC UA Server als äußerst sinnvoll, weil man so die Nachfragelast minimiert, da Peakboard nur auf den zentralen Server anstatt auf einzelne Maschinensteuerungen zugreifen muss. 
+This template uses OPC UA as the source of machine data. Therefore, it is ideally suited for integration with the solution from [Softing](https://www.peakboard.com/en/partnership/softing). The OPC UA server from Softing captures and standardizes data from a wide range of PLC manufacturers and collects it centrally. Especially for larger production environments, an OPC UA server proves to be extremely beneficial, as it minimizes the demand load by allowing Peakboard to access only the central server instead of individual machine controls.
