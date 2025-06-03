@@ -6,7 +6,7 @@ description:
 
 lang: de
 weight: 588
-isDraft: true
+isDraft: false
 ref: Digital-Audit-Reporting
 category:
   - Alle
