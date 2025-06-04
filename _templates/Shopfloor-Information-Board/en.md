@@ -13,6 +13,7 @@ category:
   - All
   - Shopfloor
   - Interaction
+  - Bulletin Board
 image: Shopfloor-Information-Board.png
 image_thumbnail: Shopfloor-Information-Board_thumbnail.png
 download: Shopfloor-Information-Board.pbmx

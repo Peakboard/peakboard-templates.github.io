@@ -13,6 +13,7 @@ category:
   - Alle
   - Shopfloor
   - Interaktion
+  - Schwarzes Brett
 image: Shopfloor-Schwarzes-Brett.png
 image_thumbnail: Shopfloor-Schwarzes-Brett_thumbnail.png
 download: Shopfloor-Schwarzes-Brett.pbmx
