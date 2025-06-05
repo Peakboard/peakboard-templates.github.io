@@ -14,7 +14,7 @@ category:
   - Loading Gates
   - Truck
   - SQL
-image: Overview-Truck-Loading.png
+image: Overview-Truck-Loading.gif
 image_thumbnail: Overview-Truck-Loading_thumbnail.png
 download: Overview-Truck-Loading.pbmx
 overview_description:

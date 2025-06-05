@@ -14,7 +14,7 @@ category:
   - Verladetore
   - LKW
   - SQL
-image: Uebersicht-LKW-Brueckenbeladung.png
+image: Uebersicht-LKW-Brueckenbeladung.gif
 image_thumbnail: Uebersicht-LKW-Brueckenbeladung_thumbnail.png
 download: Uebersicht-LKW-Brueckenbeladung.pbmx
 overview_description:
