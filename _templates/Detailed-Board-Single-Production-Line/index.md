@@ -18,7 +18,7 @@ category:
   - Serienfertigung
   - JSON
   - OPC UA
-image: Status-Board-Einer-Produktionslinie.png
+image: Status-Board-Einer-Produktionslinie.gif
 image_thumbnail: Status-Board-Einer-Produktionslinie_thumbnail.png
 download: Status-Board-Einer-Produktionslinie.pbmx
 overview_description:

@@ -18,7 +18,7 @@ category:
   - Series Production
   - JSON
   - OPC UA
-image: Detailed-Board-Single-Production-Line.png
+image: Detailed-Board-Single-Production-Line.gif
 image_thumbnail: Detailed-Board-Single-Production-Line_thumbnail.png
 download: Detailed-Board-Single-Production-Line.pbmx
 overview_description:
