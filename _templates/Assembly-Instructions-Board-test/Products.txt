@@ -1,1 +1,0 @@
-[{"Name":"Number","OriginalName":"Number","Type":1},{"Name":"Name","OriginalName":"Name","Type":1},{"Name":"Name_DE","OriginalName":"Name_DE","Type":1},{"Name":"Description","OriginalName":"Description","Type":1},{"Name":"Description_DE","OriginalName":"Description_DE","Type":1},{"Name":"Image","OriginalName":"Image","Type":1},{"Name":"Time","OriginalName":"Time","Type":3}]

@@ -21,7 +21,7 @@ category:
   - Interaction
   - Assembly
   - Peakboard Hub
-image: Assembly-Instructions-Board.png
+image: Assembly-Instructions-Board.gif
 image_thumbnail: Assembly-Instructions-Board_thumbnail.png
 download: Assembly-Instructions-Board.pbmx
 overview_description:

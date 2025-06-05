@@ -22,7 +22,7 @@ category:
   - Montage
   - Einzelfertigung
   - Peakboard Hub
-image: Montage-Anleitung-Board.png
+image: Montage-Anleitung-Board.gif
 image_thumbnail: Montage-Anleitung-Board_thumbnail.png
 download: Montage-Anleitung-Board.pbmx
 overview_description:
