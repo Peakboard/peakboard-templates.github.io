@@ -14,7 +14,7 @@ category:
   - Lean Management
   - Interaction
   - Job Production
-image: Interactive-Task-Management-SQL.png
+image: Interactive-Task-Management-SQL.gif
 image_thumbnail: Interactive-Task-Management-SQL_thumbnail.png
 download: Interactive-Task-Management-SQL.pbmx
 overview_description:
