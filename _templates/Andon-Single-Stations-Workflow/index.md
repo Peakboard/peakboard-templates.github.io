@@ -12,7 +12,7 @@ category:
   - Andon
   - Produktion
   - Einzelfertigung
-image: Uebersicht-Arbeitsablauf-Andon.png
+image: Uebersicht-Arbeitsablauf-Andon.gif
 image_thumbnail: Uebersicht-Arbeitsablauf-Andon_thumbnail.png
 download: Uebersicht-Arbeitsablauf-Andon.pbmx
 overview_description:
