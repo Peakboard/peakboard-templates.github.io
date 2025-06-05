@@ -12,7 +12,7 @@ category:
   - Shopfloor
   - Lean Management
   - Produktion
-image: Shopfloor-Statusuebersicht-Sicherheit-Qualitaet.png
+image: Shopfloor-Statusuebersicht-Sicherheit-Qualitaet.gif
 image_thumbnail: Shopfloor-Statusuebersicht-Sicherheit-Qualitaet_thumbnail.png
 download: Shopfloor-Statusuebersicht-Sicherheit-Qualitaet.pbmx
 overview_description:

@@ -12,7 +12,7 @@ category:
   - Shopfloor
   - Lean Management
   - Production
-image: Shopfloor-Status-Overview-Safety-Quality-Metrics.png
+image: Shopfloor-Status-Overview-Safety-Quality-Metrics.gif
 image_thumbnail: Shopfloor-Status-Overview-Safety-Quality-Metrics_thumbnail.png
 download: Shopfloor-Status-Overview-Safety-Quality-Metrics.pbmx
 overview_description:
