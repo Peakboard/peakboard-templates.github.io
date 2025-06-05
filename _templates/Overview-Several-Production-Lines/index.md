@@ -17,7 +17,7 @@ category:
   - Serienfertigung
   - OPC UA
   - SQL
-image: Uebersicht-Mehrere-Produktionslinien.png
+image: Uebersicht-Mehrere-Produktionslinien.gif
 image_thumbnail: Uebersicht-Mehrere-Produktionslinien_thumbnail.png
 download: Uebersicht-Mehrere-Produktionslinien.pbmx
 overview_description:

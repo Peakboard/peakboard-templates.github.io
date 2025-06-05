@@ -17,7 +17,7 @@ category:
   - Series Production
   - OPC UA
   - SQL
-image: Overview-Several-Production-Lines.png
+image: Overview-Several-Production-Lines.gif
 image_thumbnail: Overview-Several-Production-Lines_thumbnail.png
 download: Overview-Several-Production-Lines.pbmx
 overview_description:
