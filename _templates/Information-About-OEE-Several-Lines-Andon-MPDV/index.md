@@ -9,7 +9,6 @@ isDraft: false
 ref: Information-About-OEE-Several-Production-Lines-Andon-MPDV
 category:
   - Alle
-  - Empfohlen
   - Produktion
   - Andon
   - OEE / GAE
