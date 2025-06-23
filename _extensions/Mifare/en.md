@@ -9,8 +9,8 @@ lang: en
 weight: 86
 isDraft: true
 ref: Mifare
-image: Mifare_Extension_Logo
-image_thumbnail: Mifare_Extension_Logo
+image: Mifare_Extension_Logo.png
+image_thumbnail: Mifare_Extension_Logo.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Xminnov
 download: Xminnov.zip
 extension_category:
