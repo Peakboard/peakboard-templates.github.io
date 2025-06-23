@@ -8,7 +8,7 @@ description:
 lang: en
 weight: 86
 isDraft: true
-ref: Barcode_Scanner
+ref: Mifare
 image: Mifare_Extension_Logo
 image_thumbnail: Mifare_Extension_Logo
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Xminnov
