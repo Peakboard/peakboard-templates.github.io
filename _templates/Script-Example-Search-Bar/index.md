@@ -4,7 +4,7 @@ title: Skript-Beispiel für eine Suchleiste
 description: 
   - Dieses Template zeigt, wie du mittels eines Filter Skripts in einem Dataflow eine Suchfunktion umsetzen kannst.
 lang: de
-weight: 75
+weight: 149
 isDraft: false
 ref: Script-Example-Search-Bar
 category:
