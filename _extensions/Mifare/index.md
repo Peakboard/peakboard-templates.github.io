@@ -7,12 +7,12 @@ description:
   - Diese Extension ermöglicht es, RFID Karten über Mifare Kartenlesegeräte auszulesen.
 lang: de
 weight: 86
-isDraft: true
+isDraft: false
 ref: Mifare
 image: Mifare_Extension_Logo.png
 image_thumbnail: Mifare_Extension_Logo.png
-repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Xminnov
-download: Xminnov.zip
+repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/MifareReader
+download: MifareReader.zip
 extension_category:
   - Alle
   - Kartenleser
@@ -20,5 +20,5 @@ extension_category:
   - Hardware
 
 version_history:
-  - Version 1.0 on 27 June 2025 | Initial release
+  - Version 1.0 on 25 June 2025 | Initial release
 ---
