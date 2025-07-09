@@ -26,4 +26,4 @@ This template uses a SQL server as data source. Alternatively, the data could al
 
 # How it works
 You can find detailed instructions for this template in this YouTube video.
-{% include video.html image='EN_thumbnail.png' video_id='v=9qrmVP5jnZA' %}
+{% include video.html image='EN_thumbnail.png' video_id='9qrmVP5jnZA' %}
