@@ -27,3 +27,7 @@ overview_data_sources:
 # Mögliche Datenquellen
 Dieses Template verwendet eine XML REST API als Datenquelle der Auftragsdaten und OPC UA für die Produktionsdaten. In deinem Usecase könnten die Daten jedoch auch aus einem MES stammen. Mit Peakboard kannst du unter anderem folgende Systeme anbinden: AIS Automation FabEagle MES, camLine InFrame Synapse MES, DELMIA Apriso MES, DE DESC, FASTEC 4 PRO, Felten PILOT:MES, Forcam Force, gfos.MES, inray FAS, iTAC.MES.Suite, MPDV MES HYDRA, Plex MES Suite, PSIpenta MES und [viele mehr](https://peakboard.com/schnittstellen/).
 
+
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du in diesem YouTube Video:
+{% include video.html image='DE_thumbnail.png' video_id='v=rxeZ5Kvab2Y&t=78s' %}
