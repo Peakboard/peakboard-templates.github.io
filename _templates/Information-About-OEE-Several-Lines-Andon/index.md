@@ -30,4 +30,5 @@ Dieses Template verwendet eine XML REST API als Datenquelle der Auftragsdaten un
 
 # So funktioniert’s
 Eine detaillierte Anleitung zu diesem Template findest du in diesem YouTube Video:
-{% include video.html image='DE_thumbnail.png' video_id='v=rxeZ5Kvab2Y&t=78s' %}
+{% include video.html image='DE_thumbnail.png' video_id= 'rxeZ5Kvab2Y&t=78s' %}
+v=rxeZ5Kvab2Y&t=78s

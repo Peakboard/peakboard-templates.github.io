@@ -30,5 +30,3 @@ This template uses a XML REST API as data source of the order data and OPC UA fo
 # How it works
 You can find detailed instructions for this template in this YouTube video.
 {% include video.html image='EN_thumbnail.png' video_id='WMfacKcd5lw' %}
-
-
