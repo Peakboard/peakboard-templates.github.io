@@ -21,5 +21,10 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# mögliche datenquellen
+# Mögliche Datenquellen
 Dieses Template verwendet einen SQL Server Datenquellen. Alternativ könnten die Daten auch aus einem WMS oder anderen Logistikprogrammen kommen. Einige Beispiele die du anbinden könntest: SAP EWM, Oracle NetSuite, PSIwms, Erhardt + Partner LFS, IBM Sterling WMS, Epicor WMS, JDA WMS, Fishbowl Inventory, SSI Schäfer WAMAS und [viele mehr](https://peakboard.com/schnittstellen/).
+
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du in diesem YouTube Video:
+{% include video.html image='DE_thumbnail.png' video_id='EeTEEigNZNI' %}
+

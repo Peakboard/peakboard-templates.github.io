@@ -21,5 +21,9 @@ overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# possible data sources
+# Possible data sources
 This template uses a SQL server as data source. Alternatively, the data could also come from a WMS or other logistics programs. Some examples you could connect to: SAP EWM, Oracle NetSuite, PSIwms, Erhardt + Partner LFS, IBM Sterling WMS, Epicor WMS, JDA WMS, Fishbowl Inventory, SSI Schäfer WAMAS and [many more](https://peakboard.com/en/interfaces/).
+
+# How it works
+You can find detailed instructions for this template in this YouTube video.
+{% include video.html image='EN_thumbnail.png' video_id='v=9qrmVP5jnZA' %}
