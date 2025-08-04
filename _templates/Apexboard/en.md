@@ -18,8 +18,8 @@ category:
   - Lean Management
   - Interaction
   - Peakboard Hub
-image: Apexboard.png
-image_thumbnail: Forklift-Driving-Jobs-Application_thumbnail.png
+image: Apexboard.gif
+image_thumbnail: Apexboard_thumbnail.png
 download: Apexboard.pbmx
 overview_description:
 overview_benefits:

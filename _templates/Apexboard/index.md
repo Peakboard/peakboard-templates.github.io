@@ -18,7 +18,7 @@ category:
   - Lean Management
   - Interaktion
   - Peakboard Hub
-image: Apexboard_DE.png
+image: Apexboard_DE.gif
 image_thumbnail: Apexboard_DE_thumbnail.png
 download: Apexboard_DE.pbmx
 overview_description:
