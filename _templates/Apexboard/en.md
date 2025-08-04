@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Optimized warehouse logistics - interactive dashboard for forklifts
+title: Apexboard - the solution for your digital shopfloor management
 description: 
   - The Apexboard is a comprehensive digital solution for shop floor management based on the principles of lean management. With this template, companies can efficiently capture and monitor production metrics. It enables the easy and clear recording of daily SQCDP values (Safety, Quality, Cost, Delivery, People), which are crucial for the success of lean initiatives.
 
