@@ -1,16 +1,16 @@
 ---
 layout: article
-title: Apexboard – Deine Läsung für digitales Shopfloor Management
+title: Apexboard – Die Lösung für dein digitales Shopfloor Management
 description: 
-  - Dieses Peakboard Template wurde speziell für den Einsatz auf einem Touchscreen an einem Gabelstapler entwickelt und optimiert den Arbeitsablauf von Fahrern erheblich. Sie können sich bequem an ihrem Fahrzeug anmelden und erhalten sofort eine übersichtliche Liste mit offenen Fahraufträgen. Für bessere Orientierung zeigt die Anwendung den Abhol- und Zielort grafisch auf einer Karte an. Zudem hat man die Anzahl der erforderlichen Fahrten immer im Blick. Besonders praktisch ist die interaktive Möglichkeit, Fahraufträge nach Erledigung mit einem Kommentar abzuschließen oder Probleme direkt zu melden. Neue Fahraufträge kannst du ganz einfach über [diese](https://templates.peakboard.com/Forklift-Driving-Jobs-Planner/index) Anwendung erstellen.
+  - Das Apexboard ist eine umfassende digitale Lösung für das Shopfloor Management, die auf den Prinzipien des Lean Managements basiert. Mit diesem Template können Unternehmen ihre Produktionskennzahlen effizient erfassen und überwachen. Es ermöglicht die einfache und übersichtliche Erfassung von täglichen SQCDP-Werten (Sicherheit, Qualität, Kosten, Lieferung, Personen), die für den Erfolg von Lean-Initiativen entscheidend sind. 
+  
+  - Relevante Kennzahlen können angelegt und deren Werte täglich schicht- und abteilungsweise erfasst werden. Bei erkannten Abweichungen können sofort Maßnahmen erstellt und diese auf einem klar strukturierten Kanban Board verwaltet werden. Der Fortschritt der einzelnen Maßnahmen wird in einer übersichtlichen Timeline-Ansicht dokumentiert. Das Apexboard verfügt zudem über einen integrierten Webbrowser, der den Zugriff auf weitere Online-Tools des Unternehmens ermöglicht. Mit den Analyse- und Reporting-Funktionen können die gesammelten Daten umfassend ausgewertet und visuell dargestellt werden, um fundierte Entscheidungen im Shopfloor Management zu treffen
 
-  - Das Dashboard für Gablestapler sorgt für eine effizientere Kommunikation und reduziert Verzögerungen in deiner Lagerlogistik. Du erleichterst nicht nur die Navigation für die Fahrer, sondern verbesserst auch die Koordination. Ohne zukünftige Missverständnisse steigerst du die Produktivität in deinem Lager und auf dem Betriebsgelände.
-
-  - Lade dir das Template jetzt kostenlos herunter und passe es ohne Programmieraufwand an die Anforderungen deiner Intralogistik an. Für eine noch einfachere Bedienbarkeit wurden alle Skripte in diesem Template mit Peakboard Building Blocks, unserem Low-Code-Skripteditor, erstellt.
+  - Das Apexboard bietet eine effektive Lösung, um das Shopfloor Management zu vereinfachen und die Produktionsprozesse laufend zu optimieren. Lade dir das Template jetzt kostenlos herunter.
 
 lang: de
 weight: 698
-isDraft: true
+isDraft: false
 ref: Apexboard
 category:
   - Alle
@@ -26,9 +26,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # Mögliche Datenquellen
-Dieses Template verwendet verschiedene Peakboard Hub Listen als Datenquelle für die Stamm- und Bewegungsdaten. Alternativ zu Peakboard Hub Listen könnten diese Daten auch aus einer oder mehreren Datenbanken stammen. 
-
-# Weitere Anzeigen
-Die Anwendung bietet eine einfache Möglichkeit, Probleme an die Verantwortlichen Personen zu melden.
-![image_live](Gabelstapler-Fahrauftraege-Anwendung-Problem-Melden.png)
-
+Dieses Template verwendet Peakboard Hub Listen als Datenquelle. Um dieses Template mit deinem eigenen Peakboard Hub zu nutzen, kannst du <a href="Apexboard_Hub_Lists_DE.zip" class="inline" download>hier</a> die Tabellenstruktur der Listen herunterladen. Importiere diese in Peakboard Hub und passe anschließend die Datenquellen im Template entsprechend an. Alternativ zu Peakboard Hub Listen könnten diese Daten auch aus diversen anderen Datenbanken stammen.

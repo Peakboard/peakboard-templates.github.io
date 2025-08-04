@@ -2,15 +2,15 @@
 layout: article
 title: Optimized warehouse logistics - interactive dashboard for forklifts
 description: 
-  - This template was specifically designed for use on a forklift touchscreen and significantly optimizes drivers' workflows. Drivers can conveniently log in to their vehicle and immediately receive a well structured list of open driving tasks. For better orientation, the application graphically displays the pick-up and destination locations on a map. In addition, the number of journeys required is always in sight. Particularly useful is that you can complete tasks with a comment or report issues directly, once finished. You can create new driving jobs via [this](https://templates.peakboard.com/Forklift-Driving-Jobs-Planner/en) application.
+  - The Apexboard is a comprehensive digital solution for shop floor management based on the principles of lean management. With this template, companies can efficiently capture and monitor production metrics. It enables the easy and clear recording of daily SQCDP values (Safety, Quality, Cost, Delivery, People), which are crucial for the success of lean initiatives.
 
-  - This dashboard for forklift drivers ensures more efficient communication and reduces delays in your warehouse logistics. You not only improve navigation for drivers, but also coordination. Without misunderstandings, you increase productivity in your warehouse and on the company premises.
+  - Relevant Kpis can be defined, and their values can be recorded daily by shift and department. In case of deviations, measures can be created immediately and managed on a clearly structured Kanban board. The progress of individual actions is documented in an intuitive timeline view. The Apexboard also includes an integrated web browser, allowing access to other company online tools. With its analysis and reporting functions, the collected data can be thoroughly analyzed and visualized to make informed decisions in shop floor management.
 
-  - Download the template for free and adapt it to your intralogistics requirements without any programming effort. To make it even easier to use, all scripts in this template were created with Peakboard Building Blocks, our low-code scripting editor.
+  - The Apexboard provides an effective solution to simplify shop floor management and continuously improve production processes. Download the template now for free.
 
 lang: en
 weight: 689
-isDraft: true
+isDraft: false
 ref: Apexboard
 category:
   - All
@@ -26,8 +26,4 @@ overview_benefits:
 overview_data_sources:
 ---
 # Possible data sources
-This template uses various Peakboard Hub lists as the data source for master and transaction data. Alternatively, these data could also come from one or more databases.
-
-# Further screens
-The application offers an easy way to report issues to the responsible persons.
-![image_live](Apexboard-Report-Issue.png)
+This template uses Peakboard Hub lists as the data source. To use this template with your own Peakboard Hub, you can download the table structure of the lists <a href="Apexboard_Hub_Lists_EN.zip" class="inline" download>here</a>. Import it into Peakboard Hub and then adjust the data sources in the template accordingly. Alternatively, the data could also come from various other databases.
