@@ -9,7 +9,7 @@ description:
   - The Apexboard provides an effective solution to simplify shop floor management and continuously improve production processes. Download the template now for free.
 
 lang: en
-weight: 689
+weight: 698
 isDraft: false
 ref: Apexboard
 category:
