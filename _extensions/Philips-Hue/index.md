@@ -7,7 +7,7 @@ description:
   - Mit dieser Extension kannst du Geräte aus dem Philips Hue Beleuchtungssystem über die Hue Bridge als Datenquelle in Peakboard anbinden. Die Datenquelle ermöglicht es, Daten über den Zustand (ein / aus) sowie den Helligkeitswert einer jeden angelegten Lichtquelle auszulesen oder zurückzuschreiben. So kann mittels Peakboard ganz leicht ein interaktives Dashboard zur Steuerung der Philips Hue Beleuchtung erstellt werden.
 lang: de
 weight: 30
-isDraft: false
+isDraft: true
 ref: philips-hue
 image: Philips_Hue_Extention_Logo.png
 image_thumbnail: Philips_Hue_Extention_Logo_thumbnail.png
