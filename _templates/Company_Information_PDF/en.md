@@ -1,30 +1,28 @@
 ---
 layout: article
-title: Interactive calendar view for production planning
+title: Digital employee information board with PDF display
 
 description: 
-  - This interactive template helps you easily keep track of your production metrics. You can capture both actual and target values on a daily basis. The clear calendar view displays all relevant data for each day, allowing quick input and monitoring of production metrics. Additionally, the template offers a reporting view where the collected data can be analyzed by week, month, or quarter. This way, you always have control over your performance and can quickly identify trends and deviations. The template is ideal for production environments where daily metrics need to be recorded and analyzed. Download the template for free now and customize it to fit your individual production environment.
+  - This template replaces the traditional paper bulletin board and offers an interactive and flexible digital solution for displaying important company information. The board shows the two most recent shift schedules, the cafeteria menu, and various other company updates. The corresponding PDF files are directly uploaded into the file system on the Peakboard Hub and then displayed on the board. Employees can access the information at any time and navigate interactively through the different categories. After a defined period of inactivity, the board automatically switches between different announcements. This solution ensures a clear, user-friendly, and always up-to-date presentation of company data, enabling efficient information distribution without the need for paper printing and distribution.
 
 lang: en
 weight: 693
 isDraft: true
-ref: Interactive-Calendar-View
+ref: Company_Information_PDF
 category:
   - All
   - Shopfloor
-  - Production
+  - Bulletin Board
   - Interaction
+  - PDF
   - Peakboard Hub
-image: Interactive-Calendar-View.png
-image_thumbnail: Interactive-Calendar-View_thumbnail.png
-download: Interactive-Calendar-View.pbmx
+image: Company_Information_PDF.png
+image_thumbnail: Company_Information_PDF_thumbnail.png
+download: Company_Information_PDF.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# Possible data sources
-This template uses a Peakboard Hub list as the data source. To use this template with your own Peakboard Hub, you can download the table structure of the list <a href="Calendar_View.csv" class="inline" download>here</a>. Import it into Peakboard Hub and then adjust the data sources in the template accordingly. Alternatively, the data could also come from various other databases.
-
-# Report view
-In addition to the calendar view, the template also offers a reporting view, which aggregates the data for analysis purposes and displays it by calendar week, month, or quarter.
-![image_live](Interactive-Calendar-View-Report.png)
+# Peakboard Hub Files
+The displayed PDF files are stored in different directories within the Peakboard Hub.
+![image_live](Company_Information_PDF-Hub.png)
