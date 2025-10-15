@@ -15,7 +15,7 @@ category:
   - Bulletin Board
   - Interaction
   - Peakboard Hub
-image: Office_Checkin.png
+image: Office_Checkin.gif
 image_thumbnail: Office_Checkin_thumbnail.png
 download: Office_Checkin.pbmx
 overview_description:
