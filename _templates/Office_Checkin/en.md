@@ -7,7 +7,7 @@ description:
 
 lang: en
 weight: 682
-isDraft: true
+isDraft: false
 ref: Office_Checkin
 category:
   - All

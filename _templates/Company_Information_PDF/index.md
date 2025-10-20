@@ -7,7 +7,7 @@ description:
   
 lang: de
 weight: 693
-isDraft: true
+isDraft: false
 ref: Company_Information_PDF
 category:
   - Alle
