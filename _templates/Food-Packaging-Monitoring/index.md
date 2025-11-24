@@ -16,7 +16,7 @@ category:
   - Produktion
   - Lebensmittel
   - OPC UA
-image: Lebensmittel-Verpackungs-Monitoring.mov
+image: Lebensmittel-Verpackungs-Monitoring.mp4
 image_thumbnail: Lebensmittel-Verpackungs-Monitoring_thumbnail.png
 download: Lebensmittel-Verpackungs-Monitoring.pbmx
 overview_description:

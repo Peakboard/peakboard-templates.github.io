@@ -16,7 +16,7 @@ category:
   - Interaction
   - PDF
   - Peakboard Hub
-image: Company_Information_PDF.png
+image: Company_Information_PDF.gif
 image_thumbnail: Company_Information_PDF_thumbnail.png
 download: Company_Information_PDF.pbmx
 overview_description:
