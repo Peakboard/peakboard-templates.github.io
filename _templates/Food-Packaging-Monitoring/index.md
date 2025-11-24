@@ -8,7 +8,7 @@ description:
   
 lang: de
 weight: 683
-isDraft: true
+isDraft: false
 ref: Food-Packaging-Monitoring
 category:
   - Alle
