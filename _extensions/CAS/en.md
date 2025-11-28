@@ -4,7 +4,7 @@ title: CAS
 title_text: CAS Scales
 by: Peakboard
 description: 
-  - ...
+  - This extension allows you to connect CAS scales of the PDN (POS) and PB2 (Portable) series to a Peakboard application. It supports data retrieval via serial interface (RS232/USB) and Bluetooth Low Energy (BLE), as well as sending commands like Zero or Tare to the device.
 lang: en
 weight: 88
 isDraft: true
