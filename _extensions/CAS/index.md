@@ -4,7 +4,7 @@ title: CAS
 title_text: CAS Waagen
 by: Peakboard
 description: 
-  - ...
+  - Diese Extension ermöglicht das Anbinden von CAS Waagen der PDN- (POS) und PB2-Serie (Portable) an eine Peakboard-Anwendung. Sie unterstützt das Auslesen von Gewichtsdaten über die serielle Schnittstelle (RS232/USB) oder Bluetooth Low Energy (BLE) sowie das Senden von Steuerbefehlen wie Nullstellen oder Tarieren.
 lang: de
 weight: 88
 isDraft: true
