@@ -18,6 +18,7 @@ category:
   - OPC UA
 image: Lebensmittel-Verpackungs-Monitoring.png
 image_thumbnail: Lebensmittel-Verpackungs-Monitoring_thumbnail.png
+video: Lebensmittel-Verpackungs-Monitoring.mp4
 download: Lebensmittel-Verpackungs-Monitoring.pbmx
 overview_description:
 overview_benefits:
