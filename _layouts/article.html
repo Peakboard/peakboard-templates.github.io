@@ -21,7 +21,15 @@ layout: base
     <p>{{ descriptionPart | markdownify }}</p>
     {% endfor %}
 
-    {% if page.image %}
+    {% if page.video %}
+    <div class="border-2 border-gray-400 my-4 p-1">
+        <video autoplay loop muted playsinline style="margin: 0; width: 100%; height: auto;" poster="{{ page.image }}" >
+            <source src="{{ page.video }}" type="video/mp4" />
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+    {% elsif page.image %}
     <div class="border-2 border-gray-400 my-4 p-1">
         <img src="{{ page.image }}" title="Peakboard Template: {{ page.title }}" style="margin: 0;">
     </div>
