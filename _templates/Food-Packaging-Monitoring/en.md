@@ -17,7 +17,7 @@ category:
   - Food
   - OPC UA
 image: Food-Packaging-Monitoring.png
-image_thumbnail: Food-Packaging-Monitoring_thumbnail.
+image_thumbnail: Food-Packaging-Monitoring_thumbnail.png
 video: Food-Packaging-Monitoring.mp4
 download: Food-Packaging-Monitoring.pbmx
 overview_description:
