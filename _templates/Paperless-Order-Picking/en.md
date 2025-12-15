@@ -25,10 +25,10 @@ overview_benefits:
 overview_data_sources:
 ---
 # Hardware Options 
-This Template can be used with a variety of barcode scanners, scales and lable printers. You will can find some examples below but feel free to contact us and we will help you find a solution for your hardware!
+This Template can be used with a variety of barcode scanners, scales and label printers. You will can find some examples below but feel free to contact us and we will help you find a solution for your hardware!
 - Barcode Scanner: Handheld scanner by [Newland](https://www.newland-id.com/en/products/handheld-scanners/nvh300-angler-dp) or wearable scanner by [ProGlove](https://proglove.com/products/wearable-scanners/)
 - Scale:  For example [PB-II Connect](https://cas-retail.com/pb2/) 
-- Lable Printer: [Bixoloneu](https://bixoloneu.com/product-type/label-printers/) or [Seiko Instruments](https://seiko-instruments.de/thermal-printer/)
+- Label Printer: [Bixoloneu](https://bixoloneu.com/product-type/label-printers/) or [Seiko Instruments](https://seiko-instruments.de/thermal-printer/)
 
 As mentioned above, you can try out this template without connecting any hardware for demonstration purposes.  
 
