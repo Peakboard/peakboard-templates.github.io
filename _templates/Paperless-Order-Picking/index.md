@@ -28,9 +28,8 @@ overview_data_sources:
 # Hardware Optionen
 Diese Vorlage ist mit verschiedenen Barcode-Scannern, Waagen und Etikettendruckern kompatibel. Einige Beispiele findest du unten. Kontaktiere uns gerne und wir helfen dir die passende Lösung für deine Hardware zu finden!
 
-- Barcode-Scanner: Handscanner von [Newland] (https://www.newland-id.com/de/produkte/handscanner/nvh300-angler-dp) oder tragbarer Scanner von [ProGlove] (https://proglove.com/de/produkte/hardware/leo/)
+- Barcode-Scanner: Handscanner von [Newland](https://www.newland-id.com/de/produkte/handscanner/nvh300-angler-dp) oder tragbarer Scanner von [ProGlove](https://proglove.com/de/produkte/hardware/leo/)
+- Waage: Zum Beispiel [PB-II Connect](https://cas-retail.com/pb2/)
+- Etikettendrucker: [Bixoloneu](https://bixoloneu.com/product-type/etikettendrucker/industrie-etikettendrucker-label-printers-de/?lang=de&_gl=1*2wiwy0*_up*MQ..*_ga*MjY5MjEzMjAxLjE3NjU4MDY4MTA.*_ga_74SHSS1RY9*czE3NjU4MDk4MjkkbzEkZzAkdDE3NjU4MDk4MjkkajYwJGwwJGgw*_ga_G9RM6ERZFG*czE3NjU4MDk4MjkkbzIkZzAkdDE3NjU4MDk4MjkkajYwJGwwJGgw) oder [Seiko Instruments](https://seiko-instruments.de/de/thermodrucker/)
 
-- Waage: Zum Beispiel [PB-II Connect] (https://cas-retail.com/pb2/)
-
-- Etikettendrucker: [Bixoloneu] (https://bixoloneu.com/product-type/etikettendrucker/industrie-etikettendrucker-label-printers-de/?lang=de&_gl=1*2wiwy0*_up*MQ..*_ga*MjY5MjEzMjAxLjE3NjU4MDY4MTA.*_ga_74SHSS1RY9*czE3NjU4MDk4MjkkbzEkZzAkdDE3NjU4MDk4MjkkajYwJGwwJGgw*_ga_G9RM6ERZFG*czE3NjU4MDk4MjkkbzIkZzAkdDE3NjU4MDk4MjkkajYwJGwwJGgw) oder [Seiko-Instruments] (https://seiko-instruments.de/de/thermodrucker/)
 Wie bereits erwähnt, können Sie diese Vorlage zu Demonstrationszwecken auch ohne angeschlossene Hardware testen.
