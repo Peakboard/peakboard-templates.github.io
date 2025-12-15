@@ -9,21 +9,25 @@ description:
 lang: en
 weight: 683
 isDraft: false
-ref: Food-Packaging-Monitoring
+ref: Paperless-Order-Picking
 category:
   - All
   - Logistics
   - Warehouse
   - Order Picking
   - Scale
-image: Food-Packaging-Monitoring.png
-image_thumbnail: Food-Packaging-Monitoring_thumbnail.png
-video: Food-Packaging-Monitoring.mp4
-download: Food-Packaging-Monitoring.pbmx
+image: Paperless-Order-Picking.png
+image_thumbnail: Paperless-Order-Picking_thumbnail.png
+video: Paperless-Order-Picking.mp4
+download: Paperless-Order-Picking.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
 ---
-# jdfjh 
-- dfdfdf 
+# Hardware Options 
+This Template can be used with a variety of barcode scanners, scales and lable printers. You will can find some examples below but feel free to contact us and we will help you find a solution for your hardware!
+- Barcode Scanner: Handheld scanner by [Newland] (https://www.newland-id.com/en/products/handheld-scanners/nvh300-angler-dp) or wearable scanner by [ProGlove] (https://proglove.com/products/wearable-scanners/)
+- Scale:  For example [PB-II Connect]  https://cas-retail.com/pb2/  
+- Lable Printer: [Bixoloneu] (https://bixoloneu.com/product-type/label-printers/) or Seiko Instruments https://seiko-instruments.de/thermal-printer/
+As mentioned above, you can try out this template without connecting any hardware for demonstration purposes.  
 
