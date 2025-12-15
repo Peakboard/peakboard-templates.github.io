@@ -32,4 +32,4 @@ Diese Vorlage ist mit verschiedenen Barcode-Scannern, Waagen und Etikettendrucke
 - Waage: Zum Beispiel [PB-II Connect](https://cas-retail.com/pb2/)
 - Etikettendrucker: [Bixoloneu](https://bixoloneu.com/product-type/etikettendrucker/industrie-etikettendrucker-label-printers-de/?lang=de&_gl=1*2wiwy0*_up*MQ..*_ga*MjY5MjEzMjAxLjE3NjU4MDY4MTA.*_ga_74SHSS1RY9*czE3NjU4MDk4MjkkbzEkZzAkdDE3NjU4MDk4MjkkajYwJGwwJGgw*_ga_G9RM6ERZFG*czE3NjU4MDk4MjkkbzIkZzAkdDE3NjU4MDk4MjkkajYwJGwwJGgw) oder [Seiko Instruments](https://seiko-instruments.de/de/thermodrucker/)
 
-Wie bereits erwähnt, können Sie diese Vorlage zu Demonstrationszwecken auch ohne angeschlossene Hardware testen.
+Wie bereits erwähnt, kannst du dieses Template zu Demonstrationszwecken auch ohne angeschlossene Hardware testen.
