@@ -7,7 +7,7 @@ description:
   - This extension corrects the screen resolution of the application on a 4k monitor.
 lang: en
 weight: 83
-isDraft: false
+isDraft: true
 ref: Screen-Resolution
 image: Screen_Resolution_Extension_Logo.png
 image_thumbnail: Screen_Resolution_Extension_Logo.png
