@@ -12,12 +12,13 @@ ref: Barcode_Scanner
 image: Barcode_Scanner_Extension_Logo.png
 image_thumbnail: Barcode_Scanner_Extension_Logo.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/SerialBarcodeScanner
-download: SerialBarcodeScanner.zip
+download: SerialBarcodeScannerNew.zip
 extension_category:
   - Alle
   - Barcode
   - Hardware
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 25 June 2025 | Initial release
 ---

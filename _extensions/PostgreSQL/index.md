@@ -12,11 +12,12 @@ ref: postgresql
 image: PostgreSQL_Extension_Logo.png
 image_thumbnail: PostgreSQL_Extension_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/PostgreSQL
-download: Peakboard.Extensions.Npgsql.zip
+download: Peakboard.Extensions.NpgsqlNew.zip
 extension_category:
   - Alle
   - Datenbank
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 09 February 2022 | Initial release
 ---

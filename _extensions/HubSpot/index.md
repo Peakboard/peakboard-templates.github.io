@@ -12,11 +12,12 @@ ref: HubSpot
 image: Hubspot_Extension_Logo.png
 image_thumbnail: Hubspot_Extension_Logo.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/HubSpot
-download: HubSpot.zip
+download: HubSpotNew.zip
 extension_category:
   - Alle
   - Cloud services
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 09 September 2024 | Initial release
 ---

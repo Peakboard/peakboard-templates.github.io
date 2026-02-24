@@ -12,10 +12,11 @@ ref: mpdv
 image: MPDV_Extention_Logo.png
 image_thumbnail: MPDV_Extention_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/MPDV
-download: MPDV.zip
+download: MPDVNew.zip
 extension_category:
   - Alle
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 13 March 2021 | Initial release
 ---

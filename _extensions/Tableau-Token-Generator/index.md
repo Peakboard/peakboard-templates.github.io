@@ -12,10 +12,11 @@ ref: tableau
 image: Tableau_Extension_Logo.png
 image_thumbnail: Tableau_Extension_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/TableauTokenGenerator
-download: Peakboard.Extensions.TableauTokenGenerator.zip
+download: Peakboard.Extensions.TableauTokenGeneratorNew.zip
 extension_category:
   - Alle
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 8 December 2023 | Initial release
 ---

@@ -12,12 +12,13 @@ ref: influxdb
 image: InfluxDB_Extension_Logo.png
 image_thumbnail: InfluxDB_Extension_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/InfluxDB
-download: InfluxDB.zip
+download: InfluxDBNew.zip
 extension_category:
   - Alle
   - Datenbank
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 28 April 2023 | Initial release
 ---
 

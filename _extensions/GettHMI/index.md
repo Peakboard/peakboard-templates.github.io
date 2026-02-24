@@ -12,12 +12,13 @@ ref: GettHMI
 image: GettHMI_Extension_Logo.png
 image_thumbnail: GettHMI_Extension_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/GettHMI
-download: GettHMI.zip
+download: GettHMINew.zip
 extension_category:
   - Alle
   - HMI
 
 version_history:
+  - Version 2.1 on 24 February 2026 | Updated to new extension format
   - Version 2.0 on 14 August 2024 | Different fixes and improvements
   - Version 1.0 on 05 August 2024 | Initial release
 

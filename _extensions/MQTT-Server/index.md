@@ -12,11 +12,12 @@ ref: MQTT-Server
 image: MQTT_Server_Extension_Logo.png
 image_thumbnail: MQTT_Server_Extension_Logo.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/MQTTServer
-download: MQTTServer.zip
+download: MQTTServerNew.zip
 extension_category:
   - Alle
   - MQTT
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 13 January 2025 | Initial release
 ---

@@ -12,10 +12,11 @@ ref: Wheel-me
 image: Wheel_Me_Extension_Logo.png
 image_thumbnail: Wheel_Me_Extension_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/WheelMe
-download: Wheelme.zip
+download: WheelmeNew.zip
 extension_category:
   - Alle
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 29 April 2024 | Initial release
 ---

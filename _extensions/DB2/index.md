@@ -12,11 +12,12 @@ ref: db2
 image: DB2_Extention_Logo.png
 image_thumbnail: DB2_Extention_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/DB2
-download: PeakboardExtensionDB2.zip
+download: PeakboardExtensionDB2New.zip
 extension_category:
   - Alle
   - Datenbank
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 13 March 2021 | Initial release
 ---

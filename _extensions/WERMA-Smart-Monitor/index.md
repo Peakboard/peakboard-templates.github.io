@@ -12,7 +12,7 @@ ref: werma-smart-monitor
 image: Werma_Smart_Monitor_Extention_Logo.png
 image_thumbnail: Werma_Smart_Monitor_Extention_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/WERMASmartMonitor
-download: PeakboardExtensionWerma.zip
+download: PeakboardExtensionWermaNew.zip
 extension_category:
   - Alle
   - IoT
@@ -20,5 +20,6 @@ extension_category:
   - Shopfloor
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 05 June 2021 | Initial release
 ---

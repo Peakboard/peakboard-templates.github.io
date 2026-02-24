@@ -13,12 +13,13 @@ ref: POSPrinter
 image: POS_Printer_Extension_Logo.png
 image_thumbnail: POS_Printer_Extension_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/POSPrinter
-download: POSPrinterExtension.zip
+download: POSPrinterExtensionNew.zip
 extension_category:
   - Alle
   - Hardware
   - Drucker
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 07 August 2024 | Initial release
 ---

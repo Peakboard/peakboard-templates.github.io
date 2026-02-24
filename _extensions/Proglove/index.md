@@ -12,12 +12,13 @@ ref: Proglove
 image: Proglove_Extension_Logo.png
 image_thumbnail: Proglove_Extension_Logo.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Proglove
-download: Proglove.zip
+download: ProgloveNew.zip
 extension_category:
   - Alle
   - Cloud services
   - IoT
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 14 January 2025 | Initial release
 ---

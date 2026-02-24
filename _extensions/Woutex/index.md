@@ -12,11 +12,12 @@ ref: Woutex
 image: Woutex_Extension_Logo.png
 image_thumbnail: Woutex_Extension_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Woutex
-download: Woutex.zip
+download: WoutexNew.zip
 extension_category:
   - Alle
   - IoT
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 05 August 2024 | Initial release
 ---

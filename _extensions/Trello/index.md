@@ -13,11 +13,12 @@ ref: Trello
 image: Trello_Extension_Logo.png
 image_thumbnail: Trello_Extension_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Trello
-download: Peakboard.Extensions.Trello.zip
+download: Peakboard.Extensions.TrelloNew.zip
 extension_category:
   - Alle
   - Cloud Services
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 31 July 2023 | Initial release
 ---

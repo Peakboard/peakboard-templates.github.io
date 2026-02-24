@@ -12,10 +12,11 @@ ref: network-files
 image: Network_Files_Extension_Logo.png
 image_thumbnail: Network_Files_Extension_Logo_thumbnail.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/NetworkFiles
-download: NetworkFiles.zip
+download: NetworkFilesNew.zip
 extension_category:
   - Alle
 
 version_history:
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 07 July 2022 | Initial release
 ---
