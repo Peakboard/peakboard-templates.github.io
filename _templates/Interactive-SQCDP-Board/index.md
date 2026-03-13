@@ -28,7 +28,6 @@ overview_data_sources:
 # Mögliche Datenquellen
 Dieses Template verwendet eine <a href="https://peakboard.com/produkt/peakboard-hub/<" class="inline">Peakboard Hub Liste</a> als Datenquelle. Um dieses Template mit deinem eigenen Peakboard Hub zu nutzen, kannst du <a href="SQCDP_Board.csv" class="inline" download>hier</a> die Tabellenstruktur der Liste herunterladen. Importiere diese in deinen Peakboard Hub und passe anschließend die Datenquelle im Template entsprechend an. Alternativ können auch andere Datenbanken wie beispielsweise SQL, Oracle oder ODBC genutzt werden.
 
-# Weitere Anzeigen
-
-Übersichtliche Jahresübersicht über alle Kategorien
-![image_live](Interaktives-SQCDP-Board-Uebersicht.png)
+# So funktioniert’s
+Eine detaillierte Anleitung zu diesem Template findest du in diesem YouTube Video:
+{% include video.html image='DE_thumbnail.png' video_id='2ewiTMXO1Qg&t=30s' %}
