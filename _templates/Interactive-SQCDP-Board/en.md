@@ -29,4 +29,4 @@ This template uses a <a href="https://peakboard.com/en/product/peakboard-hub/" c
 
 # How it works
 You can find detailed instructions for this template in this YouTube video.
-{% include video.html image='DE_thumbnail.png' video_id='tp_tCpaSDBQ' %}
+{% include video.html image='EN_thumbnail.png' video_id='tp_tCpaSDBQ' %}
