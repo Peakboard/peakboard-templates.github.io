@@ -16,7 +16,7 @@ category:
   - Shopfloor
   - Lean Management
   - Peakboard Hub
-image: Interactive-SQCDP-Board.png
+image: Interactive-SQCDP-Board.gif
 image_thumbnail: Interactive-SQCDP-Board_thumbnail.png
 download: Interactive-SQCDP-Board.pbmx
 overview_description:
