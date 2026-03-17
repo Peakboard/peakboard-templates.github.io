@@ -4,7 +4,7 @@ title: Desktop Toolbox
 title_text: Desktop Toolbox
 by: Peakboard
 description:
-  - Die Desktop Toolbox Extension für Peakboard bietet direkten Zugriff auf wichtige Windows-Funktionen innerhalb deines Dashboards. Nutze sie, um Systemeinstellungen zu steuern, mit der Windows-Desktopumgebung zu interagieren und Betriebssystemfunktionen zu verwenden, ohne die Peakboard-Anwendung verlassen zu müssen.
+  - Die Desktop Toolbox Extension liefert Informationen über die aktuelle Windows-Desktop-Sitzung, wie z.B. den angemeldeten Benutzernamen und die Betriebssystemversion. Darüber hinaus bietet sie Hilfsfunktionen, wie das Öffnen einer URL im Standardbrowser. Es sind keine Konfigurations- oder Verbindungseinstellungen erforderlich.
 lang: de
 weight: 93
 isDraft: false
