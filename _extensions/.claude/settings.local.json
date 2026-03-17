@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git submodule status)",
+      "Bash(done)",
+      "Bash(grep -h \"^  - \" /Users/alexanderkoenig/git/Templates/_extensions/*/en.md)",
+      "Bash(grep -l \"screenshots:\" /Users/alexanderkoenig/git/Templates/_extensions/*/en.md)",
+      "Bash(echo \"exit: $?\")"
+    ]
+  }
+}
