@@ -26,4 +26,4 @@ overview_data_sources:
 
 
 # Mögliche Datenquellen
-Dieses Template verwendet <a href="https://peakboard.com/produkt/peakboard-hub/<" class="inline">Peakboard Hub Listen</a> als Datenquelle für die erfassten Daten sowie zur definition der jeweiligen Kennzahlen. Um dieses Template mit deinem eigenen Peakboard Hub zu nutzen, kannst du <a href="HubLists.zip" class="inline" download>hier</a> die Tabellenstruktur dieser Listen herunterladen. Importiere diese in deinen Peakboard Hub und passe anschließend die Datenquelle im Template entsprechend an. 
+Dieses Template verwendet <a href="https://peakboard.com/produkt/peakboard-hub/<" class="inline">Peakboard Hub Listen</a> als Datenquelle für die erfassten Daten sowie zur definition der relevanten Kennzahlen. Um dieses Template mit deinem eigenen Peakboard Hub zu nutzen, kannst du <a href="HubLists.zip" class="inline" download>hier</a> die Tabellenstruktur dieser Listen herunterladen. Importiere diese in deinen Peakboard Hub und passe anschließend die Datenquelle im Template entsprechend an. 
