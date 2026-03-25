@@ -14,8 +14,8 @@ category:
   - Einzelfertigung
   - Interaktion
   - Andon
-image: Interaktives-Board-Einzelplatzfertigung.png
-image_thumbnail: Interaktives-Board-Einzelplatzfertigung_thumbnail.png
+image: DE_Interface-for-PLC.gif
+image_thumbnail: Thubnail_DE_Interface-for-PLC.png
 download: Interaktives-Board-Einzelplatzfertigung.pbmx
 overview_description:
 overview_benefits:
