@@ -14,7 +14,7 @@ description:
 
 lang: de
 weight: 251
-isDraft: false
+isDraft: true
 ref: Interface for PLC
 category:
   - Alle
