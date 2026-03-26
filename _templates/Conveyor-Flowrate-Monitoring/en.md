@@ -1,10 +1,12 @@
 ---
 layout: article
-title: Digital huddle board for daily hospital management
+title: Conveyor scale monitoring – Track your material flow in real time
 description:
-  - This digital Huddle Board was specifically developed for use across different wards in a hospital setting. It supports daily huddle meetings by clearly visualizing the five most important key performance indicators for each ward. Using a touchscreen, staff can easily document directly on the board whether each KPI has been met for the current day. The five KPIs can be dynamically adjusted and tailored to the specific needs of each ward. Based on the daily inputs, a historical analysis is automatically generated, providing the team with a clear overview of developments and improvements across the different areas. In this way, the board supports collaboration between nursing staff and physicians and encourages continuous reflection and sustainable optimization of ward processes.
+  - This template provides a clear and intuitive visualization for monitoring conveyor belt scales, as commonly used in quarries or raw material processing. It enables the display of key metrics such as current throughput, belt speed, and weight, creating full transparency over the ongoing material flow.
 
-  - Download the template now for free and customize it to fit the specific requirements of your ward.
+  - In addition to real-time values, the dashboard offers a monthly view that displays daily throughput figures in a structured way. This allows users to track trends over time and quickly identify fluctuations or anomalies.
+
+  - The template was developed in collaboration with the conveyor belt scale manufacturer [MTS](https://www.mts-waagen.de/en/index.html) and is based on real-world industrial requirements. It is ideal for companies looking to monitor their conveying processes, visualize performance data, and make informed decisions based on current and historical daily values.
 lang: en
 weight: 664
 isDraft: true
@@ -12,7 +14,6 @@ ref: Conveyor-Flowrate-Monitoring
 category:
   - All
   - Interaction
-  - Lean Hospital
   - Conveyor
   - Hardware
 image: Conveyor-Flowrate-Monitoring.png
@@ -25,4 +26,4 @@ overview_data_sources:
 ---
 
 # Possible data sources
-This template uses <a href="https://peakboard.com/produkt/peakboard-hub/" class="inline">Peakboard Hub Lists</a> as the data source for recorded data as well as for defining the relevant KPIs. To use this template with your own Peakboard Hub, you can download the table structure of these lists <a href="HubLists.zip" class="inline" download>here</a>. Import the structure into your Peakboard Hub and then adjust the data source in the template accordingly.
+MTS conveyor belt scales communicate via a Modbus interface, through which measurement data can be read directly. In this template, however, demo data in the form of variable lists is used, allowing it to be used immediately without any hardware connection. Alternatively, other machine-level communication standards such as OPC UA, MQTT, or BACnet can be easily implemented and integrated instead of Modbus.

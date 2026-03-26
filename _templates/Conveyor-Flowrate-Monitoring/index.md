@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Monitoring-Dashboard für Förderbandwaagen
+title: Bandwaagen Monitoring – Verfolge deinen Materialfluss in Echtzeit
 description:
   - Dieses Template bietet eine übersichtliche Visualisierung zur Überwachung von Förderbandwaagen, wie sie beispielsweise in Steinbrüchen oder der Rohstoffverarbeitung eingesetzt werden. Es ermöglicht die Anzeige zentraler Kennzahlen wie aktueller Fördermenge, Bandgeschwindigkeit oder Gewicht und schafft so Transparenz über den laufenden Materialfluss.
 
