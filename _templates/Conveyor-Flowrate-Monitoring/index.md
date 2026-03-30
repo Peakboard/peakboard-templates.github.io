@@ -10,7 +10,7 @@ description:
 
 lang: de
 weight: 664
-isDraft: true
+isDraft: false
 ref: Conveyor-Flowrate-Monitoring
 category:
   - Alle

@@ -9,7 +9,7 @@ description:
   - The template was developed in collaboration with the conveyor belt scale manufacturer [MTS](https://www.mts-waagen.de/en/index.html) and is based on real-world industrial requirements. It is ideal for companies looking to monitor their conveying processes, visualize performance data, and make informed decisions based on current and historical daily values.
 lang: en
 weight: 664
-isDraft: true
+isDraft: false
 ref: Conveyor-Flowrate-Monitoring
 category:
   - All
