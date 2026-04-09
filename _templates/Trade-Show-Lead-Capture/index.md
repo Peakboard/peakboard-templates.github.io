@@ -28,7 +28,7 @@ overview_data_sources:
 
 
 # Mögliche Datenquellen
-Dieses Template verwendet eine <a href="https://peakboard.com/produkt/peakboard-hub/<" class="inline">Peakboard Hub Liste</a> als Datenquelle für die erfassten Leads sowie die Peakboard Hub Files um die Bilder der Visitenkarten zu speichern. Um dieses Template mit deinem eigenen Peakboard Hub zu nutzen, kannst du <a href="Leads.csv" class="inline" download>hier</a> die Tabellenstruktur dieser Listen herunterladen. Importiere diese in deinen Peakboard Hub und passe anschließend die Datenquelle im Template entsprechend an. 
+Dieses Template verwendet eine <a href="https://peakboard.com/produkt/peakboard-hub/<" class="inline">Peakboard Hub Liste</a> als Datenquelle für die erfassten Leads sowie die Peakboard Hub Files um die Bilder der Visitenkarten zu speichern. Um dieses Template mit deinem eigenen Peakboard Hub zu nutzen, kannst du <a href="Leads.csv" class="inline" download>hier</a> die Tabellenstruktur der Liste herunterladen. Importiere diese in deinen Peakboard Hub und passe anschließend die Datenquelle im Template entsprechend an. 
 
 
 # Lead Backend
