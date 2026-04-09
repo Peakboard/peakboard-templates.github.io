@@ -24,4 +24,4 @@ overview_data_sources:
 ---
 
 # Possible data sources
-This template uses <a href="https://peakboard.com/produkt/peakboard-hub/" class="inline">Peakboard Hub Lists</a> as the data source for recorded data as well as for defining the relevant KPIs. To use this template with your own Peakboard Hub, you can download the table structure of these lists <a href="HubLists.zip" class="inline" download>here</a>. Import the structure into your Peakboard Hub and then adjust the data source in the template accordingly.
+This template uses <a href="https://www.peakboard.com/en/product/peakboard-hub" class="inline">Peakboard Hub Lists</a> as the data source for recorded data as well as for defining the relevant KPIs. To use this template with your own Peakboard Hub, you can download the table structure of these lists <a href="HubLists.zip" class="inline" download>here</a>. Import the structure into your Peakboard Hub and then adjust the data source in the template accordingly.
