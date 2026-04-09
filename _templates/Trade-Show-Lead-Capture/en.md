@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Optimize your trade show performance – Digital lead capture directly at your booth
+title: Optimize your trade show performance – digital lead capture directly at your booth
 description:
   - This template provides a digital solution for structured lead capture at trade shows and events. It allows visitors to select products or solutions they are interested in directly at the booth and then conveniently enter their contact details. The intuitive and interactive interface simplifies the capture process while improving the quality of the collected leads.
   - In addition, the application allows users to capture images of business cards and assign them directly to the respective contacts. This enables quick data collection without the need for manual data entry.
@@ -30,6 +30,6 @@ This template uses a <a href="https://www.peakboard.com/en/product/peakboard-hub
 
 # Lead Backend
 By clicking on the Peakboard logo in the upper right corner, the lead backend can be opened. Here, captured leads can be viewed, edited, exported, or deleted.
-![image_live](Trade-Show-Lead-Capture.png)
+![image_live](Trade-Show-Lead-Capture-Backend.png)
 
 
