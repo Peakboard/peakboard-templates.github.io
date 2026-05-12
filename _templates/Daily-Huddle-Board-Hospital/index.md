@@ -8,7 +8,7 @@ description:
 
 lang: de
 weight: 684
-isDraft: true
+isDraft: false
 ref: Daily-Huddle-Board-Hospital
 category:
   - Alle

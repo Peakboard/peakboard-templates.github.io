@@ -8,7 +8,7 @@ description:
   - The template is ideal for companies looking to digitize their lead capture processes at trade shows, eliminate media disruptions, and significantly improve their follow-up workflows.
 lang: en
 weight: 672
-isDraft: true
+isDraft: false
 ref: Trade-Show-Lead-Capture
 category:
   - All

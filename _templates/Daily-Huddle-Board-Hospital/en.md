@@ -7,7 +7,7 @@ description:
   - Download the template now for free and customize it to fit the specific requirements of your ward.
 lang: en
 weight: 684
-isDraft: true
+isDraft: false
 ref: Daily-Huddle-Board-Hospital
 category:
   - All

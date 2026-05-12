@@ -9,7 +9,7 @@ description:
 
 lang: de
 weight: 672
-isDraft: true
+isDraft: false
 ref: Trade-Show-Lead-Capture
 category:
   - Alle
