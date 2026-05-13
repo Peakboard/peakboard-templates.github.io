@@ -4,10 +4,10 @@ title: Ping
 title_text: Ping
 by: Peakboard
 description:
-  - Die Ping Extension prüft bei jeder Datenaktualisierung, ob Ihre Netzwerkgeräte erreichbar sind. Geben Sie eine einzelne IP-Adresse, einen Hostnamen oder eine durch Kommas getrennte Liste ein — und Sie erhalten ein übersichtliches Ergebnis mit zwei Spalten – Gerät und aktueller Status (OK bei Antwort, sonst NOK). Der schnellste Weg, ein Peakboard in eine Live-Verfügbarkeitsanzeige zu verwandeln.
+  - Die Ping Extension prüft bei jeder Datenaktualisierung, ob deine Netzwerkgeräte erreichbar sind. Geben eine einzelne IP-Adresse, einen Hostnamen oder eine durch Kommas getrennte Liste ein — und du erhältst ein übersichtliches Ergebnis mit zwei Spalten – Gerät und aktueller Status (OK bei Antwort, sonst NOK).
 
 lang: de
-weight: 94
+weight: 74
 isDraft: false
 ref: Ping
 image: Ping_Extension_Logo.png
