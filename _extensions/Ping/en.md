@@ -11,7 +11,7 @@ isDraft: false
 ref: Desktop-Toolbox
 image: Ping_Extension_Logo.png
 image_thumbnail: Ping_Extension_Logo.png
-repository: https://github.com/Peakboard/PeakboardExtensions/tree/ba920a4f14dc6de9b19929819b1bdfa2257efdbc/Ping/
+repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Ping/Binary
 download: Ping.zip
 extension_category:
   - All
