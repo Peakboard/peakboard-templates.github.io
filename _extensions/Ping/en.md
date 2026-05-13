@@ -8,7 +8,7 @@ description:
 lang: en
 weight: 94
 isDraft: false
-ref: Desktop-Toolbox
+ref: Ping
 image: Ping_Extension_Logo.png
 image_thumbnail: Ping_Extension_Logo.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/Ping/Binary
