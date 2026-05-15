@@ -47,32 +47,63 @@ def parse_urls(xml_text: str):
 def categorize(urls):
     """Split URLs into extensions, templates (apps), and script examples.
 
-    Only English-language pages (/en) are kept; pages without a language suffix
-    or with /index are skipped. Static pages (privacy, 404, homepage) are filtered."""
-    extensions = []
-    apps = []
-    scripts = []
+    Each entry maps a slug → set of available language variants. Languages
+    in this site:
+      - "/en"     → English version
+      - "/index"  → German version (German is the site's default language;
+                    Jekyll generates /index for the default-language page)
+
+    Static pages (privacy, 404, homepage, /en/ root) are filtered out.
+    """
+    extensions = {}  # slug → set of lang codes ("de", "en")
+    apps = {}
+    scripts = {}
 
     for url in urls:
-        if not url.endswith("/en"):
-            continue
         path = url[len(SITE_BASE):].rstrip("/")
-        # path now looks like "/extensions/BACnet/en" or "/Andon-Single-Station-Overview/en"
-        parts = path.split("/")
-        # Skip static pages
-        if "privacy" in path.lower() or "404" in path or path == "/en":
+        # Skip static / non-template pages
+        lower = path.lower()
+        if "privacy" in lower or "404" in lower:
             continue
+        if path in ("", "/en", "/en/", "/", "/en/index"):
+            continue
+        if path.endswith(".html"):
+            continue
+
+        parts = path.split("/")
+        # Path layout:
+        #   /extensions/<slug>/en  or  /extensions/<slug>/index
+        #   /<slug>/en              or  /<slug>/index
         if len(parts) >= 4 and parts[1] == "extensions":
             slug = parts[2]
-            extensions.append(slug)
+            tail = parts[3]
+            bucket = extensions
         elif len(parts) >= 3:
             slug = parts[1]
+            tail = parts[2]
             if slug.startswith("Script-"):
-                scripts.append(slug)
+                bucket = scripts
             else:
-                apps.append(slug)
+                bucket = apps
+        else:
+            continue
 
-    return sorted(set(extensions)), sorted(set(apps)), sorted(set(scripts))
+        # Determine language from the trailing path segment
+        if tail == "en":
+            lang = "en"
+        elif tail == "index":
+            lang = "de"
+        else:
+            continue  # unknown tail, skip
+
+        bucket.setdefault(slug, set()).add(lang)
+
+    # Sort by slug for stable output
+    return (
+        sorted(extensions.items()),
+        sorted(apps.items()),
+        sorted(scripts.items()),
+    )
 
 
 def display_name(slug: str) -> str:
@@ -81,32 +112,53 @@ def display_name(slug: str) -> str:
     return slug.replace("-", " ").replace("_", " ")
 
 
+def _format_entry(slug: str, langs: set, url_pattern: str) -> str:
+    """Format a single entry showing both language variants when available.
+
+    url_pattern uses {slug} and {tail} placeholders, e.g.
+    "/extensions/{slug}/{tail}" or "/{slug}/{tail}".
+    """
+    name = display_name(slug)
+    parts = []
+    if "de" in langs:
+        parts.append(f"DE: {SITE_BASE}{url_pattern.format(slug=slug, tail='index')}")
+    if "en" in langs:
+        parts.append(f"EN: {SITE_BASE}{url_pattern.format(slug=slug, tail='en')}")
+    return f"- {name} — {' | '.join(parts)}"
+
+
 def render_block(extensions, apps, scripts, today: str) -> str:
-    """Render the snapshot block (everything between the markers)."""
+    """Render the snapshot block (everything between the markers).
+
+    Each entry shows both the German and English URL when both exist
+    (most do). When only one language is present, only that URL is shown.
+    """
     out = []
     out.append(MARKER_START)
     out.append("")
 
     out.append(f"### Extensions ({len(extensions)})")
     out.append("")
-    for slug in extensions:
-        out.append(f"- {display_name(slug)}: {SITE_BASE}/extensions/{slug}/en")
+    out.append("Each entry shows the German (DE) and English (EN) URL. Pick the one matching the user's language.")
+    out.append("")
+    for slug, langs in extensions:
+        out.append(_format_entry(slug, langs, "/extensions/{slug}/{tail}"))
     out.append("")
 
     out.append(f"### Templates — applications ({len(apps)})")
     out.append("")
-    out.append("These are the typical starting points for a new Peakboard project: full pre-built applications that an operations team can download, point at their own data sources, customize, and deploy.")
+    out.append("These are the typical starting points for a new Peakboard project: full pre-built applications that an operations team can download, point at their own data sources, customize, and deploy. Each entry shows the German (DE) and English (EN) URL.")
     out.append("")
-    for slug in apps:
-        out.append(f"- {display_name(slug)}: {SITE_BASE}/{slug}/en")
+    for slug, langs in apps:
+        out.append(_format_entry(slug, langs, "/{slug}/{tail}"))
     out.append("")
 
     out.append(f"### Script examples ({len(scripts)})")
     out.append("")
-    out.append("These are not application starting points — they are minimal `.pbmx` projects that demonstrate a single Lua scripting technique (HTTP request, OPC UA write, Modbus, swipe gesture, etc.). Recommend them when a user has a *technical \"how do I script X?\"* question, not when they're looking for a use case.")
+    out.append("These are not application starting points — they are minimal `.pbmx` projects that demonstrate a single Lua scripting technique (HTTP request, OPC UA write, Modbus, swipe gesture, etc.). Recommend them when a user has a *technical \"how do I script X?\"* question, not when they're looking for a use case. Each entry shows the German (DE) and English (EN) URL.")
     out.append("")
-    for slug in scripts:
-        out.append(f"- {display_name(slug)}: {SITE_BASE}/{slug}/en")
+    for slug, langs in scripts:
+        out.append(_format_entry(slug, langs, "/{slug}/{tail}"))
     out.append("")
 
     out.append(MARKER_END)
@@ -153,9 +205,18 @@ def main():
     print("Parsing URLs ...")
     urls = parse_urls(xml_text)
     extensions, apps, scripts = categorize(urls)
-    print(f"  Extensions: {len(extensions)}")
-    print(f"  Templates (apps): {len(apps)}")
-    print(f"  Script examples: {len(scripts)}")
+
+    def count_langs(items):
+        de = sum(1 for _, langs in items if "de" in langs)
+        en = sum(1 for _, langs in items if "en" in langs)
+        return de, en
+
+    ext_de, ext_en = count_langs(extensions)
+    apps_de, apps_en = count_langs(apps)
+    scripts_de, scripts_en = count_langs(scripts)
+    print(f"  Extensions: {len(extensions)} ({ext_de} DE, {ext_en} EN)")
+    print(f"  Templates (apps): {len(apps)} ({apps_de} DE, {apps_en} EN)")
+    print(f"  Script examples: {len(scripts)} ({scripts_de} DE, {scripts_en} EN)")
 
     today = date.today().isoformat()
     new_block = render_block(extensions, apps, scripts, today)
