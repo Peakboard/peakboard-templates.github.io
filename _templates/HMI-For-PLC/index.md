@@ -15,7 +15,7 @@ description:
 lang: de
 weight: 251
 isDraft: true
-ref: Interface for PLC
+ref: HMI for PLC
 category:
   - Alle
   - Produktion
@@ -23,8 +23,8 @@ category:
   - Shopfloor
   - Lean Management
   - Peakboard Hub
-image: DE_Interface-for-PLC.gif
-image_thumbnail: Thubnail_DE_Interface-for-PLC.png
+image: DE_HMI-for-PLC.gif
+image_thumbnail: Thubnail_DE_HMI-for-PLC.png
 download: DE_HMI_for_PLC_Overview.pbmx
 overview_description:
 overview_benefits:

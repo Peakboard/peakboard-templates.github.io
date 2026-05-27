@@ -8,7 +8,7 @@ description:
 lang: en
 weight: 571
 isDraft: true
-ref: Interactive-SQCDP-Board
+ref: HMI for PLC
 category:
   - All
   - Production
@@ -16,9 +16,9 @@ category:
   - Shopfloor
   - Lean Management
   - Peakboard Hub
-image: Interactive-SQCDP-Board.gif
-image_thumbnail: Interactive-SQCDP-Board_thumbnail.png
-download: HMI_for_PLC_Overview.pbmx
+image: EN_HMI-for-PLC.gif
+image_thumbnail: Thubnail_DE_HMI-for-PLC.png
+download: EN_HMI_for_PLC_Overview.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
