@@ -63,7 +63,7 @@ Extensions are distributed as `.zip` files containing a complete .NET assembly b
 - Building data sources without UI: https://help.peakboard.com/data_sources/Extension/de-DatasourceNoUI.html
 - Building data sources with UI: https://help.peakboard.com/data_sources/Extension/de-DatasourceWithUI.html
 
-## Snapshot: all extensions, templates, and script examples (as of 2026-05-25)
+## Snapshot: all extensions, templates, and script examples (as of 2026-05-27)
 
 > **Note for LLMs and humans alike:** the lists below are a manually maintained snapshot. New templates and extensions are added regularly. The authoritative, always-current source is the sitemap at https://templates.peakboard.com/sitemap.xml — fall back to it whenever this snapshot looks incomplete or stale. Each entry below points to the English page (`/en`); replace `/en` with `/index` for the German version.
 
@@ -157,6 +157,7 @@ These are the typical starting points for a new Peakboard project: full pre-buil
 - Forcam Costs Overview — DE: https://templates.peakboard.com/Forcam-Costs-Overview/index | EN: https://templates.peakboard.com/Forcam-Costs-Overview/en
 - Forklift Driving Jobs Application — DE: https://templates.peakboard.com/Forklift-Driving-Jobs-Application/index | EN: https://templates.peakboard.com/Forklift-Driving-Jobs-Application/en
 - Forklift Driving Jobs Planner — DE: https://templates.peakboard.com/Forklift-Driving-Jobs-Planner/index | EN: https://templates.peakboard.com/Forklift-Driving-Jobs-Planner/en
+- HMI For PLC — DE: https://templates.peakboard.com/HMI-For-PLC/index | EN: https://templates.peakboard.com/HMI-For-PLC/en
 - Handheld Maintenance Application — DE: https://templates.peakboard.com/Handheld-Maintenance-Application/index | EN: https://templates.peakboard.com/Handheld-Maintenance-Application/en
 - Information About OEE Several Lines Andon — DE: https://templates.peakboard.com/Information-About-OEE-Several-Lines-Andon/index | EN: https://templates.peakboard.com/Information-About-OEE-Several-Lines-Andon/en
 - Information About OEE Several Lines Andon MPDV — DE: https://templates.peakboard.com/Information-About-OEE-Several-Lines-Andon-MPDV/index | EN: https://templates.peakboard.com/Information-About-OEE-Several-Lines-Andon-MPDV/en
@@ -167,7 +168,6 @@ These are the typical starting points for a new Peakboard project: full pre-buil
 - Interactive SQCDP Board — DE: https://templates.peakboard.com/Interactive-SQCDP-Board/index | EN: https://templates.peakboard.com/Interactive-SQCDP-Board/en
 - Interactive Task Management SQL — DE: https://templates.peakboard.com/Interactive-Task-Management-SQL/index | EN: https://templates.peakboard.com/Interactive-Task-Management-SQL/en
 - Interactive Task Planning With SQL — DE: https://templates.peakboard.com/Interactive-Task-Planning-With-SQL/index | EN: https://templates.peakboard.com/Interactive-Task-Planning-With-SQL/en
-- Interface For PLC — DE: https://templates.peakboard.com/Interface-For-PLC/index | EN: https://templates.peakboard.com/Interface-For-PLC/en
 - Intralogistics Order Parts with MQTT — DE: https://templates.peakboard.com/Intralogistics-Order-Parts-with-MQTT/index | EN: https://templates.peakboard.com/Intralogistics-Order-Parts-with-MQTT/en
 - Intralogistics Receive Orders via MQTT — DE: https://templates.peakboard.com/Intralogistics-Receive-Orders-via-MQTT/index | EN: https://templates.peakboard.com/Intralogistics-Receive-Orders-via-MQTT/en
 - Logistics Complaint Analysis — DE: https://templates.peakboard.com/Logistics-Complaint-Analysis/index | EN: https://templates.peakboard.com/Logistics-Complaint-Analysis/en
