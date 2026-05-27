@@ -25,7 +25,7 @@ category:
   - Peakboard Hub
 image: DE_Interface-for-PLC.gif
 image_thumbnail: Thubnail_DE_Interface-for-PLC.png
-download: Interaktives-SQCDP-Board.pbmx
+download: DE_HMI_for_PLC_Overview.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
