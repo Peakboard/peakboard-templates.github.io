@@ -2,7 +2,7 @@
 layout: article
 title: HMI-gestütztes Fertigungsdashboard – Bestellmanagement in Echtzeit
 description: 
-  - Dieses innovative Template ist für eine moderne Produktionsumgebung konzipiert und ist Teil einer Lösung mit zwei Bildschirme. Ziel der beiden Ansichten ist die Effizienz und Kommunikation am Arbeitsplatz zu optimieren. Um zum Template vom 2. Teil, dem Übersichtsbildschirm zu gelangen klicke hier.
+  - Dieses innovative Template ist für eine moderne Produktionsumgebung konzipiert und ist Teil einer Lösung mit zwei Bildschirmen. Ziel der beiden Ansichten ist die Effizienz und Kommunikation am Arbeitsplatz zu optimieren. Um zum Template vom 2. Teil, dem Übersichtsbildschirm zu gelangen [klicke hier].
 
   - Der erste Bildschirm fungiert als interaktives Touchscreen-Interface, das eine benutzerfreundliche Mensch-Maschine-Schnittstelle (HMI) bereitstellt. Mit dieser HMI können Benutzer effizient Bestellungen auswählen und Produktionsdaten in Echtzeit erfassen. Die nahtlose Integration mit der speicherprogrammierbaren Steuerung (PLC) ermöglicht eine präzise Steuerung der Produktionsprozesse, wodurch die Effizienz und Genauigkeit in der Fertigung signifikant verbessert werden.
 
