@@ -1,6 +1,6 @@
 ---
 layout: article
-title: HMI-gestütztes Fertigungsdashboard – Bestellmanagement in Echtzeit
+title: HMI-gestütztes Fertigungsdashboard – Hallenübersicht
 description: 
   - Dieses innovative Template ist für eine moderne Produktionsumgebung konzipiert und ist Teil einer Lösung mit zwei Bildschirme. Ziel der beiden Ansichten ist die Effizienz und Kommunikation am Arbeitsplatz zu optimieren. Um zum Template der interaktiven HMI am Arbeitsplatz zu gelangen [klicke hier].
 
@@ -14,7 +14,7 @@ description:
 lang: de
 weight: 251
 isDraft: true
-ref: HMI for PLC
+ref: HMI for PLC Overview
 category:
   - Alle
   - Produktion

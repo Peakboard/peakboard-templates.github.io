@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Dual Screen HMI Solution for Your Production
+title: Dual Screen HMI Solution for Your Production - Production Overview
 description: 
 - This innovative template is designed for a modern production environment and is part of a solution with two screens. The goal of the two views is to optimize efficiency and communication in the workplace. To access the interactive HMI template at the workstation, [click here].
 
@@ -12,7 +12,7 @@ description:
 lang: en
 weight: 571
 isDraft: true
-ref: HMI for PLC
+ref: HMI for PLC Overview
 category:
   - All
   - Production
