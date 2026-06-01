@@ -9,7 +9,7 @@ description:
   - Mit klick auf einen Arbeitsplatz kann außerdem eine detailierte Ansicht einzelner Arbeitsplätze angezeigt werden. Für Demozwecke ist in diesem Template nur die Detailansicht von Arbeitsplatz 21 klickbar, da dieser Arbeitsplatz mit dem 2. Template verknüpft ist.
 
 
-  - Lade dir das Template jetzt kostenlos herunter und passe es an deine individuellen Bedürfnisse an. Sehe dir außerdem das [Template für den 1. Bildschrim] an (https://peakboard.com/schnittstellen/). 
+  - Lade dir das Template jetzt kostenlos herunter und passe es an deine individuellen Bedürfnisse an. Sehe dir außerdem das [Template für den 1. Bildschrim](https://peakboard.com/schnittstellen/) an . 
 
 lang: de
 weight: 251
