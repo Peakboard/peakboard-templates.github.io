@@ -30,7 +30,3 @@ overview_data_sources:
 
 # Possible data sources
 This template uses variable and Peakboard Hub lists to manage order numbers and track the status of the workers station. Peakboard Hub variables make it easy for the two applications to communicate with each other. 
-
-# How it works
-You can find detailed instructions for this template in this YouTube video.
-{% include video.html image='EN_thumbnail.png' video_id='tp_tCpaSDBQ' %}
