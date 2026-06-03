@@ -2,14 +2,14 @@
 layout: article
 title: HMI-gestütztes Fertigungsdashboard – Hallenübersicht
 description: 
-  - Dieses innovative Template ist für eine moderne Produktionsumgebung konzipiert und ist Teil einer Lösung mit zwei Bildschirme. Ziel der beiden Ansichten ist die Effizienz und Kommunikation am Arbeitsplatz zu optimieren. Um zum Template der interaktiven HMI am Arbeitsplatz zu gelangen [klicke hier].
+  - Dieses innovative Template ist für eine moderne Produktionsumgebung konzipiert und ist Teil einer Lösung mit zwei Bildschirme. Ziel der beiden Ansichten ist die Effizienz und Kommunikation am Arbeitsplatz zu optimieren. Um zum Template der interaktiven HMI am Arbeitsplatz zu gelangen [klicke hier](https://templates.peakboard.com/HMI-For-PLC-Worker/).
 
   - Diese Anwendung bietet Bereichsleitern einen klaren Überblick über die Produktionsabläufe in Echtzeit. Jeder Arbeitsplatz wird als Kachel dargestellt und warnt mit Farbcodes wenn ein Mitarbeiter am Arbeitsplatz (mittels der 2. Anwendung) einen Fehler meldet. Somit kann schnell auf Störungen reagieren werden und die Effizienz der Produktion gesteigert werden.
 
   - Mit klick auf einen Arbeitsplatz kann außerdem eine detailierte Ansicht einzelner Arbeitsplätze angezeigt werden. Für Demozwecke ist in diesem Template nur die Detailansicht von Arbeitsplatz 21 klickbar, da dieser Arbeitsplatz mit dem 2. Template verknüpft ist.
 
 
-  - Lade dir das Template jetzt kostenlos herunter und passe es an deine individuellen Bedürfnisse an. Sehe dir außerdem das [Template für den 1. Bildschrim](https://peakboard.com/schnittstellen/) an . 
+  - Lade dir das Template jetzt kostenlos herunter und passe es an deine individuellen Bedürfnisse an. Sehe dir außerdem das [Template für den 1. Bildschrim](https://templates.peakboard.com/HMI-For-PLC-Worker/) an . 
 
 lang: de
 weight: 251

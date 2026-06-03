@@ -2,7 +2,7 @@
 layout: article
 title: HMI-gestütztes Fertigungsdashboard – Bestellmanagement in Echtzeit
 description: 
-  - Dieses innovative Template ist für eine moderne Produktionsumgebung konzipiert und ist Teil einer Lösung mit zwei Bildschirmen. Ziel der beiden Ansichten ist die Effizienz und Kommunikation am Arbeitsplatz zu optimieren. Um zum Template vom 2. Teil, dem Übersichtsbildschirm zu gelangen [klicke hier].
+  - Dieses innovative Template ist für eine moderne Produktionsumgebung konzipiert und ist Teil einer Lösung mit zwei Bildschirmen. Ziel der beiden Ansichten ist die Effizienz und Kommunikation am Arbeitsplatz zu optimieren. Um zum Template vom  Übersichtsbildschirm zu gelangen [klicke hier](https://templates.peakboard.com/HMI-For-PLC-Overview/).
 
   - Der erste Bildschirm fungiert als interaktives Touchscreen-Interface, das eine benutzerfreundliche Mensch-Maschine-Schnittstelle (HMI) bereitstellt. Mit dieser HMI können Benutzer effizient Bestellungen auswählen und Produktionsdaten in Echtzeit erfassen. Die nahtlose Integration mit der speicherprogrammierbaren Steuerung (PLC) ermöglicht eine präzise Steuerung der Produktionsprozesse, wodurch die Effizienz und Genauigkeit in der Fertigung signifikant verbessert werden.
 
@@ -10,7 +10,7 @@ description:
 
   - Neben der Produktionssteuerung haben die Benutzer die Möglichkeit, Fehler schnell und unkompliziert zu melden, was die Reaktionszeiten verbessert und die Qualitätssicherung unterstützt.
 
-  - Lade dir das Template jetzt kostenlos herunter und passe es an deine individuellen Bedürfnisse an. Sehe dir außerdem das [Template für den 2. Bildschrim] an (https://peakboard.com/schnittstellen/). 
+  - Lade dir das Template jetzt kostenlos herunter und passe es an deine individuellen Bedürfnisse an. Sehe dir außerdem das [Template für den Übersichtsbildschirm](https://templates.peakboard.com/HMI-For-PLC-Overview/) an. 
 
 lang: de
 weight: 251
@@ -23,9 +23,9 @@ category:
   - Shopfloor
   - Lean Management
   - Peakboard Hub
-image: DE_HMI-for-PLC.gif
-image_thumbnail: Thubnail_DE_HMI-for-PLC.png
-download: DE_HMI_for_PLC_Overview.pbmx
+image: DE_HMI-for-PLC-Worker.gif
+image_thumbnail: Thumbnail_DE_HMI-for-PLC-Worker.png
+download: DE_HMI_for_PLC_Worker.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
