@@ -12,7 +12,7 @@ description:
 
 lang: de
 weight: 695
-isDraft: true
+isDraft: false
 ref: Technical-Drawing-Quality-Inspection
 category:
   - Alle

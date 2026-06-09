@@ -11,7 +11,7 @@ description:
   - This template is ideal for companies looking to digitize their manual quality inspections, simplify documentation processes, and gain greater transparency into their quality metrics. Download the template for free and adapt it to the specific requirements of your quality inspection process.
 lang: en
 weight: 695
-isDraft: true
+isDraft: false
 ref: Technical-Drawing-Quality-Inspection
 category:
   - All
