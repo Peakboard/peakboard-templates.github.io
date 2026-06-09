@@ -21,7 +21,7 @@ category:
   - Qualität
   - Shopfloor
   - Peakboard Hub
-image: Technische-Zeichnung-Qualitaet-Pruefung
+image: Technische-Zeichnung-Qualitaet-Pruefung.png
 image_thumbnail: Technische-Zeichnung-Qualitaet-Pruefung_thumbnail.png
 video: Technische-Zeichnung-Qualitaet-Pruefung.mp4
 download: Technische-Zeichnung-Qualitaet-Pruefung.pbmx
