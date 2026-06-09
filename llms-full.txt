@@ -118,7 +118,7 @@ Each entry shows the German (DE) and English (EN) URL. Pick the one matching the
 - Xminnov — DE: https://templates.peakboard.com/extensions/Xminnov/index | EN: https://templates.peakboard.com/extensions/Xminnov/en
 - Yarooms — DE: https://templates.peakboard.com/extensions/Yarooms/index | EN: https://templates.peakboard.com/extensions/Yarooms/en
 
-### Templates — applications (91)
+### Templates — applications (92)
 
 These are the typical starting points for a new Peakboard project: full pre-built applications that an operations team can download, point at their own data sources, customize, and deploy. Each entry shows the German (DE) and English (EN) URL.
 
@@ -205,6 +205,7 @@ These are the typical starting points for a new Peakboard project: full pre-buil
 - Simple Status Display Several Lines SQL — DE: https://templates.peakboard.com/Simple-Status-Display-Several-Lines-SQL/index | EN: https://templates.peakboard.com/Simple-Status-Display-Several-Lines-SQL/en
 - Small Parts Picking Dashboard — DE: https://templates.peakboard.com/Small-Parts-Picking-Dashboard/index | EN: https://templates.peakboard.com/Small-Parts-Picking-Dashboard/en
 - Strategic Logistics Board — DE: https://templates.peakboard.com/Strategic-Logistics-Board/index | EN: https://templates.peakboard.com/Strategic-Logistics-Board/en
+- Technical Drawing Quality Inspection — DE: https://templates.peakboard.com/Technical-Drawing-Quality-Inspection/index | EN: https://templates.peakboard.com/Technical-Drawing-Quality-Inspection/en
 - Trade Show Lead Capture — DE: https://templates.peakboard.com/Trade-Show-Lead-Capture/index | EN: https://templates.peakboard.com/Trade-Show-Lead-Capture/en
 - Truck Assignment Dashboard — DE: https://templates.peakboard.com/Truck-Assignment-Dashboard/index | EN: https://templates.peakboard.com/Truck-Assignment-Dashboard/en
 - Truck Assignment Dashboard with Edge — DE: https://templates.peakboard.com/Truck-Assignment-Dashboard-with-Edge/index | EN: https://templates.peakboard.com/Truck-Assignment-Dashboard-with-Edge/en
