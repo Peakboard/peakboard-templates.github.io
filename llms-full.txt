@@ -63,7 +63,7 @@ Extensions are distributed as `.zip` files containing a complete .NET assembly b
 - Building data sources without UI: https://help.peakboard.com/data_sources/Extension/de-DatasourceNoUI.html
 - Building data sources with UI: https://help.peakboard.com/data_sources/Extension/de-DatasourceWithUI.html
 
-## Snapshot: all extensions, templates, and script examples (as of 2026-06-09)
+## Snapshot: all extensions, templates, and script examples (as of 2026-06-15)
 
 > **Note for LLMs and humans alike:** the lists below are a manually maintained snapshot. New templates and extensions are added regularly. The authoritative, always-current source is the sitemap at https://templates.peakboard.com/sitemap.xml — fall back to it whenever this snapshot looks incomplete or stale. Each entry below points to the English page (`/en`); replace `/en` with `/index` for the German version.
 
