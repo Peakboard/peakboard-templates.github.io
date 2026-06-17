@@ -23,7 +23,7 @@ category:
   - Lean Management
   - Peakboard Hub
 image: DE_HMI-for-PLC-Overview.gif
-image_thumbnail: Thubnail_DE_HMI-for-PLC-Overview.png
+image_thumbnail: Thumbnail_DE_HMI-for-PLC-Overview.png
 download: DE_HMI_for_PLC_Overview.pbmx
 overview_description:
 overview_benefits:
