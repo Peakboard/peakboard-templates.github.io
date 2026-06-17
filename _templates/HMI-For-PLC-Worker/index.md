@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Mehr Effizienz am Shopfloor: Interaktive Werkerführung per Touch-HMI
+title: Mehr Effizienz am Shopfloor - Interaktive Werkerführung per Touch-HMI
 description: 
   - Dieses innovative Template ist für eine moderne Produktionsumgebung konzipiert und ist Teil einer Lösung mit zwei Bildschirmen. Ziel der beiden Ansichten ist die Effizienz und Kommunikation am Arbeitsplatz zu optimieren. Um zum Template vom  Übersichtsbildschirm zu gelangen [klicke hier](https://templates.peakboard.com/HMI-For-PLC-Overview/).
 

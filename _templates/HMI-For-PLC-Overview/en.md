@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Central overview of the shop floor: Real-time workplace status
+title: Central overview of the shop floor - Real-time workplace status
 description: 
 - This innovative template is designed for a modern production environment and is part of a solution with two screens. The goal of the two views is to optimize efficiency and communication in the workplace. To access the interactive HMI template at the workstation, [click here](https://templates.peakboard.com/HMI-For-PLC-Worker/en).
 
