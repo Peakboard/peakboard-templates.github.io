@@ -22,9 +22,9 @@ category:
   - Shopfloor
   - Lean Management
   - Peakboard Hub
-image: DE_Template_HMI-for-PLC-Overview.gif
+image: DE_HMI-for-PLC-Overview.gif
 image_thumbnail: Thumbnail_DE_HMI-for-PLC-Overview.png
-download: DE_HMI_for_PLC_Overview.pbmx
+download: DE_Template_HMI_for_PLC_Overview.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
