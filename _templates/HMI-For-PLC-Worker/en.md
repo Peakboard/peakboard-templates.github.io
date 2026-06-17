@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Dual Screen HMI Solution for Your Production
+title: Increased efficiency on the shop floor: Interactive worker guidance via touch HMI
 description: 
   - Our dual-screen HMI template enhances efficiency in your production. The worker touch screen allows employees to select orders and track their progress in real time. Workers can also alert supervisors about missing materials or issues, and they have the option to send custom messages via email or Microsoft Teams. Above the workstation, the supervisor overview monitor enables quick identification of any workstations with problems. This screen displays the current orders, working time, and worker statistics, providing valuable insights to optimize workflow and improve communication.
 

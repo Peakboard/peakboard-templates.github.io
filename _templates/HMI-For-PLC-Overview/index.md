@@ -1,6 +1,6 @@
 ---
 layout: article
-title: HMI-gestütztes Fertigungsdashboard – Hallenübersicht
+title: Zentraler Überblick des Shopfloors: Echtzeit Arbeitsplatz Status
 description: 
   - Dieses innovative Template ist für eine moderne Produktionsumgebung konzipiert und ist Teil einer Lösung mit zwei Bildschirme. Ziel der beiden Ansichten ist die Effizienz und Kommunikation am Arbeitsplatz zu optimieren. Um zum Template der interaktiven HMI am Arbeitsplatz zu gelangen [klicke hier](https://templates.peakboard.com/HMI-For-PLC-Worker/).
 
