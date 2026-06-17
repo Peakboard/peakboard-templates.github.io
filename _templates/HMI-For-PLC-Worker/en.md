@@ -8,7 +8,7 @@ description:
 lang: en
 weight: 571
 isDraft: false
-ref: HMI for PLC
+ref: HMI-for-PLC
 category:
   - All
   - Production
