@@ -11,7 +11,7 @@ description:
 - Download the template now for free and customize it to meet your individual needs. Also, take a look at the template for the [worker's screen](https://templates.peakboard.com/HMI-For-PLC-Worker/en).
 lang: en
 weight: 571
-isDraft: true
+isDraft: false
 ref: HMI for PLC Overview
 category:
   - All

@@ -13,7 +13,7 @@ description:
 
 lang: de
 weight: 251
-isDraft: true
+isDraft: false
 ref: HMI for PLC Overview
 category:
   - Alle
