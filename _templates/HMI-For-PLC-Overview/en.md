@@ -22,7 +22,7 @@ category:
   - Peakboard Hub
 image: EN_HMI-for-PLC-Overview.gif
 image_thumbnail: Thumbnail_EN_HMI-for-PLC-Overview.png
-download: EN_HMI_for_PLC_Overview.pbmx
+download: EN_Template_HMI_for_PLC_Overview.pbmx
 overview_description:
 overview_benefits:
 overview_data_sources:
