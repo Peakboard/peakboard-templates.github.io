@@ -17,5 +17,7 @@ extension_category:
   - All
 
 version_history:
+  - Version 1.2 on 08 July 2026 | Solve NTLM and ERROR_BAD_NETPATH
+  - Version 1.1 on 24 February 2026 | Updated to new extension format
   - Version 1.0 on 07 July 2022 | Initial release
 ---
