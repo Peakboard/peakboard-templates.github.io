@@ -118,7 +118,7 @@ Each entry shows the German (DE) and English (EN) URL. Pick the one matching the
 - Xminnov — DE: https://templates.peakboard.com/extensions/Xminnov/index | EN: https://templates.peakboard.com/extensions/Xminnov/en
 - Yarooms — DE: https://templates.peakboard.com/extensions/Yarooms/index | EN: https://templates.peakboard.com/extensions/Yarooms/en
 
-### Templates — applications (92)
+### Templates — applications (93)
 
 These are the typical starting points for a new Peakboard project: full pre-built applications that an operations team can download, point at their own data sources, customize, and deploy. Each entry shows the German (DE) and English (EN) URL.
 
@@ -184,6 +184,7 @@ These are the typical starting points for a new Peakboard project: full pre-buil
 - Overview Single Production Line — DE: https://templates.peakboard.com/Overview-Single-Production-Line/index | EN: https://templates.peakboard.com/Overview-Single-Production-Line/en
 - Overview Truck Loading — DE: https://templates.peakboard.com/Overview-Truck-Loading/index | EN: https://templates.peakboard.com/Overview-Truck-Loading/en
 - Paperless Order Picking — DE: https://templates.peakboard.com/Paperless-Order-Picking/index | EN: https://templates.peakboard.com/Paperless-Order-Picking/en
+- Pick And Pack Terminal — DE: https://templates.peakboard.com/Pick-And-Pack-Terminal/index | EN: https://templates.peakboard.com/Pick-And-Pack-Terminal/en
 - Power Workshop Forklift — DE: https://templates.peakboard.com/Power-Workshop-Forklift/index | EN: https://templates.peakboard.com/Power-Workshop-Forklift/en
 - Power Workshop Production Line — DE: https://templates.peakboard.com/Power-Workshop-Production-Line/index | EN: https://templates.peakboard.com/Power-Workshop-Production-Line/en
 - Power Workshop Production Overview — DE: https://templates.peakboard.com/Power-Workshop-Production-Overview/index | EN: https://templates.peakboard.com/Power-Workshop-Production-Overview/en
