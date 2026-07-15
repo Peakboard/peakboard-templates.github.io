@@ -29,3 +29,7 @@ overview_data_sources:
 - Einfache Bestätigung: Picks am Lagerplatz bestätigen, inklusive Mengenprüfung zur Vermeidung von Fehlern.
 - Sofortige Aktualisierung: Abgeschlossene Aufgaben werden sofort an Peakboard Hub übertragen; die Fortschrittsanzeige zeigt erledigte vs. verbleibende Aufgaben.
 - Visuelle Klarheit: Farblich gekennzeichnete Statusanzeigen heben offene, in Arbeit befindliche und abgeschlossene Aufgaben für schnellere Entscheidungen hervor.
+
+# Anwendungen im Handumdrehen bauen lassen
+Dieses Template wurde zum größten Teil mit unserer integrierten KI erstellt. Erfahre mehr:
+https://help.peakboard.com/get_started/de-create-with-ai.html
