@@ -4,8 +4,9 @@ title: Papierlose Kommissionierung - Lagerlogisik mit Tablet, digitaler Waage un
 
 
 description: 
-  - Dieses Template demonstriet dir den Einsatz von zwei Peakboard Anwendungen in deinem Logistikunternehmen. Auf einem Tablet kann ein offener Auftrag ausgewählt werden. Mit einem Barcode-Scanner wird die Artikelliste des Auftrags abgearbeitet und die Bestellung zusammengestellt. Wenn alle Artikel gescannt wurden, kann sich der Mitarbeiter oder die Mitarbeiterin zu einer Waage begeben. Hier befindet sich die zweite Anwendung, die live das Gewicht auf der Waage mit dem Gewicht des Auftrags abgleicht. Im Anschluss wird das Ettiket für das Paket gedruckt.
-  - Damit du das Template ohne externe Geräte testen kannst, haben wir Buttons eingebaut welche die Funktion der Waage und des Barcodescanners "simulieren". 
+  - Schnelles, präzises kommisionieren senkt Kosten und steigert die Effizienz. Unser System bietet Pickern eine einfache Oberfläche für jede Aufgabe und liefert Supervisoren eine Übersicht auf einen Blick, damit Probleme entdeckt und behoben werden, bevor sie den Ablauf verlangsamen.
+  - Diese zweiteilige Lösung verbindet ein mobiles Picker-Terminal mit einem wandmontierten Supervisor-Dashboard über Peakboard Hub. Sie wurde entwickelt, um Geschwindigkeit zu erhöhen, Fehlerquoten zu reduzieren und Supervisoren sofortige, klare Einsicht in den Status der Vorgänge zu geben. Hier klicken, um das verbundene Template für das Supervisor-Dashboard anzusehen.
+  - Das Picker-Terminal läuft auf Handheld-Geräten oder festen Stationen im Lager. Mitarbeiter melden sich mit ihrer Personalnummer an oder scannen ihren Ausweis und sehen sofort nur ihre offenen Aufgaben – inklusive Artikelnummer, Artikelbezeichnung, Lagerort und benötigter Menge. Am Lagerplatz bestätigen Picker den Vorgang über einen intuitiven Bestätigungsdialog mit Mengenprüfung, um Fehler zu vermeiden. Abgeschlossene Aufgaben werden sofort an Peakboard Hub übertragen; die Fortschrittsanzeige auf dem Bildschirm aktualisiert sich und zeigt erledigte versus verbleibende Aufgaben. Farblich codierte Statusanzeigen machen es einfach, offene, in Arbeit befindliche und abgeschlossene Aufgaben auf einen Blick zu unterscheiden.
   
 lang: de
 weight: 683
@@ -18,7 +19,7 @@ category:
   - Kommisionierung
 image: DE_Pick-And-Pack-Terminal.png
 image_thumbnail: DE_Pick-And-Pack-Terminal_thumbnail.png
-video: DE_Pick-And-Pack-Terminal.mp4
+video: DE_Pick-And-Pack-Terminal.gif
 download: DE_Pick-And-Pack-Terminal.pbmx
 overview_description:
 overview_benefits:
