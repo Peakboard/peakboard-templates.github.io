@@ -63,7 +63,7 @@ Extensions are distributed as `.zip` files containing a complete .NET assembly b
 - Building data sources without UI: https://help.peakboard.com/data_sources/Extension/de-DatasourceNoUI.html
 - Building data sources with UI: https://help.peakboard.com/data_sources/Extension/de-DatasourceWithUI.html
 
-## Snapshot: all extensions, templates, and script examples (as of 2026-07-16)
+## Snapshot: all extensions, templates, and script examples (as of 2026-07-20)
 
 > **Note for LLMs and humans alike:** the lists below are a manually maintained snapshot. New templates and extensions are added regularly. The authoritative, always-current source is the sitemap at https://templates.peakboard.com/sitemap.xml — fall back to it whenever this snapshot looks incomplete or stale. Each entry below points to the English page (`/en`); replace `/en` with `/index` for the German version.
 
@@ -118,7 +118,7 @@ Each entry shows the German (DE) and English (EN) URL. Pick the one matching the
 - Xminnov — DE: https://templates.peakboard.com/extensions/Xminnov/index | EN: https://templates.peakboard.com/extensions/Xminnov/en
 - Yarooms — DE: https://templates.peakboard.com/extensions/Yarooms/index | EN: https://templates.peakboard.com/extensions/Yarooms/en
 
-### Templates — applications (93)
+### Templates — applications (94)
 
 These are the typical starting points for a new Peakboard project: full pre-built applications that an operations team can download, point at their own data sources, customize, and deploy. Each entry shows the German (DE) and English (EN) URL.
 
@@ -128,6 +128,7 @@ These are the typical starting points for a new Peakboard project: full pre-buil
 - Apexboard — DE: https://templates.peakboard.com/Apexboard/index | EN: https://templates.peakboard.com/Apexboard/en
 - Assembly Instructions Board — DE: https://templates.peakboard.com/Assembly-Instructions-Board/index | EN: https://templates.peakboard.com/Assembly-Instructions-Board/en
 - Assembly Task List — DE: https://templates.peakboard.com/Assembly-Task-List/index | EN: https://templates.peakboard.com/Assembly-Task-List/en
+- Brewery Monitoring — DE: https://templates.peakboard.com/Brewery-Monitoring/index | EN: https://templates.peakboard.com/Brewery-Monitoring/en
 - Carployee Carpooling Dashboard — DE: https://templates.peakboard.com/Carployee-Carpooling-Dashboard/index | EN: https://templates.peakboard.com/Carployee-Carpooling-Dashboard/en
 - Company Information PDF — DE: https://templates.peakboard.com/Company_Information_PDF/index | EN: https://templates.peakboard.com/Company_Information_PDF/en
 - Control Punch With OPC UA — DE: https://templates.peakboard.com/Control-Punch-With-OPC-UA/index | EN: https://templates.peakboard.com/Control-Punch-With-OPC-UA/en
