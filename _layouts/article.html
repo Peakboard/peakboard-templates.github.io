@@ -36,10 +36,17 @@ layout: base
     {% endif %}
 
     {% if page.download %}
-    <button onclick="showDownloadDialog()" 
-            class="py-3 px-4 menu-cta-button text-xl tracking-base leading-none">
-      {{ site.language[page.lang].article-download-button-text }}
-    </button>
+    <div class="flex flex-wrap" style="gap: .75rem;">
+      <button onclick="showDownloadDialog()"
+              class="py-3 px-4 menu-cta-button text-xl tracking-base leading-none">
+        {{ site.language[page.lang].article-download-button-text }}
+      </button>
+      <a href="https://templates.peakboard.rocks/{{ page.download | remove: '.pbmx' | uri_escape }}/index"
+         target="_blank" rel="noopener"
+         class="py-3 px-4 menu-cta-button text-xl tracking-base leading-none inline-block no-underline">
+        {{ site.language[page.lang].article-start-button-text }}
+      </a>
+    </div>
     {% endif %}
 
 </section>
