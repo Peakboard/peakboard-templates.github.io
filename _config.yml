@@ -34,6 +34,7 @@ collections:
 language:
   en:
     article-download-button-text: "download template"
+    article-start-button-text: "start live demo"
     article-download-explanation: "Open file with Peakboard Designer"
     article-overview-title: "overview"
     article-overview-description-title: "Description"
@@ -118,6 +119,7 @@ language:
     designer-download-url: "https://peakboard.com/en/product/peakboard-designer/#download"
   de:
     article-download-button-text: "Template herunterladen"
+    article-start-button-text: "Live-Demo starten"
     article-download-explanation: "Datei mit Peakboard Designer öffnen"
     article-overview-title: "overview"
     article-overview-description-title: "Description"
