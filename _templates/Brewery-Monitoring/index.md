@@ -9,13 +9,14 @@ description:
   
 lang: de
 weight: 683
-isDraft: true
+isDraft: false
 ref: Brewery-Monitoring
 category:
   - Alle
   - Logistk
   - Lager
   - Produktion
+  - Interaktion
 image: DE_Brewery-Monitoring.png
 image_thumbnail: DE_Brewery-Monitoring_thumbnail.png
 video: DE_Brewery-Monitoring.gif

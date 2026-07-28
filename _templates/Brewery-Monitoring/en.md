@@ -8,13 +8,14 @@ description:
 
 lang: en
 weight: 203
-isDraft: true
+isDraft: false
 ref: Brewery-Monitoring
 category:
   - All
   - Logistics
   - Warehouse
   - Production
+  - Interaction
 image: EN_Brewery-Monitoring.png
 image_thumbnail: EN_Brewery-Monitoring_thumbnail.png
 video: EN_Brewery-Monitoring.gif
