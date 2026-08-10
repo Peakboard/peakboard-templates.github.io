@@ -6,7 +6,7 @@ description:
   - The employees can see directly in which areas of the warehouse support is currently needed and then independently switch to these areas to help their colleagues achieve the daily target. Optimize your logistics processes now - because only informed employees can make informed decisions!
 lang: en
 weight: 465
-isDraft: false
+isDraft: true
 carousel: true
 ref: Warehouse-Management-Areas-Coordination-With-SAP
 category:
