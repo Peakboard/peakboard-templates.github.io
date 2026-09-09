@@ -74,7 +74,7 @@ The snapshot is split into three groups so LLMs can route queries correctly:
 
 <!-- AUTOGEN:START — content between the AUTOGEN markers is regenerated from sitemap.xml; do not edit by hand -->
 
-### Extensions (39)
+### Extensions (40)
 
 Each entry shows the German (DE) and English (EN) URL. Pick the one matching the user's language.
 
@@ -93,6 +93,7 @@ Each entry shows the German (DE) and English (EN) URL. Pick the one matching the
 - HubSpot — DE: https://templates.peakboard.com/extensions/HubSpot/index | EN: https://templates.peakboard.com/extensions/HubSpot/en
 - InfluxDB — DE: https://templates.peakboard.com/extensions/InfluxDB/index | EN: https://templates.peakboard.com/extensions/InfluxDB/en
 - Ingres — DE: https://templates.peakboard.com/extensions/Ingres/index | EN: https://templates.peakboard.com/extensions/Ingres/en
+- Local AI — DE: https://templates.peakboard.com/extensions/Local-AI/index | EN: https://templates.peakboard.com/extensions/Local-AI/en
 - MPDV — DE: https://templates.peakboard.com/extensions/MPDV/index | EN: https://templates.peakboard.com/extensions/MPDV/en
 - MQTT Server — DE: https://templates.peakboard.com/extensions/MQTT-Server/index | EN: https://templates.peakboard.com/extensions/MQTT-Server/en
 - Marel — DE: https://templates.peakboard.com/extensions/Marel/index | EN: https://templates.peakboard.com/extensions/Marel/en
