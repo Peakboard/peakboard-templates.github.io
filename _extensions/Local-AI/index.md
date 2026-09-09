@@ -4,7 +4,7 @@ title: Lokale KI
 title_text: Lokale KI
 by: Peakboard
 description:
- - Local AI beantwortet Prompts mithilfe eines Sprachmodells, das direkt auf der Peakboard Box oder dem PC selbst läuft. Es wird nichts übertragen – kein Cloud-Dienst, kein API-Schlüssel, kein Netzwerkaufruf während der Inferenz.
+ - Die Local AI Extension beantwortet Prompts mithilfe eines Sprachmodells, das direkt auf der Peakboard Box oder dem PC selbst läuft. Es wird nichts übertragen – kein Cloud-Dienst, kein API-Schlüssel, kein Netzwerkaufruf während der Inferenz.
 
  - Es ist das Offline-Pendant zur GPT-Erweiterung. GPT ist deutlich leistungsfähiger und erfordert ein OpenAI-Konto; dieses Modell ist schwächer, benötigt jedoch beides nicht. Nutzen Sie es dort, wo Daten das Gerät nicht verlassen dürfen, wo kein Internet vorhanden ist oder wo Kosten pro Aufruf ein gehostetes Modell ausschließen.
 
@@ -17,7 +17,7 @@ description:
 lang: de
 weight: 80
 isDraft: false
-ref: Local_AI
+ref: local-ai
 image: Local_AI_Extension_Logo.png
 image_thumbnail: Local_AI_Extension_Logo.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/LocalAI/Binary

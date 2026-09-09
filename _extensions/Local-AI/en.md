@@ -16,7 +16,7 @@ description:
 lang: en
 weight: 80
 isDraft: false
-ref: Local_AI
+ref: local-ai
 image: Local_AI_Extension_Logo.png
 image_thumbnail: Local_AI_Extension_Logo.png
 repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/LocalAI/Binary

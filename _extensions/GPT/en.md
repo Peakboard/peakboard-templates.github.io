@@ -17,6 +17,7 @@ repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/GPT
 download: PeakboardExtensionGPT.zip
 extension_category:
   - All
+  - AI
 
 version_history:
   - Version 1.0 on 31 July 2023 | Initial release

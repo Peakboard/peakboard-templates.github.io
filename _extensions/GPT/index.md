@@ -17,6 +17,7 @@ repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/GPT
 download: PeakboardExtensionGPTNew.zip
 extension_category:
   - Alle
+  - KI
 
 version_history:
   - Version 1.1 on 24 February 2026 | Updated to new extension format
