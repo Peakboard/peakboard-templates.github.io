@@ -19,7 +19,7 @@ isDraft: false
 ref: local-ai
 image: Local_AI_Extension_Logo.png
 image_thumbnail: Local_AI_Extension_Logo.png
-repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/LocalAI/Binary
+repository: https://github.com/Peakboard/PeakboardExtensions/tree/master/LocalAI
 download: LocalAI.zip
 extension_category:
   - All
