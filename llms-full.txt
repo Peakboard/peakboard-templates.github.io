@@ -63,7 +63,7 @@ Extensions are distributed as `.zip` files containing a complete .NET assembly b
 - Building data sources without UI: https://help.peakboard.com/data_sources/Extension/de-DatasourceNoUI.html
 - Building data sources with UI: https://help.peakboard.com/data_sources/Extension/de-DatasourceWithUI.html
 
-## Snapshot: all extensions, templates, and script examples (as of 2026-09-15)
+## Snapshot: all extensions, templates, and script examples (as of 2026-09-21)
 
 > **Note for LLMs and humans alike:** the lists below are a manually maintained snapshot. New templates and extensions are added regularly. The authoritative, always-current source is the sitemap at https://templates.peakboard.com/sitemap.xml — fall back to it whenever this snapshot looks incomplete or stale. Each entry below points to the English page (`/en`); replace `/en` with `/index` for the German version.
 
@@ -119,7 +119,7 @@ Each entry shows the German (DE) and English (EN) URL. Pick the one matching the
 - Xminnov — DE: https://templates.peakboard.com/extensions/Xminnov/index | EN: https://templates.peakboard.com/extensions/Xminnov/en
 - Yarooms — DE: https://templates.peakboard.com/extensions/Yarooms/index | EN: https://templates.peakboard.com/extensions/Yarooms/en
 
-### Templates — applications (94)
+### Templates — applications (95)
 
 These are the typical starting points for a new Peakboard project: full pre-built applications that an operations team can download, point at their own data sources, customize, and deploy. Each entry shows the German (DE) and English (EN) URL.
 
@@ -167,6 +167,7 @@ These are the typical starting points for a new Peakboard project: full pre-buil
 - Interactive Board Manual Quality Control — DE: https://templates.peakboard.com/Interactive-Board-Manual-Quality-Control/index | EN: https://templates.peakboard.com/Interactive-Board-Manual-Quality-Control/en
 - Interactive Board Single User Production — DE: https://templates.peakboard.com/Interactive-Board-Single-User-Production/index | EN: https://templates.peakboard.com/Interactive-Board-Single-User-Production/en
 - Interactive Calendar View — DE: https://templates.peakboard.com/Interactive-Calendar-View/index | EN: https://templates.peakboard.com/Interactive-Calendar-View/en
+- Interactive Ishikawa Board — DE: https://templates.peakboard.com/Interactive-Ishikawa-Board/index | EN: https://templates.peakboard.com/Interactive-Ishikawa-Board/en
 - Interactive Kanban Board — DE: https://templates.peakboard.com/Interactive-Kanban-Board/index | EN: https://templates.peakboard.com/Interactive-Kanban-Board/en
 - Interactive SQCDP Board — DE: https://templates.peakboard.com/Interactive-SQCDP-Board/index | EN: https://templates.peakboard.com/Interactive-SQCDP-Board/en
 - Interactive Task Management SQL — DE: https://templates.peakboard.com/Interactive-Task-Management-SQL/index | EN: https://templates.peakboard.com/Interactive-Task-Management-SQL/en
