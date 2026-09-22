@@ -119,7 +119,7 @@ Each entry shows the German (DE) and English (EN) URL. Pick the one matching the
 - Xminnov — DE: https://templates.peakboard.com/extensions/Xminnov/index | EN: https://templates.peakboard.com/extensions/Xminnov/en
 - Yarooms — DE: https://templates.peakboard.com/extensions/Yarooms/index | EN: https://templates.peakboard.com/extensions/Yarooms/en
 
-### Templates — applications (95)
+### Templates — applications (97)
 
 These are the typical starting points for a new Peakboard project: full pre-built applications that an operations team can download, point at their own data sources, customize, and deploy. Each entry shows the German (DE) and English (EN) URL.
 
@@ -139,9 +139,11 @@ These are the typical starting points for a new Peakboard project: full pre-buil
 - Departure Board Deutsche Bahn — DE: https://templates.peakboard.com/Departure-Board-Deutsche-Bahn/index | EN: https://templates.peakboard.com/Departure-Board-Deutsche-Bahn/en
 - Detailed Board Single Production Line — DE: https://templates.peakboard.com/Detailed-Board-Single-Production-Line/index | EN: https://templates.peakboard.com/Detailed-Board-Single-Production-Line/en
 - Detailed Board Single Production Line Softing — DE: https://templates.peakboard.com/Detailed-Board-Single-Production-Line-Softing/index | EN: https://templates.peakboard.com/Detailed-Board-Single-Production-Line-Softing/en
+- Digital 5 Why Analysis — DE: https://templates.peakboard.com/Digital-5-Why-Analysis/index | EN: https://templates.peakboard.com/Digital-5-Why-Analysis/en
 - Digital Audit Reporting — DE: https://templates.peakboard.com/Digital-Audit-Reporting/index | EN: https://templates.peakboard.com/Digital-Audit-Reporting/en
 - Digital Bulletin Board With OneDrive — DE: https://templates.peakboard.com/Digital-Bulletin-Board-With-OneDrive/index | EN: https://templates.peakboard.com/Digital-Bulletin-Board-With-OneDrive/en
 - Digital Call System Leetech — DE: https://templates.peakboard.com/Digital-Call-System-Leetech/index | EN: https://templates.peakboard.com/Digital-Call-System-Leetech/en
+- Digital Five Why Analysis — DE: https://templates.peakboard.com/Digital-Five-Why-Analysis/index | EN: https://templates.peakboard.com/Digital-Five-Why-Analysis/en
 - Digital Shift Reporting — DE: https://templates.peakboard.com/Digital-Shift-Reporting/index | EN: https://templates.peakboard.com/Digital-Shift-Reporting/en
 - Downtime Tracking — DE: https://templates.peakboard.com/Downtime-Tracking/index | EN: https://templates.peakboard.com/Downtime-Tracking/en
 - Downtime Tracking MPDV — DE: https://templates.peakboard.com/Downtime-Tracking-MPDV/index | EN: https://templates.peakboard.com/Downtime-Tracking-MPDV/en
