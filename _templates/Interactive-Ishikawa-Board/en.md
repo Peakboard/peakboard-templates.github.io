@@ -9,7 +9,7 @@ description:
   - Download the template for free and use the Ishikawa method for structured root cause analysis in your day-to-day shopfloor operations.
 lang: en
 weight: 691
-isDraft: true
+isDraft: false
 ref: Interactive-Ishikawa-Board
 category:
   - All

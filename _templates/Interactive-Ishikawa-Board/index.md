@@ -10,7 +10,7 @@ description:
 
 lang: de
 weight: 691
-isDraft: true
+isDraft: false
 ref: Interactive-Ishikawa-Board
 category:
   - Alle
