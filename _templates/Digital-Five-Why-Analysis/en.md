@@ -10,7 +10,7 @@ description:
 lang: en
 weight: 692
 isDraft: false
-ref: Digital-Five-Why-Analysis
+ref: Digital-5-Why-Analysis
 category:
   - All
   - Interaction
