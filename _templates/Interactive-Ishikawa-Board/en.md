@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Digital huddle board for daily hospital management
+title: Interactive Ishikawa Diagram – Analyze root causes systematically and solve problems for good
 description:
   - With the interactive Ishikawa Board, you can analyse disruptions, quality deviations, process issues and recurring errors in a systematic and structured way. The Ishikawa diagram is an established Lean Management method used to make potential causes of a problem visible, evaluate them together as a team and derive the necessary corrective actions.
 
