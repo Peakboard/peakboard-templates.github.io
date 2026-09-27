@@ -10,7 +10,7 @@ description:
 lang: de
 weight: 695
 isDraft: true
-ref: Technical-Drawing-Quality-Inspection
+ref: MES-Terminal
 category:
   - Alle
   - Interaktion
